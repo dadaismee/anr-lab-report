@@ -1,12 +1,8 @@
 ---
 bibliography: service/{{title}}.bib
-date: \today
-link-citations: true
-linkReferences: true
-indent: true
 ---
 
-# Название секции
+# Название главы (секции)
 
 ## Introduction {-}
 
