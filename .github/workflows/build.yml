@@ -40,8 +40,7 @@ jobs:
           --resource-path=images \
           --number-sections \
           --citeproc \
-          --input-files=text/*.md \
-          --output-file=отчёт.pdf
+          --output=anr-lab-report-2023.pdf text/*.md
       
       - name: Delete pandoc.deb
         run: sudo rm pandoc.deb
