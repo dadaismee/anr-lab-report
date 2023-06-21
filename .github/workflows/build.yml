@@ -40,7 +40,8 @@ jobs:
           --resource-path=images \
           --number-sections \
           --citeproc \
-          text/*.md -o отчёт.pdf
+          text/*.md \
+          --output-file=отчёт.pdf
       
       - name: Delete pandoc.deb
         run: sudo rm pandoc.deb
