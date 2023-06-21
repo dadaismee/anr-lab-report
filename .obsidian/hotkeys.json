@@ -86,15 +86,7 @@
       "key": "6"
     }
   ],
-  "obsidian-citation-plugin:insert-citation": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
+  "obsidian-citation-plugin:insert-citation": [],
   "app:delete-file": [
     {
       "modifiers": [
@@ -170,6 +162,15 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "obsidian-citation-plugin:insert-markdown-citation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
     }
   ]
 }
