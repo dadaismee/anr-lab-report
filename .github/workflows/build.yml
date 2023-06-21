@@ -38,6 +38,7 @@ jobs:
           --csl=service/apa.csl \
           --metadata-file=text/000_metadata.md \
           --resource-path=images \
+          --number-sections \
           --citeproc \
           -o отчёт.pdf text/*.md
       
