@@ -1,0 +1,43 @@
+name: Advanced Usage
+
+on: [workflow_dispatch]
+
+jobs:  
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: create file list
+        id: files_list
+        run: |
+          echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
+
+      - name: download russian package
+        run: |
+          sudo apt-get install texlive-lang-cyrillic
+      
+      - uses: docker://pandoc/latex:latest        
+        with: 
+          args: >- 
+            --metadata-file=00_metadata.md
+            --template=service/template.latex
+            -V mainfont="Times New Roman"
+            --output=отчёт.docx ${{ steps.files_list.outputs.files }}
+            --reference-doc=service/gost-styling.docx
+            --bibliography=service/zotero.bib
+            --csl=service/apa.csl
+            
+      - uses: docker://pandoc/latex:latest        
+        with: 
+          args: >- 
+            --pdf-engine=xelatex
+            --output=отчёт.pdf отчёт.docx
+            
+      - uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+            commit_message: Changed files

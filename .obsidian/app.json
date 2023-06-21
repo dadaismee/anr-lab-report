@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "text",
+  "attachmentFolderPath": "images",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
+}
