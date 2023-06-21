@@ -37,6 +37,7 @@ jobs:
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
           --metadata-file=text/000_metadata.md \
+          --resource-path=images \
           --citeproc \
           -o отчёт.pdf text/*.md
       
