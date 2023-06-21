@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "text/000_metadata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db1fe97e5d4e80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "text/010_pavlova_urban-networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,12 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7db1fe97e5d4e80c",
+  "active": "e628255ffb27861b",
   "lastOpenFiles": [
+    "text/000_metadata.md",
     "service/Template.md",
     "text/010_pavlova_urban-networks.md",
+    "anr-lab-report-2023.pdf",
     "service/010_pavlova_urban-networks.json",
-    "text/000_metadata.md",
     "images/test.jpeg",
     "images/Albers_Josef_Kombinationsschrift_1928.jpeg",
     "images",
