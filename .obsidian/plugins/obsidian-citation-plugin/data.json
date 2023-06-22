@@ -1,9 +1,0 @@
-{
-  "citationExportFormat": "csl-json",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "service/literature-notes",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
-  "markdownCitationTemplate": "[@{{citekey}}]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "C:\\Users\\iapavlova\\Documents\\GitHub\\anr-lab-report\\service\\200_pavlova_Methodology.json"
-}
