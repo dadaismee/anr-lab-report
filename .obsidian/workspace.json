@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Секция",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,20 +139,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "e628255ffb27861b",
   "lastOpenFiles": [
+    "text/100_Molotkova_bibliometrics.md",
+    "report.pdf",
+    "text/100_shevchenko_theory.md",
+    "service/100_shevchenko_theory.json",
+    "text/2023-06-22.md",
+    "Untitled.canvas",
+    "images/TestPicture.png",
+    "text/TestPicture.png.md",
+    "text/().md",
+    "service/100_Molotkova_bibliometrics.json",
+    "text/010_pavlova_urban-networks.md",
     "text/000_metadata.md",
     "service/Template.md",
-    "text/010_pavlova_urban-networks.md",
     "anr-lab-report-2023.pdf",
     "service/010_pavlova_urban-networks.json",
     "images/test.jpeg",
@@ -171,11 +182,8 @@
     "text/900_References.md",
     "service/literature-notes",
     "@tahko2015.md",
-    "service/shevchenko.bib.json",
     "images/mindmap.png",
-    "images/fig 3.pdf",
     "text/02_urban-networks.md",
-    "text/020_theory-and-methodology.md",
-    "отчёт.pdf"
+    "text/020_theory-and-methodology.md"
   ]
 }
