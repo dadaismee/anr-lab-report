@@ -4,7 +4,7 @@ subtitle:
 author: 
 date: \today
 csl: service/apa.csl
-bibliography: [010_pavlova_urban-networks.json, 200_pavlova_Methodology.json]
+bibliography: [service/010_pavlova_urban-networks.json, service/200_pavlova_Methodology.json]
 toc-title: Содержание
 lof: false 
 lot: false 
