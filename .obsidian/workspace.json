@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "text/010_pavlova_urban-networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db8e3789c2fc7df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "service/Template.md",
+                "file": "text/200_pavlova_Methodology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "service/Template.md",
+                "file": "text/200_pavlova_Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "service/Template.md",
+                "file": "text/200_pavlova_Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "service/Template.md"
+                "file": "text/200_pavlova_Methodology.md"
               }
             }
           }
@@ -160,12 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db8e3789c2fc7df6",
+  "active": "bdc81bb0a0f1365e",
   "lastOpenFiles": [
-    "text/Untitled.md",
-    "service/Template.md",
     "text/010_pavlova_urban-networks.md",
     "text/200_pavlova_Methodology.md",
+    "text/200_schevchenko_test.md",
+    "service/Template.md",
     "service/200_pavlova_Methodology.json",
     "text/100_shevchenko_theory.md",
     "report.pdf",
