@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "/Users/valerii/Zotero/library.json"
+  "citationExportPath": "/Users/valerii/Documents/Documents/02 AREAS/01_ACADEMIA/01_PhD/ANR Lab/Годовой отчёт лаборатории 2023/report/anr-lab-report/service/100_shevchenko_theory.json"
 }
