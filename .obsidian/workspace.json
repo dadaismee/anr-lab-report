@@ -1,18 +1,19 @@
 {
   "main": {
-    "id": "90bbe17770332e4a",
+    "id": "0983d4c7188a9333",
     "type": "split",
     "children": [
       {
-        "id": "c95ab2ed44e3846c",
+        "id": "fd620b2058275291",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc81bb0a0f1365e",
+            "id": "07b71c1ccb9ccb3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 "file": "text/000_metadata.md",
                 "mode": "source",
@@ -30,6 +31,9 @@
 =======
                 "file": "text/100_shevchenko_theory.md",
 >>>>>>> Stashed changes
+=======
+                "file": "text/001_oganyan_blabla.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -42,15 +46,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "977e66d35713e6df",
+    "id": "913e47488507d452",
     "type": "split",
     "children": [
       {
-        "id": "4f209ed2e9950a9f",
+        "id": "96d7e292bb210697",
         "type": "tabs",
         "children": [
           {
-            "id": "577a23554f0d0c1b",
+            "id": "63c8bad1c91e1957",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "7b5ef8ab56ccec04",
+            "id": "58c8a1172ca55cb5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +79,7 @@
             }
           },
           {
-            "id": "ee374ff9f224c552",
+            "id": "53701b8be1f47af3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,20 +94,24 @@
     "collapsed": true
   },
   "right": {
-    "id": "b036fe15e3ac5e6c",
+    "id": "f8135a4b8783e071",
     "type": "split",
     "children": [
       {
-        "id": "09f4419602a67e36",
+        "id": "83e5829aec40817a",
         "type": "tabs",
         "children": [
           {
-            "id": "54d3c31c70ae0778",
+            "id": "9773b4e2b8503353",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "text/100_shevchenko_theory.md",
+=======
+                "file": "text/001_oganyan_blabla.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +123,23 @@
             }
           },
           {
-            "id": "27373c9f267ec704",
+            "id": "9be2908d596ab288",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "text/100_shevchenko_theory.md",
+=======
+                "file": "text/001_oganyan_blabla.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fa267958fab9ea2b",
+            "id": "9736eb9357eb3252",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,12 +150,16 @@
             }
           },
           {
-            "id": "4f9f2e3125a5ed5f",
+            "id": "ddf9178f21a7d74c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "text/100_shevchenko_theory.md"
+=======
+                "file": "text/001_oganyan_blabla.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -165,6 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   "active": "7db1fe97e5d4e80c",
   "lastOpenFiles": [
@@ -207,5 +224,12 @@
     "images/fig 3.pdf",
     "text/02_urban-networks.md",
     "text/020_theory-and-methodology.md"
+=======
+  "active": "07b71c1ccb9ccb3c",
+  "lastOpenFiles": [
+    "text/001_oganyan_blabla.md",
+    "text/010_pavlova_urban-networks.md",
+    "service/Template.md"
+>>>>>>> Stashed changes
   ]
 }
