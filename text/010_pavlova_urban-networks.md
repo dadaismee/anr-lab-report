@@ -1,7 +1,3 @@
----
-bibliography: service/010_pavlova_urban-networks.json # назовите так файл с библиографией
----
-
 # Название главы (секции)
 
 ## Введение
