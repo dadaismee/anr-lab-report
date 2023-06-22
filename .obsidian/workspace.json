@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d44a690cbdbc6e12",
+        "id": "c95ab2ed44e3846c",
         "type": "tabs",
         "children": [
           {
-            "id": "e628255ffb27861b",
+            "id": "bdc81bb0a0f1365e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,8 +148,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e628255ffb27861b",
+  "active": "bdc81bb0a0f1365e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "text/100_Molotkova_bibliometrics.md",
     "report.pdf",
     "text/100_shevchenko_theory.md",
@@ -163,9 +164,18 @@
     "text/010_pavlova_urban-networks.md",
     "text/000_metadata.md",
     "service/Template.md",
+=======
+    "service/Template.md",
+    "text/100_shevchenko_theory.md",
+    "report.pdf",
+    "images/test.jpeg",
+    "service/100_shevchenko_theory.json",
+    "text/010_shevchenko_introduction.md",
+    "text/010_pavlova_urban-networks.md",
+    "text/000_metadata.md",
+>>>>>>> 7823051e5fa500c8e000c5a46c2175e9bd7761aa
     "anr-lab-report-2023.pdf",
     "service/010_pavlova_urban-networks.json",
-    "images/test.jpeg",
     "images/Albers_Josef_Kombinationsschrift_1928.jpeg",
     "images",
     "Новая папка",
