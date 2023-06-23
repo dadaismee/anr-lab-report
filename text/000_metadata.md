@@ -4,7 +4,7 @@ subtitle:
 author: 
 date: \today
 csl: service/apa.csl
-bibliography: https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi
+bibliography: [010_pavlova_urban-networks.json, 200_pavlova_Methodology.json]
 toc-title: Содержание
 lof: false 
 lot: false 
