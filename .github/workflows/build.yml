@@ -26,18 +26,9 @@ jobs:
       - name: Install other utils
         run: sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
       
-      - name: Make HTTP request
-        id: http_request
-        uses: fjogeleit/http-request-action@v1
-        with:
-          method: GET
-          url: https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi
-          customHeaders: '{"Content-Type": "application/json"}'
-
-      - name: Save response to JSON file
-        run: |
-          cd service
-          echo "${{ steps.http_request.outputs.response }}" > zotero-library.json
+      - name: Make HTTP request and save response to file
+         run: |
+           curl https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi > service/zotero-library.json
 
       - name: Compile
         run: |
