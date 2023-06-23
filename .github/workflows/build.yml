@@ -26,21 +26,19 @@ jobs:
       - name: Install other utils
         run: sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
       
-      - name: Get Zotero Group Library
-          steps:
-            - name: Make HTTP request
-              id: http_request
-              uses: jakejarvis/http-requests@master
-              with:
-                method: GET
-                url: https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi
-                headers: |
-                  Accept: application/json
+      - name: Make HTTP request
+        id: http_request
+        uses: jakejarvis/http-requests@master
+        with:
+          method: GET
+          url: https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi
+          headers: |
+            Accept: application/json
 
-            - name: Save response to JSON file
-              run: |
-              cd service
-              echo "${{ steps.http_request.outputs.response }}" > zotero-library.json
+      - name: Save response to JSON file
+        run: |
+          cd service
+          echo "${{ steps.http_request.outputs.response }}" > zotero-library.json
 
       - name: Compile
         run: |
