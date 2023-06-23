@@ -1,0 +1,98 @@
+[
+    {
+        "key": "GXFU9JJE",
+        "version": 2,
+        "library": {
+            "type": "group",
+            "id": 5103907,
+            "name": "ANR Lab Report 2023",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/anr_lab_report_2023",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/5103907/items/GXFU9JJE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/anr_lab_report_2023/items/GXFU9JJE",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6110230,
+                "username": "emsiadad",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/emsiadad",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Larrañaga et al.",
+            "parsedDate": "2013",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "GXFU9JJE",
+            "version": 2,
+            "itemType": "journalArticle",
+            "title": "A review on evolutionary algorithms in Bayesian network learning and inference tasks",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Pedro",
+                    "lastName": "Larrañaga"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hossein",
+                    "lastName": "Karshenas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Concha",
+                    "lastName": "Bielza"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Roberto",
+                    "lastName": "Santana"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Information Sciences",
+            "volume": "233",
+            "issue": "",
+            "pages": "109-125",
+            "date": "6/2013",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Information Sciences",
+            "language": "en",
+            "DOI": "10.1016/j.ins.2012.12.051",
+            "ISSN": "00200255",
+            "shortTitle": "",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S0020025513000443",
+            "accessDate": "2023-06-22T08:21:50Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2023-06-23T16:38:52Z",
+            "dateModified": "2023-06-23T16:38:52Z"
+        }
+    }
+]
