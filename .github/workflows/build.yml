@@ -28,12 +28,11 @@ jobs:
       
       - name: Make HTTP request
         id: http_request
-        uses: jakejarvis/http-requests@master
+        uses: fjogeleit/http-request-action@v1
         with:
           method: GET
           url: https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi
-          headers: |
-            Accept: application/json
+          customHeaders: '{"Content-Type": "application/json"}'
 
       - name: Save response to JSON file
         run: |
