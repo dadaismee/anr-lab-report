@@ -4,7 +4,7 @@ subtitle:
 author: 
 date: \today
 csl: service/apa.csl
-bibliography: http://127.0.0.1:23119/better-bibtex/export/library?/2/library.json
+bibliography: https://api.zotero.org/groups/5103907/items?key=ivTo6fvNvbU1MEduQJQENgmi
 toc-title: Содержание
 lof: false 
 lot: false 
