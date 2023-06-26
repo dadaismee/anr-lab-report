@@ -70,7 +70,7 @@
     },
     "header-increment": {
       "enabled": true,
-      "start-at-h2": false
+      "start-at-h2": true
     },
     "headings-start-line": {
       "enabled": true
