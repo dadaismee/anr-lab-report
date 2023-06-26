@@ -8,5 +8,6 @@
   "showUnsupportedFiles": false,
   "userIgnoreFilters": [
     "service/"
-  ]
+  ],
+  "promptDelete": true
 }
