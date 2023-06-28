@@ -9,5 +9,6 @@
   "userIgnoreFilters": [
     "service/"
   ],
-  "promptDelete": true
+  "promptDelete": true,
+  "useMarkdownLinks": true
 }

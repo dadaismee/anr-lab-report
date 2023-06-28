@@ -41,8 +41,6 @@ jobs:
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
           --metadata-file=text/000_metadata.md \
-          --bibliography=service/zotero-library.json \
-          --resource-path=images \
           --number-sections \
           --citeproc \
           --output=report.pdf text/*.md
