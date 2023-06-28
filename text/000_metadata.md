@@ -1,9 +1,10 @@
 ---
-title: 
+title: ПРИКЛАДНОЙ СЕТЕВОЙ АНАЛИЗ ДЛЯ РЕШЕНИЯ СОВРЕМЕННЫХ ЗАДАЧ ГОСУДАРСТВА, БИЗНЕСА И ОБЩЕСТВА: МЕТОДОЛОГИЧЕСКИЕ РАЗРАБОТКИ И ПРАКТИЧЕСКОЕ ПРИМЕНЕНИЕ
 subtitle: 
 author: 
 date: \today
 csl: service/apa.csl
+bibliography: [service/100_теоретико-методологические-основания_Молотоква.json, service/200_pavlova_Methodology.json, service/010_pavlova_urban-networks.json]
 toc-title: Содержание
 lof: false 
 lot: false 
