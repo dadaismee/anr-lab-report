@@ -5,7 +5,7 @@ bibliography: 030_osokina_trial.json # назовите так свой файл
 # Отцы-основатели military sociology
 
 ## Введение
-Теоретические основы направления как изучения института и профессии заложили  Хантингтон [@samuelr.huntingtonSoldierStateTheory1957] и Яновитц [@morrisjanowitzProfessionalSoldierSocial1964]. Как отмечает Кафорио @caforioHandbookSociologyMilitary2018 они создали 2 основные противоборствующие теоретические модели анализа.
+Теоретические основы направления как изучения института и профессии заложили  Хантингтон [@samuelr.huntingtonSoldierStateTheory1957] и Яновитц [@morrisjanowitzProfessionalSoldierSocial1964]. Как отмечает Кафорио [@caforioHandbookSociologyMilitary2018], они создали 2 основные противоборствующие теоретические модели анализа.
 
 ## Хантингтон
 Хантингтон считал, что для эффективного существования армии, военные должны быть очень *профессионализированы*, считать, что они одни обладают навыками и правом на то, чтобы предоставлять государству менеджмент насилия. Так как они в какой-то степени корпорация, то они должны подчиняться политике, не ставя то, что просит от них государство под вопрос. Мол, мы Родину защищаем, долг зовет.  
@@ -17,8 +17,6 @@ bibliography: 030_osokina_trial.json # назовите так свой файл
 > Как пример переноса общественных ценностей в армии можно вспомнить отмену "Don't Ask Don't Tell"[^1]
 
 ![Таблица сравнения теорий Хантингтона и Яновитца](C:\Users\Dasha\Downloads\ms1.jpg)
-## Список литературы
-[@morrisjanowitzProfessionalSoldierSocial1964]
 
 
 [^1]: "Don't ask, don't tell" (DADT) was the official United States policy on military service of non-heterosexual people, instituted during the Clinton administration.
