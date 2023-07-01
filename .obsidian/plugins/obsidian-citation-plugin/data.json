@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "C:\\Users\\azabolotskii\\Documents\\GitHub\\anr-lab-report\\service\\my-zotero-library.json"
+  "citationExportPath": "C:\\Users\\azabolotskii\\Documents\\GitHub\\anr-lab-report\\service\\013_zabolotskii_trade-network.json"
 }
