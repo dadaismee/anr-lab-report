@@ -1,0 +1,81 @@
+[
+	{
+		"id": "http://zotero.org/users/local/Q7DWuSGG/items/RXWEMMA3",
+		"type": "article-journal",
+		"abstract": "Gossip, or sharing information about absent others, has been identified as an effective solution to free rider problems in situations with conflicting interests. Yet, the information transmitted via gossip can be biased, because gossipers may send dishonest information about others for personal gains. Such dishonest gossip makes reputation-based cooperation more difficult to evolve. But when are people likely to share honest or dishonest gossip? We build formal models to provide the theoretical foundation for individuals' gossip strategies, taking into account the gossiper's fitness interdependence with the receiver and the target. Our models across four different games suggest a very simple rule: when there is a perfect match (mismatch) between fitness interdependence and the effect of honest gossip, the gossiper should always be honest (dishonest); however, in the case of a partial match, the gossiper should make a choice based on their fitness interdependence with the receiver and the target and the marginal cost/benefit in terms of pay-off differences caused by possible choices of the receiver and the target in the game. Moreover, gossipers can use this simple rule to make optimal decisions even under noise. We discuss empirical examples that support the predictions of our model and potential extensions.\n\nThis article is part of the theme issue ‘The language of cooperation: reputation and honest signalling’.",
+		"container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+		"DOI": "10.1098/rstb.2020.0300",
+		"issue": "1838",
+		"note": "publisher: Royal Society",
+		"page": "20200300",
+		"source": "royalsocietypublishing.org (Atypon)",
+		"title": "Honesty and dishonesty in gossip strategies: a fitness interdependence analysis",
+		"title-short": "Honesty and dishonesty in gossip strategies",
+		"URL": "https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0300",
+		"volume": "376",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Junhui"
+			},
+			{
+				"family": "Számadó",
+				"given": "Szabolcs"
+			},
+			{
+				"family": "Barclay",
+				"given": "Pat"
+			},
+			{
+				"family": "Beersma",
+				"given": "Bianca"
+			},
+			{
+				"family": "Dores Cruz",
+				"given": "Terence D."
+			},
+			{
+				"family": "Iacono",
+				"given": "Sergio Lo"
+			},
+			{
+				"family": "Nieper",
+				"given": "Annika S."
+			},
+			{
+				"family": "Peters",
+				"given": "Kim"
+			},
+			{
+				"family": "Przepiorka",
+				"given": "Wojtek"
+			},
+			{
+				"family": "Tiokhin",
+				"given": "Leo"
+			},
+			{
+				"family": "Van Lange",
+				"given": "Paul A. M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					4
+				]
+			]
+		}
+	}
+]
