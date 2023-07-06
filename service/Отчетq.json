@@ -1,0 +1,42 @@
+[
+	{
+		"id": "http://zotero.org/users/local/0WyFUVWM/items/RXXAFQGV",
+		"type": "article-journal",
+		"abstract": "The category of astronomical time is only one of several concepts of time. Such concepts differ in the fields of philosophy, psychology, and economics. An operational definition of expressions of time in common usage shows that social phenomena are frequently adopted as a frame of reference so that units of time are often fixed by the rhythm of collective life. The need for social collaboration is at the root of social systems of time. Social time is qualitatively differentiated according to the beliefs and customs common to the group. Social time is not continuous but is interrupted by critical dates. All calendrical systems arise from and are perpetuated by social requirements. They arise from social differentiation and a widening area of social interaction. It is possible that the introduction of social time as a methodological category would enhance the discovery of social periodicities.",
+		"archive": "JSTOR",
+		"container-title": "American Journal of Sociology",
+		"ISSN": "00029602, 15375390",
+		"issue": "5",
+		"note": "publisher: University of Chicago Press",
+		"page": "615-629",
+		"title": "Social Time: A Methodological and Functional Analysis",
+		"URL": "http://www.jstor.org/stable/2767758",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Sorokin",
+				"given": "Pitirim A."
+			},
+			{
+				"family": "Merton",
+				"given": "Robert K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1937"
+				]
+			]
+		}
+	}
+]
