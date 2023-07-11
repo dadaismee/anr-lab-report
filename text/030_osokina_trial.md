@@ -1,7 +1,3 @@
----
-bibliography: 030_osokina_trial.json # назовите так свой файл библиографии
----
-
 # Отцы-основатели military sociology
 
 ## Введение
