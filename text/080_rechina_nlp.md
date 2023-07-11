@@ -1,7 +1,3 @@
----
-bibliography: Untitled.json # назовите так свой файл библиографии
----
-
 ## Experiments with model's robustity
 
 Я читала такую статью: [@zhou2021], она написана @zhou2021.
