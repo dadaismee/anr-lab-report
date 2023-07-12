@@ -24,7 +24,7 @@ jobs:
         run: brew install pandoc-crossref
         
       - name: Install other utils
-        run: sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
+        run: sudo apt-get update && sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
       
       - name: Concatenate bibliographies
         run: cat service/*.json > bibliography.json
