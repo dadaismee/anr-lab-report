@@ -26,6 +26,9 @@ jobs:
       - name: Install other utils
         run: sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
       
+      - name: Concatenate bibliographies
+        run: cat service/*.json > bibliography.json
+      
       - name: Compile
         run: |
           pandoc \
@@ -36,6 +39,7 @@ jobs:
           --toc-depth=2 \
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
+          --bibliography=service/bibliography.json
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
