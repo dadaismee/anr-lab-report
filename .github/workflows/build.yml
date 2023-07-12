@@ -28,8 +28,7 @@ jobs:
       
       - name: Concatenate bibliographies
         run: |
-          cd service \ 
-          cat *.json > bibliography.json
+          cd service && cat *.json > bibliography.json
       
       - name: Compile
         run: |
