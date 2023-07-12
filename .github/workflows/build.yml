@@ -27,8 +27,7 @@ jobs:
         run: sudo apt-get update && sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
       
       - name: Concatenate bibliographies
-        run: |
-          cd service && cat *.json > bibliography.json
+        run: cat service/*.json > bibliography.json
       
       - name: Compile
         run: |
