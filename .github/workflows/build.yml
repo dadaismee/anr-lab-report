@@ -39,7 +39,7 @@ jobs:
           --toc-depth=2 \
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
-          --bibliography=service/bibliography.json
+          --bibliography=service/bibliography.json \
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
