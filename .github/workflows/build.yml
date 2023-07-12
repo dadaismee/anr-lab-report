@@ -1,36 +1,22 @@
-name: CI
-
+name: ci 
 on:
-  [push]
-
+  push:
+    branches:
+      - main 
 jobs:
   build:
     runs-on: ubuntu-latest
+    container: ghcr.io/karpovilia/test-gp-docker-action/my-cool-service-ki:latest
+
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v3
       
-      - name: Install Pandoc
-        run: |
-          curl -sSL https://github.com/jgm/pandoc/releases/download/3.1.3/pandoc-3.1.3-1-amd64.deb --output pandoc.deb
-          sudo dpkg -i pandoc.deb
+      - run: git clone https://github.com/karpovilia/anr-lab-report-tech.git
+      - run: rm -rf anr-lab-report-tech/.git/ & mv anr-lab-report-tech/service/* service/ & rm -rf anr-lab-report-tech/
 
-      - name: Enable Homebrew
-        uses: raviqqe/enable-homebrew@v0.1.0
-          
-      - name: Install pandoc and utils with brew
-        run: brew install pandoc-crossref
-        
-      - name: Install other utils
-        run: sudo apt-get update && sudo apt install pandoc-citeproc texlive-xetex texlive-lang-cyrillic fonts-cmu
-      
-      - name: Concatenate bibliographies
-        run: | 
-          cd service
-          cat *.json > bibliography.json
-      
       - name: Compile
         run: |
           pandoc \
@@ -41,15 +27,11 @@ jobs:
           --toc-depth=2 \
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
-          --bibliography=service/bibliography.json \
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
           --output=report.pdf text/*.md
-      
-      - name: Delete pandoc.deb
-        run: sudo rm pandoc.deb
-      
+      - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:

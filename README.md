@@ -8,7 +8,8 @@
 3. Клонируйте этот репозиторий на свой компьютер с помощью GitHub Desktop — вот [инструкция](https://docs.github.com/ru/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop). А здесь — [вводное видео про Git, GitHub и как и зачем этим пользоваться](https://www.youtube.com/watch?v=8Dd7KRpKeaE).
 4. В GitHub Desktop во вкладке меню **Repository** выберите "Open in Terminal" и вставьте туда эту команду `git update-index --assume-unchanged .obsidian/`
 	- это позволит не загружать в GitHub файлы настроек Obsidian. Это значит, что вы сможете устанавливать нужные вам плагины, менять настройки программы, и это останется только на вашем компьютере.
-5. Откройте Obsidian, выберите **"Open folder as a vault"**, а затем — папку на вашем компьютере, в которую вы сохранили этот репозиторий. Вы увидите что-то подобное:
+5. Скачайте [папку с дефолтными настройками обсидиана](https://dl.dropboxusercontent.com/s/zvgds9kfhtivp0z/.obsidian.zip) и разархивируйте её в корень проекта.
+6. Откройте Obsidian, выберите **"Open folder as a vault"**, а затем — папку на вашем компьютере, в которую вы сохранили этот репозиторий. Вы увидите что-то подобное:
 
 ![report-repo-vault.png](service/report-repo-vault.png)
 

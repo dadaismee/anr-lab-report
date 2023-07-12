@@ -1,9 +1,0 @@
-{
-  "citationExportFormat": "csl-json",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "References ",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
-  "markdownCitationTemplate": "[@{{citekey}}]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "O:\\GitHub\\anr-lab-report\\service\\maltseva.json"
-}
