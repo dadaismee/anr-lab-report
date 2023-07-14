@@ -18,7 +18,9 @@ jobs:
       - run: rm -rf anr-lab-report-tech/.git/ & mv anr-lab-report-tech/service/* service/ & rm -rf anr-lab-report-tech/
 
       - name: Assemble joint bibliography
-        run: cat service/*.bib > report.bib
+        run: | 
+          cd service
+          jq -s '.' *.json > report.json
       
       - name: Compile
         run: |
@@ -30,7 +32,7 @@ jobs:
           --toc-depth=2 \
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
-          --bibliography=service/report.bib \
+          --bibliography=service/report.json \
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
