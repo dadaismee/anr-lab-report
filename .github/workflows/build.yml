@@ -17,6 +17,9 @@ jobs:
       - run: git clone https://github.com/karpovilia/anr-lab-report-tech.git
       - run: rm -rf anr-lab-report-tech/.git/ & mv anr-lab-report-tech/service/* service/ & rm -rf anr-lab-report-tech/
 
+      - name: Assemble joint bibliography
+        run: cat service/*.bib > report.bib
+      
       - name: Compile
         run: |
           pandoc \
@@ -27,6 +30,7 @@ jobs:
           --toc-depth=2 \
           --filter=pandoc-crossref \
           --csl=service/apa.csl \
+          --bibliography=service/report.bib \
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
