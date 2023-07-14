@@ -20,7 +20,7 @@ jobs:
       - name: Assemble joint bibliography
         run: | 
           cd service
-          jq -s '.' *.json > report.json
+          jq -s 'add' *.json > report.json
       
       - name: Compile
         run: |
