@@ -1,0 +1,25 @@
+[
+	{
+		"id": "malcevaRussianPublicationsWeb2023",
+		"type": "article-journal",
+		"container-title": "(препринт) COLLNET Journal of Scientometrics and Information Management",
+		"title": "Russian Publications in Web of Science: A Bibliometric Study",
+		"author": [
+			{
+				"family": "Мальцева",
+				"given": "Д. В."
+			},
+			{
+				"family": "Fiala",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]
