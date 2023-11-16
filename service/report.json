@@ -2678,6 +2678,1182 @@
     "URL": "https://ieeexplore.ieee.org/abstract/document/6629993/"
   },
   {
+    "id": "barabasi1999",
+    "abstract": "Systems as diverse as genetic networks or the World Wide Web are best described as networks with complex topology. A common property of many large networks is that the vertex connectivities follow a scale-free power-law distribution. This feature was found to be a consequence of two generic mechanisms: (i) networks expand continuously by the addition of new vertices, and (ii) new vertices attach preferentially to sites that are already well connected. A model based on these two ingredients reproduces the observed stationary scale-free distributions, which indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Barabási",
+        "given": "Albert-László"
+      },
+      {
+        "family": "Albert",
+        "given": "Réka"
+      }
+    ],
+    "citation-key": "barabasi1999",
+    "container-title-short": "Science",
+    "DOI": "10.1126/science.286.5439.509",
+    "ISSN": "0036-8075, 1095-9203",
+    "issue": "5439",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          10,
+          15
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "509-512",
+    "source": "DOI.org (Crossref)",
+    "title": "Emergence of Scaling in Random Networks",
+    "type": "article-journal",
+    "URL": "https://www.science.org/doi/10.1126/science.286.5439.509",
+    "volume": "286"
+  },
+  {
+    "id": "batagelj",
+    "abstract": "Large networks, having thousands of vertices and lines, can be found in many different areas, e. g: genealogies, ﬂow graphs of programs, molecule, computer networks, transportation networks, social networks, intra/inter organisational networks ... Many standard network algorithms are very time and space consuming and therefore unsuitable for analysis of such networks. In the article we present some approaches to analysis and visualisation of large networks implemented in program Pajek. Some typical examples are also given.",
+    "author": [
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Mrvar",
+        "given": "Andrej"
+      }
+    ],
+    "citation-key": "batagelj",
+    "language": "en",
+    "source": "Zotero",
+    "title": "Pajek – Program for Large Network Analysis",
+    "type": "document"
+  },
+  {
+    "id": "ferligoj2015",
+    "abstract": "This paper examines the collaboration structures and dynamics of the co-authorship network of all Slovenian researchers. Its goal is to identify the key factors driving collaboration and the main differences in collaboration behavior across scientific fields and disciplines. Two approaches to modelling network dynamics are combined in this paper: the small-world model and the mechanism of preferential attachment, also known as the process of cumulative advantage. Stochastic-actor-based modelling of co-authorship network dynamics uses data for the complete longitudinal co-authorship networks for the entire Slovenian scientific community from 1996 to 2010. We confirmed the presence of clustering in all fields and disciplines. Preferential attachment is far more complex than a single global mechanism. There were two clear distinctions regarding collaboration within scientific fields and disciplines. One was that some fields had an internal national saturation inhibiting further collaboration. The second concerned the differential impact of collaboration with scientists from abroad on domestic collaboration. In the natural, technical, medical, and biotechnical sciences, this promotes collaboration within the Slovenian scientific community while in the social sciences and humanities this inhibits internal collaboration.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ferligoj",
+        "given": "Anuška"
+      },
+      {
+        "family": "Kronegger",
+        "given": "Luka"
+      },
+      {
+        "family": "Mali",
+        "given": "Franc"
+      },
+      {
+        "family": "Snijders",
+        "given": "Tom A. B."
+      },
+      {
+        "family": "Doreian",
+        "given": "Patrick"
+      }
+    ],
+    "citation-key": "ferligoj2015",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-015-1585-7",
+    "ISSN": "1588-2861",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "985-1012",
+    "source": "Springer Link",
+    "title": "Scientific Collaboration Dynamics in a National Scientific System",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1007/s11192-015-1585-7",
+    "volume": "104"
+  },
+  {
+    "id": "garfield1979",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Garfield",
+        "given": "Eugene"
+      }
+    ],
+    "citation-key": "garfield1979",
+    "ISBN": "978-0-471-02559-7",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "306",
+    "publisher": "New York : Wiley",
+    "source": "Internet Archive",
+    "title": "Citation Indexing: Its Theory and Application in Science, Technology, and Humanities",
+    "type": "book"
+  },
+  {
+    "id": "glanzel2004",
+    "author": [
+      {
+        "family": "Glänzel",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Schubert",
+        "given": "András"
+      }
+    ],
+    "citation-key": "glanzel2004",
+    "container-title": "Handbook of Quantitative Science and Technology Research",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "257–276",
+    "publisher": "Springer, Dordrecht",
+    "title": "Analysing Scientific Networks Through Co-authorship",
+    "type": "chapter",
+    "URL": "https://doi.org/10.1007/1-4020-2755-9_12"
+  },
+  {
+    "id": "glanzel2019",
+    "abstract": "This handbook presents the state of the art of quantitative methods and models to understand and assess the science and technology system. Focusing on various aspects of the development and application of indicators derived from data on scholarly publications, patents and electronic communications, the individual chapters, written by leading experts, discuss theoretical and methodological issues, illustrate applications, highlight their policy context and relevance, and point to future research directions.A substantial portion of the book is dedicated to detailed descriptions and analyses of data sources, presenting both traditional and advanced approaches. It addresses the main bibliographic metrics and indexes, such as the journal impact factor and the h-index, as well as altmetric and webometric indicators and science mapping techniques on different levels of aggregation and in the context of their value for the assessment of research performance as well as their impact on research policy and society. It also presents and critically discusses various national research evaluation systems.Complementing the sections reflecting on the science system, the technology section includes multiple chapters that explain different aspects of patent statistics, patent classification and database search methods to retrieve patent-related information. In addition, it examines the relevance of trademarks and standards as additional technological indicators.The Springer Handbook of Science and Technology Indicators is an invaluable resource for practitioners, scientists and policy makers wanting a systematic and thorough analysis of the potential and limitations of the various approaches to assess research and research performance.",
+    "author": [
+      {
+        "family": "Glänzel",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Moed",
+        "given": "Henk F."
+      },
+      {
+        "family": "Schmoch",
+        "given": "Ulrich"
+      },
+      {
+        "family": "Thelwall",
+        "given": "Mike"
+      }
+    ],
+    "citation-key": "glanzel2019",
+    "ISBN": "978-3-030-02511-3",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          30
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "1126",
+    "publisher": "Springer Nature",
+    "source": "Google Books",
+    "title": "Springer Handbook of Science and Technology Indicators",
+    "type": "book"
+  },
+  {
+    "id": "granovetter1985",
+    "author": [
+      {
+        "family": "Granovetter",
+        "given": "Mark"
+      }
+    ],
+    "citation-key": "granovetter1985",
+    "container-title": "American Journal of Sociology",
+    "container-title-short": "American Journal of Sociology",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "481-510",
+    "source": "Zotero",
+    "title": "Economic Action and Social Structure: The Problem of Embeddedness",
+    "type": "article-journal",
+    "URL": "http://www.jstor.org/stable/2780199",
+    "volume": "91"
+  },
+  {
+    "id": "katz1997",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Katz",
+        "given": "J. Sylvan"
+      },
+      {
+        "family": "Martin",
+        "given": "Ben R."
+      }
+    ],
+    "citation-key": "katz1997",
+    "container-title": "Research Policy",
+    "container-title-short": "Research Policy",
+    "DOI": "10.1016/S0048-7333(96)00917-1",
+    "ISSN": "00487333",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          3
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1-18",
+    "source": "DOI.org (Crossref)",
+    "title": "What Is Research Collaboration?",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733396009171",
+    "volume": "26"
+  },
+  {
+    "id": "leydesdorff2016a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Leydesdorff",
+        "given": "Loet"
+      },
+      {
+        "family": "Bornmann",
+        "given": "Lutz"
+      },
+      {
+        "family": "Zhou",
+        "given": "Ping"
+      }
+    ],
+    "citation-key": "leydesdorff2016a",
+    "container-title": "Journal of Informetrics",
+    "container-title-short": "Journal of Informetrics",
+    "DOI": "10.1016/j.joi.2016.07.008",
+    "ISSN": "17511577",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "902-918",
+    "source": "DOI.org (Crossref)",
+    "title": "Construction of a Pragmatic Base Line for Journal Classifications and Maps Based on Aggregated Journal-Journal Citation Relations",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S175115771630102X",
+    "volume": "10"
+  },
+  {
+    "id": "lundberg2006",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lundberg",
+        "given": "Jonas"
+      },
+      {
+        "family": "Tomson",
+        "given": "Göran"
+      },
+      {
+        "family": "Lundkvist",
+        "given": "Inger"
+      },
+      {
+        "family": "Skar",
+        "given": "John"
+      },
+      {
+        "family": "Brommels",
+        "given": "Mats"
+      }
+    ],
+    "citation-key": "lundberg2006",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-006-0170-5",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          12
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "575-589",
+    "source": "DOI.org (Crossref)",
+    "title": "Collaboration Uncovered: Exploring the Adequacy of Measuring University-Industry Collaboration through Co-authorship and Funding",
+    "title-short": "Collaboration uncovered",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-006-0170-5",
+    "volume": "69"
+  },
+  {
+    "id": "mali2010",
+    "abstract": "The article deals with some processes generating increases of research collaboration one of the most characteristic tendencies of modern science. The major empirical focus is the increasing tendency of co-authorship in sociology in Slovenia. Bibliometric analyses, based on two joint national research information systems (SICRIS and COBISS), shows the amount of co-authored publications in the field of sociology increased over the last two decades. Blockmodeling of co-authorship networks in sociology has shown that the sociologists who are not systematically tied to strongly connected and well-established research groups produce the most excellent scientific publications in their field.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mali",
+        "given": "Franc"
+      },
+      {
+        "family": "Kronegger",
+        "given": "Luka"
+      },
+      {
+        "family": "Ferligoj",
+        "given": "Anuska"
+      }
+    ],
+    "citation-key": "mali2010",
+    "container-title": "Corvinus Journal of Sociology and Social Policy",
+    "container-title-short": "Corvinus Journal of Sociology and Social Policy",
+    "DOI": "10.14267/cjssp.2010.02.02",
+    "ISSN": "2062-087X",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          22
+        ]
+      ]
+    },
+    "language": "en",
+    "license": "Copyright (c)",
+    "number": "2",
+    "source": "cjssp.uni-corvinus.hu",
+    "title": "Co-authorship Trends and Collaboration Patterns in the Slovenian Sociological Community",
+    "type": "article-journal",
+    "URL": "https://cjssp.uni-corvinus.hu/index.php/cjssp/article/view/24",
+    "volume": "1"
+  },
+  {
+    "id": "maltseva2020",
+    "abstract": "Abstract This paper presents the results of the analysis of keywords used in Social Network Analysis (SNA) articles included in the WoS database and main SNA journals, from 1970 to 2018. 32,409 keywords were obtained from 70,792 works with complete descriptions. We provide a list of the most used keywords and show subgroups of keywords which are connected to each other. To go deeper, we place the keywords into the contexts of selected groups of authors and journals. We use temporal analysis to get an insight into some keyword usage. The distributions of the number of keyword types and tokens over time show fast growth starting from 2010s, which is the result of the growth in the number of articles on SNA topics and applications of SNA in various scientific fields. Even though the most frequently used keywords are trivial or general, the approaches used for the normalization of network link weights allow us to extract keywords representing substantive topics and methodological issues in SNA.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      },
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-key": "maltseva2020",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "ISSN": "1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "357-382",
+    "publisher": "Springer",
+    "source": "RePEc - Econpapers",
+    "title": "Towards a systematic Description of the Field Using Keywords Analysis: Main Topics in Social Networks",
+    "title-short": "Towards a systematic description of the field using keywords analysis",
+    "type": "article-journal",
+    "URL": "https://econpapers.repec.org/article/sprscient/v_3a123_3ay_3a2020_3ai_3a1_3ad_3a10.1007_5fs11192-020-03365-0.htm",
+    "volume": "123"
+  },
+  {
+    "id": "merton1968",
+    "author": [
+      {
+        "family": "Merton",
+        "given": "Robert K."
+      }
+    ],
+    "citation-key": "merton1968",
+    "container-title-short": "Science",
+    "issue": "3810",
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "56–63",
+    "source": "Zotero",
+    "title": "The Matthew Effect on Science",
+    "type": "article-journal",
+    "volume": "159"
+  },
+  {
+    "id": "moed2018",
+    "abstract": "Trends are analysed in the annual number of documents published by Russian institutions and indexed in Scopus and Web of Science, giving special attention to the time period starting in the year 2013 in which the Project 5-100 was launched by the Russian Government. Numbers are broken down by document type, publication language, type of source, research discipline, country and source. It is concluded that Russian publication counts strongly depend upon the database used, and upon changes in database coverage, and that one should be cautious when using indicators derived from WoS, and especially from Scopus, as tools in the measurement of research performance and international orientation of the Russian science system.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Moed",
+        "given": "Henk F."
+      },
+      {
+        "family": "Markusova",
+        "given": "Valentina"
+      },
+      {
+        "family": "Akoev",
+        "given": "Mark"
+      }
+    ],
+    "citation-key": "moed2018",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-018-2769-8",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1153-1180",
+    "source": "DOI.org (Crossref)",
+    "title": "Trends in Russian research output indexed in Scopus and Web of Science",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-018-2769-8",
+    "volume": "116"
+  },
+  {
+    "id": "moral-munoz2020",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Moral-Muñoz",
+        "given": "José A."
+      },
+      {
+        "family": "Enrique Herrera-Viedma",
+        "given": "Enrique"
+      },
+      {
+        "family": "Santisteban-Espejo",
+        "given": "Antonio"
+      },
+      {
+        "family": "Cobo",
+        "given": "Manuel J."
+      }
+    ],
+    "citation-key": "moral-munoz2020",
+    "container-title-short": "El Profesional de la Información",
+    "DOI": "https://doi.org/10.3145/epi.2020.ene.03",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en",
+    "title": "Software Tools for Conducting Bibliometric Analysis in Science: An Up-to-Date Review",
+    "type": "article-journal",
+    "URL": "https://www.scipedia.com/public/Moral-Munoz_et_al_2020a",
+    "volume": "29"
+  },
+  {
+    "id": "pavlova2023",
+    "abstract": "Relevance. Bibliometric analysis using network analysis methods is an actively developing scientific research area. Its methods and software tools contribute to progress in understanding how scientific disciplines develop. VOSviewer is an open software product that can be used to build bibliometric maps (networks) of various types (citation, co-authorship, co-occurrence, co-citation, etc.). Bibliometric analysis of the co-presence (cooccurrence) of keywords (simultaneous presence of keywords in different publications) allows building a map of keywords, which can be considered, under certain assumptions, as a model of the knowledge structure in the analyzed area. The objective of this study is to build a keyword map of the research field on the topic «health capital» based on the data of the Web of Science database, as well as to analyze the process of building a bibliometric network of keywords co-occurrence in the VOSviewer program. Methods: bibliometric analysis with methods of network analysis. The materials of the Web of Science database were used as an empirical basis for the study (57853 publications found by the words of health and capital and downloaded in spring 2022 in files of 500 publications each in full record format). To build a keyword map, the VOSviewer program, version 1.6.19, was used. Results. At the first stage, when constructing a keyword map based on the entire array of 57853 publications without preliminary data processing (data cleaning), five clusters were identified and analyzed. At the second stage, a keyword map was built based on 3000 most relevant publications with data processing (data cleaning through the construction of a thesaurus). As a result, keywords that characterize different types of capital (social capital, human capital, cultural capital, psychological capital) are identified and analyzed. Conclusions. Keyword mapping can be done as a preliminary step before conducting a systematic review, since such a preliminary analysis of the field of study through keywords guides and accelerates the process of literature review on the desired scientific topic. Such a map – a network of keywords – helps to enhance the coverage of theories, concepts, approaches by visualizing the keywords of the research field. The example presented in the work on the topic «Health capital» shows that even with «raw» (uncleaned) data, clusters can be built, which, thanks to the visual representation of the research field through keywords, contribute to the building further research steps. The bibliometric analysis of the keywords co-occurrence made it possible to present a structural model of the knowledge in the domain of the research topic of health capital, i. e. (1) to map thematic clusters; (2) build temporal networks to analyze the evolution of knowledge in the chosen scientific field; (3) to identify different types of capitals, within which the health capital is further analyzed and a systematic literature review is elaborated.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Павлова",
+        "given": "Ирина Анатольевна"
+      }
+    ],
+    "citation-key": "pavlova2023",
+    "container-title": "Векторы благополучия",
+    "DOI": "10.18799/26584956/2023/2/1592",
+    "ISSN": "2658-4956",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          30
+        ]
+      ]
+    },
+    "language": "ru",
+    "license": "Copyright (c) 2023 ТПУ",
+    "number": "2",
+    "page": "38-54",
+    "source": "jwt.su",
+    "title": "Построение карты соприсутствия ключевых слов по теме «Капитал здоровья» в программе Vosviewer",
+    "type": "article-journal",
+    "URL": "https://jwt.su/journal/article/view/1592",
+    "volume": "49"
+  },
+  {
+    "id": "perianes-rodriguez2016",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Perianes-Rodriguez",
+        "given": "Antonio"
+      },
+      {
+        "family": "Waltman",
+        "given": "Ludo"
+      },
+      {
+        "family": "Van Eck",
+        "given": "Nees Jan"
+      }
+    ],
+    "citation-key": "perianes-rodriguez2016",
+    "container-title": "Journal of Informetrics",
+    "container-title-short": "Journal of Informetrics",
+    "DOI": "10.1016/j.joi.2016.10.006",
+    "ISSN": "17511577",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1178-1195",
+    "source": "DOI.org (Crossref)",
+    "title": "Constructing Bibliometric Networks: A Comparison Between Full and Fractional Counting",
+    "title-short": "Constructing bibliometric networks",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1751157716302036",
+    "volume": "10"
+  },
+  {
+    "id": "pike2010",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Pike",
+        "given": "Thomas W."
+      }
+    ],
+    "citation-key": "pike2010",
+    "container-title-short": "Behavioral Ecology",
+    "DOI": "10.1093/beheco/arp194",
+    "ISSN": "1465-7279, 1045-2249",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "431-435",
+    "source": "DOI.org (Crossref)",
+    "title": "Collaboration Networks and Scientific Impact among Behavioral Ecologists",
+    "type": "article-journal",
+    "URL": "https://academic.oup.com/beheco/article-lookup/doi/10.1093/beheco/arp194",
+    "volume": "21"
+  },
+  {
+    "id": "pranckute2021",
+    "abstract": "Nowadays, the importance of bibliographic databases (DBs) has increased enormously, as they are the main providers of publication metadata and bibliometric indicators universally used both for research assessment practices and for performing daily tasks. Because the reliability of these tasks ﬁrstly depends on the data source, all users of the DBs should be able to choose the most suitable one. Web of Science (WoS) and Scopus are the two main bibliographic DBs. The comprehensive evaluation of the DBs’ coverage is practically impossible without extensive bibliometric analyses or literature reviews, but most DBs users do not have bibliometric competence and/or are not willing to invest additional time for such evaluations. Apart from that, the convenience of the DB’s interface, performance, provided impact indicators and additional tools may also inﬂuence the users’ choice. The main goal of this work is to provide all of the potential users with an all-inclusive description of the two main bibliographic DBs by gathering the ﬁndings that are presented in the most recent literature and information provided by the owners of the DBs at one place. This overview should aid all stakeholders employing publication and citation data in selecting the most suitable DB.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Pranckutė",
+        "given": "Raminta"
+      }
+    ],
+    "citation-key": "pranckute2021",
+    "container-title-short": "Publications",
+    "DOI": "10.3390/publications9010012",
+    "ISSN": "2304-6775",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          12
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1–59",
+    "source": "DOI.org (Crossref)",
+    "title": "Web of Science (WoS) and Scopus: The Titans of Bibliographic Information in Today’s Academic World",
+    "title-short": "Web of Science (WoS) and Scopus",
+    "type": "article-journal",
+    "URL": "https://www.mdpi.com/2304-6775/9/1/12"
+  },
+  {
+    "id": "price1965",
+    "author": [
+      {
+        "family": "Price",
+        "given": "D. J."
+      }
+    ],
+    "citation-key": "price1965",
+    "container-title": "Science (New York, N.Y.)",
+    "container-title-short": "Science",
+    "DOI": "10.1126/science.149.3683.510",
+    "ISSN": "0036-8075",
+    "issue": "3683",
+    "issued": {
+      "date-parts": [
+        [
+          1965,
+          7,
+          30
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "510-515",
+    "PMID": "14325149",
+    "source": "PubMed",
+    "title": "Netwrks of Scientific Papers",
+    "type": "article-journal",
+    "volume": "149"
+  },
+  {
+    "id": "price1976",
+    "abstract": "Abstract\n            A Cumulative Advantage Distribution is proposed which models statistically the situation in which success breeds success. It differs from the Negative Binomial Distribution in that lack of success, being a non‐event, is not punished by increased chance of failure. It is shown that such a stochastic law is governed by the Beta Function, containing only one free parameter, and this is approximated by a skew or hyperbolic distribution of the type that is widespread in bibliometrics and diverse social science phenomena. In particular, this is shown to be an appropriate underlying probabilistic theory for the Bradford Law, the Lotka Law, the Pareto and Zipf Distributions, and for all the empirical results of citation frequency analysis. As side results one may derive also the obsolescence factor for literature use. The Beta Function is peculiarly elegant for these manifold purposes because it yields both the actual and the cumulative distributions in simple form, and contains a limiting case of an inverse square law to which many empirical distributions conform.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Price",
+        "given": "Derek De Solla"
+      }
+    ],
+    "citation-key": "price1976",
+    "container-title-short": "Journal of the American Society for Information Science",
+    "DOI": "10.1002/asi.4630270505",
+    "ISSN": "0002-8231, 1097-4571",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1976,
+          9
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "292-306",
+    "source": "DOI.org (Crossref)",
+    "title": "A General Theory of Bibliometric and Other Cumulative Advantage Processes",
+    "type": "article-journal",
+    "URL": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.4630270505",
+    "volume": "27"
+  },
+  {
+    "id": "price1986",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          9
+        ]
+      ]
+    },
+    "archive": "Книги (изданные с 1831 г. по настоящее время)",
+    "author": [
+      {
+        "family": "Price",
+        "given": "Derek John de Solla"
+      }
+    ],
+    "call-number": "FB 5 88-7/59-3",
+    "citation-key": "price1986",
+    "event-place": "New York",
+    "ISBN": "978-0-231-04957-3",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "language": "eng",
+    "note": "RSLID: 01000493248\nBBK: Ю25,0\"XX\"; Ч210.52,0",
+    "number-of-pages": "301",
+    "publisher": "Columbia univ. press",
+    "publisher-place": "New York",
+    "source": "Российская Государственная Библиотека",
+    "title": "Little Science, Big Science…and Beyond",
+    "type": "book",
+    "URL": "https://search.rsl.ru/ru/record/01000493248"
+  },
+  {
+    "id": "rousseau2018",
+    "abstract": "Becoming Metric-Wise: A Bibliometric Guide for Researchers aims to inform researchers about metrics so that they become aware of the evaluative techniques being applied to their scientific output. Understanding these concepts will help them during their funding initiatives, and in hiring and tenure. The book not only describes what indicators do (or are designed to do, which is not always the same thing), but also gives precise mathematical formulae so that indicators can be properly understood and evaluated. Metrics have become a critical issue in science, with widespread international discussion taking place on the subject across scientific journals and organizations.  As researchers should know the publication-citation context, the mathematical formulae of indicators being used by evaluating committees and their consequences, and how such indicators might be misused, this book provides an ideal tome on the topic. Provides researchers with a detailed understanding of bibliometric indicators and their applications Empowers researchers looking to understand the indicators relevant to their work and careers Presents an informed and rounded picture of bibliometrics, including the strengths and shortcomings of particular indicators Supplies the mathematics behind bibliometric indicators so they can be properly understood Written by authors with longstanding expertise who are considered global leaders in the field of bibliometrics",
+    "author": [
+      {
+        "family": "Rousseau",
+        "given": "Ronald"
+      },
+      {
+        "family": "Egghe",
+        "given": "Leo"
+      },
+      {
+        "family": "Guns",
+        "given": "Raf"
+      }
+    ],
+    "citation-key": "rousseau2018",
+    "ISBN": "978-0-08-102475-1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          2
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "403",
+    "publisher": "Chandos Publishing",
+    "source": "Google Books",
+    "title": "Becoming Metric-Wise: A Bibliometric Guide for Researchers",
+    "title-short": "Becoming Metric-Wise",
+    "type": "book"
+  },
+  {
+    "id": "shrum1988",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Shrum",
+        "given": "W"
+      },
+      {
+        "family": "Mullins",
+        "given": "N"
+      }
+    ],
+    "citation-key": "shrum1988",
+    "container-title": "Handbook of Quantitative Studies of Science and Technology",
+    "ISBN": "0-444-70537-6",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "language": "en",
+    "publisher": "Elsevier Science Publishers B.V.",
+    "title": "Network Analysis in the Study of Science and Technology",
+    "type": "chapter",
+    "URL": "https://www.researchgate.net/publication/284854948_NETWORK_ANALYSIS_IN_THE_STUDY_OF_SCIENCE_AND_TECHNOLOGY"
+  },
+  {
+    "id": "shrum2007",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Shrum",
+        "given": "Wesley"
+      },
+      {
+        "family": "Genuth",
+        "given": "Joel"
+      },
+      {
+        "family": "Chompalov",
+        "given": "Ivan"
+      }
+    ],
+    "citation-key": "shrum2007",
+    "ISBN": "978-0-262-19559-1",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "296",
+    "publisher": "The MIT Press",
+    "title": "Structures of Scientific Collaboration",
+    "type": "book"
+  },
+  {
+    "id": "trofimova2023",
+    "abstract": "Аннотация\n\t\t\t\t\tРоссийская наука всегда была частью мировой академической среды, успешно сотрудничала и конкурировала с ведущими в научно-техническом развитии странами. Недавняя ситуация с пандемией коронавируса COVID-19 и текущая геополитическая напряженность негативно сказываются на международных научных связях, в связи с чем возникла острая и срочная необходимость перестройки сложившихся партнерств и выстраивания новых. В статье рассматривается феномен участия российских исследователей в международном научном сотрудничестве в контексте существующей глобальной конкуренции и неравенства в науке. В качестве источника данных использовалась база библиографических записей Web of Science за весь доступный период наблюдения с выделением объединенных окон публикаций и цитирования с 2018 по 2022 год. Для оценки влияния публикаций были взяты показатели цитируемости статей и квартилей журналов. Данные о количестве, цитируемости статей и квартилях журналов, в которых они были напечатаны, были извлечены для России, стран Содружества Независимых Государств, группы стран БРИКС и стран-лидеров с наибольшим количеством публикаций. Анализ показал увеличение количества совместных публикаций и положительный эффект соавторства с коллегами, прежде всего, из стран-лидеров научно-технического развития. В статье делается вывод о  необходимости активизации и расширения международного научного сотрудничества за счет новых стран-партнеров.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Трофимова",
+        "given": "Ирина Николаевна"
+      }
+    ],
+    "citation-key": "trofimova2023",
+    "container-title-short": "Мир России",
+    "DOI": "10.17323/1811-038X-2023-32-4-178-198",
+    "ISSN": "1811-0398",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          12
+        ]
+      ]
+    },
+    "language": "ru",
+    "license": "Copyright (c)",
+    "number": "4",
+    "page": "178-198",
+    "source": "mirros.hse.ru",
+    "title": "Международное сотрудничество российских исследователей: текущие позиции и тенденции: по данным Web of Science за 2018–2022 гг.",
+    "title-short": "Международное сотрудничество российских исследователей",
+    "type": "article-journal",
+    "URL": "https://mirros.hse.ru/article/view/17753",
+    "volume": "32"
+  },
+  {
+    "id": "vaneck2010",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Eck",
+        "given": "Nees Jan",
+        "non-dropping-particle": "van"
+      },
+      {
+        "family": "Waltman",
+        "given": "Ludo"
+      }
+    ],
+    "citation-key": "vaneck2010",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-009-0146-3",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "523–538",
+    "title": "Software survey: VOSviewer, a computer program for bibliometric mapping | Scientometrics",
+    "type": "article-journal",
+    "URL": "https://link.springer.com/article/10.1007/s11192-009-0146-3",
+    "volume": "84"
+  },
+  {
+    "id": "watts1998a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Watts",
+        "given": "Duncan J."
+      },
+      {
+        "family": "Strogatz",
+        "given": "Steven H."
+      }
+    ],
+    "citation-key": "watts1998a",
+    "container-title-short": "Nature",
+    "DOI": "https://doi.org/10.1038/30918",
+    "issue": "Steven H.",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "440–442",
+    "title": "Collective Dynamics of ‘Small-World’ Networks",
+    "type": "article-journal",
+    "URL": "https://www.nature.com/articles/30918"
+  },
+  {
+    "id": "zhu2020",
+    "abstract": "Web of Science and Scopus are two world-leading and competing citation databases. By using the Science Citation Index Expanded and Social Sciences Citation Index, this paper conducts a comparative, dynamic, and empirical study focusing on the use of Web of Science (WoS) and Scopus in academic papers published during 2004 and 2018. This brief communication reveals that although both Web of Science and Scopus are increasingly used in academic papers, Scopus as a new-comer is really challenging the dominating role of WoS. Researchers from more and more countries/regions and knowledge domains are involved in the use of these two databases. Even though the main producers of related papers are developed economies, some developing economies such as China, Brazil and Iran also act important roles but with different patterns in the use of these two databases. Both two databases are widely used in meta-analysis related studies especially for researchers in China. Health/medical science related domains and the traditional Information Science & Library Science field stand out in the use of citation databases.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Junwen"
+      },
+      {
+        "family": "Liu",
+        "given": "Weishu"
+      }
+    ],
+    "citation-key": "zhu2020",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-020-03387-8",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "321–335",
+    "source": "DOI.org (Crossref)",
+    "title": "A Tale of Two Databases: the Use of Web of Science and Scopus in Academic Papers",
+    "title-short": "A tale of two databases",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-020-03387-8",
+    "volume": "123"
+  },
+  {
+    "id": "zotero-14",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          30
+        ]
+      ]
+    },
+    "citation-key": "zotero-14",
+    "container-title": "eLibrary.ru",
+    "language": "rus",
+    "title": "Сравнение уровня публикаций российских ученых в базах данных Web of Science, Scopus и RSCI",
+    "type": "webpage",
+    "URL": "https://elibrary.ru/wos_scopus_rsci.asp?"
+  },
+  {
     "id": "fairbrotherDoesInequalityErode2013",
     "author": [
       {
