@@ -1,0 +1,370 @@
+[
+	{
+		"id": "snijdersStatisticalEvaluationSocial2001",
+		"type": "article-journal",
+		"abstract": "A class of statistical models is proposed for longitudinal network data. The dependent variable is the changing (or evolving) relation network, represented by two or more observations of a directed graph with a fixed set of actors. The network evolution is modeled as the consequence of the actors making new choices, or withdrawing existing choices, on the basis of functions, with fixed and random components, that the actors try to maximize. Individual and dyadic exogenous variables can be used as covariates. The change in the network is modeled as the stochastic result of network effects (reciprocity, transitivity, etc.) and these covariates. The existing network structure is a dynamic constraint for the evolution of the structure itself. The models are continuous-time Markov chain models that can be implemented as simulation models. The model parameters are estimated from observed data. For estimating and testing these models, statistical procedures are proposed that are based on the method of moments. The statistical procedures are implemented using a stochastic approximation algorithm based on computer simulations of the network evolution process.",
+		"container-title": "Sociological Methodology",
+		"DOI": "10.1111/0081-1750.00099",
+		"ISSN": "1467-9531",
+		"issue": "1",
+		"language": "en",
+		"license": "American Sociological Association 2001",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/0081-1750.00099",
+		"page": "361-395",
+		"source": "Wiley Online Library",
+		"title": "The Statistical Evaluation of Social Network Dynamics",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/0081-1750.00099",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom A. B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "amati",
+		"type": "article-journal",
+		"abstract": "The stochastic actor-oriented model (Snijders, Sociological Methodology, 2001) models the evolution of networks over time, given panel data in a ﬁxed group of actors, where at each panel wave the network between these actors (a digraph structure) as well as attribute variables for these actors are observed. The parameters of this model usually are estimated by a stochastic approximation version of the method of moments. Statistics that correspond to the parameters in a natural way are used for ﬁtting the model. Here we present an estimator based on the generalized method of moments, i.e., using more statistics than parameters, for minimizing the distance between observed statistics and their expected values. Again, the resulting equation is solved by stochastic approximation. Several algorithmic issues arise that have to be solved in order to obtain a stable procedure. For some examples we study the resulting gain in statistical efﬁciency.",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Estimation of Stochastic actor-oriented models for the evolution of networksby generalized method of moments",
+		"author": [
+			{
+				"family": "Amati",
+				"given": "Viviana"
+			},
+			{
+				"family": "Schönenberger",
+				"given": "Felix"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom A B"
+			}
+		]
+	},
+	{
+		"id": "besag1986",
+		"type": "article-journal",
+		"abstract": "SUMMARY\n            \n              A continuous two‐dimensional region is partitioned into a fine rectangular array of sites or “pixels”, each pixel having a particular “colour” belonging to a prescribed finite set. The true colouring of the region is unknown but, associated with each pixel, there is a possibly multivariate record which conveys imperfect information about its colour according to a known statistical model. The aim is to reconstruct the true scene, with the additional knowledge that pixels close together tend to have the same or similar colours. In this paper, it is assumed that the\n              local\n              characteristics of the true scene can be represented by a non‐degenerate Markov random field. Such information can be combined with the records by Bayes' theorem and the true scene can be estimated according to standard criteria. However, the computational burden is enormous and the reconstruction may reflect undesirable large‐scale properties of the random field. Thus, a simple, iterative method of reconstruction is proposed, which does not depend on these large‐scale characteristics. The method is illustrated by computer simulations in which the original scene is\n              not\n              directly related to the assumed random field. Some complications, including parameter estimation, are discussed. Potential applications are mentioned briefly.",
+		"container-title": "Journal of the Royal Statistical Society: Series B (Methodological)",
+		"DOI": "10.1111/j.2517-6161.1986.tb01412.x",
+		"ISSN": "0035-9246, 2517-6161",
+		"issue": "3",
+		"journalAbbreviation": "Journal of the Royal Statistical Society: Series B (Methodological)",
+		"language": "en",
+		"page": "259-279",
+		"source": "Semantic Scholar",
+		"title": "On the Statistical Analysis of Dirty Pictures",
+		"URL": "https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2517-6161.1986.tb01412.x",
+		"volume": "48",
+		"author": [
+			{
+				"family": "Besag",
+				"given": "Julian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1986",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "snijders",
+		"type": "article-journal",
+		"abstract": "This paper is about estimating the parameters of the exponential random graph model, also known as the p∗ model, using frequentist Markov chain Monte Carlo (MCMC) methods. The exponential random graph model is simulated using Gibbs or MetropolisHastings sampling. The estimation procedures considered are based on the Robbins-Monro algorithm for approximating a solution to the likelihood equation.",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Markov Chain Monte Carlo Estimation of Exponential Random Graph Models",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom A B"
+			}
+		]
+	},
+	{
+		"id": "nowicki2001",
+		"type": "article-journal",
+		"container-title": "Journal of the American Statistical Association",
+		"DOI": "10.1198/016214501753208735",
+		"ISSN": "0162-1459, 1537-274X",
+		"issue": "455",
+		"journalAbbreviation": "Journal of the American Statistical Association",
+		"language": "en",
+		"page": "1077-1087",
+		"source": "DOI.org (Crossref)",
+		"title": "Estimation and Prediction for Stochastic Blockstructures",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1198/016214501753208735",
+		"volume": "96",
+		"author": [
+			{
+				"family": "Nowicki",
+				"given": "Krzysztof"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom A. B"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "hoff2002",
+		"type": "article-journal",
+		"container-title": "Journal of the American Statistical Association",
+		"DOI": "10.1198/016214502388618906",
+		"ISSN": "0162-1459, 1537-274X",
+		"issue": "460",
+		"journalAbbreviation": "Journal of the American Statistical Association",
+		"language": "en",
+		"page": "1090-1098",
+		"source": "DOI.org (Crossref)",
+		"title": "Latent Space Approaches to Social Network Analysis",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1198/016214502388618906",
+		"volume": "97",
+		"author": [
+			{
+				"family": "Hoff",
+				"given": "Peter D"
+			},
+			{
+				"family": "Raftery",
+				"given": "Adrian E"
+			},
+			{
+				"family": "Handcock",
+				"given": "Mark S"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "schweinberger2003",
+		"type": "article-journal",
+		"abstract": "A class of statistical models is proposed that aims to recover latent settings structures in social networks. Settings may be regarded as clusters of vertices. The measurement model is based on two assumptions. (1) The observed network is generated by hierarchically nested latent transitive structures, expressed by ultrametrics, and (2) the expected tie strength decreases with ultrametric distance. The approach could be described as model-based clustering with an ultrametric space as the underlying metric to capture the dependence in the observations. Bayesian methods as well as maximum-likelihood methods are applied for statistical inference. Both approaches are implemented using Markov chain Monte Carlo methods.",
+		"container-title": "Sociological Methodology",
+		"DOI": "10.1111/j.0081-1750.2003.00134.x",
+		"ISSN": "1467-9531",
+		"issue": "1",
+		"page": "307-341",
+		"source": "the University of Groningen research portal",
+		"title": "Settings in Social Networks: A Measurement Model",
+		"title-short": "Settings in Social Networks",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Schweinberger",
+				"given": "Michael"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom A.B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "lospinoso2019",
+		"type": "article-journal",
+		"abstract": "We propose a Mahalanobis distance–based Monte Carlo goodness of fit testing procedure for the family of stochastic actororiented models for social network evolution. A modified model distance estimator is proposed to help the researcher identify model extensions that will remediate poor fit. A limited simulation study is provided to establish baseline legitimacy for the Mahalanobis distance–based Monte Carlo test and modified model distance estimator. A forward model selection workflow is proposed, and this procedure is demonstrated on a real data set.",
+		"container-title": "Methodological Innovations",
+		"DOI": "10.1177/2059799119884282",
+		"ISSN": "2059-7991, 2059-7991",
+		"issue": "3",
+		"journalAbbreviation": "Methodological Innovations",
+		"language": "en",
+		"page": "205979911988428",
+		"source": "DOI.org (Crossref)",
+		"title": "Goodness of fit for stochastic actor-oriented models",
+		"URL": "http://journals.sagepub.com/doi/10.1177/2059799119884282",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Lospinoso",
+				"given": "Josh"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom Ab"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "strauss1986",
+		"type": "article-journal",
+		"abstract": "This paper develops a class of probability models for configurations of interacting points in a domain. The distributions depend on a function which may be viewed as giving the potential energy of the configurations. Examples include models for interaction in a spatial region and on lattices and graphs. New models in the general class arise naturally, an example being a spatial model for points of different categories. Some general methods, including series expansions and a simulation method known from statistical mechanics, can be useful for many of these models. Several applications of this kind are considered, and some connections between the models and with the statistical mechanics are explored.",
+		"container-title": "SIAM Review",
+		"ISSN": "0036-1445",
+		"issue": "4",
+		"note": "publisher: Society for Industrial and Applied Mathematics",
+		"page": "513-527",
+		"source": "JSTOR",
+		"title": "On a General Class of Models for Interaction",
+		"URL": "https://www.jstor.org/stable/2031102",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Strauss",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "handcock",
+		"type": "article-journal",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Assessing Degeneracy in Statistical Models of Social Networks",
+		"author": [
+			{
+				"family": "Handcock",
+				"given": "Mark S"
+			}
+		]
+	},
+	{
+		"id": "pattison2002",
+		"type": "article-journal",
+		"abstract": "We argue that social networks can be modeled as the outcome of processes that occur in overlapping local regions of the network, termed local social neighborhoods. Each neighborhood is conceived as a possible site of interaction and corresponds to a subset of possible network ties. In this paper, we discuss hypotheses about the form of these neighborhoods, and we present two new and theoretically plausible ways in which neighborhood-based models for networks can be constructed. In the first, we introduce the notion of a setting structure, a directly hypothesized (or observed) set of exogenous constraints on possible neighborhood forms. In the second, we propose higher-order neighborhoods that are generated, in part, by the outcome of interactive network processes themselves. Applications of both approaches to model construction are presented, and the developments are considered within a general conceptual framework of locale for social networks. We show how assumptions about neighborhoods can be cast within a hierarchy of increasingly complex models; these models represent a progressively greater capacity for network processes to ?reach? across a network through long cycles or semipaths. We argue that this class of models holds new promise for the development of empirically plausible models for networks and network-based processes.",
+		"container-title": "Sociological Methodology",
+		"DOI": "10.1111/1467-9531.00119",
+		"ISSN": "0081-1750",
+		"issue": "1",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "301-337",
+		"source": "SAGE Journals",
+		"title": "9. Neighborhood-Based Models for Social Networks",
+		"URL": "https://doi.org/10.1111/1467-9531.00119",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Pattison",
+				"given": "Philippa"
+			},
+			{
+				"family": "Robins",
+				"given": "Garry"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					8,
+					1
+				]
+			]
+		}
+	}
+]
