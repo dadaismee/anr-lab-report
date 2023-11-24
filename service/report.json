@@ -2866,6 +2866,2738 @@
     }
   },
   {
+    "id": "alba1973",
+    "type": "article-journal",
+    "container-title": "Journal of Mathematical Sociology",
+    "ISSN": "0022-250X",
+    "issue": "1",
+    "page": "113-126",
+    "title": "A graph‐theoretic definition of a sociometric clique",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Alba",
+        "given": "Richard D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1973"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "blondel2008",
+    "type": "article-journal",
+    "container-title": "Journal of statistical mechanics: theory and experiment",
+    "ISSN": "1742-5468",
+    "issue": "10",
+    "page": "P10008",
+    "title": "Fast unfolding of communities in large networks",
+    "volume": "2008",
+    "author": [
+      {
+        "family": "Blondel",
+        "given": "Vincent D"
+      },
+      {
+        "family": "Guillaume",
+        "given": "Jean-Loup"
+      },
+      {
+        "family": "Lambiotte",
+        "given": "Renaud"
+      },
+      {
+        "family": "Lefebvre",
+        "given": "Etienne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "boccaletti2007",
+    "type": "article-journal",
+    "container-title": "Physical Review E",
+    "issue": "4",
+    "page": "045102",
+    "title": "Detecting complex network modularity by dynamical clustering",
+    "volume": "75",
+    "author": [
+      {
+        "family": "Boccaletti",
+        "given": "S"
+      },
+      {
+        "family": "Ivanchenko",
+        "given": "M"
+      },
+      {
+        "family": "Latora",
+        "given": "V"
+      },
+      {
+        "family": "Pluchino",
+        "given": "A"
+      },
+      {
+        "family": "Rapisarda",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "bohlin2014",
+    "type": "article-journal",
+    "container-title": "Measuring scholarly impact: methods and practice",
+    "ISSN": "3319103768",
+    "page": "3-34",
+    "title": "Community detection and visualization of networks with the map equation framework",
+    "author": [
+      {
+        "family": "Bohlin",
+        "given": "Ludvig"
+      },
+      {
+        "family": "Edler",
+        "given": "Daniel"
+      },
+      {
+        "family": "Lancichinetti",
+        "given": "Andrea"
+      },
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "borgatti1990",
+    "type": "article-journal",
+    "container-title": "Social networks",
+    "ISSN": "0378-8733",
+    "issue": "4",
+    "page": "337-357",
+    "title": "LS sets, lambda sets and other cohesive subsets",
+    "volume": "12",
+    "author": [
+      {
+        "family": "Borgatti",
+        "given": "Stephen P"
+      },
+      {
+        "family": "Everett",
+        "given": "Martin G"
+      },
+      {
+        "family": "Shirey",
+        "given": "Paul R"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1990"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "clauset2004",
+    "type": "article-journal",
+    "container-title": "Physical review E",
+    "issue": "6",
+    "page": "066111",
+    "title": "Finding community structure in very large networks",
+    "volume": "70",
+    "author": [
+      {
+        "family": "Clauset",
+        "given": "Aaron"
+      },
+      {
+        "family": "Newman",
+        "given": "Mark EJ"
+      },
+      {
+        "family": "Moore",
+        "given": "Cristopher"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cooley1909",
+    "type": "book",
+    "abstract": "Our life is all one human whole, and if we are to have any real knowledge of it we must see it as such. If we cut it up it dies in the process: and so I conceive that the various branches of research that deal with this whole are properly distinguished by change in the point of sight rather than by any division in the thing that is seen. Accordingly, in a former book (Human Nature and Social Order), I tried to see society as it exists in the social nature of man and to display that in its main outlines. In this one the eye is focused on the enlargement and diversification of intercourse which I have called Social Organization, the individual, though visible, remaining slightly in the background. It will be seen from my title and all my treatment that I apprehend the subject on the mental rather than the material side. I by no means, however, overlook or wish to depreciate the latter, to which I am willing to ascribe all the importance that any one can require for it. Our task as students of society is a large one, and each of us, I suppose, may undertake any part of it to which he feels at all competent. (PsycInfo Database Record (c) 2022 APA, all rights reserved)",
+    "collection-title": "Social organization: A study of the larger mind",
+    "event-place": "New York, NY",
+    "number-of-pages": "xvii, 426",
+    "publisher": "Charles Scribner's Sons",
+    "publisher-place": "New York, NY",
+    "source": "APA PsycNet",
+    "title": "Social organization: A study of the larger mind",
+    "title-short": "Social organization",
+    "author": [
+      {
+        "family": "Cooley",
+        "given": "Charles Horton"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1909"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "dao2020",
+    "type": "article-journal",
+    "abstract": "Abstract\n            Discovering community structure in complex networks is a mature field since a tremendous number of community detection methods have been introduced in the literature. Nevertheless, it is still very challenging for practitioners to determine which method would be suitable to get insights into the structural information of the networks they study. Many recent efforts have been devoted to investigating various quality scores of the community structure, but the problem of distinguishing between different types of communities is still open. In this paper, we propose a comparative, extensive, and empirical study to investigate what types of communities many state-of-the-art and well-known community detection methods are producing. Specifically, we provide comprehensive analyses on computation time, community size distribution, a comparative evaluation of methods according to their optimization schemes as well as a comparison of their partitioning strategy through validation metrics. We process our analyses on a very large corpus of hundreds of networks from five different network categories and propose ways to classify community detection methods, helping a potential user to navigate the complex landscape of community detection.",
+    "container-title": "Network Science",
+    "DOI": "10.1017/nws.2019.59",
+    "ISSN": "2050-1242, 2050-1250",
+    "issue": "1",
+    "language": "en",
+    "page": "1-41",
+    "source": "DOI.org (Crossref)",
+    "title": "Community structure: A comparative evaluation of community detection methods",
+    "title-short": "Community structure",
+    "URL": "https://www.cambridge.org/core/product/identifier/S2050124219000596/type/journal_article",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Dao",
+        "given": "Vinh Loc"
+      },
+      {
+        "family": "Bothorel",
+        "given": "Cécile"
+      },
+      {
+        "family": "Lenca",
+        "given": "Philippe"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          11
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "davis2009",
+    "type": "book",
+    "ISBN": "1-57003-815-5",
+    "publisher": "Univ of South Carolina Press",
+    "title": "Deep South: A social anthropological study of caste and class",
+    "author": [
+      {
+        "family": "Davis",
+        "given": "Allison"
+      },
+      {
+        "family": "Gardner",
+        "given": "Burleigh Bradford"
+      },
+      {
+        "family": "Gardner",
+        "given": "Mary R"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "esquivel2011",
+    "type": "article-journal",
+    "container-title": "Physical Review X",
+    "issue": "2",
+    "page": "021025",
+    "title": "Compression of flow can reveal overlapping-module organization in networks",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Esquivel",
+        "given": "Alcides Viamontes"
+      },
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fiedler1973",
+    "type": "article-journal",
+    "container-title": "Czechoslovak mathematical journal",
+    "ISSN": "0011-4642",
+    "issue": "2",
+    "page": "298-305",
+    "title": "Algebraic connectivity of graphs",
+    "volume": "23",
+    "author": [
+      {
+        "family": "Fiedler",
+        "given": "Miroslav"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1973"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fiedler1975",
+    "type": "article-journal",
+    "container-title": "Czechoslovak mathematical journal",
+    "ISSN": "0011-4642",
+    "issue": "4",
+    "page": "619-633",
+    "title": "A property of eigenvectors of nonnegative symmetric matrices and its application to graph theory",
+    "volume": "25",
+    "author": [
+      {
+        "family": "Fiedler",
+        "given": "Miroslav"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1975"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fortunato2007",
+    "type": "article-journal",
+    "container-title": "Proceedings of the national academy of sciences",
+    "ISSN": "0027-8424",
+    "issue": "1",
+    "page": "36-41",
+    "title": "Resolution limit in community detection",
+    "volume": "104",
+    "author": [
+      {
+        "family": "Fortunato",
+        "given": "Santo"
+      },
+      {
+        "family": "Barthelemy",
+        "given": "Marc"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fortunato2010",
+    "type": "article-journal",
+    "container-title": "Physics reports",
+    "ISSN": "0370-1573",
+    "issue": "3-5",
+    "page": "75-174",
+    "title": "Community detection in graphs",
+    "volume": "486",
+    "author": [
+      {
+        "family": "Fortunato",
+        "given": "Santo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fortunato2016",
+    "type": "article-journal",
+    "abstract": "Community detection in networks is one of the most popular topics of modern network science. Communities, or clusters, are usually groups of vertices having higher probability of being connected to each other than to members of other groups, though other patterns are possible. Identifying communities is an ill-defined problem. There are no universal protocols on the fundamental ingredients, like the definition of community itself, nor on other crucial issues, like the validation of algorithms and the comparison of their performances. This has generated a number of confusions and misconceptions, which undermine the progress in the field. We offer a guided tour through the main aspects of the problem. We also point out strengths and weaknesses of popular methods, and give directions to their use.",
+    "collection-title": "Community detection in networks: A user guide",
+    "container-title": "Physics Reports",
+    "DOI": "10.1016/j.physrep.2016.09.002",
+    "ISSN": "0370-1573",
+    "page": "1-44",
+    "source": "ScienceDirect",
+    "title": "Community detection in networks: A user guide",
+    "title-short": "Community detection in networks",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0370157316302964",
+    "volume": "659",
+    "author": [
+      {
+        "family": "Fortunato",
+        "given": "Santo"
+      },
+      {
+        "family": "Hric",
+        "given": "Darko"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          11,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "freeman1992",
+    "type": "article-journal",
+    "container-title": "American Journal of Sociology",
+    "DOI": "10.1086/229972",
+    "ISSN": "0002-9602, 1537-5390",
+    "issue": "1",
+    "language": "en",
+    "page": "152-166",
+    "source": "DOI.org (Crossref)",
+    "title": "The Sociological Concept of \"Group\": An Empirical Test of Two Models",
+    "title-short": "The Sociological Concept of \"Group\"",
+    "URL": "https://www.journals.uchicago.edu/doi/10.1086/229972",
+    "volume": "98",
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "Linton C."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          5
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1992",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "friedkin1984",
+    "type": "article-journal",
+    "container-title": "Sociological Methods & Research",
+    "ISSN": "0049-1241",
+    "issue": "3",
+    "page": "235-261",
+    "title": "Structural cohesion and equivalence explanations of social homogeneity",
+    "volume": "12",
+    "author": [
+      {
+        "family": "Friedkin",
+        "given": "Noah E"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1984"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ghorbani2016",
+    "type": "article-journal",
+    "container-title": "arXiv preprint arXiv:1605.02288",
+    "title": "Bayesian overlapping community detection in dynamic networks",
+    "author": [
+      {
+        "family": "Ghorbani",
+        "given": "Mahsa"
+      },
+      {
+        "family": "Rabiee",
+        "given": "Hamid R"
+      },
+      {
+        "family": "Khodadadi",
+        "given": "Ali"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "girvan2002",
+    "type": "article-journal",
+    "abstract": "A number of recent studies have focused on the statistical properties of networked systems such as social networks and the Worldwide Web. Researchers have concentrated particularly on a few properties that seem to be common to many networks: the small-world property, power-law degree distributions, and network transitivity. In this article, we highlight another property that is found in many networks, the property of community structure, in which network nodes are joined together in tightly knit groups, between which there are only looser connections. We propose a method for detecting such communities, built around the idea of using centrality indices to find community boundaries. We test our method on computer-generated and real-world graphs whose community structure is already known and find that the method detects this known structure with high sensitivity and reliability. We also apply the method to two networks whose community structure is not well known—a collaboration network and a food web—and find that it detects significant and informative community divisions in both cases.",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.122653799",
+    "ISSN": "0027-8424, 1091-6490",
+    "issue": "12",
+    "language": "en",
+    "page": "7821-7826",
+    "source": "DOI.org (Crossref)",
+    "title": "Community structure in social and biological networks",
+    "URL": "https://pnas.org/doi/full/10.1073/pnas.122653799",
+    "volume": "99",
+    "author": [
+      {
+        "family": "Girvan",
+        "given": "M."
+      },
+      {
+        "family": "Newman",
+        "given": "M. E. J."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          23
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2002",
+          6,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "holland1983",
+    "type": "article-journal",
+    "container-title": "Social networks",
+    "ISSN": "0378-8733",
+    "issue": "2",
+    "page": "109-137",
+    "title": "Stochastic blockmodels: First steps",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Holland",
+        "given": "Paul W"
+      },
+      {
+        "family": "Laskey",
+        "given": "Kathryn Blackmond"
+      },
+      {
+        "family": "Leinhardt",
+        "given": "Samuel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1983"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "homans2017",
+    "type": "book",
+    "ISBN": "1-315-13251-6",
+    "publisher": "Routledge",
+    "title": "The human group",
+    "author": [
+      {
+        "family": "Homans",
+        "given": "George Caspar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "javed2018",
+    "type": "article-journal",
+    "container-title": "Journal of Network and Computer Applications",
+    "DOI": "10.1016/j.jnca.2018.02.011",
+    "ISSN": "10848045",
+    "language": "en",
+    "page": "87-111",
+    "source": "DOI.org (Crossref)",
+    "title": "Community detection in networks: A multidisciplinary review",
+    "title-short": "Community detection in networks",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1084804518300560",
+    "volume": "108",
+    "author": [
+      {
+        "family": "Javed",
+        "given": "Muhammad Aqib"
+      },
+      {
+        "family": "Younis",
+        "given": "Muhammad Shahzad"
+      },
+      {
+        "family": "Latif",
+        "given": "Siddique"
+      },
+      {
+        "family": "Qadir",
+        "given": "Junaid"
+      },
+      {
+        "family": "Baig",
+        "given": "Adeel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          5
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kannan2004",
+    "type": "article-journal",
+    "container-title": "Journal of the ACM (JACM)",
+    "ISSN": "0004-5411",
+    "issue": "3",
+    "page": "497-515",
+    "title": "On clusterings: Good, bad and spectral",
+    "volume": "51",
+    "author": [
+      {
+        "family": "Kannan",
+        "given": "Ravi"
+      },
+      {
+        "family": "Vempala",
+        "given": "Santosh"
+      },
+      {
+        "family": "Vetta",
+        "given": "Adrian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "karrer2011",
+    "type": "article-journal",
+    "container-title": "Physical review E",
+    "issue": "1",
+    "page": "016107",
+    "title": "Stochastic blockmodels and community structure in networks",
+    "volume": "83",
+    "author": [
+      {
+        "family": "Karrer",
+        "given": "Brian"
+      },
+      {
+        "family": "Newman",
+        "given": "Mark EJ"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "leskovec2005",
+    "type": "paper-conference",
+    "event-title": "Proceedings of the eleventh ACM SIGKDD international conference on Knowledge discovery in data mining",
+    "page": "177-187",
+    "title": "Graphs over time: densification laws, shrinking diameters and possible explanations",
+    "author": [
+      {
+        "family": "Leskovec",
+        "given": "Jure"
+      },
+      {
+        "family": "Kleinberg",
+        "given": "Jon"
+      },
+      {
+        "family": "Faloutsos",
+        "given": "Christos"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2005"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lorrain1971",
+    "type": "article-journal",
+    "container-title": "The Journal of mathematical sociology",
+    "ISSN": "0022-250X",
+    "issue": "1",
+    "page": "49-80",
+    "title": "Structural equivalence of individuals in social networks",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Lorrain",
+        "given": "Francois"
+      },
+      {
+        "family": "White",
+        "given": "Harrison C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1971"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "luce1949",
+    "type": "article-journal",
+    "container-title": "Psychometrika",
+    "ISSN": "0033-3123",
+    "issue": "2",
+    "page": "95-116",
+    "title": "A method of matrix analysis of group structure",
+    "volume": "14",
+    "author": [
+      {
+        "family": "Luce",
+        "given": "R Duncan"
+      },
+      {
+        "family": "Perry",
+        "given": "Albert D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1949"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mcqueen1967",
+    "type": "paper-conference",
+    "event-title": "Proc. of 5th Berkeley Symposium on Math. Stat. and Prob.",
+    "page": "281-297",
+    "title": "Some methods of classification and analysis of multivariate observations",
+    "author": [
+      {
+        "family": "McQueen",
+        "given": "James B"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1967"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mokken1979",
+    "type": "article-journal",
+    "container-title": "Quality & Quantity",
+    "ISSN": "0033-5177",
+    "issue": "2",
+    "page": "161-173",
+    "title": "Cliques, clubs and clans",
+    "volume": "13",
+    "author": [
+      {
+        "family": "Mokken",
+        "given": "Robert J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1979"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mydosh1993",
+    "type": "book",
+    "ISBN": "0-429-08013-1",
+    "publisher": "CRC Press",
+    "title": "Spin glasses: an experimental introduction",
+    "author": [
+      {
+        "family": "Mydosh",
+        "given": "John A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1993"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "newman2004",
+    "type": "article-journal",
+    "container-title": "Physical review E",
+    "issue": "6",
+    "page": "066133",
+    "title": "Fast algorithm for detecting community structure in networks",
+    "volume": "69",
+    "author": [
+      {
+        "family": "Newman",
+        "given": "Mark EJ"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "newman2004a",
+    "type": "article-journal",
+    "container-title": "Physical review E",
+    "issue": "2",
+    "page": "026113",
+    "title": "Finding and evaluating community structure in networks",
+    "volume": "69",
+    "author": [
+      {
+        "family": "Newman",
+        "given": "Mark EJ"
+      },
+      {
+        "family": "Girvan",
+        "given": "Michelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "peixoto2014",
+    "type": "article-journal",
+    "container-title": "Physical Review E",
+    "issue": "1",
+    "page": "012804",
+    "title": "Efficient Monte Carlo and greedy heuristic for the inference of stochastic block models",
+    "volume": "89",
+    "author": [
+      {
+        "family": "Peixoto",
+        "given": "Tiago P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "persson2016",
+    "type": "article-journal",
+    "container-title": "arXiv preprint arXiv:1606.08328",
+    "title": "Maps of sparse Markov chains efficiently reveal community structure in network flows with memory",
+    "author": [
+      {
+        "family": "Persson",
+        "given": "Christian"
+      },
+      {
+        "family": "Bohlin",
+        "given": "Ludvig"
+      },
+      {
+        "family": "Edler",
+        "given": "Daniel"
+      },
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pons2005",
+    "type": "paper-conference",
+    "event-title": "Computer and Information Sciences-ISCIS 2005: 20th International Symposium, Istanbul, Turkey, October 26-28, 2005. Proceedings 20",
+    "ISBN": "3-540-29414-7",
+    "page": "284-293",
+    "publisher": "Springer",
+    "title": "Computing communities in large networks using random walks",
+    "author": [
+      {
+        "family": "Pons",
+        "given": "Pascal"
+      },
+      {
+        "family": "Latapy",
+        "given": "Matthieu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2005"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rattigan2007",
+    "type": "paper-conference",
+    "event-title": "Proceedings of the 24th international conference on Machine learning",
+    "page": "783-790",
+    "title": "Graph clustering with network structure indices",
+    "author": [
+      {
+        "family": "Rattigan",
+        "given": "Matthew J"
+      },
+      {
+        "family": "Maier",
+        "given": "Marc"
+      },
+      {
+        "family": "Jensen",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "reichardt2006",
+    "type": "article-journal",
+    "container-title": "Physical Review E",
+    "DOI": "10.1103/PhysRevE.74.016110",
+    "ISSN": "1539-3755, 1550-2376",
+    "issue": "1",
+    "language": "en",
+    "page": "016110",
+    "source": "DOI.org (Crossref)",
+    "title": "Statistical mechanics of community detection",
+    "URL": "https://link.aps.org/doi/10.1103/PhysRevE.74.016110",
+    "volume": "74",
+    "author": [
+      {
+        "family": "Reichardt",
+        "given": "Jörg"
+      },
+      {
+        "family": "Bornholdt",
+        "given": "Stefan"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          17
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2006",
+          7,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rosvall2008",
+    "type": "article-journal",
+    "container-title": "Proceedings of the national academy of sciences",
+    "ISSN": "0027-8424",
+    "issue": "4",
+    "page": "1118-1123",
+    "title": "Maps of random walks on complex networks reveal community structure",
+    "volume": "105",
+    "author": [
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      },
+      {
+        "family": "Bergstrom",
+        "given": "Carl T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rosvall2011",
+    "type": "article-journal",
+    "container-title": "PloS one",
+    "ISSN": "1932-6203",
+    "issue": "4",
+    "page": "e18209",
+    "title": "Multilevel compression of random walks on networks reveals hierarchical organization in large integrated systems",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      },
+      {
+        "family": "Bergstrom",
+        "given": "Carl T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rosvall2019",
+    "type": "chapter",
+    "container-title": "Advances in Network Clustering and Blockmodeling",
+    "edition": "1",
+    "ISBN": "978-1-119-22470-9",
+    "language": "en",
+    "page": "105-119",
+    "publisher": "Wiley",
+    "source": "DOI.org (Crossref)",
+    "title": "Different Approaches to Community Detection",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1002/9781119483298.ch4",
+    "author": [
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      },
+      {
+        "family": "Delvenne",
+        "given": "Jean‐Charles"
+      },
+      {
+        "family": "Schaub",
+        "given": "Michael T."
+      },
+      {
+        "family": "Lambiotte",
+        "given": "Renaud"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Doreian",
+        "given": "Patrick"
+      },
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Ferligoj",
+        "given": "Anuška"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          17
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          11,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "id": "seidman1978",
+    "type": "article-journal",
+    "container-title": "Journal of Mathematical sociology",
+    "ISSN": "0022-250X",
+    "issue": "1",
+    "page": "139-154",
+    "title": "A graph‐theoretic generalization of the clique concept",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Seidman",
+        "given": "Stephen B"
+      },
+      {
+        "family": "Foster",
+        "given": "Brian L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1978"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "seidman1983",
+    "type": "article-journal",
+    "container-title": "Social networks",
+    "ISSN": "0378-8733",
+    "issue": "3",
+    "page": "269-287",
+    "title": "Network structure and minimum degree",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Seidman",
+        "given": "Stephen B"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1983"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "seidman1983a",
+    "type": "article-journal",
+    "container-title": "Social Networks",
+    "ISSN": "0378-8733",
+    "issue": "2",
+    "page": "97-107",
+    "title": "Internal cohesion of LS sets in graphs",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Seidman",
+        "given": "Stephen B"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1983"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "simmel2010",
+    "type": "book",
+    "ISBN": "1-4516-0251-0",
+    "publisher": "Simon and Schuster",
+    "title": "Conflict and the web of group affiliations",
+    "author": [
+      {
+        "family": "Simmel",
+        "given": "George"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "stokman1989",
+    "type": "article-journal",
+    "ISSN": "9051440049",
+    "title": "GRADAP: Graph definition and analysis package",
+    "author": [
+      {
+        "family": "Stokman",
+        "given": "Frans N"
+      },
+      {
+        "family": "Sprenger",
+        "given": "CJA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1989"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "su2022",
+    "type": "article-journal",
+    "container-title": "IEEE Transactions on Neural Networks and Learning Systems",
+    "DOI": "10.1109/TNNLS.2021.3137396",
+    "ISSN": "2162-237X, 2162-2388",
+    "page": "1-21",
+    "source": "DOI.org (Crossref)",
+    "title": "A Comprehensive Survey on Community Detection With Deep Learning",
+    "URL": "https://ieeexplore.ieee.org/document/9732192/",
+    "author": [
+      {
+        "family": "Su",
+        "given": "Xing"
+      },
+      {
+        "family": "Xue",
+        "given": "Shan"
+      },
+      {
+        "family": "Liu",
+        "given": "Fanzhen"
+      },
+      {
+        "family": "Wu",
+        "given": "Jia"
+      },
+      {
+        "family": "Yang",
+        "given": "Jian"
+      },
+      {
+        "family": "Zhou",
+        "given": "Chuan"
+      },
+      {
+        "family": "Hu",
+        "given": "Wenbin"
+      },
+      {
+        "family": "Paris",
+        "given": "Cecile"
+      },
+      {
+        "family": "Nepal",
+        "given": "Surya"
+      },
+      {
+        "family": "Jin",
+        "given": "Di"
+      },
+      {
+        "family": "Sheng",
+        "given": "Quan Z."
+      },
+      {
+        "family": "Yu",
+        "given": "Philip S."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          17
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "taha2020",
+    "type": "article-journal",
+    "abstract": "Most current survey papers classify community detection methods into broad categories and do not draw clear boundaries between the specific techniques employed by these methods. We survey in this paper all fine-grained community detection categories, the clustering methods that fall under these categories, and the techniques employed by these methods for optimizing each objective function. We provide methodology-based taxonomies that classify static and dynamic community detection methods into hierarchically nested, fine-grained, and specific classes. We classify the methods into the objective function they optimize. Each objective function class is classified into clustering categories. Each category is further classified into clustering methods. Methods are further classified into sub-methods and so on. Thus, the lowest subclass in a hierarchy is a fine-grained and specific method. For each method, we survey the different techniques in literature employed by the method. We empirically and experimentally compare and rank the different methods that fall under each clustering category. We also empirically and experimentally compare and rank the different categories that optimize a same objective function. In summary, the block-based, top-down divisive-based, random walk-based, and matrix eigenvector-based methods achieved good results. Finally, we provide fitness metrics for each objective function.",
+    "container-title": "IEEE Access",
+    "DOI": "10.1109/ACCESS.2020.2996595",
+    "ISSN": "2169-3536",
+    "page": "98330-98358",
+    "source": "IEEE Xplore",
+    "title": "Static and Dynamic Community Detection Methods That Optimize a Specific Objective Function: A Survey and Experimental Evaluation",
+    "title-short": "Static and Dynamic Community Detection Methods That Optimize a Specific Objective Function",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Taha",
+        "given": "Kamal"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2020"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "traag2019",
+    "type": "article-journal",
+    "container-title": "Scientific reports",
+    "ISSN": "2045-2322",
+    "issue": "1",
+    "page": "5233",
+    "title": "From Louvain to Leiden: guaranteeing well-connected communities",
+    "volume": "9",
+    "author": [
+      {
+        "family": "Traag",
+        "given": "Vincent A"
+      },
+      {
+        "family": "Waltman",
+        "given": "Ludo"
+      },
+      {
+        "family": "Van Eck",
+        "given": "Nees Jan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "vonluxburg2007",
+    "type": "article-journal",
+    "container-title": "Statistics and computing",
+    "ISSN": "0960-3174",
+    "page": "395-416",
+    "title": "A tutorial on spectral clustering",
+    "volume": "17",
+    "author": [
+      {
+        "family": "Von Luxburg",
+        "given": "Ulrike"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wasserman1994",
+    "type": "book",
+    "call-number": "HM131 .W356 1994",
+    "collection-number": "8",
+    "collection-title": "Structural analysis in the social sciences",
+    "event-place": "Cambridge ; New York",
+    "ISBN": "978-0-521-38269-4",
+    "number-of-pages": "825",
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge ; New York",
+    "source": "Library of Congress ISBN",
+    "title": "Social network analysis: methods and applications",
+    "title-short": "Social network analysis",
+    "author": [
+      {
+        "family": "Wasserman",
+        "given": "Stanley"
+      },
+      {
+        "family": "Faust",
+        "given": "Katherine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1994"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "xu2008",
+    "type": "article-journal",
+    "container-title": "International Journal of Intelligent Computing and Cybernetics",
+    "ISSN": "1756-378X",
+    "issue": "4",
+    "page": "484-508",
+    "title": "Recent advances in cluster analysis",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Rui"
+      },
+      {
+        "family": "Wunsch",
+        "given": "Donald C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "yang2016",
+    "type": "article-journal",
+    "abstract": "Abstract\n            Many community detection algorithms have been developed to uncover the mesoscopic properties of complex networks. However how good an algorithm is, in terms of accuracy and computing time, remains still open. Testing algorithms on real-world network has certain restrictions which made their insights potentially biased: the networks are usually small, and the underlying communities are not defined objectively. In this study, we employ the Lancichinetti-Fortunato-Radicchi benchmark graph to test eight state-of-the-art algorithms. We quantify the accuracy using complementary measures and algorithms’ computing time. Based on simple network properties and the aforementioned results, we provide guidelines that help to choose the most adequate community detection algorithm for a given network. Moreover, these rules allow uncovering limitations in the use of specific algorithms given macroscopic network properties. Our contribution is threefold: firstly, we provide actual techniques to determine which is the most suited algorithm in most circumstances based on observable properties of the network under consideration. Secondly, we use the mixing parameter as an easily measurable indicator of finding the ranges of reliability of the different algorithms. Finally, we study the dependency with network size focusing on both the algorithm’s predicting power and the effective computing time.",
+    "container-title": "Scientific Reports",
+    "DOI": "10.1038/srep30750",
+    "ISSN": "2045-2322",
+    "issue": "1",
+    "language": "en",
+    "page": "30750",
+    "source": "DOI.org (Crossref)",
+    "title": "A Comparative Analysis of Community Detection Algorithms on Artificial Networks",
+    "URL": "https://www.nature.com/articles/srep30750",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Zhao"
+      },
+      {
+        "family": "Algesheimer",
+        "given": "René"
+      },
+      {
+        "family": "Tessone",
+        "given": "Claudio J."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          17
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "yassine2022",
+    "type": "article-journal",
+    "abstract": "Abstract\n            Uncovering community structure has made a significant advancement in explaining, analyzing, and forecasting behaviors and dynamics of networks related to different fields in sociology, criminology, biology, medicine, communication, economics, and academia. Detecting and clustering communities is a powerful step toward identifying the structural properties and the behavioral patterns in social networks. Recently, online learning has been progressively adopted by a lot of educational practices which raise many questions about assessing the learners' engagement, collaboration, and behaviors in the new emerging learning communities. This systematic literature review aims to assess the use of community detection techniques in analyzing the network's structure in online learning environments. It provides a comprehensive overview of the existing research that adopted those techniques with identifying the educational objectives behind their application as well as suggesting possible future research directions. Our analysis covered 65 studies that found in the literature and applied different community discovery techniques on various types of online learning environments to analyze their users' interactions patterns. Our review revealed the potential of this field in improving educational practices and decisions and in utilizing the massive amount of data generated from interacting with those environments. Finally, we highlighted the need to include automated community discovery techniques in online learning environments to facilitate and enhance their use as well as we stressed on the urge for further advance research to uncover a lot of hidden opportunities.\n            \n              This article is categorized under:\n              \n                \n                  Algorithmic Development > Statistics\n                \n                \n                  Algorithmic Development > Web Mining\n                \n                \n                  Application Areas > Education and Learning",
+    "container-title": "WIREs Data Mining and Knowledge Discovery",
+    "DOI": "10.1002/widm.1431",
+    "ISSN": "1942-4787, 1942-4795",
+    "issue": "1",
+    "language": "en",
+    "page": "e1431",
+    "source": "DOI.org (Crossref)",
+    "title": "Detecting communities using social network analysis in online learning environments: Systematic literature review",
+    "title-short": "Detecting communities using social network analysis in online learning environments",
+    "URL": "https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1431",
+    "volume": "12",
+    "author": [
+      {
+        "family": "Yassine",
+        "given": "Sahar"
+      },
+      {
+        "family": "Kadry",
+        "given": "Seifedine"
+      },
+      {
+        "family": "Sicilia",
+        "given": "Miguel‐Angel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          9,
+          5
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "arrigo2017",
+    "type": "article-journal",
+    "container-title": "Applied Network Science",
+    "DOI": "10.1007/s41109-017-0038-z",
+    "ISSN": "2364-8228",
+    "issue": "1",
+    "journalAbbreviation": "Appl Netw Sci",
+    "language": "en",
+    "page": "17",
+    "source": "DOI.org (Crossref)",
+    "title": "Sparse matrix computations for dynamic network centrality",
+    "URL": "http://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0038-z",
+    "volume": "2",
+    "author": [
+      {
+        "family": "Arrigo",
+        "given": "Francesca"
+      },
+      {
+        "family": "Higham",
+        "given": "Desmond J."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "barabasi2013",
+    "type": "article-journal",
+    "abstract": "Professor Barabási's talk described how the tools of network science can help understand the Web's structure, development and weaknesses. The Web is an information network, in which the nodes are documents (at the time of writing over one trillion of them), connected by links. Other well-known network structures include the Internet, a physical network where the nodes are routers and the links are physical connections, and organizations, where the nodes are people and the links represent communications.",
+    "container-title": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+    "DOI": "10.1098/rsta.2012.0375",
+    "ISSN": "1364-503X, 1471-2962",
+    "issue": "1987",
+    "journalAbbreviation": "Phil. Trans. R. Soc. A.",
+    "language": "en",
+    "page": "20120375",
+    "source": "DOI.org (Crossref)",
+    "title": "Network science",
+    "URL": "https://royalsocietypublishing.org/doi/10.1098/rsta.2012.0375",
+    "volume": "371",
+    "author": [
+      {
+        "family": "Barabási",
+        "given": "Albert-László"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2013",
+          3,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "chiuso2012",
+    "type": "article-journal",
+    "container-title": "Automatica",
+    "DOI": "10.1016/j.automatica.2012.05.054",
+    "ISSN": "00051098",
+    "issue": "8",
+    "journalAbbreviation": "Automatica",
+    "language": "en",
+    "page": "1553-1565",
+    "source": "DOI.org (Crossref)",
+    "title": "A Bayesian approach to sparse dynamic network identification",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0005109812002270",
+    "volume": "48",
+    "author": [
+      {
+        "family": "Chiuso",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Pillonetto",
+        "given": "Gianluigi"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "chow1987",
+    "type": "chapter",
+    "container-title": "Singular Perturbations and Asymptotic Analysis in Control Systems",
+    "event-place": "Berlin/Heidelberg",
+    "ISBN": "978-3-540-17362-5",
+    "language": "en",
+    "note": "collection-title: Lecture Notes in Control and Information Sciences\nDOI: 10.1007/BFb0007181",
+    "page": "310-353",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin/Heidelberg",
+    "source": "DOI.org (Crossref)",
+    "title": "Time scale modeling of dynamic networks with sparse and weak connections",
+    "URL": "http://link.springer.com/10.1007/BFb0007181",
+    "volume": "90",
+    "editor": [
+      {
+        "family": "Kokotovic",
+        "given": "Petar V."
+      },
+      {
+        "family": "Bensoussan",
+        "given": "Alain"
+      },
+      {
+        "family": "Blankenship",
+        "given": "Gilmer L."
+      }
+    ],
+    "author": [
+      {
+        "family": "Chow",
+        "given": "J. H."
+      },
+      {
+        "family": "Kokotovic",
+        "given": "P. V."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1987"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kruschke2010",
+    "type": "article-journal",
+    "abstract": "Abstract\n            Bayesian methods have garnered huge interest in cognitive science as an approach to models of cognition and perception. On the other hand, Bayesian methods for data analysis have not yet made much headway in cognitive science against the institutionalized inertia of 20th century null hypothesis significance testing (NHST). Ironically, specific Bayesian models of cognition and perception may not long endure the ravages of empirical verification, but generic Bayesian methods for data analysis will eventually dominate. It is time that Bayesian data analysis became the norm for empirical methods in cognitive science. This article reviews a fatal flaw of NHST and introduces the reader to some benefits of Bayesian data analysis. The article presents illustrative examples of multiple comparisons in Bayesian analysis of variance and Bayesian approaches to statistical power. Copyright © 2010 John Wiley & Sons, Ltd.\n            \n              This article is categorized under:\n              \n                \n                  Psychology > Theory and Methods",
+    "container-title": "WIREs Cognitive Science",
+    "DOI": "10.1002/wcs.72",
+    "ISSN": "1939-5078, 1939-5086",
+    "issue": "5",
+    "journalAbbreviation": "WIRES Cognitive Science",
+    "language": "en",
+    "page": "658-676",
+    "source": "DOI.org (Crossref)",
+    "title": "Bayesian data analysis",
+    "URL": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.72",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Kruschke",
+        "given": "John K."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ghoorchian2019",
+    "type": "article-journal",
+    "abstract": "DiVA portal is a finding tool for research publications and student theses written at the following 50 universities and research institutions.",
+    "language": "eng",
+    "note": "publisher: KTH Royal Institute of Technology",
+    "source": "www.diva-portal.org",
+    "title": "Graph Algorithms for Large-Scale and Dynamic Natural Language Processing",
+    "URL": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-263914",
+    "author": [
+      {
+        "family": "Ghoorchian",
+        "given": "Kambiz"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "gignoux2017",
+    "type": "article-journal",
+    "container-title": "Ecological Complexity",
+    "DOI": "10.1016/j.ecocom.2017.02.006",
+    "ISSN": "1476945X",
+    "journalAbbreviation": "Ecological Complexity",
+    "language": "en",
+    "page": "34-49",
+    "source": "DOI.org (Crossref)",
+    "title": "Emergence and complex systems: The contribution of dynamic graph theory",
+    "title-short": "Emergence and complex systems",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1476945X17300247",
+    "volume": "31",
+    "author": [
+      {
+        "family": "Gignoux",
+        "given": "Jacques"
+      },
+      {
+        "family": "Chérel",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Davies",
+        "given": "Ian D."
+      },
+      {
+        "family": "Flint",
+        "given": "Shayne R."
+      },
+      {
+        "family": "Lateltin",
+        "given": "Eric"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "glynn2015",
+    "type": "article-journal",
+    "abstract": "In dynamic topic modeling, the proportional contribution of a topic to a document depends on the temporal dynamics of that topic's overall prevalence in the corpus. We extend the Dynamic Topic Model of Blei and Lafferty (2006) by explicitly modeling document level topic proportions with covariates and dynamic structure that includes polynomial trends and periodicity. A Markov Chain Monte Carlo (MCMC) algorithm that utilizes Polya-Gamma data augmentation is developed for posterior inference. Conditional independencies in the model and sampling are made explicit, and our MCMC algorithm is parallelized where possible to allow for inference in large corpora. To address computational bottlenecks associated with Polya-Gamma sampling, we appeal to the Central Limit Theorem to develop a Gaussian approximation to the Polya-Gamma random variable. This approximation is fast and reliable for parameter values relevant in the text mining domain. Our model and inference algorithm are validated with multiple simulation examples, and we consider the application of modeling trends in PubMed abstracts. We demonstrate that sharing information across documents is critical for accurately estimating document-specific topic proportions. We also show that explicitly modeling polynomial and periodic behavior improves our ability to predict topic prevalence at future time points.",
+    "DOI": "10.48550/ARXIV.1511.03947",
+    "license": "arXiv.org perpetual, non-exclusive license",
+    "note": "publisher: arXiv\nversion: 1",
+    "source": "DOI.org (Datacite)",
+    "title": "Bayesian Analysis of Dynamic Linear Topic Models",
+    "URL": "https://arxiv.org/abs/1511.03947",
+    "author": [
+      {
+        "family": "Glynn",
+        "given": "Chris"
+      },
+      {
+        "family": "Tokdar",
+        "given": "Surya T."
+      },
+      {
+        "family": "Banks",
+        "given": "David L."
+      },
+      {
+        "family": "Howard",
+        "given": "Brian"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "guo2022",
+    "type": "article-journal",
+    "abstract": "In this paper, we propose a method that extends the persistence-based topological data analysis (TDA) that is typically used for characterizing shapes to general networks. We introduce the concept of the community tree, a tree structure established based on clique communities from the clique percolation method, to summarize the topological structures in a network from a persistence perspective. Furthermore, we develop efficient algorithms to construct and update community trees by maintaining a series of clique graphs in the form of spanning forests, in which each spanning tree is built on an underlying Euler Tour tree. With the information revealed by community trees and the corresponding persistence diagrams, our proposed approach is able to detect clique communities and keep track of the major structural changes during their evolution given a stability threshold. The results demonstrate its effectiveness in extracting useful structural insights for time-varying social networks.",
+    "DOI": "10.48550/ARXIV.2204.03191",
+    "license": "arXiv.org perpetual, non-exclusive license",
+    "note": "publisher: arXiv\nversion: 1",
+    "source": "DOI.org (Datacite)",
+    "title": "Efficient Community Detection in Large-Scale Dynamic Networks Using Topological Data Analysis",
+    "URL": "https://arxiv.org/abs/2204.03191",
+    "author": [
+      {
+        "family": "Guo",
+        "given": "Wei"
+      },
+      {
+        "family": "Chen",
+        "given": "Ruqian"
+      },
+      {
+        "family": "Chen",
+        "given": "Yen-Chi"
+      },
+      {
+        "family": "Banerjee",
+        "given": "Ashis G."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hoffmann2020",
+    "type": "article-journal",
+    "abstract": "We present a principled approach for detecting communities in networks that uses only observations of interdependent node signals.\n          , \n            We develop a Bayesian hierarchical model to identify communities of time series. Fitting the model provides an end-to-end community detection algorithm that does not extract information as a sequence of point estimates but propagates uncertainties from the raw data to the community labels. Our approach naturally supports multiscale community detection and the selection of an optimal scale using model comparison. We study the properties of the algorithm using synthetic data and apply it to daily returns of constituents of the S&P100 index and climate data from U.S. cities.",
+    "container-title": "Science Advances",
+    "DOI": "10.1126/sciadv.aav1478",
+    "ISSN": "2375-2548",
+    "issue": "4",
+    "journalAbbreviation": "Sci. Adv.",
+    "language": "en",
+    "page": "eaav1478",
+    "source": "DOI.org (Crossref)",
+    "title": "Community detection in networks without observing edges",
+    "URL": "https://www.science.org/doi/10.1126/sciadv.aav1478",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Hoffmann",
+        "given": "Till"
+      },
+      {
+        "family": "Peel",
+        "given": "Leto"
+      },
+      {
+        "family": "Lambiotte",
+        "given": "Renaud"
+      },
+      {
+        "family": "Jones",
+        "given": "Nick S."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          1,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hopkins2017",
+    "type": "paper-conference",
+    "container-title": "2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS)",
+    "DOI": "10.1109/FOCS.2017.42",
+    "event-place": "Berkeley, CA",
+    "event-title": "2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS)",
+    "ISBN": "978-1-5386-3464-6",
+    "page": "379-390",
+    "publisher": "IEEE",
+    "publisher-place": "Berkeley, CA",
+    "source": "DOI.org (Crossref)",
+    "title": "Efficient Bayesian Estimation from Few Samples: Community Detection and Related Problems",
+    "title-short": "Efficient Bayesian Estimation from Few Samples",
+    "URL": "http://ieeexplore.ieee.org/document/8104074/",
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "Samuel B."
+      },
+      {
+        "family": "Steurer",
+        "given": "David"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kochkarov2015",
+    "type": "article-journal",
+    "container-title": "Computational Mathematics and Mathematical Physics",
+    "DOI": "10.1134/S0965542515090080",
+    "ISSN": "0965-5425, 1555-6662",
+    "issue": "9",
+    "journalAbbreviation": "Comput. Math. and Math. Phys.",
+    "language": "en",
+    "page": "1590-1596",
+    "source": "DOI.org (Crossref)",
+    "title": "Issues of dynamic graph theory",
+    "URL": "http://link.springer.com/10.1134/S0965542515090080",
+    "volume": "55",
+    "author": [
+      {
+        "family": "Kochkarov",
+        "given": "A. A."
+      },
+      {
+        "family": "Kochkarov",
+        "given": "R. A."
+      },
+      {
+        "family": "Malinetskii",
+        "given": "G. G."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lotker2021",
+    "type": "chapter",
+    "container-title": "Analyzing Narratives in Social Networks",
+    "event-place": "Cham",
+    "ISBN": "978-3-030-68298-9",
+    "language": "en",
+    "note": "DOI: 10.1007/978-3-030-68299-6_11",
+    "page": "167-185",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "source": "DOI.org (Crossref)",
+    "title": "Introduction to Evolving Social Networks",
+    "URL": "https://link.springer.com/10.1007/978-3-030-68299-6_11",
+    "container-author": [
+      {
+        "family": "Lotker",
+        "given": "Zvi"
+      }
+    ],
+    "author": [
+      {
+        "family": "Lotker",
+        "given": "Zvi"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "meyer-base2017",
+    "type": "article-journal",
+    "container-title": "Frontiers in Computational Neuroscience",
+    "DOI": "10.3389/fncom.2017.00087",
+    "ISSN": "1662-5188",
+    "journalAbbreviation": "Front. Comput. Neurosci.",
+    "page": "87",
+    "source": "DOI.org (Crossref)",
+    "title": "Dynamical Graph Theory Networks Methods for the Analysis of Sparse Functional Connectivity Networks and for Determining Pinning Observability in Brain Networks",
+    "URL": "http://journal.frontiersin.org/article/10.3389/fncom.2017.00087/full",
+    "volume": "11",
+    "author": [
+      {
+        "family": "Meyer-Bäse",
+        "given": "Anke"
+      },
+      {
+        "family": "Roberts",
+        "given": "Rodney G."
+      },
+      {
+        "family": "Illan",
+        "given": "Ignacio A."
+      },
+      {
+        "family": "Meyer-Bäse",
+        "given": "Uwe"
+      },
+      {
+        "family": "Lobbes",
+        "given": "Marc"
+      },
+      {
+        "family": "Stadlbauer",
+        "given": "Andreas"
+      },
+      {
+        "family": "Pinker-Domenig",
+        "given": "Katja"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          10,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mirshahvalad2012",
+    "type": "article-journal",
+    "container-title": "PLoS ONE",
+    "DOI": "10.1371/journal.pone.0033721",
+    "ISSN": "1932-6203",
+    "issue": "3",
+    "journalAbbreviation": "PLoS ONE",
+    "language": "en",
+    "page": "e33721",
+    "source": "DOI.org (Crossref)",
+    "title": "Significant Communities in Large Sparse Networks",
+    "URL": "https://dx.plos.org/10.1371/journal.pone.0033721",
+    "volume": "7",
+    "author": [
+      {
+        "family": "Mirshahvalad",
+        "given": "Atieh"
+      },
+      {
+        "family": "Lindholm",
+        "given": "Johan"
+      },
+      {
+        "family": "Derlén",
+        "given": "Mattias"
+      },
+      {
+        "family": "Rosvall",
+        "given": "Martin"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Vespignani",
+        "given": "Alessandro"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          3,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "morup2012",
+    "type": "article-journal",
+    "abstract": "Many networks of scientific interest naturally decompose into clusters or communities with comparatively fewer external than internal links; however, current Bayesian models of network communities do not exert this intuitive notion of communities. We formulate a nonparametric Bayesian model for community detection consistent with an intuitive definition of communities and present a Markov chain Monte Carlo procedure for inferring the community structure. A Matlab toolbox with the proposed inference procedure is available for download. On synthetic and real networks, our model detects communities consistent with ground truth, and on real networks, it outperforms existing approaches in predicting missing links. This suggests that community structure is an important structural property of networks that should be explicitly modeled.",
+    "container-title": "Neural Computation",
+    "DOI": "10.1162/NECO_a_00314",
+    "ISSN": "0899-7667, 1530-888X",
+    "issue": "9",
+    "journalAbbreviation": "Neural Computation",
+    "language": "en",
+    "page": "2434-2456",
+    "source": "DOI.org (Crossref)",
+    "title": "Bayesian Community Detection",
+    "URL": "https://direct.mit.edu/neco/article/24/9/2434-2456/7799",
+    "volume": "24",
+    "author": [
+      {
+        "family": "Mørup",
+        "given": "Morten"
+      },
+      {
+        "family": "Schmidt",
+        "given": "Mikkel N."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "newman2013",
+    "type": "article-journal",
+    "abstract": "Spectral methods based on the eigenvectors of matrices are widely used in the analysis of network data, particularly for community detection and graph partitioning. Standard methods based on the adjacency matrix and related matrices, however, break down for very sparse networks, which includes many networks of practical interest. As a solution to this problem it has been recently proposed that we focus instead on the spectrum of the non-backtracking matrix, an alternative matrix representation of a network that shows better behavior in the sparse limit. Inspired by this suggestion, we here make use of a relaxation method to derive a spectral community detection algorithm that works well even in the sparse regime where other methods break down. Interestingly, however, the matrix at the heart of the method, it turns out, is not exactly the non-backtracking matrix, but a variant of it with a somewhat different definition. We study the behavior of this variant matrix for both artificial and real-world networks and find it to have desirable properties, especially in the common case of networks with broad degree distributions, for which it appears to have a better behaved spectrum and eigenvectors than the original non-backtracking matrix.",
+    "DOI": "10.48550/ARXIV.1308.6494",
+    "license": "arXiv.org perpetual, non-exclusive license",
+    "note": "publisher: arXiv\nversion: 1",
+    "source": "DOI.org (Datacite)",
+    "title": "Spectral community detection in sparse networks",
+    "URL": "https://arxiv.org/abs/1308.6494",
+    "author": [
+      {
+        "family": "Newman",
+        "given": "M. E. J."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "psorakis2010",
+    "type": "article-journal",
+    "abstract": "Identifying overlapping communities in networks is a challenging task. In this work we present a novel approach to community detection that utilises the Bayesian non-negative matrix factorisation (NMF) model to produce a probabilistic output for node memberships. The scheme has the advantage of computational efficiency, soft community membership and an intuitive foundation. We present the performance of the method against a variety of benchmark problems and compare and contrast it to several other algorithms for community detection. Our approach performs favourably compared to other methods at a fraction of the computational costs.",
+    "DOI": "10.48550/ARXIV.1009.2646",
+    "license": "arXiv.org perpetual, non-exclusive license",
+    "note": "publisher: arXiv\nversion: 5",
+    "source": "DOI.org (Datacite)",
+    "title": "Efficient Bayesian Community Detection using Non-negative Matrix Factorisation",
+    "URL": "https://arxiv.org/abs/1009.2646",
+    "author": [
+      {
+        "family": "Psorakis",
+        "given": "Ioannis"
+      },
+      {
+        "family": "Roberts",
+        "given": "Stephen"
+      },
+      {
+        "family": "Sheldon",
+        "given": "Ben"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ruan2007",
+    "type": "paper-conference",
+    "container-title": "Seventh IEEE International Conference on Data Mining (ICDM 2007)",
+    "DOI": "10.1109/ICDM.2007.72",
+    "event-place": "Omaha, NE, USA",
+    "event-title": "Seventh IEEE International Conference on Data Mining (ICDM 2007)",
+    "ISBN": "978-0-7695-3018-5",
+    "page": "643-648",
+    "publisher": "IEEE",
+    "publisher-place": "Omaha, NE, USA",
+    "source": "DOI.org (Crossref)",
+    "title": "An Efficient Spectral Algorithm for Network Community Discovery and Its Applications to Biological and Social Networks",
+    "URL": "http://ieeexplore.ieee.org/document/4470304/",
+    "author": [
+      {
+        "family": "Ruan",
+        "given": "Jianhua"
+      },
+      {
+        "family": "Zhang",
+        "given": "Weixiong"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2007",
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "singh2015",
+    "type": "article-journal",
+    "abstract": "Abstract\n            Spectral algorithms based on matrix representations of networks are often used to detect communities, but classic spectral methods based on the adjacency matrix and its variants fail in sparse networks. New spectral methods based on non-backtracking random walks have recently been introduced that successfully detect communities in many sparse networks. However, the spectrum of non-backtracking random walks ignores hanging trees in networks that can contain information about their community structure. We introduce the reluctant backtracking operators that explicitly account for hanging trees as they admit a small probability of returning to the immediately previous node, unlike the non-backtracking operators that forbid an immediate return. We show that the reluctant backtracking operators can detect communities in certain sparse networks where the non-backtracking operators cannot, while performing comparably on benchmark stochastic block model networks and real world networks. We also show that the spectrum of the reluctant backtracking operator approximately optimises the standard modularity function. Interestingly, for this family of non- and reluctant-backtracking operators the main determinant of performance on real-world networks is whether or not they are normalised to conserve probability at each node.",
+    "container-title": "Scientific Reports",
+    "DOI": "10.1038/srep08828",
+    "ISSN": "2045-2322",
+    "issue": "1",
+    "journalAbbreviation": "Sci Rep",
+    "language": "en",
+    "page": "8828",
+    "source": "DOI.org (Crossref)",
+    "title": "Finding communities in sparse networks",
+    "URL": "https://www.nature.com/articles/srep08828",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Singh",
+        "given": "Abhinav"
+      },
+      {
+        "family": "Humphries",
+        "given": "Mark D."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          3,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "theodoridis2015",
+    "type": "book",
+    "publisher": "Academic press",
+    "source": "Google Scholar",
+    "title": "Machine learning: a Bayesian and optimization perspective",
+    "title-short": "Machine learning",
+    "URL": "https://www.google.com/books?hl=ru&lr=&id=NHODBAAAQBAJ&oi=fnd&pg=PP1&dq=Theodoridis+S.+Machine+learning:+a+Bayesian+and+optimization+perspective.+Academic+press,+2015.&ots=2TKnMLDj-1&sig=7Zl4HEgG6xsYonXSwAAujJ4_azQ",
+    "author": [
+      {
+        "family": "Theodoridis",
+        "given": "Sergios"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tibshirani1996",
+    "type": "article-journal",
+    "abstract": "SUMMARY\n            We propose a new method for estimation in linear models. The ‘lasso’ minimizes the residual sum of squares subject to the sum of the absolute value of the coefficients being less than a constant. Because of the nature of this constraint it tends to produce some coefficients that are exactly 0 and hence gives interpretable models. Our simulation studies suggest that the lasso enjoys some of the favourable properties of both subset selection and ridge regression. It produces interpretable models like subset selection and exhibits the stability of ridge regression. There is also an interesting relationship with recent work in adaptive function estimation by Donoho and Johnstone. The lasso idea is quite general and can be applied in a variety of statistical models: extensions to generalized regression models and tree‐based models are briefly described.",
+    "container-title": "Journal of the Royal Statistical Society: Series B (Methodological)",
+    "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+    "ISSN": "0035-9246, 2517-6161",
+    "issue": "1",
+    "journalAbbreviation": "Journal of the Royal Statistical Society: Series B (Methodological)",
+    "language": "en",
+    "page": "267-288",
+    "source": "DOI.org (Crossref)",
+    "title": "Regression Shrinkage and Selection Via the Lasso",
+    "URL": "https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2517-6161.1996.tb02080.x",
+    "volume": "58",
+    "author": [
+      {
+        "family": "Tibshirani",
+        "given": "Robert"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1996",
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "vanderpas2018",
+    "type": "article-journal",
+    "source": "Google Scholar",
+    "title": "Bayesian community detection",
+    "URL": "https://projecteuclid.org/journals/bayesian-analysis/volume-13/issue-3/Bayesian-Community-Detection/10.1214/17-BA1078.short",
+    "author": [
+      {
+        "family": "Pas",
+        "given": "S. L.",
+        "non-dropping-particle": "van der"
+      },
+      {
+        "family": "Vaart",
+        "given": "AW38078661407",
+        "non-dropping-particle": "van der"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wang2022",
+    "type": "article-journal",
+    "abstract": "Network inference has been extensively studied in several fields, such as systems biology and social sciences. Learning network topology and internal dynamics is essential to understand mechanisms of complex systems. In particular, sparse topologies and stable dynamics are fundamental features of many real-world continuous-time (CT) networks. Given that usually only a partial set of nodes are able to observe, in this paper, we consider linear CT systems to depict networks since they can model unmeasured nodes via transfer functions. Additionally, measurements tend to be noisy and with low and varying sampling frequencies. For this reason, we consider CT models since discrete-time approximations often require fine-grained measurements and uniform sampling steps. The developed method applies dynamical structure functions (DSFs) derived from linear stochastic differential equations (SDEs) to describe networks of measured nodes. A numerical sampling method, preconditioned Crank-Nicolson (pCN), is used to refine coarse-grained trajectories to improve inference accuracy. The convergence property of the developed method is robust to the dimension of data sources. Monte Carlo simulations indicate that the developed method outperforms state-of-the-art methods including group sparse Bayesian learning (GSBL), BINGO, kernel-based methods, dynGENIE3, GENIE3, and ARNI. The simulations include random and ring networks, and a synthetic biological network. These are challenging networks, suggesting that the developed method can be applied under a wide range of contexts, such as gene regulatory networks, social networks, and communication systems.",
+    "DOI": "10.48550/ARXIV.2206.00858",
+    "license": "arXiv.org perpetual, non-exclusive license",
+    "note": "publisher: arXiv\nversion: 2",
+    "source": "DOI.org (Datacite)",
+    "title": "Bayesian Inference of Stochastic Dynamical Networks",
+    "URL": "https://arxiv.org/abs/2206.00858",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yasen"
+      },
+      {
+        "family": "Jin",
+        "given": "Junyang"
+      },
+      {
+        "family": "Goncalves",
+        "given": "Jorge"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "yang2011",
+    "type": "article-journal",
+    "container-title": "Machine Learning",
+    "DOI": "10.1007/s10994-010-5214-7",
+    "ISSN": "0885-6125, 1573-0565",
+    "issue": "2",
+    "journalAbbreviation": "Mach Learn",
+    "language": "en",
+    "page": "157-189",
+    "source": "DOI.org (Crossref)",
+    "title": "Detecting communities and their evolutions in dynamic social networks—a Bayesian approach",
+    "URL": "http://link.springer.com/10.1007/s10994-010-5214-7",
+    "volume": "82",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Tianbao"
+      },
+      {
+        "family": "Chi",
+        "given": "Yun"
+      },
+      {
+        "family": "Zhu",
+        "given": "Shenghuo"
+      },
+      {
+        "family": "Gong",
+        "given": "Yihong"
+      },
+      {
+        "family": "Jin",
+        "given": "Rong"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2011",
+          2
+        ]
+      ]
+    }
+  },
+  {
     "id": "snijdersStochasticActororientedModels2017",
     "type": "article-journal",
     "container-title": "Annual review of statistics and its application",
