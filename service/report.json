@@ -2866,6 +2866,1694 @@
     }
   },
   {
+    "id": "Agrawal2013LinkLP",
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "Priyanka"
+      },
+      {
+        "family": "Garg",
+        "given": "Vikas K."
+      },
+      {
+        "family": "Narayanam",
+        "given": "Ramasuri"
+      }
+    ],
+    "citation-key": "Agrawal2013LinkLP",
+    "DOI": "10.25781/KAUST-TZW78",
+    "event-title": "International Joint Conference on Artificial Intelligence",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "2591 – 2597",
+    "publisher": "KAUST Research Repository",
+    "title": "Link Label Prediction in Signed Social Networks",
+    "type": "paper-conference",
+    "URL": "https://api.semanticscholar.org/CorpusID:6389344"
+  },
+  {
+    "id": "article",
+    "author": [
+      {
+        "family": "Getoor",
+        "given": "Lise"
+      },
+      {
+        "family": "Friedman",
+        "given": "Nir"
+      },
+      {
+        "family": "Koller",
+        "given": "Daphne"
+      },
+      {
+        "family": "Taskar",
+        "given": "Benjamin"
+      }
+    ],
+    "citation-key": "article",
+    "container-title-short": "Journal of Machine Learning Research",
+    "DOI": "10.1162/jmlr.2003.3.4-5.679",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "679 – 707",
+    "title": "Learning Probabilistic Models of Link Structure",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "id": "chen2019",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Xinyu"
+      },
+      {
+        "family": "He",
+        "given": "Zhaocheng"
+      },
+      {
+        "family": "Chen",
+        "given": "Yixian"
+      },
+      {
+        "family": "Lu",
+        "given": "Yuhuan"
+      },
+      {
+        "family": "Wang",
+        "given": "Jiawei"
+      }
+    ],
+    "citation-key": "chen2019",
+    "container-title": "Transportation Research Part C: Emerging Technologies",
+    "container-title-short": "Transportation Research Part C: Emerging Technologies",
+    "DOI": "10.1016/J.TRC.2019.03.003",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "66 – 77",
+    "publisher": "Elsevier",
+    "source": "Google Scholar",
+    "title": "Missing Traffic Data Imputation and Pattern Discovery with a Bayesian Augmented Tensor Factorization Model",
+    "type": "article-journal",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0968090X18307757",
+    "volume": "104"
+  },
+  {
+    "id": "cheng2012",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "Chen"
+      },
+      {
+        "family": "Yang",
+        "given": "Haiqin"
+      },
+      {
+        "family": "King",
+        "given": "Irwin"
+      },
+      {
+        "family": "Lyu",
+        "given": "Michael"
+      }
+    ],
+    "citation-key": "cheng2012",
+    "event-title": "AAAI conference on artificial intelligence",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "17 – 23",
+    "source": "Google Scholar",
+    "title": "Fused Matrix Factorization with Geographical and Social Influence in Location-based Social Networks",
+    "type": "paper-conference",
+    "URL": "https://ojs.aaai.org/index.php/AAAI/article/view/8100",
+    "volume": "26"
+  },
+  {
+    "id": "cho2018",
+    "abstract": "We analyse the Publication and Research data set of University of Bristol collected between 2008 and 2013. Using the existing co-authorship network and academic information thereof, we propose a new link prediction methodology, with the specific aim of identifying potential interdisciplinary collaboration in a university-wide collaboration network.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Cho",
+        "given": "Haeran"
+      },
+      {
+        "family": "Yu",
+        "given": "Yi"
+      }
+    ],
+    "citation-key": "cho2018",
+    "container-title-short": "Social Network Analysis Mining",
+    "DOI": "10.1007/s13278-018-0501-6",
+    "ISSN": "1869-5469",
+    "issue": "25",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          27
+        ]
+      ]
+    },
+    "language": "en",
+    "source": "Springer Link",
+    "title": "Link prediction for Interdisciplinary Collaboration via Co-authorship Network",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1007/s13278-018-0501-6",
+    "volume": "8"
+  },
+  {
+    "id": "chuan2018",
+    "abstract": "Link prediction in online social networks is used to determine new interactions among its members which are likely to occur in the future. Link prediction in the coauthorship network has been regarded as one of the main targets in link prediction researches so far. Researchers have focused on analyzing and proposing solutions to give efficient recommendation for authors who can work together in a science project. In order to give precise prediction of links between two ubiquitous authors in a co-authorship network, it is preferable to design a similarity metric between them and then utilizing it to determine the most possible co-author(s). However, the relevant researches did not regard the integration of paper’s content in the metric itself. This is important when considering the collaboration between scientists since it is possible that authors having same research interests are more likely to have a joint paper than those in different researches. In this paper, we propose a new metric for link prediction in the coauthorship network based on the content similarity named as LDAcosin. Mathematical notions of the link prediction in the co-authorship network and a link prediction algorithm based on topic modeling are proposed. The new metric is experimentally validated on the public bibliographic collection.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Chuan",
+        "given": "Pham Minh"
+      },
+      {
+        "family": "Son",
+        "given": "Le Hoang"
+      },
+      {
+        "family": "Ali",
+        "given": "Mumtaz"
+      },
+      {
+        "family": "Khang",
+        "given": "Tran Dinh"
+      },
+      {
+        "family": "Huong",
+        "given": "Le Thanh"
+      },
+      {
+        "family": "Dey",
+        "given": "Nilanjan"
+      }
+    ],
+    "citation-key": "chuan2018",
+    "container-title": "Applied Intelligence",
+    "container-title-short": "Applied Intelligence",
+    "DOI": "10.1007/s10489-017-1086-x",
+    "event-place": "United States",
+    "ISSN": "0924-669X",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "2470 – 2486",
+    "publisher-place": "United States",
+    "source": "research.usq.edu.au",
+    "title": "Link prediction in co-authorship Networks Based on Hybrid Content Similarity Metric",
+    "type": "article-journal",
+    "URL": "https://link.springer.com/article/10.1007%2Fs10489-017-1086-x",
+    "volume": "48"
+  },
+  {
+    "id": "coskun2015",
+    "abstract": "Link prediction is an important and well-studiedproblem in network analysis, with a broad range of applicationsincluding recommender systems, anomaly detection, and denoising. The general principle in link prediction is to use thetopological characteristics of the nodes in the network to predictedges that might be added to or removed from the network. While early research utilized local network neighborhood tocharacterize the topological relationship between pairs of nodes, recent studies increasingly show that use of global networkinformation improves prediction performance. Meanwhile, in thecontext of disease gene prioritization and functional annotationin computational biology, \"global topological similarity\" basedmethods are shown to be effective and robust to noise andascertainment bias. These methods compute topological profilesthat represent the global view of the network from the perspectiveof each node and compare these topological profiles to assess thetopological similarity between nodes. Here, we show that, in thecontext of link prediction in large networks, the performance ofthese global-view based methods can be adversely affected byhigh dimensionality. Motivated by this observation, we proposetwo dimensionality reduction techniques that exploit the sparsityand modularity of networks that are encountered in practicalapplications. Our experimental results on predicting futurecollaborations based on a comprehensive co-authorship networkshows that dimensionality reduction renders global-view basedlink prediction highly effective, and the resulting algorithmssignificantly outperform state-of-the-art link prediction methods.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Coskun",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Koyutürk",
+        "given": "Mehmet"
+      }
+    ],
+    "citation-key": "coskun2015",
+    "DOI": "10.1109/ICDMW.2015.195",
+    "event-title": "2015 IEEE International Conference on Data Mining Workshop (ICDMW)",
+    "ISSN": "2375-9259",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "page": "485 – 492",
+    "source": "IEEE Xplore",
+    "title": "Link Prediction in Large Networks by Comparing the Global View of Nodes in the Network",
+    "type": "paper-conference",
+    "URL": "https://ieeexplore.ieee.org/document/7395708/footnotes#footnotes"
+  },
+  {
+    "id": "daud2020",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Daud",
+        "given": "Nur Nasuha"
+      },
+      {
+        "family": "Ab Hamid",
+        "given": "Siti Hafizah"
+      },
+      {
+        "family": "Saadoon",
+        "given": "Muntadher"
+      },
+      {
+        "family": "Sahran",
+        "given": "Firdaus"
+      },
+      {
+        "family": "Anuar",
+        "given": "Nor Badrul"
+      }
+    ],
+    "citation-key": "daud2020",
+    "container-title-short": "Journal of Network and Computer Applications",
+    "DOI": "10.1016/j.jnca.2020.102716",
+    "ISSN": "10848045",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "102716",
+    "source": "DOI.org (Crossref)",
+    "title": "Applications of Link Prediction in Social Networks: A Review",
+    "title-short": "Applications of link prediction in social networks",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1084804520301909",
+    "volume": "166"
+  },
+  {
+    "id": "farasat2015",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Farasat",
+        "given": "Alireza"
+      },
+      {
+        "family": "Nikolaev",
+        "given": "Alexander"
+      },
+      {
+        "family": "Srihari",
+        "given": "Sargur N."
+      },
+      {
+        "family": "Blair",
+        "given": "Rachael Hageman"
+      }
+    ],
+    "citation-key": "farasat2015",
+    "container-title-short": "Social Network Analysis and Mining",
+    "DOI": "10.1007/s13278-015-0289-6",
+    "ISSN": "1869-5450, 1869-5469",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1 – 18",
+    "source": "DOI.org (Crossref)",
+    "title": "Probabilistic graphical models in modern social network analysis",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s13278-015-0289-6",
+    "volume": "5"
+  },
+  {
+    "id": "gou2021",
+    "abstract": "The data volume of various smart devices has exploded with the advent of the 5G communication era and the rapid development of Internet of Things technology. A large amount of data has higher requirements on the transmission protocol in the network. Most of the existing research focuses on studying a single node as the basic information transmission unit. However, social networks have complex topological structures, and such methods are difficult to grasp the evolutionary rules of the network. It usually leads to higher resource waste and problem complexity. A triad (a network subgraph containing three nodes) can not only provide accurate local topology information, but also its conversion rules are easy to describe, which can reduce the complexity of the problem. The mutual conversion between triads constitutes the evolution of the entire network. Based on this, this article first proposes a triad-based social network evolution analysis method (SNEA). SNEA includes a prediction algorithm (TPMPA) that learns the evolution of the triad transition probability matrix through time series and a quantization algorithm (TTHQA) that quantifies the impact of triad transformations on the network-based on random walks. SNEA integrates the advantages of the two algorithms to dynamically grasp the evolutionary rules of the network. Then this paper proposes a triad link prediction algorithm (TLPA) to quantitatively evaluate the results of the evolution analysis of the SNEA method. The TLPA algorithm reduces the blindness of message forwarding and unnecessary waste of resources by predicting the probability of a connection between nodes in the network. Experimental results show that compared with Epidemic, SECM, CRDNT, ICMT algorithms, our method has a prominent advantage in improving message delivery rate and reducing resource consumption.",
+    "author": [
+      {
+        "family": "Gou",
+        "given": "Fangfang"
+      },
+      {
+        "family": "Wu",
+        "given": "Jia"
+      }
+    ],
+    "citation-key": "gou2021",
+    "container-title-short": "Computer Communications",
+    "DOI": "10.1016/j.comcom.2021.10.009",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "143 – 155",
+    "source": "ResearchGate",
+    "title": "Triad Link Prediction Method Based on the Evolutionary Analysis with IoT in Oportunistic Social Networks",
+    "type": "article-journal",
+    "volume": "181"
+  },
+  {
+    "id": "hasan2011",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hasan",
+        "given": "Mohammad Al"
+      },
+      {
+        "family": "Zaki",
+        "given": "Mohammed J."
+      }
+    ],
+    "citation-key": "hasan2011",
+    "container-title": "Social Network Data Analytics",
+    "DOI": "10.1007/978-1-4419-8462-3_9",
+    "editor": [
+      {
+        "family": "Aggarwal",
+        "given": "Charu C."
+      }
+    ],
+    "event-place": "Boston, MA",
+    "ISBN": "978-1-4419-8461-6 978-1-4419-8462-3",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "243 – 275",
+    "publisher": "Springer US",
+    "publisher-place": "Boston, MA",
+    "source": "DOI.org (Crossref)",
+    "title": "A Survey of Link Prediction in Social Networks",
+    "type": "chapter",
+    "URL": "https://link.springer.com/10.1007/978-1-4419-8462-3_9"
+  },
+  {
+    "id": "haupt2021",
+    "abstract": "This paper analyzes online user conversation topics and discourse on Twitter related to the “Liberate” Protest movement in reaction to social distancing guidelines at the early stages of the COVID-19 pandemic. Interdisciplinary approaches in big data, machine learning, content analysis, and social network analysis (SNA) were used to characterize the communicative behavior, conversation themes, and network structures of Liberate protest supporters and non-supporters. Tweets were content coded and grouped within topic clusters produced from an unsupervised machine learning algorithm using natural language processing. An analysis of topic clusters found that tweets that support the protests are highly concentrated and have higher volumes of replicated tweets. Protest Supporters were also more likely to retweet other users while Non-Supporters were more likely to include a URL from an outside media source and produce a unique tweet. SNA was also used to assess the characteristics of retweet networks and found that the Protester Supporter network had a more centralized structure and was strongly influenced by a political organization, in contrast to the Non-Supporter network that had a larger number of smaller and more evenly-sized nodes and more driven by media personalities and commentators. Collectively, these characteristics indicate that protest supporters had more centralized, consistent and disseminated discourse protesting COVID-19 social distancing requirements compared to non-supporters who were more diverse in their criticism of the Liberate movement and generally more fragmented in their support of public health measures. Results from this study provide important insights into pandemic communication dynamics of opposing twitter communities, including in the context of those who oppose and support public health measures in a highly politicized social and online environment. Results are important in the context of assessing the messages, communication propagation and overall activities of social media communities in response to basic public health measures needed to contain this post-digital era global pandemic.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Haupt",
+        "given": "Michael Robert"
+      },
+      {
+        "family": "Jinich-Diamant",
+        "given": "Alex"
+      },
+      {
+        "family": "Li",
+        "given": "Jiawei"
+      },
+      {
+        "family": "Nali",
+        "given": "Matthew"
+      },
+      {
+        "family": "Mackey",
+        "given": "Tim K."
+      }
+    ],
+    "citation-key": "haupt2021",
+    "container-title": "Online Social Networks and Media",
+    "container-title-short": "Online Social Networks and Media",
+    "DOI": "10.1016/j.osnem.2020.100114",
+    "ISSN": "2468-6964",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "page": "100114",
+    "source": "ScienceDirect",
+    "title": "Characterizing Twitter User Topics and Communication Network Dynamics of the “Liberate” Movement During COVID-19 Using Unsupervised Machine Learning and Social Network Analysis",
+    "type": "article-journal",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S2468696420300550",
+    "volume": "21"
+  },
+  {
+    "id": "hoff2009",
+    "abstract": "We discuss a statistical model of social network data derived from matrix representations and symmetry considerations. The model can include known predictor information in the form of a regression term, and can represent additional structure via sender-specific and receiver-specific latent factors. This approach allows for the graphical description of a social network via the latent factors of the nodes, and provides a framework for the prediction of missing links in network data.",
+    "author": [
+      {
+        "family": "Hoff",
+        "given": "Peter D."
+      }
+    ],
+    "citation-key": "hoff2009",
+    "container-title": "Computational and Mathematical Organization Theory",
+    "container-title-short": "Computational and Mathematical Organization Theory",
+    "DOI": "10.1007/s10588-008-9040-4",
+    "ISSN": "1572-9346",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          1
+        ]
+      ]
+    },
+    "page": "261 – 272",
+    "title": "Multiplicative Latent Factor Models for Description and Prediction of Social Networks",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1007/s10588-008-9040-4",
+    "volume": "15"
+  },
+  {
+    "id": "huang2005",
+    "abstract": "Recommender systems can provide valuable services in a digital library environment, as demonstrated by its commercial success in book, movie, and music industries. One of the most commonly-used and successful recommendation algorithms is collaborative filtering, which explores the correlations within user-item interactions to infer user interests and preferences. However, the recommendation quality of collaborative filtering approaches is greatly limited by the data sparsity problem. To alleviate this problem we have previously proposed graph-based algorithms to explore transitive user-item associations. In this paper, we extend the idea of analyzing user-item interactions as graphs and employ link prediction approaches proposed in the recent network modeling literature for making collaborative filtering recommendations. We have adapted a wide range of linkage measures for making recommendations. Our preliminary experimental results based on a book recommendation dataset show that some of these measures achieved significantly better performance than standard collaborative filtering algorithms",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Huang",
+        "given": "Zan"
+      },
+      {
+        "family": "Li",
+        "given": "Xin"
+      },
+      {
+        "family": "Chen",
+        "given": "Hsinchun"
+      }
+    ],
+    "citation-key": "huang2005",
+    "DOI": "10.1145/1065385.1065415",
+    "event-place": "Denver CO USA",
+    "event-title": "Proceedings of the 5th ACM/IEEE-CS joint conference on Digital libraries",
+    "ISBN": "9781581138764",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          6,
+          7
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "141 – 142",
+    "publisher": "ACM",
+    "publisher-place": "Denver CO USA",
+    "source": "Semantic Scholar",
+    "title": "Link Prediction Approach to Collaborative Filtering",
+    "type": "paper-conference",
+    "URL": "https://dl.acm.org/doi/10.1145/1065385.1065415"
+  },
+  {
+    "id": "koller2010",
+    "author": [
+      {
+        "family": "Koller",
+        "given": "Daphne"
+      },
+      {
+        "family": "Friedman",
+        "given": "Nir"
+      }
+    ],
+    "citation-key": "koller2010",
+    "collection-title": "Adaptive computation and machine learning",
+    "edition": "Nachdr.",
+    "event-place": "Cambridge, Mass.",
+    "ISBN": "978-0-262-01319-2",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "1231",
+    "publisher": "MIT Press",
+    "publisher-place": "Cambridge, Mass.",
+    "source": "K10plus ISBN",
+    "title": "Probabilistic Graphical Models: Principles and Techniques",
+    "title-short": "Probabilistic graphical models",
+    "type": "book"
+  },
+  {
+    "id": "kuo2013",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "Tsung-Ting"
+      },
+      {
+        "family": "Yan",
+        "given": "Rui"
+      },
+      {
+        "family": "Huang",
+        "given": "Yu-Yang"
+      },
+      {
+        "family": "Kung",
+        "given": "Perng-Hwa"
+      },
+      {
+        "family": "Lin",
+        "given": "Shou-De"
+      }
+    ],
+    "citation-key": "kuo2013",
+    "container-title": "Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining",
+    "DOI": "10.1145/2487575.2487614",
+    "event-place": "Chicago Illinois USA",
+    "event-title": "The 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "ISBN": "978-1-4503-2174-7",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "775 – 783",
+    "publisher": "ACM",
+    "publisher-place": "Chicago Illinois USA",
+    "source": "DOI.org (Crossref)",
+    "title": "Unsupervised Link Prediction using Aggregative Statistics on Heterogeneous Social Networks",
+    "type": "paper-conference",
+    "URL": "https://dl.acm.org/doi/10.1145/2487575.2487614"
+  },
+  {
+    "id": "leguia2019",
+    "abstract": "Empirical data on real complex systems are becoming increasingly available. Parallel to this is the need for new methods of reconstructing (inferring) the structure of networks from time-resolved observations of their node-dynamics. The methods based on physical insights often rely on strong assumptions about the properties and dynamics of the scrutinized network. Here, we use the insights from machine learning to design a new method of network reconstruction that essentially makes no such assumptions. Speci cally, we interpret the available trajectories (data) as “features” and use two independent feature ranking approaches—Random Forest and RReliefF—to rank the importance of each node for predicting the value of each other node, which yields the reconstructed adjacency matrix. We show that our method is fairly robust to coupling strength, system size, trajectory length, and noise. We also nd that the reconstruction quality strongly depends on the dynamical regime.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Leguia",
+        "given": "Marc G."
+      },
+      {
+        "family": "Levnajić",
+        "given": "Zoran"
+      },
+      {
+        "family": "Todorovski",
+        "given": "Ljupčo"
+      },
+      {
+        "family": "Ženko",
+        "given": "Bernard"
+      }
+    ],
+    "citation-key": "leguia2019",
+    "container-title": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+    "DOI": "10.1063/1.5092170",
+    "ISSN": "1054-1500, 1089-7682",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "093107",
+    "source": "DOI.org (Crossref)",
+    "title": "Reconstructing Dynamical Networks via Feature Ranking",
+    "type": "article-journal",
+    "URL": "https://pubs.aip.org/cha/article/29/9/093107/341743/Reconstructing-dynamical-networks-via-feature",
+    "volume": "29"
+  },
+  {
+    "id": "Li2011GeneralizedLF",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Wu-Jun"
+      },
+      {
+        "family": "Yeung",
+        "given": "D. Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "Zhihua"
+      }
+    ],
+    "citation-key": "Li2011GeneralizedLF",
+    "container-title": "International joint conference on artificial intelligence",
+    "event-place": "Barcelona, Spain",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1705",
+    "publisher-place": "Barcelona, Spain",
+    "title": "Generalized Latent Factor Models for Social Network Analysis",
+    "type": "paper-conference",
+    "URL": "https://api.semanticscholar.org/CorpusID:6389369"
+  },
+  {
+    "id": "liben-nowell2007",
+    "abstract": "Given a snapshot of a social network, can we infer which new interactions among its members are likely to occur in the near future? We formalize this question as the link‐prediction problem, and we develop approaches to link prediction based on measures for analyzing the “proximity” of nodes in a network. Experiments on large coauthorship networks suggest that information about future interactions can be extracted from network topology alone, and that fairly subtle measures for detecting node proximity can outperform more direct measures.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Liben‐Nowell",
+        "given": "David"
+      },
+      {
+        "family": "Kleinberg",
+        "given": "Jon"
+      }
+    ],
+    "citation-key": "liben-nowell2007",
+    "container-title": "Journal of the American Society for Information Science and Technology",
+    "container-title-short": "Journal of the American Society for Information Science and Technology, Association for Information Science & Technology",
+    "DOI": "10.1002/asi.20591",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1019 –  1031",
+    "publisher": "Association for Information Science & Technology",
+    "source": "ideas.repec.org",
+    "title": "The link‐Prediction Problem for Social Networks",
+    "type": "article-journal",
+    "URL": "https://ideas.repec.org//a/bla/jamist/v58y2007i7p1019-1031.html",
+    "volume": "58"
+  },
+  {
+    "id": "liu2016",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Yangyang"
+      },
+      {
+        "family": "Zhao",
+        "given": "Chengli"
+      },
+      {
+        "family": "Wang",
+        "given": "Xiaojie"
+      },
+      {
+        "family": "Huang",
+        "given": "Qiangjuan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xue"
+      },
+      {
+        "family": "Yi",
+        "given": "Dongyun"
+      }
+    ],
+    "citation-key": "liu2016",
+    "container-title": "Physica A: Statistical Mechanics and Its Applications",
+    "container-title-short": "Physica A: Statistical Mechanics and Its Applications",
+    "DOI": "10.1016/j.physa.2016.02.014",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "24 – 33",
+    "publisher": "Elsevier",
+    "source": "Google Scholar",
+    "title": "The Degree-Related Clustering Coefficient and its Application to Link Prediction",
+    "type": "article-journal",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0378437116001801",
+    "volume": "454"
+  },
+  {
+    "id": "liu2018",
+    "abstract": "Network embedding based on the random walk and skip-gram model such as the DeepWalk and Node2Vec algorithms have received wide attention. We identify that these algorithms essentially estimate the node similarities by random walk simulation, which is unreliable, inefficient, and inflexible. We propose to explicitly use node similarity measures instead of random walk simulation. Based on this strategy and a new proposed similarity measure, we present a fast and scalable algorithm AA$$^{+}$$+Emb. Experiments show that AA$$^{+}$$+Emb outperforms state-of-the-art network embedding algorithms on several commonly used benchmark networks.",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Xin"
+      },
+      {
+        "family": "Kertkeidkachorn",
+        "given": "Natthawut"
+      },
+      {
+        "family": "Murata",
+        "given": "Tsuyoshi"
+      },
+      {
+        "family": "Kim",
+        "given": "Kyoung-Sook"
+      },
+      {
+        "family": "Leblay",
+        "given": "Julien"
+      },
+      {
+        "family": "Lynden",
+        "given": "Steven"
+      }
+    ],
+    "citation-key": "liu2018",
+    "collection-title": "Lecture Notes in Computer Science",
+    "container-title": "PRICAI 2018: Trends in Artificial Intelligence",
+    "DOI": "10.1007/978-3-319-97304-3_33",
+    "editor": [
+      {
+        "family": "Geng",
+        "given": "Xin"
+      },
+      {
+        "family": "Kang",
+        "given": "Byeong-Ho"
+      }
+    ],
+    "event-place": "Cham",
+    "ISBN": "978-3-319-97304-3",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "429 – 440",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "source": "Springer Link",
+    "title": "Network Embedding Based on a Quasi-Local Similarity Measure",
+    "type": "paper-conference"
+  },
+  {
+    "id": "lu2011",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lü",
+        "given": "Linyuan"
+      },
+      {
+        "family": "Zhou",
+        "given": "Tao"
+      }
+    ],
+    "citation-key": "lu2011",
+    "container-title": "Physica A: Statistical Mechanics and its Applications",
+    "container-title-short": "Physica A: Statistical Mechanics and its Applications",
+    "DOI": "10.1016/j.physa.2010.11.027",
+    "ISSN": "03784371",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1150-1170",
+    "source": "DOI.org (Crossref)",
+    "title": "Link Prediction in Complex Networks: A Survey",
+    "title-short": "Link prediction in complex networks",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S037843711000991X",
+    "volume": "390"
+  },
+  {
+    "id": "mohan2017",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mohan",
+        "given": "Anuraj"
+      },
+      {
+        "family": "Venkatesan",
+        "given": "R."
+      },
+      {
+        "family": "Pramod",
+        "given": "K. V."
+      }
+    ],
+    "citation-key": "mohan2017",
+    "container-title-short": "International joint conference on artificial intelligence",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "89 – 101",
+    "publisher": "Elsevier",
+    "source": "Google Scholar",
+    "title": "A Scalable Method for Link Prediction in Large Real World Networks",
+    "type": "article-journal",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0743731517301600",
+    "volume": "109"
+  },
+  {
+    "id": "molokwu2021",
+    "author": [
+      {
+        "family": "Molokwu",
+        "given": "Bonaventure Chidube"
+      }
+    ],
+    "citation-key": "molokwu2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "198",
+    "publisher": "University of Windsor, Canada",
+    "source": "Zotero",
+    "title": "Social Network Analysis: A Machine Learning Approach",
+    "type": "thesis"
+  },
+  {
+    "id": "moradabadi2018",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Moradabadi",
+        "given": "Behnaz"
+      },
+      {
+        "family": "Meybodi",
+        "given": "Mohammad Reza"
+      }
+    ],
+    "citation-key": "moradabadi2018",
+    "container-title-short": "Journal of Computational Science",
+    "DOI": "10.1016/j.jocs.2017.08.007",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "313 – 328",
+    "title": "Link Prediction in Stochastic Social Networks: Learning Automata Approach",
+    "type": "article-journal",
+    "URL": "https://docs.yandex.ru/docs/view?tm=1700829737&tld=ru&lang=en&name=113289.pdf&text=Moradabadi%20B.%2C%20Meybodi%20M.R.%20Link%20prediction%20in%20stochastic%20social%20net-%20works%3A%20Learning%20automata%20approach&url=https%3A%2F%2Fisiarticles.com%2Fbundles%2FArticle%2Fpre%2Fpdf%2F113289.pdf&lr=213&mime=pdf&l10n=ru&sign=f6e8f62a5eb592f30c901b8506bcbb50&keyno=0&nosw=1&serpParams=tm%3D1700829737%26tld%3Dru%26lang%3Den%26name%3D113289.pdf%26text%3DMoradabadi%2BB.%252C%2BMeybodi%2BM.R.%2BLink%2Bprediction%2Bin%2Bstochastic%2Bsocial%2Bnet-%2Bworks%253A%2BLearning%2Bautomata%2Bapproach%26url%3Dhttps%253A%2F%2Fisiarticles.com%2Fbundles%2FArticle%2Fpre%2Fpdf%2F113289.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3Df6e8f62a5eb592f30c901b8506bcbb50%26keyno%3D0%26nosw%3D1",
+    "volume": "24"
+  },
+  {
+    "id": "muniz2018",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Muniz",
+        "given": "Carlos Pedro"
+      },
+      {
+        "family": "Goldschmidt",
+        "given": "Ronaldo"
+      },
+      {
+        "family": "Choren",
+        "given": "Ricardo"
+      }
+    ],
+    "citation-key": "muniz2018",
+    "container-title": "Knowledge-Based Systems",
+    "container-title-short": "Knowledge-Based Systems",
+    "DOI": "10.1016/j.knosys.2018.05.027",
+    "ISSN": "09507051",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "129 –137",
+    "source": "DOI.org (Crossref)",
+    "title": "Combining Contextual, Temporal and Topological Information for Unsupervised Link Prediction in Social Networks",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0950705118302569",
+    "volume": "156"
+  },
+  {
+    "id": "nasiri2022",
+    "abstract": "Complex networks are representations of real-world systems that can be better modeled as multiplex networks, where the same nodes develop multi-type connections. One of the important concerns about these networks is link prediction, which has many applications in social networks and recommender systems. In this article, similarity-based methods such as common neighbors (CNs) are the mainstream. However, in the CN method, the contribution of each CN in the likelihood of new connections is equally taken into account. In this work, we propose a new link prediction method namely Weighted Common Neighbors (WCN), which is based on CNs and various types of Centrality measures (including degree, k-core, closeness, betweenness, Eigenvector, and PageRank) to predict the formation of new links in multiplex networks. So, in this model, each CN has a different impact on the node connection likelihood. Moreover, we investigate the impact of interlayer information on improving the performance of link prediction in the target layer. Using Area under the ROC Curve and precision as evaluation metrics, we perform a comprehensive experimental evaluation of our proposed method on seven real multiplex networks. The results validate the improved performance of our proposed method compared with existing methods, and we show that the performance of proposed methods is significantly improved while using interlayer information in multiplex networks.",
+    "author": [
+      {
+        "family": "Nasiri",
+        "given": "Elahe"
+      },
+      {
+        "family": "Berahmand",
+        "given": "Kamal"
+      },
+      {
+        "family": "Samei",
+        "given": "Zeynab"
+      },
+      {
+        "family": "Li",
+        "given": "Yuefeng"
+      }
+    ],
+    "citation-key": "nasiri2022",
+    "container-title": "Big Data",
+    "container-title-short": "Big Data",
+    "DOI": "10.1089/big.2021.0254",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          25
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "138 – 150",
+    "source": "ResearchGate",
+    "title": "Impact of Centrality Measures on the Common Neighbors in Link Prediction for Multiplex Networks",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "id": "Nguyen2018ContinuousTimeDN",
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "Giang Hoang"
+      },
+      {
+        "family": "Lee",
+        "given": "John Boaz"
+      },
+      {
+        "family": "Rossi",
+        "given": "Ryan A."
+      },
+      {
+        "family": "Ahmed",
+        "given": "Nesreen"
+      },
+      {
+        "family": "Koh",
+        "given": "Eunyee"
+      },
+      {
+        "family": "Kim",
+        "given": "Sungchul"
+      }
+    ],
+    "citation-key": "Nguyen2018ContinuousTimeDN",
+    "DOI": "10.1145/3184558.3191526",
+    "event-place": "Lyon, France",
+    "event-title": "Companion proceedings of The Web Conference 2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "969 – 976",
+    "publisher-place": "Lyon, France",
+    "title": "Continuous-Time Dynamic Network Embeddings",
+    "type": "paper-conference",
+    "URL": "https://api.semanticscholar.org/CorpusID:13741853"
+  },
+  {
+    "id": "ozcan2016",
+    "abstract": "Evolving networks, which are composed of objects and relationships that change over time, are prevalent in many real-world domains and have become an significant research topic in recent years. Most of the previous link prediction studies neglect the evolution of the network over time and mainly focus on the predicting the future links based on a static features of nodes and links. However, real-world networks have complex dynamic structures and non-linear varying topological features, which means that both nodes and links of the networks may appear or disappear. These dynamicity of the networks make link prediction a more challenging task. To overcome these difficulties, link prediction in such networks must model nonlinear temporal evolution of the topological features and link occurrences information of the network structure simultaneously. In this article, we propose a novel link prediction method based on NARX Neural Network for evolving networks. Our model first calculates similarity scores based on quasi-local measures for each pair of nodes in different snapshots of the network and create time series for each pair. Then, NARX network is effectively applied to prediction of the future node similarity scores by using past node similarities and node connectivities. The proposed method is tested on DBLP coauthorship networks. It is shown that combining time information with node similarities and node connectivities improves the link prediction performance to a large extent.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Özcan",
+        "given": "Alper"
+      },
+      {
+        "family": "Öğüdücü",
+        "given": "Şule Gündüz"
+      }
+    ],
+    "citation-key": "ozcan2016",
+    "DOI": "10.1109/ICMLA.2016.0068",
+    "event-title": "2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA)",
+    "ISBN": "978-1-5090-6167-9",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          1
+        ]
+      ]
+    },
+    "language": "English",
+    "page": "381 – 386",
+    "publisher": "IEEE Computer Society",
+    "source": "www.computer.org",
+    "title": "Temporal Link Prediction Using Time Series of Quasi-Local Node Similarity Measures",
+    "type": "paper-conference",
+    "URL": "https://www.computer.org/csdl/proceedings-article/icmla/2016/07838172/12OmNxbEtMe"
+  },
+  {
+    "id": "rettinger2012",
+    "abstract": "An important task in network modeling is the prediction of relationships between classes of objects, such as friendship between persons, preferences of users for items, or the influence of genes on diseases. Factorizing approaches have proven effective in the modeling of these types of relations. If only a single binary relation is of interest, matrix factorization is typically applied. For ternary relations, tensor factorization has become popular. A typical application of tensor factorization concerns the temporal development of the relationships between objects. There are applications, where models with n-ary relations with n > 3 need to be considered, which is the topic of this paper. These models permit the inclusion of context information that is relevant for relation prediction. Unfortunately, the straightforward application of higher-order tensor models becomes problematic, due to the sparsity of the data and due to the complexity of the computations. In this paper, we discuss two different approaches that both simplify the higher-order tensors using coupled low-order factorization models. While the first approach, the context-aware recommendation tensor decomposition (CARTD), proposes an efficient optimization criterion and decomposition method, the second approach, the context-aware regularized singular value decomposition (CRSVD), introduces a generative probabilistic model and aims at reducing the dimensionality using independence assumptions in graphical models. In this article, we discuss both approaches and compare their ability to model contextual information. We test both models on a social network setting, where the task is to predict preferences based on existing preference patterns, based on the last item selected and based on attributes describing items and users. The experiments are performed using data from the GetGlue social network and the approach is evaluated on the ranking quality of predicted relations. The results indicate that the CARTD is superior in predicting overall rankings for relations, whereas the CRSVD is superior when one is only interested in predicting the top-ranked relations.",
+    "author": [
+      {
+        "family": "Rettinger",
+        "given": "Achim"
+      },
+      {
+        "family": "Wermser",
+        "given": "Hendrik"
+      },
+      {
+        "family": "Huang",
+        "given": "Yi"
+      },
+      {
+        "family": "Tresp",
+        "given": "Volker"
+      }
+    ],
+    "citation-key": "rettinger2012",
+    "container-title-short": "Social Network Analysis and Mining",
+    "DOI": "10.1007/s13278-012-0069-5",
+    "ISSN": "1869-5469",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          12,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "373 – 385",
+    "title": "Context-Aware Tensor Decomposition for Relation Prediction in Social Networks",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1007/s13278-012-0069-5",
+    "volume": "2"
+  },
+  {
+    "id": "richardson2006",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "Matthew"
+      },
+      {
+        "family": "Domingos",
+        "given": "Pedro"
+      }
+    ],
+    "citation-key": "richardson2006",
+    "container-title-short": "Machine learning",
+    "DOI": "10.1007/s10994-006-5833-1",
+    "ISSN": "0885-6125, 1573-0565",
+    "issue": "1-2",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          2
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "107 – 136",
+    "source": "DOI.org (Crossref)",
+    "title": "Markov Logic Networks",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s10994-006-5833-1",
+    "volume": "62"
+  },
+  {
+    "id": "srilatha2016",
+    "abstract": "Social networking sites have gained much popularity in the recent years. With millions of people connected virtually generate loads of data to be analyzed to infer meaningful associations among links. Link prediction algorithm is one such problem, wherein existing nodes, links and their attributes are analyzed to predict the possibility of potential links, which are likely to happen over a period of time. In this survey, the local structure based link prediction algorithms existing in literature with their features and also the possibility of future research directions is reported and discussed. This survey serves as a starting point for beginners interested in understanding link prediction or similarity index algorithms in general and local structure based link prediction algorithms in particular.",
+    "author": [
+      {
+        "family": "Srilatha",
+        "given": "Pulipati"
+      },
+      {
+        "family": "Manjula",
+        "given": "Ramakrishnan"
+      }
+    ],
+    "citation-key": "srilatha2016",
+    "container-title-short": "Journal of Telecommunications and Information Technology",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "87 – 94",
+    "source": "Zotero",
+    "title": "Paper Similarity Index based Link Prediction Algorithms in Social Networks: A Survey",
+    "type": "article-journal"
+  },
+  {
+    "id": "tan2019",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Tan",
+        "given": "Qiaoyu"
+      },
+      {
+        "family": "Liu",
+        "given": "Ninghao"
+      },
+      {
+        "family": "Hu",
+        "given": "Xia"
+      }
+    ],
+    "citation-key": "tan2019",
+    "container-title": "Frontiers in Big Data",
+    "container-title-short": "Front. Big Data",
+    "DOI": "10.3389/fdata.2019.00002",
+    "ISSN": "2624-909X",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          3
+        ]
+      ]
+    },
+    "page": "1 –  10",
+    "source": "DOI.org (Crossref)",
+    "title": "Deep Representation Learning for Social Network Analysis",
+    "type": "article-journal",
+    "URL": "https://www.frontiersin.org/article/10.3389/fdata.2019.00002/full",
+    "volume": "2"
+  },
+  {
+    "id": "wang2014",
+    "abstract": "In social networks, link prediction predicts missing links in current networks and new or dissolution links in future networks, is important for mining and analyzing the evolution of social networks. In the past decade, many works have been done about the link prediction in social networks. The goal of this paper is to comprehensively review, analyze and discuss the state-of-the-art of the link prediction in social networks. A systematical category for link prediction techniques and problems is presented. Then link prediction techniques and problems are analyzed and discussed. Typical applications of link prediction are also addressed. Achievements and roadmaps of some active research groups are introduced. Finally, some future challenges of the link prediction in social networks are discussed.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Peng"
+      },
+      {
+        "family": "Xu",
+        "given": "Baowen"
+      },
+      {
+        "family": "Wu",
+        "given": "Yurong"
+      },
+      {
+        "family": "Zhou",
+        "given": "Xiaoyu"
+      }
+    ],
+    "citation-key": "wang2014",
+    "DOI": "0.1007/s11432-014-5237-y",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          8
+        ]
+      ]
+    },
+    "language": "en",
+    "number": "arXiv:1411.5118",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Link Prediction in Social Networks: the State-of-the-Art",
+    "title-short": "Link Prediction in Social Networks",
+    "type": "article",
+    "URL": "http://arxiv.org/abs/1411.5118"
+  },
+  {
+    "id": "wang2017",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Suhang"
+      },
+      {
+        "family": "Tang",
+        "given": "Jiliang"
+      },
+      {
+        "family": "Aggarwal",
+        "given": "Charu C."
+      },
+      {
+        "family": "Chang",
+        "given": "Yi"
+      },
+      {
+        "family": "Liu",
+        "given": "Huan"
+      }
+    ],
+    "citation-key": "wang2017",
+    "event-title": "2017 SIAM International Conference on Data Mining (SDM)",
+    "ISBN": "978-1-61197-497-3",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "327 – 335",
+    "publisher": "Society for Industrial and Applied Mathematics",
+    "title": "Signed Network Embedding in Social Media",
+    "type": "paper-conference",
+    "URL": "https://epubs.siam.org/doi/10.1137/1.9781611974973.37"
+  },
+  {
+    "id": "wang2021",
+    "abstract": "Link prediction has aroused extensive attention since it can both discover hidden connections and predict future links in the networks. Many unsupervised link prediction algorithms have been proposed to find these links in a variety of networks. However, there is an evaluation conundrum in unsupervised link prediction. Unobserved links heavily outnumber observed links in large networks, so it is unrealistic to quantify the existence likelihood of all unobserved links to evaluate these algorithms. In this paper, we propose a new evaluation paradigm that is sampling unobserved links to address this problem. First, we demonstrate that the proposed paradigm is feasible in theory. Then, we perform extensive evaluation experiments in real-world networks of different contexts and sizes. The results show that the performance of similarity-based link prediction algorithms is highly stable even at a low sampling ratio in large networks, and the evaluation time degradation caused by sampling is striking. Our findings have broad implications for link prediction.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Jingwei"
+      },
+      {
+        "family": "Ma",
+        "given": "Yunlong"
+      },
+      {
+        "family": "Yuan",
+        "given": "Yun"
+      }
+    ],
+    "citation-key": "wang2021",
+    "DOI": "10.48550/arXiv.2002.09165",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          6
+        ]
+      ]
+    },
+    "number": "arXiv:2002.09165",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Towards Fast Evaluation of Unsupervised Link Prediction by Random Sampling Unobserved Links",
+    "type": "article",
+    "URL": "http://arxiv.org/abs/2002.09165"
+  },
+  {
+    "id": "wu2018",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Zhihao"
+      },
+      {
+        "family": "Lin",
+        "given": "Youfang"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yiji"
+      },
+      {
+        "family": "Yan",
+        "given": "Hongyan"
+      }
+    ],
+    "citation-key": "wu2018",
+    "container-title-short": "Physica A: Statistical Mechanics and its Applications",
+    "DOI": "10.1016/j.physa.2017.11.103",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1859 – 1874",
+    "title": "Improving Local Clustering based Top-L Link Prediction Methods via Asymmetric Link Clustering Information",
+    "type": "article-journal",
+    "URL": "https://www.researchgate.net/publication/321216321_Improving_local_clustering_based_top-L_link_prediction_methods_via_asymmetric_link_clustering_information",
+    "volume": "492"
+  },
+  {
+    "id": "zhang2019",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Weiwei"
+      },
+      {
+        "family": "Liu",
+        "given": "Fangai"
+      },
+      {
+        "family": "Xu",
+        "given": "Daomeng"
+      },
+      {
+        "family": "Jiang",
+        "given": "Lu"
+      }
+    ],
+    "citation-key": "zhang2019",
+    "container-title-short": "PloS one",
+    "DOI": "10.1371/journal.pone.0223967",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "e0223967",
+    "title": "Recommendation System in Social Networks with Topical Attention and Probabilistic Matrix Factorization",
+    "type": "article-journal",
+    "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223967",
+    "volume": "14"
+  },
+  {
     "id": "snijdersStochasticActororientedModels2017",
     "type": "article-journal",
     "container-title": "Annual review of statistics and its application",
@@ -5393,341 +7081,87 @@
     }
   },
   {
-    "id": "barabasi1999",
-    "abstract": "Systems as diverse as genetic networks or the World Wide Web are best described as networks with complex topology. A common property of many large networks is that the vertex connectivities follow a scale-free power-law distribution. This feature was found to be a consequence of two generic mechanisms: (i) networks expand continuously by the addition of new vertices, and (ii) new vertices attach preferentially to sites that are already well connected. A model based on these two ingredients reproduces the observed stationary scale-free distributions, which indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems.",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
+    "id": "fairbrotherDoesInequalityErode2013",
     "author": [
       {
-        "family": "Barabási",
-        "given": "Albert-László"
+        "family": "Fairbrother",
+        "given": "Malcolm"
       },
       {
-        "family": "Albert",
-        "given": "Réka"
+        "family": "Martin",
+        "given": "Isaac W."
       }
     ],
-    "citation-key": "barabasi1999",
-    "container-title-short": "Science",
-    "DOI": "10.1126/science.286.5439.509",
-    "ISSN": "0036-8075, 1095-9203",
-    "issue": "5439",
+    "citation-key": "fairbrotherDoesInequalityErode2013",
+    "container-title": "Social science research",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
-          1999,
-          10,
-          15
+          2013
         ]
       ]
     },
-    "language": "en",
-    "page": "509-512",
-    "source": "DOI.org (Crossref)",
-    "title": "Emergence of Scaling in Random Networks",
+    "page": "347–360",
+    "publisher": "Elsevier",
+    "source": "Google Scholar",
+    "title": "Does inequality erode social trust? Results from multilevel models of US states and counties",
+    "title-short": "Does inequality erode social trust?",
     "type": "article-journal",
-    "URL": "https://www.science.org/doi/10.1126/science.286.5439.509",
-    "volume": "286"
+    "volume": "42"
   },
   {
-    "id": "batagelj",
-    "abstract": "Large networks, having thousands of vertices and lines, can be found in many different areas, e. g: genealogies, ﬂow graphs of programs, molecule, computer networks, transportation networks, social networks, intra/inter organisational networks ... Many standard network algorithms are very time and space consuming and therefore unsuitable for analysis of such networks. In the article we present some approaches to analysis and visualisation of large networks implemented in program Pajek. Some typical examples are also given.",
+    "id": "georgalosTestingEmergenceSpontaneous2020",
     "author": [
       {
-        "family": "Batagelj",
-        "given": "Vladimir"
+        "family": "Georgalos",
+        "given": "Konstantinos"
       },
       {
-        "family": "Mrvar",
-        "given": "Andrej"
+        "family": "Hey",
+        "given": "John"
       }
     ],
-    "citation-key": "batagelj",
-    "language": "en",
-    "source": "Zotero",
-    "title": "Pajek – Program for Large Network Analysis",
-    "type": "document"
-  },
-  {
-    "id": "ferligoj2015",
-    "abstract": "This paper examines the collaboration structures and dynamics of the co-authorship network of all Slovenian researchers. Its goal is to identify the key factors driving collaboration and the main differences in collaboration behavior across scientific fields and disciplines. Two approaches to modelling network dynamics are combined in this paper: the small-world model and the mechanism of preferential attachment, also known as the process of cumulative advantage. Stochastic-actor-based modelling of co-authorship network dynamics uses data for the complete longitudinal co-authorship networks for the entire Slovenian scientific community from 1996 to 2010. We confirmed the presence of clustering in all fields and disciplines. Preferential attachment is far more complex than a single global mechanism. There were two clear distinctions regarding collaboration within scientific fields and disciplines. One was that some fields had an internal national saturation inhibiting further collaboration. The second concerned the differential impact of collaboration with scientists from abroad on domestic collaboration. In the natural, technical, medical, and biotechnical sciences, this promotes collaboration within the Slovenian scientific community while in the social sciences and humanities this inhibits internal collaboration.",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Ferligoj",
-        "given": "Anuška"
-      },
-      {
-        "family": "Kronegger",
-        "given": "Luka"
-      },
-      {
-        "family": "Mali",
-        "given": "Franc"
-      },
-      {
-        "family": "Snijders",
-        "given": "Tom A. B."
-      },
-      {
-        "family": "Doreian",
-        "given": "Patrick"
-      }
-    ],
-    "citation-key": "ferligoj2015",
-    "container-title": "Scientometrics",
-    "container-title-short": "Scientometrics",
-    "DOI": "10.1007/s11192-015-1585-7",
-    "ISSN": "1588-2861",
+    "citation-key": "georgalosTestingEmergenceSpontaneous2020",
+    "container-title": "Experimental Economics",
     "issue": "3",
     "issued": {
       "date-parts": [
         [
-          2015,
-          9,
-          1
+          2020
         ]
       ]
     },
-    "language": "en",
-    "page": "985-1012",
-    "source": "Springer Link",
-    "title": "Scientific Collaboration Dynamics in a National Scientific System",
+    "page": "912–932",
+    "publisher": "Springer",
+    "source": "Google Scholar",
+    "title": "Testing for the emergence of spontaneous order",
     "type": "article-journal",
-    "URL": "https://doi.org/10.1007/s11192-015-1585-7",
-    "volume": "104"
+    "volume": "23"
   },
   {
-    "id": "garfield1979",
+    "id": "elibrary.ru",
     "accessed": {
       "date-parts": [
         [
           2023,
-          11,
-          9
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Garfield",
-        "given": "Eugene"
-      }
-    ],
-    "citation-key": "garfield1979",
-    "ISBN": "978-0-471-02559-7",
-    "issued": {
-      "date-parts": [
-        [
-          1979
-        ]
-      ]
-    },
-    "language": "en",
-    "number-of-pages": "306",
-    "publisher": "New York : Wiley",
-    "source": "Internet Archive",
-    "title": "Citation Indexing: Its Theory and Application in Science, Technology, and Humanities",
-    "type": "book"
-  },
-  {
-    "id": "glanzel2004",
-    "author": [
-      {
-        "family": "Glänzel",
-        "given": "Wolfgang"
-      },
-      {
-        "family": "Schubert",
-        "given": "András"
-      }
-    ],
-    "citation-key": "glanzel2004",
-    "container-title": "Handbook of Quantitative Science and Technology Research",
-    "issued": {
-      "date-parts": [
-        [
-          2004
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "257–276",
-    "publisher": "Springer, Dordrecht",
-    "title": "Analysing Scientific Networks Through Co-authorship",
-    "type": "chapter",
-    "URL": "https://doi.org/10.1007/1-4020-2755-9_12"
-  },
-  {
-    "id": "glanzel2019",
-    "abstract": "This handbook presents the state of the art of quantitative methods and models to understand and assess the science and technology system. Focusing on various aspects of the development and application of indicators derived from data on scholarly publications, patents and electronic communications, the individual chapters, written by leading experts, discuss theoretical and methodological issues, illustrate applications, highlight their policy context and relevance, and point to future research directions.A substantial portion of the book is dedicated to detailed descriptions and analyses of data sources, presenting both traditional and advanced approaches. It addresses the main bibliographic metrics and indexes, such as the journal impact factor and the h-index, as well as altmetric and webometric indicators and science mapping techniques on different levels of aggregation and in the context of their value for the assessment of research performance as well as their impact on research policy and society. It also presents and critically discusses various national research evaluation systems.Complementing the sections reflecting on the science system, the technology section includes multiple chapters that explain different aspects of patent statistics, patent classification and database search methods to retrieve patent-related information. In addition, it examines the relevance of trademarks and standards as additional technological indicators.The Springer Handbook of Science and Technology Indicators is an invaluable resource for practitioners, scientists and policy makers wanting a systematic and thorough analysis of the potential and limitations of the various approaches to assess research and research performance.",
-    "author": [
-      {
-        "family": "Glänzel",
-        "given": "Wolfgang"
-      },
-      {
-        "family": "Moed",
-        "given": "Henk F."
-      },
-      {
-        "family": "Schmoch",
-        "given": "Ulrich"
-      },
-      {
-        "family": "Thelwall",
-        "given": "Mike"
-      }
-    ],
-    "citation-key": "glanzel2019",
-    "ISBN": "978-3-030-02511-3",
-    "issued": {
-      "date-parts": [
-        [
-          2019,
-          10,
+          8,
           30
         ]
       ]
     },
-    "language": "en",
-    "number-of-pages": "1126",
-    "publisher": "Springer Nature",
-    "source": "Google Books",
-    "title": "Springer Handbook of Science and Technology Indicators",
-    "type": "book"
-  },
-  {
-    "id": "granovetter1985",
     "author": [
       {
-        "family": "Granovetter",
-        "given": "Mark"
+        "family": "eLibrary.ru",
+        "given": ""
       }
     ],
-    "citation-key": "granovetter1985",
-    "container-title": "American Journal of Sociology",
-    "container-title-short": "American Journal of Sociology",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          1985
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "481-510",
-    "source": "Zotero",
-    "title": "Economic Action and Social Structure: The Problem of Embeddedness",
-    "type": "article-journal",
-    "URL": "http://www.jstor.org/stable/2780199",
-    "volume": "91"
-  },
-  {
-    "id": "katz1997",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Katz",
-        "given": "J. Sylvan"
-      },
-      {
-        "family": "Martin",
-        "given": "Ben R."
-      }
-    ],
-    "citation-key": "katz1997",
-    "container-title": "Research Policy",
-    "container-title-short": "Research Policy",
-    "DOI": "10.1016/S0048-7333(96)00917-1",
-    "ISSN": "00487333",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          1997,
-          3
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "1-18",
-    "source": "DOI.org (Crossref)",
-    "title": "What Is Research Collaboration?",
-    "type": "article-journal",
-    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733396009171",
-    "volume": "26"
-  },
-  {
-    "id": "leydesdorff2016a",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Leydesdorff",
-        "given": "Loet"
-      },
-      {
-        "family": "Bornmann",
-        "given": "Lutz"
-      },
-      {
-        "family": "Zhou",
-        "given": "Ping"
-      }
-    ],
-    "citation-key": "leydesdorff2016a",
-    "container-title": "Journal of Informetrics",
-    "container-title-short": "Journal of Informetrics",
-    "DOI": "10.1016/j.joi.2016.07.008",
-    "ISSN": "17511577",
-    "issue": "4",
-    "issued": {
-      "date-parts": [
-        [
-          2016,
-          11
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "902-918",
-    "source": "DOI.org (Crossref)",
-    "title": "Construction of a Pragmatic Base Line for Journal Classifications and Maps Based on Aggregated Journal-Journal Citation Relations",
-    "type": "article-journal",
-    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S175115771630102X",
-    "volume": "10"
+    "citation-key": "elibrary.ru",
+    "container-title": "eLibrary.ru",
+    "language": "rus",
+    "title": "Сравнение уровня публикаций российских ученых в базах данных Web of Science, Scopus и RSCI",
+    "type": "webpage",
+    "URL": "https://elibrary.ru/wos_scopus_rsci.asp?"
   },
   {
     "id": "lundberg2006",
@@ -5786,124 +7220,6 @@
     "volume": "69"
   },
   {
-    "id": "mali2010",
-    "abstract": "The article deals with some processes generating increases of research collaboration one of the most characteristic tendencies of modern science. The major empirical focus is the increasing tendency of co-authorship in sociology in Slovenia. Bibliometric analyses, based on two joint national research information systems (SICRIS and COBISS), shows the amount of co-authored publications in the field of sociology increased over the last two decades. Blockmodeling of co-authorship networks in sociology has shown that the sociologists who are not systematically tied to strongly connected and well-established research groups produce the most excellent scientific publications in their field.",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Mali",
-        "given": "Franc"
-      },
-      {
-        "family": "Kronegger",
-        "given": "Luka"
-      },
-      {
-        "family": "Ferligoj",
-        "given": "Anuska"
-      }
-    ],
-    "citation-key": "mali2010",
-    "container-title": "Corvinus Journal of Sociology and Social Policy",
-    "container-title-short": "Corvinus Journal of Sociology and Social Policy",
-    "DOI": "10.14267/cjssp.2010.02.02",
-    "ISSN": "2062-087X",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2010,
-          12,
-          22
-        ]
-      ]
-    },
-    "language": "en",
-    "license": "Copyright (c)",
-    "number": "2",
-    "source": "cjssp.uni-corvinus.hu",
-    "title": "Co-authorship Trends and Collaboration Patterns in the Slovenian Sociological Community",
-    "type": "article-journal",
-    "URL": "https://cjssp.uni-corvinus.hu/index.php/cjssp/article/view/24",
-    "volume": "1"
-  },
-  {
-    "id": "maltseva2020",
-    "abstract": "Abstract This paper presents the results of the analysis of keywords used in Social Network Analysis (SNA) articles included in the WoS database and main SNA journals, from 1970 to 2018. 32,409 keywords were obtained from 70,792 works with complete descriptions. We provide a list of the most used keywords and show subgroups of keywords which are connected to each other. To go deeper, we place the keywords into the contexts of selected groups of authors and journals. We use temporal analysis to get an insight into some keyword usage. The distributions of the number of keyword types and tokens over time show fast growth starting from 2010s, which is the result of the growth in the number of articles on SNA topics and applications of SNA in various scientific fields. Even though the most frequently used keywords are trivial or general, the approaches used for the normalization of network link weights allow us to extract keywords representing substantive topics and methodological issues in SNA.",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Maltseva",
-        "given": "Daria"
-      },
-      {
-        "family": "Batagelj",
-        "given": "Vladimir"
-      }
-    ],
-    "citation-key": "maltseva2020",
-    "container-title": "Scientometrics",
-    "container-title-short": "Scientometrics",
-    "ISSN": "1588-2861",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "357-382",
-    "publisher": "Springer",
-    "source": "RePEc - Econpapers",
-    "title": "Towards a systematic Description of the Field Using Keywords Analysis: Main Topics in Social Networks",
-    "title-short": "Towards a systematic description of the field using keywords analysis",
-    "type": "article-journal",
-    "URL": "https://econpapers.repec.org/article/sprscient/v_3a123_3ay_3a2020_3ai_3a1_3ad_3a10.1007_5fs11192-020-03365-0.htm",
-    "volume": "123"
-  },
-  {
-    "id": "merton1968",
-    "author": [
-      {
-        "family": "Merton",
-        "given": "Robert K."
-      }
-    ],
-    "citation-key": "merton1968",
-    "container-title-short": "Science",
-    "issue": "3810",
-    "issued": {
-      "date-parts": [
-        [
-          1968
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "56–63",
-    "source": "Zotero",
-    "title": "The Matthew Effect on Science",
-    "type": "article-journal",
-    "volume": "159"
-  },
-  {
     "id": "moed2018",
     "abstract": "Trends are analysed in the annual number of documents published by Russian institutions and indexed in Scopus and Web of Science, giving special attention to the time period starting in the year 2013 in which the Project 5-100 was launched by the Russian Government. Numbers are broken down by document type, publication language, type of source, research discipline, country and source. It is concluded that Russian publication counts strongly depend upon the database used, and upon changes in database coverage, and that one should be cautious when using indicators derived from WoS, and especially from Scopus, as tools in the measurement of research performance and international orientation of the Russian science system.",
     "accessed": {
@@ -5950,94 +7266,6 @@
     "type": "article-journal",
     "URL": "http://link.springer.com/10.1007/s11192-018-2769-8",
     "volume": "116"
-  },
-  {
-    "id": "moral-munoz2020",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Moral-Muñoz",
-        "given": "José A."
-      },
-      {
-        "family": "Enrique Herrera-Viedma",
-        "given": "Enrique"
-      },
-      {
-        "family": "Santisteban-Espejo",
-        "given": "Antonio"
-      },
-      {
-        "family": "Cobo",
-        "given": "Manuel J."
-      }
-    ],
-    "citation-key": "moral-munoz2020",
-    "container-title-short": "El Profesional de la Información",
-    "DOI": "https://doi.org/10.3145/epi.2020.ene.03",
-    "issue": "1",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "language": "en",
-    "title": "Software Tools for Conducting Bibliometric Analysis in Science: An Up-to-Date Review",
-    "type": "article-journal",
-    "URL": "https://www.scipedia.com/public/Moral-Munoz_et_al_2020a",
-    "volume": "29"
-  },
-  {
-    "id": "pavlova2023",
-    "abstract": "Relevance. Bibliometric analysis using network analysis methods is an actively developing scientific research area. Its methods and software tools contribute to progress in understanding how scientific disciplines develop. VOSviewer is an open software product that can be used to build bibliometric maps (networks) of various types (citation, co-authorship, co-occurrence, co-citation, etc.). Bibliometric analysis of the co-presence (cooccurrence) of keywords (simultaneous presence of keywords in different publications) allows building a map of keywords, which can be considered, under certain assumptions, as a model of the knowledge structure in the analyzed area. The objective of this study is to build a keyword map of the research field on the topic «health capital» based on the data of the Web of Science database, as well as to analyze the process of building a bibliometric network of keywords co-occurrence in the VOSviewer program. Methods: bibliometric analysis with methods of network analysis. The materials of the Web of Science database were used as an empirical basis for the study (57853 publications found by the words of health and capital and downloaded in spring 2022 in files of 500 publications each in full record format). To build a keyword map, the VOSviewer program, version 1.6.19, was used. Results. At the first stage, when constructing a keyword map based on the entire array of 57853 publications without preliminary data processing (data cleaning), five clusters were identified and analyzed. At the second stage, a keyword map was built based on 3000 most relevant publications with data processing (data cleaning through the construction of a thesaurus). As a result, keywords that characterize different types of capital (social capital, human capital, cultural capital, psychological capital) are identified and analyzed. Conclusions. Keyword mapping can be done as a preliminary step before conducting a systematic review, since such a preliminary analysis of the field of study through keywords guides and accelerates the process of literature review on the desired scientific topic. Such a map – a network of keywords – helps to enhance the coverage of theories, concepts, approaches by visualizing the keywords of the research field. The example presented in the work on the topic «Health capital» shows that even with «raw» (uncleaned) data, clusters can be built, which, thanks to the visual representation of the research field through keywords, contribute to the building further research steps. The bibliometric analysis of the keywords co-occurrence made it possible to present a structural model of the knowledge in the domain of the research topic of health capital, i. e. (1) to map thematic clusters; (2) build temporal networks to analyze the evolution of knowledge in the chosen scientific field; (3) to identify different types of capitals, within which the health capital is further analyzed and a systematic literature review is elaborated.",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Павлова",
-        "given": "Ирина Анатольевна"
-      }
-    ],
-    "citation-key": "pavlova2023",
-    "container-title": "Векторы благополучия",
-    "DOI": "10.18799/26584956/2023/2/1592",
-    "ISSN": "2658-4956",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2023,
-          6,
-          30
-        ]
-      ]
-    },
-    "language": "ru",
-    "license": "Copyright (c) 2023 ТПУ",
-    "number": "2",
-    "page": "38-54",
-    "source": "jwt.su",
-    "title": "Построение карты соприсутствия ключевых слов по теме «Капитал здоровья» в программе Vosviewer",
-    "type": "article-journal",
-    "URL": "https://jwt.su/journal/article/view/1592",
-    "volume": "49"
   },
   {
     "id": "perianes-rodriguez2016",
@@ -6164,188 +7392,6 @@
     "URL": "https://www.mdpi.com/2304-6775/9/1/12"
   },
   {
-    "id": "price1965",
-    "author": [
-      {
-        "family": "Price",
-        "given": "D. J."
-      }
-    ],
-    "citation-key": "price1965",
-    "container-title": "Science (New York, N.Y.)",
-    "container-title-short": "Science",
-    "DOI": "10.1126/science.149.3683.510",
-    "ISSN": "0036-8075",
-    "issue": "3683",
-    "issued": {
-      "date-parts": [
-        [
-          1965,
-          7,
-          30
-        ]
-      ]
-    },
-    "language": "eng",
-    "page": "510-515",
-    "PMID": "14325149",
-    "source": "PubMed",
-    "title": "Netwrks of Scientific Papers",
-    "type": "article-journal",
-    "volume": "149"
-  },
-  {
-    "id": "price1976",
-    "abstract": "Abstract\n            A Cumulative Advantage Distribution is proposed which models statistically the situation in which success breeds success. It differs from the Negative Binomial Distribution in that lack of success, being a non‐event, is not punished by increased chance of failure. It is shown that such a stochastic law is governed by the Beta Function, containing only one free parameter, and this is approximated by a skew or hyperbolic distribution of the type that is widespread in bibliometrics and diverse social science phenomena. In particular, this is shown to be an appropriate underlying probabilistic theory for the Bradford Law, the Lotka Law, the Pareto and Zipf Distributions, and for all the empirical results of citation frequency analysis. As side results one may derive also the obsolescence factor for literature use. The Beta Function is peculiarly elegant for these manifold purposes because it yields both the actual and the cumulative distributions in simple form, and contains a limiting case of an inverse square law to which many empirical distributions conform.",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Price",
-        "given": "Derek De Solla"
-      }
-    ],
-    "citation-key": "price1976",
-    "container-title-short": "Journal of the American Society for Information Science",
-    "DOI": "10.1002/asi.4630270505",
-    "ISSN": "0002-8231, 1097-4571",
-    "issue": "5",
-    "issued": {
-      "date-parts": [
-        [
-          1976,
-          9
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "292-306",
-    "source": "DOI.org (Crossref)",
-    "title": "A General Theory of Bibliometric and Other Cumulative Advantage Processes",
-    "type": "article-journal",
-    "URL": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.4630270505",
-    "volume": "27"
-  },
-  {
-    "id": "price1986",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          9
-        ]
-      ]
-    },
-    "archive": "Книги (изданные с 1831 г. по настоящее время)",
-    "author": [
-      {
-        "family": "Price",
-        "given": "Derek John de Solla"
-      }
-    ],
-    "call-number": "FB 5 88-7/59-3",
-    "citation-key": "price1986",
-    "event-place": "New York",
-    "ISBN": "978-0-231-04957-3",
-    "issued": {
-      "date-parts": [
-        [
-          1986
-        ]
-      ]
-    },
-    "language": "eng",
-    "note": "RSLID: 01000493248\nBBK: Ю25,0\"XX\"; Ч210.52,0",
-    "number-of-pages": "301",
-    "publisher": "Columbia univ. press",
-    "publisher-place": "New York",
-    "source": "Российская Государственная Библиотека",
-    "title": "Little Science, Big Science…and Beyond",
-    "type": "book",
-    "URL": "https://search.rsl.ru/ru/record/01000493248"
-  },
-  {
-    "id": "rousseau2018",
-    "abstract": "Becoming Metric-Wise: A Bibliometric Guide for Researchers aims to inform researchers about metrics so that they become aware of the evaluative techniques being applied to their scientific output. Understanding these concepts will help them during their funding initiatives, and in hiring and tenure. The book not only describes what indicators do (or are designed to do, which is not always the same thing), but also gives precise mathematical formulae so that indicators can be properly understood and evaluated. Metrics have become a critical issue in science, with widespread international discussion taking place on the subject across scientific journals and organizations.  As researchers should know the publication-citation context, the mathematical formulae of indicators being used by evaluating committees and their consequences, and how such indicators might be misused, this book provides an ideal tome on the topic. Provides researchers with a detailed understanding of bibliometric indicators and their applications Empowers researchers looking to understand the indicators relevant to their work and careers Presents an informed and rounded picture of bibliometrics, including the strengths and shortcomings of particular indicators Supplies the mathematics behind bibliometric indicators so they can be properly understood Written by authors with longstanding expertise who are considered global leaders in the field of bibliometrics",
-    "author": [
-      {
-        "family": "Rousseau",
-        "given": "Ronald"
-      },
-      {
-        "family": "Egghe",
-        "given": "Leo"
-      },
-      {
-        "family": "Guns",
-        "given": "Raf"
-      }
-    ],
-    "citation-key": "rousseau2018",
-    "ISBN": "978-0-08-102475-1",
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          1,
-          2
-        ]
-      ]
-    },
-    "language": "en",
-    "number-of-pages": "403",
-    "publisher": "Chandos Publishing",
-    "source": "Google Books",
-    "title": "Becoming Metric-Wise: A Bibliometric Guide for Researchers",
-    "title-short": "Becoming Metric-Wise",
-    "type": "book"
-  },
-  {
-    "id": "shrum1988",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Shrum",
-        "given": "W"
-      },
-      {
-        "family": "Mullins",
-        "given": "N"
-      }
-    ],
-    "citation-key": "shrum1988",
-    "container-title": "Handbook of Quantitative Studies of Science and Technology",
-    "ISBN": "0-444-70537-6",
-    "issued": {
-      "date-parts": [
-        [
-          1988
-        ]
-      ]
-    },
-    "language": "en",
-    "publisher": "Elsevier Science Publishers B.V.",
-    "title": "Network Analysis in the Study of Science and Technology",
-    "type": "chapter",
-    "URL": "https://www.researchgate.net/publication/284854948_NETWORK_ANALYSIS_IN_THE_STUDY_OF_SCIENCE_AND_TECHNOLOGY"
-  },
-  {
     "id": "shrum2007",
     "accessed": {
       "date-parts": [
@@ -6429,83 +7475,6 @@
     "volume": "32"
   },
   {
-    "id": "vaneck2010",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Eck",
-        "given": "Nees Jan",
-        "non-dropping-particle": "van"
-      },
-      {
-        "family": "Waltman",
-        "given": "Ludo"
-      }
-    ],
-    "citation-key": "vaneck2010",
-    "container-title-short": "Scientometrics",
-    "DOI": "10.1007/s11192-009-0146-3",
-    "issued": {
-      "date-parts": [
-        [
-          2010
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "523–538",
-    "title": "Software survey: VOSviewer, a computer program for bibliometric mapping | Scientometrics",
-    "type": "article-journal",
-    "URL": "https://link.springer.com/article/10.1007/s11192-009-0146-3",
-    "volume": "84"
-  },
-  {
-    "id": "watts1998a",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          11
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Watts",
-        "given": "Duncan J."
-      },
-      {
-        "family": "Strogatz",
-        "given": "Steven H."
-      }
-    ],
-    "citation-key": "watts1998a",
-    "container-title-short": "Nature",
-    "DOI": "https://doi.org/10.1038/30918",
-    "issue": "Steven H.",
-    "issued": {
-      "date-parts": [
-        [
-          1998
-        ]
-      ]
-    },
-    "language": "en",
-    "page": "440–442",
-    "title": "Collective Dynamics of ‘Small-World’ Networks",
-    "type": "article-journal",
-    "URL": "https://www.nature.com/articles/30918"
-  },
-  {
     "id": "zhu2020",
     "abstract": "Web of Science and Scopus are two world-leading and competing citation databases. By using the Science Citation Index Expanded and Social Sciences Citation Index, this paper conducts a comparative, dynamic, and empirical study focusing on the use of Web of Science (WoS) and Scopus in academic papers published during 2004 and 2018. This brief communication reveals that although both Web of Science and Scopus are increasingly used in academic papers, Scopus as a new-comer is really challenging the dominating role of WoS. Researchers from more and more countries/regions and knowledge domains are involved in the use of these two databases. Even though the main producers of related papers are developed economies, some developing economies such as China, Brazil and Iran also act important roles but with different patterns in the use of these two databases. Both two databases are widely used in meta-analysis related studies especially for researchers in China. Health/medical science related domains and the traditional Information Science & Library Science field stand out in the use of citation databases.",
     "accessed": {
@@ -6549,83 +7518,6 @@
     "type": "article-journal",
     "URL": "http://link.springer.com/10.1007/s11192-020-03387-8",
     "volume": "123"
-  },
-  {
-    "id": "zotero-14",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          8,
-          30
-        ]
-      ]
-    },
-    "citation-key": "zotero-14",
-    "container-title": "eLibrary.ru",
-    "language": "rus",
-    "title": "Сравнение уровня публикаций российских ученых в базах данных Web of Science, Scopus и RSCI",
-    "type": "webpage",
-    "URL": "https://elibrary.ru/wos_scopus_rsci.asp?"
-  },
-  {
-    "id": "fairbrotherDoesInequalityErode2013",
-    "author": [
-      {
-        "family": "Fairbrother",
-        "given": "Malcolm"
-      },
-      {
-        "family": "Martin",
-        "given": "Isaac W."
-      }
-    ],
-    "citation-key": "fairbrotherDoesInequalityErode2013",
-    "container-title": "Social science research",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
-    },
-    "page": "347–360",
-    "publisher": "Elsevier",
-    "source": "Google Scholar",
-    "title": "Does inequality erode social trust? Results from multilevel models of US states and counties",
-    "title-short": "Does inequality erode social trust?",
-    "type": "article-journal",
-    "volume": "42"
-  },
-  {
-    "id": "georgalosTestingEmergenceSpontaneous2020",
-    "author": [
-      {
-        "family": "Georgalos",
-        "given": "Konstantinos"
-      },
-      {
-        "family": "Hey",
-        "given": "John"
-      }
-    ],
-    "citation-key": "georgalosTestingEmergenceSpontaneous2020",
-    "container-title": "Experimental Economics",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "page": "912–932",
-    "publisher": "Springer",
-    "source": "Google Scholar",
-    "title": "Testing for the emergence of spontaneous order",
-    "type": "article-journal",
-    "volume": "23"
   },
   {
     "id": "http://zotero.org/users/local/Q7DWuSGG/items/RXWEMMA3",
