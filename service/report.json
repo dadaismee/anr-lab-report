@@ -11594,6 +11594,756 @@
     "volume": "207"
   },
   {
+    "id": "kim2022",
+    "type": "article-journal",
+    "abstract": "This article discusses the place of qualitative network analysis in the strategy of mixing methods in the social sciences. We conducted a systematic review of the literature that allowed us to demonstrate examples of the use of qualitative network analysis in empirical research. There are four ways of analyzing qualitative data in network mixed studies: qualitative analysis of qualitative data, quantitative analysis of qualitative data, quantitative and qualitative analysis of qualitative data and quantitative and qualitative analysis of qualitative and quantitative data. Currently, there is a lack of a single definition of the methodology of qualitative network analysis and consensus on its implementation in practice. The main possibilities of qualitative network analysis are discussed in the article. At the level of the research object, qualitative network analysis studies the personal networks of individuals’ relationships, and also make easier an access to hard-to-reach groups of respondents. At the level of the subject of research, qualitative network analysis allows us to study the deep meanings of relationships in the network and the contexts of interaction, to describe and understand networks from the inside and outside, to focus on the activities of actors and their strategies for building a network, as well as to identify the temporality of relationships in the network. The article discusses a position that questions the existence of qualitative network analysis as an independent methodology.",
+    "container-title": "Sociology: methodology, methods, mathematical modeling (Sociology: 4M)",
+    "DOI": "10.19181/4m.2021.53.3",
+    "ISSN": "19948964",
+    "issue": "53",
+    "page": "83-116",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative network analysis in the strategy of mixing methods in the social sciences: a systematic literature review",
+    "title-short": "Qualitative network analysis in the strategy of mixing methods in the social sciences",
+    "URL": "https://www.soc4m.ru/index.php/soc4m/article/view/9353",
+    "volume": "27",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          12,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kim2023",
+    "type": "article-journal",
+    "container-title": "Quality & Quantity",
+    "DOI": "10.1007/s11135-023-01651-6",
+    "ISSN": "0033-5177, 1573-7845",
+    "journalAbbreviation": "Qual Quant",
+    "language": "en",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative social network analysis: studying the field through the bibliographic approach",
+    "title-short": "Qualitative social network analysis",
+    "URL": "https://link.springer.com/10.1007/s11135-023-01651-6",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      },
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          3,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "diaz-bone2008",
+    "type": "article-journal",
+    "abstract": "Social network analysis was formed and established in the 1970s as a way of analyzing systems of social relations. In this review the theoretical-methodological standpoint of social network analysis ('structural analysis') is introduced and the different forms of social network analysis are presented. Structural analysis argues that social actors and social relations are embedded in social networks, meaning that action and perception of actors as well as the performance of social relations are influenced by the network structure. Since the 1990s structural analysis has integrated concepts such as agency, discourse and symbolic orientation and in this way structural analysis has opened itself. Since then there has been increasing use of qualitative methods in network analysis. They are used to include the perspective of the analyzed actors, to explore networks, and to understand network dynamics. In the reviewed book, edited by Betina HOLLSTEIN and Florian STRAUS, the twenty predominantly empirically orientated contributions demonstrate the possibilities of combining quantitative and qualitative methods in network analyses in different research fields. In this review we examine how the contributions succeed in applying and developing the structural analysis perspective, and the self-positioning of 'qualitative network analysis' is evaluated.",
+    "container-title": "Historical Social Research",
+    "DOI": "10.12759/HSR.33.2008.4.311-343",
+    "ISSN": "0172-6404",
+    "language": "de",
+    "license": "Creative Commons Attribution 4.0 International",
+    "note": "publisher: GESIS - Leibniz Institute for the Social Sciences\nversion: 1.0",
+    "page": "311343",
+    "source": "DOI.org (Datacite)",
+    "title": "Does qualitative network analysis exist?Gibt es eine qualitative Netzwerkanalyse?",
+    "title-short": "Does qualitative network analysis exist?",
+    "URL": "http://www.ssoar.info/ssoar/handle/document/19168",
+    "volume": "33",
+    "author": [
+      {
+        "family": "Diaz-Bone",
+        "given": "Rainer"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hollstein2014",
+    "type": "chapter",
+    "container-title": "The SAGE Handbook of Social Network Analysis",
+    "event-place": "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+    "ISBN": "978-1-84787-395-8",
+    "note": "DOI: 10.4135/9781446294413.n27",
+    "page": "404-416",
+    "publisher": "SAGE Publications Ltd",
+    "publisher-place": "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Approaches",
+    "URL": "https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis/n27.xml",
+    "container-author": [
+      {
+        "family": "Scott",
+        "given": "John"
+      },
+      {
+        "family": "Carrington",
+        "given": "Peter"
+      }
+    ],
+    "author": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mische2008",
+    "type": "article-journal",
+    "container-title": "Simposio de Berlín. Marzo.",
+    "title": "Culture, Networks, and Interaction in Social Movement Publics",
+    "volume": "20",
+    "author": [
+      {
+        "family": "Mische",
+        "given": "A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "deave2008",
+    "type": "article-journal",
+    "container-title": "BMC Pregnancy and Childbirth",
+    "DOI": "10.1186/1471-2393-8-30",
+    "ISSN": "1471-2393",
+    "issue": "1",
+    "journalAbbreviation": "BMC Pregnancy Childbirth",
+    "language": "en",
+    "page": "30",
+    "source": "DOI.org (Crossref)",
+    "title": "Transition to parenthood: the needs of parents in pregnancy and early parenthood",
+    "title-short": "Transition to parenthood",
+    "URL": "http://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/1471-2393-8-30",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Deave",
+        "given": "Toity"
+      },
+      {
+        "family": "Johnson",
+        "given": "Debbie"
+      },
+      {
+        "family": "Ingram",
+        "given": "Jenny"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2008",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sommer2021",
+    "type": "article-journal",
+    "abstract": "Abstract\n            In this article we address the challenges and advantages of studying social capital of migrant entrepreneurs, applying a mixed‐method research design involving qualitative semi‐structured interviews and standardized network map data collection. Despite some limitations discussed in the article, the study illustrates that an applied methodological approach has a potential to overcome some of the pitfalls of ‘structural determinism’ by looking both at structural and contextual aspects as well as actors’ active role in accessing and (re)shaping their business‐related networks across different geographic spaces. The article demonstrates that qualitative social network analysis is particularly valuable for emphasizing the role of human agency and temporal changes of social relations both in terms of network composition and network content as well as for exploring the meaning attached to social ties, potential access barriers to certain types of social capital and strategies to overcome these barriers.",
+    "container-title": "Global Networks",
+    "DOI": "10.1111/glob.12302",
+    "ISSN": "1470-2266, 1471-0374",
+    "issue": "3",
+    "journalAbbreviation": "Global Networks",
+    "language": "en",
+    "page": "608-625",
+    "source": "DOI.org (Crossref)",
+    "title": "Beyond structural determinism: advantages and challenges of qualitative social network analysis for studying social capital of migrants",
+    "title-short": "Beyond structural determinism",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1111/glob.12302",
+    "volume": "21",
+    "author": [
+      {
+        "family": "Sommer",
+        "given": "Elena"
+      },
+      {
+        "family": "Gamper",
+        "given": "Markus"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "dominguez2014",
+    "type": "book",
+    "abstract": "This edited volume demonstrates the potential of mixed-methods designs for the research of social networks and the utilization of social networks for other research. Mixing methods applies to the combination and integration of qualitative and quantitative methods. In social network research, mixing methods also applies to the combination of structural and actor-oriented approaches. The volume provides readers with methodological concepts to guide mixed-methods network studies with precise research designs and methods to investigate social networks of various sorts. Each chapter describes the research design used and discusses the strengths of the methods for that particular field and for specific outcomes.",
+    "edition": "1",
+    "ISBN": "978-1-107-02792-3",
+    "note": "DOI: 10.1017/CBO9781139227193",
+    "publisher": "Cambridge University Press",
+    "source": "DOI.org (Crossref)",
+    "title": "Mixed Methods Social Networks Research: Design and Applications",
+    "title-short": "Mixed Methods Social Networks Research",
+    "URL": "https://www.cambridge.org/core/product/identifier/9781139227193/type/book",
+    "editor": [
+      {
+        "family": "Domínguez",
+        "given": "Silvia"
+      },
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          6,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "belsky1986",
+    "type": "article-journal",
+    "container-title": "Medical Aspects of Human Sexualit",
+    "issue": "9",
+    "page": "56-59",
+    "title": "Transition to parenthood",
+    "volume": "20",
+    "author": [
+      {
+        "family": "Belsky",
+        "given": "J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1986"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cowan1991",
+    "type": "article-journal",
+    "container-title": "NJ: Lawrence Erlbaum Associates, Inc",
+    "title": "Individual and Family Life Transitions: A Proposal for a New Definition Hillsdale",
+    "author": [
+      {
+        "family": "Cowan",
+        "given": "P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "falicov1991",
+    "type": "article-journal",
+    "container-title": "Guilford Press",
+    "title": "Family transitions: Continuity and change over the life cycle",
+    "author": [
+      {
+        "family": "Falicov",
+        "given": "C. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "entsieh2016",
+    "type": "article-journal",
+    "container-title": "Midwifery",
+    "DOI": "10.1016/j.midw.2016.04.006",
+    "ISSN": "02666138",
+    "journalAbbreviation": "Midwifery",
+    "language": "en",
+    "page": "1-11",
+    "source": "DOI.org (Crossref)",
+    "title": "First-time parents’ prenatal needs for early parenthood preparation-A systematic review and meta-synthesis of qualitative literature",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0266613816300341",
+    "volume": "39",
+    "author": [
+      {
+        "family": "Entsieh",
+        "given": "Angela Afua"
+      },
+      {
+        "family": "Hallström",
+        "given": "Inger Kristensson"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wilde2009",
+    "type": "article-journal",
+    "container-title": "Ludwig, Gundula/Sauer, Birgit/Wöhl, Stefanie (Eds.): Staat und Geschlecht. Grundlagen und aktuelle Herausforderungen feministischer Staatstheorie. Baden-Baden: Nomos",
+    "page": "31-36",
+    "title": "Gesellschaftsvertrag – Geschlechtervertrag",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schenk1995",
+    "type": "article-journal",
+    "container-title": "Berliner Journal für Soziologie",
+    "issue": "4",
+    "page": "475-488",
+    "title": "Neu-oder Restrukturierung des Geschlechterverhältnisses in Ostdeutschland",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Schenk",
+        "given": "S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1995"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pateman1988",
+    "type": "book",
+    "event-place": "Stanford",
+    "publisher": "Stanford University Press",
+    "publisher-place": "Stanford",
+    "title": "The Sexual Contract",
+    "author": [
+      {
+        "family": "Pateman",
+        "given": "C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lois2016",
+    "type": "article-journal",
+    "container-title": "Demographic Research",
+    "DOI": "10.4054/DemRes.2016.34.23",
+    "ISSN": "1435-9871",
+    "journalAbbreviation": "DemRes",
+    "language": "en",
+    "page": "657-688",
+    "source": "DOI.org (Crossref)",
+    "title": "Types of social networks and the transition to parenthood",
+    "URL": "http://www.demographic-research.org/volumes/vol34/23/",
+    "volume": "34",
+    "author": [
+      {
+        "family": "Lois",
+        "given": "Daniel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hollstein2006",
+    "type": "book",
+    "event-place": "Wiesbaden",
+    "ISBN": "978-3-531-14394-1",
+    "language": "de",
+    "note": "DOI: 10.1007/978-3-531-90074-2",
+    "publisher": "VS Verlag für Sozialwissenschaften",
+    "publisher-place": "Wiesbaden",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Netzwerkanalyse",
+    "URL": "http://link.springer.com/10.1007/978-3-531-90074-2",
+    "editor": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      },
+      {
+        "family": "Straus",
+        "given": "Florian"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "shirmanova2023",
+    "type": "article-journal",
+    "container-title": "Если быть точным",
+    "title": "800 тысяч россиян могли покинуть страну в 2022 году",
+    "URL": "https://tochno.st/materials/rossiyan-mogli-pokinut-stranu-v-2022-godu",
+    "author": [
+      {
+        "family": "Ширманова",
+        "given": "И"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "2023",
+    "type": "article-journal",
+    "container-title": "Социодиггер",
+    "title": "Они уехали. Новая волна российской эмиграции",
+    "URL": "https://sociodigger.ru/releases/release/oni-uekhali-novaja-volna-rossiiskoi-ehmigracii",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "selizarova2023",
+    "type": "article-journal",
+    "container-title": "Forbes",
+    "title": "Куда уехали россияне из-за частичной мобилизации и что планируют делать дальше",
+    "URL": "https://www.forbes.ru/svoi-biznes/478891-kuda-uehali-rossiane-iz-za-casticnoj-mobilizacii-i-cto-planiruut-delat-dal-se",
+    "author": [
+      {
+        "family": "Селизарова",
+        "given": "В."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "antonova2023",
+    "type": "article-journal",
+    "container-title": "Социодиггер",
+    "issue": "3-4",
+    "page": "59-68",
+    "title": "Проблемы на новом месте: что обсуждают российские эмигранты в чатах взаимопомощи?",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Антонова",
+        "given": "К. А."
+      },
+      {
+        "family": "Дубровина",
+        "given": "А. Д."
+      },
+      {
+        "family": "Якимова",
+        "given": "О. А."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "evstratov2022",
+    "type": "article-journal",
+    "container-title": "Архонт",
+    "title": "Релокация россиян в Армению в свете спецоперации РФ на Украине",
+    "URL": "https://cyberleninka.ru/article/n/relokatsiya-rossiyan-v-armeniyu-v-svete-spetsoperatsii-rf-na-ukraine",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Евстратов",
+        "given": "А. Г."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kostenko2023",
+    "type": "article-journal",
+    "container-title": "Re: Russia",
+    "title": "Российская ризома: социальный портрет новой эмиграции",
+    "URL": "https://re-russia.net/expertise/045/",
+    "author": [
+      {
+        "family": "Костенко",
+        "given": "Н."
+      },
+      {
+        "family": "Завадская",
+        "given": "М."
+      },
+      {
+        "family": "Камалов",
+        "given": "Э."
+      },
+      {
+        "family": "Сергеева",
+        "given": "И."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "haussling2010",
+    "type": "article-journal",
+    "abstract": "Using the approach of qualitative social network research, this article focuses on two ‘systems of social inequality’ on the basis of which learning is organized: one is the institutional and organizational framework structuring the encounters between teachers and students, the other is a system of social inequality incorporated at the level of emotions and affections. Both systems seem to be virtually inevitable and, due to the tacit nature of their workings in class interactions, escape attempts at deliberate control. The article demonstrates how the web of social relationships in the early grades acts to reinforce both systems of social inequality and how they mutually affect one another in the class setting. Two first grade classes were studied for this purpose using mixed methods. The findings clearly support these conclusions: in both classes under study, a configuration of relationships consisting of a range of distinct (student) positions has emerged, and all parties involved have a similar perception of this social configuration. These social positions, each of which offer different opportunities for learning, are reflected both in interactions (as evidenced by video analysis) and the students’ stories (as evidenced in interviews). Such stabilization processes determine student careers early on and render the class setting ‘porous’ as a space of learning.",
+    "container-title": "Current Sociology",
+    "DOI": "10.1177/0011392109349286",
+    "ISSN": "0011-3921, 1461-7064",
+    "issue": "1",
+    "journalAbbreviation": "Current Sociology",
+    "language": "en",
+    "page": "119-138",
+    "source": "DOI.org (Crossref)",
+    "title": "Allocation to Social Positions in Class: Interactions and Relationships in First Grade School Classes and Their Consequences",
+    "title-short": "Allocation to Social Positions in Class",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0011392109349286",
+    "volume": "58",
+    "author": [
+      {
+        "family": "Häussling",
+        "given": "Roger"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          1
+        ]
+      ]
+    }
+  },
+  {
     "id": "akbaritabarItalianSociologistsCommunity2020",
     "accessed": {
       "date-parts": [
