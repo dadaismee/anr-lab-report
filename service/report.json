@@ -8102,6 +8102,628 @@
     "URL": "https://ieeexplore.ieee.org/abstract/document/6629993/"
   },
   {
+    "id": "anastasi1986",
+    "type": "article-journal",
+    "container-title": "Annual Review of Psychology",
+    "DOI": "10.1146/annurev.ps.37.020186.000245",
+    "ISSN": "0066-4308, 1545-2085",
+    "issue": "1",
+    "journalAbbreviation": "Annu. Rev. Psychol.",
+    "language": "en",
+    "page": "1-16",
+    "source": "DOI.org (Crossref)",
+    "title": "Evolving Concepts of Test Validation",
+    "URL": "https://www.annualreviews.org/doi/10.1146/annurev.ps.37.020186.000245",
+    "volume": "37",
+    "author": [
+      {
+        "family": "Anastasi",
+        "given": "Anne"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1986",
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "beaton2000",
+    "type": "article-journal",
+    "container-title": "Spine",
+    "issue": "24",
+    "note": "publisher: LWW",
+    "page": "3186–3191",
+    "source": "Google Scholar",
+    "title": "Guidelines for the process of cross-cultural adaptation of self-report measures",
+    "URL": "https://journals.lww.com/spinejournal/Fulltext/2000/12150/Guidelines_for_the_Process_of_Cross_Cultural.14.aspx",
+    "volume": "25",
+    "author": [
+      {
+        "family": "Beaton",
+        "given": "Dorcas E."
+      },
+      {
+        "family": "Bombardier",
+        "given": "Claire"
+      },
+      {
+        "family": "Guillemin",
+        "given": "Francis"
+      },
+      {
+        "family": "Ferraz",
+        "given": "Marcos Bosi"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "beatty2007",
+    "type": "article-journal",
+    "container-title": "Public opinion quarterly",
+    "issue": "2",
+    "note": "publisher: Oxford University Press",
+    "page": "287–311",
+    "source": "Google Scholar",
+    "title": "Research synthesis: The practice of cognitive interviewing",
+    "title-short": "Research synthesis",
+    "URL": "https://academic.oup.com/poq/article-abstract/71/2/287/1928986",
+    "volume": "71",
+    "author": [
+      {
+        "family": "Beatty",
+        "given": "Paul C."
+      },
+      {
+        "family": "Willis",
+        "given": "Gordon B."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "boyatzis1991",
+    "type": "book",
+    "publisher": "John Wiley & Sons",
+    "source": "Google Scholar",
+    "title": "The competent manager: A model for effective performance",
+    "title-short": "The competent manager",
+    "URL": "https://www.google.com/books?hl=ru&lr=&id=KmFR7BnLdCoC&oi=fnd&pg=PR11&dq=Boyatzis,+R.+E.+(1982).+The+competent+manager:+A+model+for+effective+performance.+John+Wiley+%26+Sons.+21+p.&ots=wx2IRuNqTC&sig=WZq1yWhxkW6Zln175Ra1DO6pnUI",
+    "author": [
+      {
+        "family": "Boyatzis",
+        "given": "Richard E."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "zotero-1651",
+    "type": "webpage",
+    "title": "International Conference on Questionnaire Design, Development, Evaluation and Testing (QDET2)",
+    "URL": "https://ww2.amstat.org/meetings/qdet2/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "epstein2015",
+    "type": "article-journal",
+    "container-title": "Journal of clinical epidemiology",
+    "issue": "4",
+    "note": "publisher: Elsevier",
+    "page": "435–441",
+    "source": "Google Scholar",
+    "title": "A review of guidelines for cross-cultural adaptation of questionnaires could not bring out a consensus",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0895435614004995?casa_token=ZiUN0lD32NgAAAAA:tARNoTgR9QBjZx56mXGHsVV-msOW_ZBbExgqwH1tDj9b2DLmAVZpOxMW5xl2yLJiNaWgzC6-7UE",
+    "volume": "68",
+    "author": [
+      {
+        "family": "Epstein",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Santo",
+        "given": "Ruth Miyuki"
+      },
+      {
+        "family": "Guillemin",
+        "given": "Francis"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "gerber1997",
+    "type": "article-journal",
+    "abstract": "Approches des pré-tests: \"Cognition\" dans l'entretien cognitif? Le but de cet article est de discuter de l'entretien cognitif \"penser-à-haute-voix dans une perspective historique et d'esquisser son utilisation et ses limitations dans le contexte du développement et du pré-test des questionnaires Cette technique qualitative est suivie depuis ses précurseurs en psychologie et ses utilisations originales en méthodologie d'enquêtes. Des applications telles que le questionnement rétrospectif, le questionnement de définition, et des questions d'entrainement \"penser-à-haute-voix\" ont été ajoutées à la technique d'une manière adaptée à chaque étude. La technique a aussi été adaptée à des populations différentes, et à des schémas de \"quasi-échantillon\". Les questionnaires auto-administres exigent aussi des adaptations de la technique à l'origine entièrement orale. De plus, la technique est utilisée par des interviewers qui possèdent des niveaux différents d'entrainement. L'implication de ces variations dans l'entretien est examinée. Les définitions de \"cognition\" et de \"processus cognitifs\" implicites dans ces pratiques sont discutées. Les auteurs montrent comment ces définitions ont été étendues pour comprendre des choses telles que le langage usuel, l'interprétation langagière, et la connaissance générale. L'utilité et la nécessité des analyses théoriques sont également discutées.",
+    "container-title": "Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique",
+    "DOI": "10.1177/075910639705500104",
+    "ISSN": "0759-1063, 2070-2779",
+    "issue": "1",
+    "journalAbbreviation": "Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique",
+    "language": "en",
+    "page": "18-39",
+    "source": "DOI.org (Crossref)",
+    "title": "Perspectives on Pretesting : \"Cognition\" in the Cognitive Interview?",
+    "title-short": "Perspectives on Pretesting",
+    "URL": "http://journals.sagepub.com/doi/10.1177/075910639705500104",
+    "volume": "55",
+    "author": [
+      {
+        "family": "Gerber",
+        "given": "Eleanor R."
+      },
+      {
+        "family": "Wellens",
+        "given": "Tracy R."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1997",
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "commission2017",
+    "type": "document",
+    "publisher": "Second edition",
+    "source": "Google Scholar",
+    "title": "The ITC guidelines for translating and adapting tests",
+    "author": [
+      {
+        "family": "Commission",
+        "given": "International Test"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "jobe1993",
+    "type": "article-journal",
+    "abstract": "Abstract\n            This article reviews the results of survey methodological research that illustrate phenomena of potential interest to investigators of memory, and also reviews psychological research designed to explore some of these phenomena under controlled laboratory conditions. We classify the phenomena reviewed into broad categories of remembering what events occurred, remembering when events occurred, and estimation and reconstruction processes used in reporting recurring events. We delineate the contributions of this research for our understanding of memory phenomena and show where this research has revealed gaps in our existing theories and knowledge. These findings present challenges for future collaboration between cognitive psychologists and survey methodologists.",
+    "container-title": "Applied Cognitive Psychology",
+    "DOI": "10.1002/acp.2350070703",
+    "ISSN": "0888-4080, 1099-0720",
+    "issue": "7",
+    "journalAbbreviation": "Applied Cognitive Psychology",
+    "language": "en",
+    "page": "567-584",
+    "source": "DOI.org (Crossref)",
+    "title": "Contributions of survey research to the understanding of memory",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1002/acp.2350070703",
+    "volume": "7",
+    "author": [
+      {
+        "family": "Jobe",
+        "given": "Jared B."
+      },
+      {
+        "family": "Tourangeau",
+        "given": "Roger"
+      },
+      {
+        "family": "Smith",
+        "given": "Albert F."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1993",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mohorko2016",
+    "type": "article-journal",
+    "container-title": "Computers in Human Behavior",
+    "note": "publisher: Elsevier",
+    "page": "79–89",
+    "source": "Google Scholar",
+    "title": "Degree of cognitive interviewer involvement in questionnaire pretesting on trending survey modes",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0747563216301820?casa_token=JkvjyJdpsU4AAAAA:KdJJiMyz_RPIFh_GyyO-jFW-Ul5lxwq8JGsTfLGHPi4U7CCaEPGalooldZaI40ZaVRXoRjjQkt4",
+    "volume": "62",
+    "author": [
+      {
+        "family": "Mohorko",
+        "given": "Anja"
+      },
+      {
+        "family": "Hlebec",
+        "given": "Valentina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pan2014",
+    "type": "paper-conference",
+    "container-title": "Survey Research Methods",
+    "note": "issue: 3",
+    "page": "181–194",
+    "source": "Google Scholar",
+    "title": "Evaluating multilingual questionnaires: A sociolinguistic perspective",
+    "title-short": "Evaluating multilingual questionnaires",
+    "URL": "https://ojs.ub.uni-konstanz.de/srm/article/view/5483",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Pan",
+        "given": "Yuling"
+      },
+      {
+        "family": "Fond",
+        "given": "Marissa"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "association1985",
+    "type": "document",
+    "source": "Google Scholar",
+    "title": "Standards for educational and psychological testing",
+    "URL": "https://cir.nii.ac.jp/crid/1130000794987222016",
+    "author": [
+      {
+        "family": "Association",
+        "given": "American Educational Research"
+      },
+      {
+        "family": "Association",
+        "given": "American Psychological"
+      },
+      {
+        "family": "Education",
+        "given": "National Council on Measurement",
+        "dropping-particle": "in"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1985"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "beatty2007a",
+    "type": "article-journal",
+    "container-title": "Public opinion quarterly",
+    "issue": "2",
+    "note": "publisher: Oxford University Press",
+    "page": "287–311",
+    "source": "Google Scholar",
+    "title": "Research synthesis: The practice of cognitive interviewing",
+    "title-short": "Research synthesis",
+    "URL": "https://academic.oup.com/poq/article-abstract/71/2/287/1928986",
+    "volume": "71",
+    "author": [
+      {
+        "family": "Beatty",
+        "given": "Paul C."
+      },
+      {
+        "family": "Willis",
+        "given": "Gordon B."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "willis2004",
+    "type": "book",
+    "publisher": "sage publications",
+    "source": "Google Scholar",
+    "title": "Cognitive interviewing: A tool for improving questionnaire design",
+    "title-short": "Cognitive interviewing",
+    "URL": "https://www.google.com/books?hl=ru&lr=&id=On1LBQAAQBAJ&oi=fnd&pg=PT9&dq=Willis,+G.+B.+(2005).+Cognitive+interviewing+in+practice:+think-aloud,+verbal+probing+and+other+techniques.+Cognitive+interviewing:+a+tool+for+improving+questionnaire+design.+London:+Sage+Publications,+42-63.&ots=ALOIdENKeg&sig=_ETEOFrbJWwYkho8-iZfklNbxgc",
+    "author": [
+      {
+        "family": "Willis",
+        "given": "Gordon B."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2004"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "gorshkov2011",
+    "type": "article-journal",
+    "container-title": "М.: Институт социологии РАН",
+    "source": "Google Scholar",
+    "title": "Прикладная социология: методология",
+    "title-short": "Прикладная социология",
+    "URL": "http://library.lgaki.info:404/2017/%D0%93%D0%BE%D1%80%D1%88%D0%BA%D0%BE%D0%B2_%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F.pdf",
+    "author": [
+      {
+        "family": "Горшков",
+        "given": "М. К."
+      },
+      {
+        "family": "Шереги",
+        "given": "Ф. Э."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rogozin2000",
+    "type": "article-journal",
+    "container-title": "Социологический журнал",
+    "issue": "3-4",
+    "note": "publisher: Федеральное государственное бюджетное учреждение науки «Федеральный научно …",
+    "page": "018–070",
+    "source": "Google Scholar",
+    "title": "Когнитивный анализ опросного инструмента",
+    "URL": "https://cyberleninka.ru/article/n/kognitivnyy-analiz-oprosnogo-instrumenta",
+    "author": [
+      {
+        "family": "Рогозин",
+        "given": "Дмитрий Михайлович"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rogozind.m.2002",
+    "type": "book",
+    "event-place": "М.",
+    "publisher-place": "М.",
+    "title": "Когнитивный анализ опросного инструмента",
+    "author": [
+      {
+        "literal": "Рогозин, Д. М."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2002"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tavorkine.p.2021",
+    "type": "book",
+    "language": "ru-RU",
+    "number-of-pages": "239",
+    "publisher": "НИЦ ИНФРА-М",
+    "title": "Основы методики социологического исследования",
+    "URL": "https://znanium.com/catalog/document?id=398636",
+    "author": [
+      {
+        "literal": "Таворкин Е. П."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021"
+        ]
+      ]
+    }
+  },
+  {
     "id": "malcevaRussianPublicationsWeb2023",
     "type": "article-journal",
     "container-title": "(препринт) COLLNET Journal of Scientometrics and Information Management",
@@ -8562,6 +9184,941 @@
     "type": "article-journal",
     "URL": "http://link.springer.com/10.1007/s11192-020-03387-8",
     "volume": "123"
+  },
+  {
+    "id": "einarsen2007",
+    "type": "article-journal",
+    "container-title": "The Leadership Quarterly",
+    "DOI": "10.1016/j.leaqua.2007.03.002",
+    "ISSN": "10489843",
+    "issue": "3",
+    "journalAbbreviation": "The Leadership Quarterly",
+    "language": "en",
+    "page": "207-216",
+    "source": "DOI.org (Crossref)",
+    "title": "Destructive leadership behaviour: A definition and conceptual model",
+    "title-short": "Destructive leadership behaviour",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1048984307000422",
+    "volume": "18",
+    "author": [
+      {
+        "family": "Einarsen",
+        "given": "Ståle"
+      },
+      {
+        "family": "Aasland",
+        "given": "Merethe Schanke"
+      },
+      {
+        "family": "Skogstad",
+        "given": "Anders"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2007",
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "higgs2009",
+    "type": "article-journal",
+    "container-title": "Journal of Change Management",
+    "DOI": "10.1080/14697010902879111",
+    "ISSN": "1469-7017, 1479-1811",
+    "issue": "2",
+    "journalAbbreviation": "Journal of Change Management",
+    "language": "en",
+    "page": "165-178",
+    "source": "DOI.org (Crossref)",
+    "title": "The Good, the Bad and the Ugly: Leadership and Narcissism",
+    "title-short": "The Good, the Bad and the Ugly",
+    "URL": "http://www.tandfonline.com/doi/abs/10.1080/14697010902879111",
+    "volume": "9",
+    "author": [
+      {
+        "family": "Higgs",
+        "given": "Malcolm"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2009",
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hogan2003",
+    "type": "article-journal",
+    "container-title": "Journal of Applied Psychology",
+    "DOI": "10.1037/0021-9010.88.1.100",
+    "ISSN": "1939-1854, 0021-9010",
+    "issue": "1",
+    "journalAbbreviation": "Journal of Applied Psychology",
+    "language": "en",
+    "page": "100-112",
+    "source": "DOI.org (Crossref)",
+    "title": "Using theory to evaluate personality and job-performance relations: A socioanalytic perspective.",
+    "title-short": "Using theory to evaluate personality and job-performance relations",
+    "URL": "http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.88.1.100",
+    "volume": "88",
+    "author": [
+      {
+        "family": "Hogan",
+        "given": "Joyce"
+      },
+      {
+        "family": "Holland",
+        "given": "Brent"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hogan2009",
+    "type": "book",
+    "call-number": "HF5381 .H5244 2009",
+    "edition": "Second Edition",
+    "event-place": "Tulsa, OK",
+    "ISBN": "978-0-9816457-7-3",
+    "number-of-pages": "199",
+    "publisher": "Hogan Assessment Systems",
+    "publisher-place": "Tulsa, OK",
+    "source": "Library of Congress ISBN",
+    "title": "Hogan Development Survey Manual",
+    "author": [
+      {
+        "family": "Hogan",
+        "given": "Robert"
+      },
+      {
+        "family": "Hogan",
+        "given": "Joyce"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lipman-blumen2010a",
+    "type": "chapter",
+    "container-title": "Handbook of Top Management Teams",
+    "event-place": "London",
+    "ISBN": "978-1-349-30451-6",
+    "language": "en",
+    "note": "DOI: 10.1057/9780230305335_23",
+    "page": "214-220",
+    "publisher": "Palgrave Macmillan UK",
+    "publisher-place": "London",
+    "source": "DOI.org (Crossref)",
+    "title": "Toxic Leadership: A Conceptual Framework",
+    "title-short": "Toxic Leadership",
+    "URL": "http://link.springer.com/10.1057/9780230305335_23",
+    "editor": [
+      {
+        "family": "Bournois",
+        "given": "Frank"
+      },
+      {
+        "family": "Duval-Hamel",
+        "given": "Jérôme"
+      },
+      {
+        "family": "Roussillon",
+        "given": "Sylvie"
+      },
+      {
+        "family": "Scaringella",
+        "given": "Jean-Louis"
+      }
+    ],
+    "author": [
+      {
+        "family": "Lipman-Blumen",
+        "given": "Jean"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rosenthal2006",
+    "type": "article-journal",
+    "container-title": "The Leadership Quarterly",
+    "DOI": "10.1016/j.leaqua.2006.10.005",
+    "ISSN": "10489843",
+    "issue": "6",
+    "journalAbbreviation": "The Leadership Quarterly",
+    "language": "en",
+    "page": "617-633",
+    "source": "DOI.org (Crossref)",
+    "title": "Narcissistic leadership",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1048984306001111",
+    "volume": "17",
+    "author": [
+      {
+        "family": "Rosenthal",
+        "given": "Seth A."
+      },
+      {
+        "family": "Pittinsky",
+        "given": "Todd L."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2006",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "scheffler2020",
+    "type": "article-journal",
+    "abstract": "Abstract\n            The dark side leadership literature remains a highly relevant yet fragmented and ambiguous literature stream. Therefore, we conduct a bibliometric analysis using co-citation and pathfinder analysis to describe and visualize the intellectual origins of the field by combining predefined word lists with expert validation. Our results suggest that there are key authors as well as other distinctive characteristics of research that also guides future research. Thematic clusters of the dark side literature suggest heightened emphasis on single dark traits such as narcissism while other constructs such as psychopathy receive little attention. Articles by Tepper can be linked to a central position in the network. Implications for theory and practice are discussed.",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-020-03621-3",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "journalAbbreviation": "Scientometrics",
+    "language": "en",
+    "page": "755-775",
+    "source": "DOI.org (Crossref)",
+    "title": "Destructive leadership in organizational research: a bibliometric approach",
+    "title-short": "Destructive leadership in organizational research",
+    "URL": "https://link.springer.com/10.1007/s11192-020-03621-3",
+    "volume": "125",
+    "author": [
+      {
+        "family": "Scheffler",
+        "given": "Maximilian"
+      },
+      {
+        "family": "Brunzel",
+        "given": "Johannes"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "scheidlinger1980",
+    "type": "article-journal",
+    "container-title": "Group",
+    "DOI": "10.1007/BF01456483",
+    "ISSN": "0362-4021, 1573-3386",
+    "issue": "1",
+    "journalAbbreviation": "Group",
+    "language": "en",
+    "page": "5-17",
+    "source": "DOI.org (Crossref)",
+    "title": "The psychology of leadership revisited: An overview",
+    "title-short": "The psychology of leadership revisited",
+    "URL": "http://link.springer.com/10.1007/BF01456483",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Scheidlinger",
+        "given": "Saul"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1980",
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tepper2007",
+    "type": "article-journal",
+    "abstract": "A growing literature explores abusive supervision, nonphysical forms of hostility perpetrated by managers against their direct reports. However, researchers have used different terminology to explore phenomena that overlap with abusive supervision, and extant research does not devolve from a unifying theoretical framework. These problems have the potential to undermine the development of knowledge in this important research domain. The author therefore provides a review of the literature that summarizes what is known about the antecedents and consequences of abusive supervision, provides the basis for an emergent model that integrates extant empirical work, and suggests directions for future research.",
+    "container-title": "Journal of Management",
+    "DOI": "10.1177/0149206307300812",
+    "ISSN": "0149-2063, 1557-1211",
+    "issue": "3",
+    "journalAbbreviation": "Journal of Management",
+    "language": "en",
+    "page": "261-289",
+    "source": "DOI.org (Crossref)",
+    "title": "Abusive Supervision in Work Organizations: Review, Synthesis, and Research Agenda",
+    "title-short": "Abusive Supervision in Work Organizations",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0149206307300812",
+    "volume": "33",
+    "author": [
+      {
+        "family": "Tepper",
+        "given": "Bennett J."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2007",
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "zhang2013",
+    "type": "article-journal",
+    "abstract": "Abstract\n            \n              Derailment is a common phenomenon in organizations; however, managers' derailment can be prevented if the phenomenon is well understood. Derailed managers often have impressive track records and are solidly established within their organizations, but something goes wrong along the way. In this article, we review the dynamics and causes of derailment. We then report survey results from over 2,500 respondents across five countries with differences noted by level, industry, and country. Finally, we describe actions to prevent derailment. © 2013 Wiley Periodicals, Inc.",
+    "container-title": "Thunderbird International Business Review",
+    "DOI": "10.1002/tie.21525",
+    "ISSN": "1096-4762, 1520-6874",
+    "issue": "1",
+    "journalAbbreviation": "Thunderbird Intl Bus Rev",
+    "language": "en",
+    "page": "95-102",
+    "source": "DOI.org (Crossref)",
+    "title": "Trouble Ahead: Derailment Is Alive and Well",
+    "title-short": "Trouble Ahead",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1002/tie.21525",
+    "volume": "55",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Yi"
+      },
+      {
+        "family": "Leslie",
+        "given": "Jean Brittain"
+      },
+      {
+        "family": "Hannum",
+        "given": "Kelly M."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2013",
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ashforth1997",
+    "type": "article-journal",
+    "abstract": "Abstract\n              Petty tyranny is defined as the tendency to lord one's power over others. A model of the individual and situa‐tional antecedents of petty tyranny in organizations and the effects of tyranny on subordinates is presented. The model is assessed via 63 sets of respondents, each consisting of one manager and two subordinates, plus 25 partial sets. The hypothesized effects are generally supported, but not the hypothesized antecedents. It is speculated that petty tyranny represents a relatively rare gestalt, that is, an integrated and resilient cluster of antecedents, leader behaviours, and effects on subordinates.\n            \n            \n              Résumé\n              On entend par “petite tyrannie” la tendance à exercer une domination sur les autres. L'article présente un modèle des antécédents individuels et situationnels de la petite tyrannie dans les organisations et des effects de la tyrannie sur les subordonnés. Le modèle est testé à par‐tir de 63 groupes complets de répondants, composés chacun d'un chef de service et de deux subordonnés, et de 25 groupes partiels. Les hypothèses liées aux effets de la tyrannie sont généralement verifiées contrairement à celles des antécédents. L'auteur suggère que la petite tyrannie représente une “gestalt” relativement rare, c'est‐à‐dire un ensemble intégré d'antécédents, de com‐portements de leader et d'effets sur les subordonnés.",
+    "container-title": "Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration",
+    "DOI": "10.1111/j.1936-4490.1997.tb00124.x",
+    "ISSN": "0825-0383, 1936-4490",
+    "issue": "2",
+    "journalAbbreviation": "Can J Adm Sci",
+    "language": "en",
+    "page": "126-140",
+    "source": "DOI.org (Crossref)",
+    "title": "Petty Tyranny in Organizations: A Preliminary Examination of Antecedents and Consequences",
+    "title-short": "Petty Tyranny in Organizations",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1936-4490.1997.tb00124.x",
+    "volume": "14",
+    "author": [
+      {
+        "family": "Ashforth",
+        "given": "Blake E."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1997",
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "costas2012",
+    "type": "article-journal",
+    "abstract": "A significant stream of research taking a psychoanalytic perspective has focused on leadership in organizations. Studies have investigated, from a Freudian perspective, leader–follower relations where the leader represents a domineering and authoritarian father figure. We contribute to this research by introducing Lacanian theory to explore the increasingly influential ‘authentic leadership’ approach. In contrast to traditional leadership, this approach advocates, in line with postmodern trends, a post-heroic, non-authoritarian and even self-effacing leader figure. In analysing academic and practitioner-oriented authentic leadership texts we ask, drawing on Lacanian insights, whether authentic leadership enables subjects to separate from the master discourse of traditional leadership through promoting something like the analyst discourse, or whether it entails the return of a phantasmagorical Freudian primal father figure, leading to heightened dependency. In so doing, we discuss the political significance of Lacanian theory in illuminating possibilities for more autonomous and emancipatory relations in organizations.",
+    "container-title": "Organization Studies",
+    "DOI": "10.1177/0170840612448157",
+    "ISSN": "0170-8406, 1741-3044",
+    "issue": "9",
+    "journalAbbreviation": "Organization Studies",
+    "language": "en",
+    "page": "1195-1216",
+    "source": "DOI.org (Crossref)",
+    "title": "‘The Return of the Primal Father’ in Postmodernity? A Lacanian Analysis of Authentic Leadership",
+    "title-short": "‘The Return of the Primal Father’ in Postmodernity?",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0170840612448157",
+    "volume": "33",
+    "author": [
+      {
+        "family": "Costas",
+        "given": "Jana"
+      },
+      {
+        "family": "Taheri",
+        "given": "Alireza"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "2018",
+    "type": "article-journal",
+    "container-title": "Journal of Leadership, Accountability and Ethics",
+    "DOI": "10.33423/jlae.v15i2.643",
+    "ISSN": "1913-8059, 1913-8059",
+    "issue": "2",
+    "journalAbbreviation": "JLAE",
+    "language": "en",
+    "source": "DOI.org (Crossref)",
+    "title": "Dark Side Leaders: Are their Intentions Benign or Toxic?",
+    "title-short": "Dark Side Leaders",
+    "URL": "https://articlegateway.com/index.php/JLAE/article/view/643",
+    "volume": "15",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "dashtipour2016",
+    "type": "paper-conference",
+    "abstract": "Psychoanalytic approaches to leadership centre on emotions and the role of the leader as the manager of emotion (Gabriel, 2011). These perspectives have often focused on the dysfunctions of leadership, the way in which leaders contribute to ‘dark’ and unhealthy organizational lives. In contrast to such approaches, in this paper we draw from Christophe Dejours’ psychodynamic theory of work, in order to explore what role leaders could play to facilitate health in organizations. We first begin by providing a short overview of some psychoanalytic perspectives on leadership. We show that such approaches illuminate the emotions and fantasies entailed in leadership or in the bonds between leaders and followers. We then discuss Dejours’ psychodynamic theory, which provides a different view. This theory does not focus on the emotions and fantasies associated with leadership, but instead demonstrates the role of work in the affective and social life of the subject and the implications this has for leading/managing workers.",
+    "source": "Semantic Scholar",
+    "title": "Christophe Dejours’ psychodynamic theory of work and its implications for leadership",
+    "URL": "https://www.semanticscholar.org/paper/Christophe-Dejours%E2%80%99-psychodynamic-theory-of-work-Dashtipour-Vidaillet/a2ead5244af431cefaad966d033d06e853cf40bb",
+    "author": [
+      {
+        "family": "Dashtipour",
+        "given": "Parisa"
+      },
+      {
+        "family": "Vidaillet",
+        "given": "Bénédicte"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "driver2013",
+    "type": "article-journal",
+    "abstract": "The study uses a psychoanalytic framework to explore how leadership identities are constructed. It advances the idea that leadership identities are imaginary constructions that invariable fail, reiterating a lack of being. Empirical material consisting of interviews with 15 leaders is used to explore the productive role this lack plays. The study suggests that leadership identities are always already subverted by unconscious desire and therefore less powerful than we might think with regard to imposing structures on others, but also much more powerful than we might think as liberating struggles with leaders’ imaginary selves.",
+    "container-title": "Organization Studies",
+    "DOI": "10.1177/0170840612463003",
+    "ISSN": "0170-8406, 1741-3044",
+    "issue": "3",
+    "journalAbbreviation": "Organization Studies",
+    "language": "en",
+    "page": "407-422",
+    "source": "DOI.org (Crossref)",
+    "title": "The Lack of Power or the Power of Lack in Leadership as a Discursively Constructed Identity",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0170840612463003",
+    "volume": "34",
+    "author": [
+      {
+        "family": "Driver",
+        "given": "Michaela"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2013",
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schultz2020",
+    "type": "chapter",
+    "container-title": "Encyclopedia of Personality and Individual Differences",
+    "event-place": "Cham",
+    "ISBN": "978-3-319-24610-9",
+    "language": "en",
+    "note": "DOI: 10.1007/978-3-319-24612-3_901",
+    "page": "1977-1979",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "source": "DOI.org (Crossref)",
+    "title": "Hogan Personality Inventory",
+    "URL": "http://link.springer.com/10.1007/978-3-319-24612-3_901",
+    "editor": [
+      {
+        "family": "Zeigler-Hill",
+        "given": "Virgil"
+      },
+      {
+        "family": "Shackelford",
+        "given": "Todd K."
+      }
+    ],
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "David M."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ketsdevries1989",
+    "type": "book",
+    "call-number": "HD57.7 .K48 1989",
+    "event-place": "New York",
+    "ISBN": "978-0-471-50069-8",
+    "number-of-pages": "246",
+    "publisher": "Wiley",
+    "publisher-place": "New York",
+    "source": "Library of Congress ISBN",
+    "title": "Prisoners of leadership",
+    "author": [
+      {
+        "family": "Kets de Vries",
+        "given": "Manfred F. R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1989"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ketsdevries1984",
+    "type": "book",
+    "call-number": "HD58.7 .K465 1984",
+    "collection-title": "The Jossey-Bass management series",
+    "edition": "1st ed",
+    "event-place": "San Francisco",
+    "ISBN": "978-0-87589-606-9",
+    "number-of-pages": "241",
+    "publisher": "Jossey-Bass",
+    "publisher-place": "San Francisco",
+    "source": "Library of Congress ISBN",
+    "title": "The neurotic organization",
+    "author": [
+      {
+        "family": "Kets de Vries",
+        "given": "Manfred F. R."
+      },
+      {
+        "family": "Miller",
+        "given": "Danny"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1984"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "obholzer1996",
+    "type": "article-journal",
+    "abstract": "Provides a review of the psychoanalytic contributions to authority and leadership issues. Notes how the personality of the leader can affect the responses of his/her followers. Considers the risks involved in this process.",
+    "container-title": "Leadership & Organization Development Journal",
+    "DOI": "10.1108/01437739610152966",
+    "ISSN": "0143-7739",
+    "issue": "6",
+    "language": "en",
+    "page": "53-56",
+    "source": "DOI.org (Crossref)",
+    "title": "Psychoanalytic contributions to authority and leadership issues",
+    "URL": "https://www.emerald.com/insight/content/doi/10.1108/01437739610152966/full/html",
+    "volume": "17",
+    "author": [
+      {
+        "family": "Obholzer",
+        "given": "Anton"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1996",
+          11,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schwartz1990b",
+    "type": "book",
+    "call-number": "HD58.7 .S348 1990",
+    "event-place": "New York",
+    "ISBN": "978-0-8147-7913-2",
+    "number-of-pages": "151",
+    "publisher": "New York University Press",
+    "publisher-place": "New York",
+    "source": "Library of Congress ISBN",
+    "title": "Narcissistic process and corporate decay: the theory of the organization ideal",
+    "title-short": "Narcissistic process and corporate decay",
+    "author": [
+      {
+        "family": "Schwartz",
+        "given": "Howard S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1990"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ketsdevries1991",
+    "type": "book",
+    "collection-title": "The Jossey-Bass management series",
+    "edition": "1. ed",
+    "event-place": "San Francisco, Calif.",
+    "ISBN": "978-1-55542-384-1",
+    "language": "eng",
+    "number-of-pages": "408",
+    "publisher": "Jossey-Bass",
+    "publisher-place": "San Francisco, Calif.",
+    "source": "K10plus ISBN",
+    "title": "Organizations on the couch: clinical perspectives on organizational behavior and change",
+    "title-short": "Organizations on the couch",
+    "author": [
+      {
+        "family": "Kets de Vries",
+        "given": "Manfred F. R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "smith1975",
+    "type": "article-journal",
+    "container-title": "Biochemical and Biophysical Research Communications",
+    "DOI": "10.1016/0006-291x(75)90498-2",
+    "ISSN": "0006-291X",
+    "issue": "4",
+    "journalAbbreviation": "Biochem Biophys Res Commun",
+    "language": "eng",
+    "note": "PMID: 3",
+    "page": "1281-1286",
+    "source": "PubMed",
+    "title": "Metal substitutions incarbonic anhydrase: a halide ion probe study",
+    "title-short": "Metal substitutions incarbonic anhydrase",
+    "volume": "66",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "R. J."
+      },
+      {
+        "family": "Bryant",
+        "given": "R. G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1975",
+          10,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "gabriel2011",
+    "type": "chapter",
+    "container-title": "The SAGE Handbok of Leadership",
+    "event-place": "London ; Thousand Oaks, Calif",
+    "ISBN": "978-1-84860-146-8",
+    "page": "393-405",
+    "publisher": "SAGE",
+    "publisher-place": "London ; Thousand Oaks, Calif",
+    "source": "Library of Congress ISBN",
+    "title": "Psychoanalytic approaches to leadership",
+    "author": [
+      {
+        "family": "Gabriel",
+        "given": "Y."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kohut2003",
+    "type": "book",
+    "event-place": "Москва",
+    "ISBN": "5-89353-093-4",
+    "publisher": "Когито-Центр",
+    "publisher-place": "Москва",
+    "title": "Анализ самости: Системный подход к лечению нарциссических нарушений личности / Пер. с англ. А.М. Боковикова",
+    "author": [
+      {
+        "family": "Кохут",
+        "given": "Хайнц"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "horni2019",
+    "type": "book",
+    "publisher": "Питер",
+    "title": "Невроз и личностный рост. Борьба за самореализацию / Пер. с англ. Е.И. Замфир",
+    "author": [
+      {
+        "family": "Хорни",
+        "given": "Карен"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2019"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "maccoby2000",
+    "type": "article-journal",
+    "container-title": "Harvard Business Review",
+    "issue": "1",
+    "title": "Narcissistic leaders: The incredible pros, the inevitable cons",
+    "volume": "78",
+    "author": [
+      {
+        "family": "Maccoby",
+        "given": "Michael"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ]
+    }
   },
   {
     "id": "http://zotero.org/users/local/Q7DWuSGG/items/RXWEMMA3",
