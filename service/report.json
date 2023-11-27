@@ -10874,6 +10874,1476 @@
     "volume": "123"
   },
   {
+    "id": "bastian2009",
+    "abstract": "Gephi is an open source software for graph and network analysis. It uses a 3D render engine to display large networks in real-time and to speed up the exploration. A flexible and multi-task architecture brings new possibilities to work with complex data sets and produce valuable visual results.  We present several key features of Gephi in the context of interactive exploration and interpretation of networks. It provides easy and broad access to network data and allows for spatializing, filtering, navigating, manipulating and clustering. Finally, by presenting dynamic features of Gephi, we highlight key aspects of dynamic network visualization.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bastian",
+        "given": "Mathieu"
+      },
+      {
+        "family": "Heymann",
+        "given": "Sebastien"
+      },
+      {
+        "family": "Jacomy",
+        "given": "Mathieu"
+      }
+    ],
+    "citation-key": "bastian2009",
+    "container-title": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "container-title-short": "ICWSM",
+    "DOI": "10.1609/icwsm.v3i1.13937",
+    "ISSN": "2334-0770, 2162-3449",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          19
+        ]
+      ]
+    },
+    "page": "361-362",
+    "source": "DOI.org (Crossref)",
+    "title": "Gephi: An Open Source Software for Exploring and Manipulating Networks",
+    "title-short": "Gephi",
+    "type": "article-journal",
+    "URL": "https://ojs.aaai.org/index.php/ICWSM/article/view/13937",
+    "volume": "3"
+  },
+  {
+    "id": "batagelj2014",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "citation-key": "batagelj2014",
+    "DOI": "10.1002/9781118915370",
+    "edition": "1",
+    "editor": [
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Doreian",
+        "given": "Patrick"
+      },
+      {
+        "family": "Ferligoj",
+        "given": "Anus̆ka"
+      },
+      {
+        "family": "Kejz̆ar",
+        "given": "Natas̆a"
+      }
+    ],
+    "ISBN": "978-0-470-71452-2 978-1-118-91537-0",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          22
+        ]
+      ]
+    },
+    "language": "en",
+    "publisher": "Wiley",
+    "source": "DOI.org (Crossref)",
+    "title": "Understanding Large Temporal Networks and Spatial Networks",
+    "type": "book",
+    "URL": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118915370"
+  },
+  {
+    "id": "batagelj2017a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Ferligoj",
+        "given": "Anuška"
+      },
+      {
+        "family": "Squazzoni",
+        "given": "Flaminio"
+      }
+    ],
+    "citation-key": "batagelj2017a",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-017-2522-8",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "503-532",
+    "source": "DOI.org (Crossref)",
+    "title": "The emergence of a field: a network analysis of research on peer review",
+    "title-short": "The emergence of a field",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-017-2522-8",
+    "volume": "113"
+  },
+  {
+    "id": "batagelj2020b",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-key": "batagelj2020b",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-020-03383-y",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "621-633",
+    "source": "DOI.org (Crossref)",
+    "title": "On fractional approach to analysis of linked networks",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-020-03383-y",
+    "volume": "123"
+  },
+  {
+    "id": "blei2003",
+    "abstract": "We describe latent Dirichlet allocation (LDA), a generative probabilistic model for collections of discrete data such as text corpora. LDA is a three-level hierarchical Bayesian model, in which each item of a collection is modeled as a ﬁnite mixture over an underlying set of topics. Each topic is, in turn, modeled as an inﬁnite mixture over an underlying set of topic probabilities. In the context of text modeling, the topic probabilities provide an explicit representation of a document. We present efﬁcient approximate inference techniques based on variational methods and an EM algorithm for empirical Bayes parameter estimation. We report results in document modeling, text classiﬁcation, and collaborative ﬁltering, comparing to a mixture of unigrams model and the probabilistic LSI model.",
+    "author": [
+      {
+        "family": "Blei",
+        "given": "David M"
+      }
+    ],
+    "citation-key": "blei2003",
+    "container-title": "Journal of Machine Learning Research",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "993-1022",
+    "source": "Zotero",
+    "title": "Latent Dirichlet Allocation",
+    "type": "article-journal"
+  },
+  {
+    "id": "bulycheva2020",
+    "abstract": "Целью работы является выделение актуальных тематик в социологии XX – начала XXI века посредством анализа публикаций в десяти ведущих англоязычных общесоциологических журналах. Исследование выполнено в количественной парадигме изучения научного знания и основано на анализе библиографической информации о публикациях из базы данных Web of Science (более 23 тыс. публикаций). Собранные данные стали основой для построения сети цитирований между публикациями. Используя метрики сетевого анализа и алгоритм выделения основного пути в этой сети, мы получаем работы с наибольшим количеством цитирований, которые можно считать наиболее значимыми для авторов отобранных журналов, прослеживаем связи между статьями и делаем выводы об актуальных тематиках исследований, преобладающих в определенном сегменте социологии в тот или иной период времени.\nБлагодарность. Исследование финансировалось в рамках государственной поддержки ведущих университетов Российской Федерации «5-100».\nАвторы выражают благодарность анонимным рецензентам за комментарии к предыдущим версиям статьи, а также Станиславу Моисееву (НИУ ВШЭ) за идеи по улучшению текущей версии текста.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Булычева",
+        "given": "Екатерина Евгеньевна"
+      },
+      {
+        "family": "Мальцева",
+        "given": "Дарья Васильевна"
+      }
+    ],
+    "citation-key": "bulycheva2020",
+    "container-title": "The monitoring of public opinion economic&social changes",
+    "container-title-short": "MONITORING OF PUBLIC OPINION",
+    "DOI": "10.14515/monitoring.2020.6.971",
+    "ISSN": "2219-5467",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          30
+        ]
+      ]
+    },
+    "source": "DOI.org (Crossref)",
+    "title": "Выделение актуальных тематик в социологии: взгляд сквозь призму анализа сети цитирований",
+    "title-short": "Выделение актуальных тематик в социологии",
+    "type": "article-journal",
+    "URL": "https://www.monitoringjournal.ru/index.php/monitoring/article/view/971"
+  },
+  {
+    "id": "carleyk.m.2020",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Carley, K. M."
+      }
+    ],
+    "citation-key": "carleyk.m.2020",
+    "container-title": "Text analysis for the social sciences",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "79-100",
+    "publisher": "Routledge.",
+    "title": "Network Text Analysis: The Network Position of Concepts",
+    "type": "chapter",
+    "URL": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003064060-5/network-text-analysis-network-position-concepts-kathleen-carley"
+  },
+  {
+    "id": "denooy",
+    "author": [
+      {
+        "family": "Nooy",
+        "given": "Wouter",
+        "non-dropping-particle": "de"
+      },
+      {
+        "family": "Mrvar",
+        "given": "Andrej"
+      },
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-key": "denooy",
+    "language": "en",
+    "source": "Zotero",
+    "title": "Exploratory Social Network Analysis with Pajek: Revised and Expanded Edition for Updated Software",
+    "type": "book"
+  },
+  {
+    "id": "desilva2017",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "De Silva",
+        "given": "C.S."
+      },
+      {
+        "family": "Warusavitharana",
+        "given": "E.J."
+      },
+      {
+        "family": "Ratnayake",
+        "given": "R."
+      }
+    ],
+    "citation-key": "desilva2017",
+    "container-title": "Computers, Environment and Urban Systems",
+    "container-title-short": "Computers, Environment and Urban Systems",
+    "DOI": "10.1016/j.compenvurbsys.2017.03.006",
+    "ISSN": "01989715",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "266-274",
+    "source": "DOI.org (Crossref)",
+    "title": "An examination of the temporal effects of environmental cues on pedestrians' feelings of safety",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0198971517301394",
+    "volume": "64"
+  },
+  {
+    "id": "freeman2004",
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "Linton C."
+      }
+    ],
+    "call-number": "HM741 .F74 2004",
+    "citation-key": "freeman2004",
+    "event-place": "Vancouver, BC : North Charleston, S.C",
+    "ISBN": "978-1-59457-714-7",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "205",
+    "publisher": "Empirical Press ; BookSurge",
+    "publisher-place": "Vancouver, BC : North Charleston, S.C",
+    "source": "Library of Congress ISBN",
+    "title": "The development of social network analysis: a study in the sociology of science",
+    "title-short": "The development of social network analysis",
+    "type": "book"
+  },
+  {
+    "id": "hummon1993a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hummon",
+        "given": "Norman P."
+      },
+      {
+        "family": "Carley",
+        "given": "Kathleen"
+      }
+    ],
+    "citation-key": "hummon1993a",
+    "container-title": "Social Networks",
+    "container-title-short": "Social Networks",
+    "DOI": "10.1016/0378-8733(93)90022-D",
+    "ISSN": "03788733",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1993,
+          3
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "71-106",
+    "source": "DOI.org (Crossref)",
+    "title": "Social networks as normal science",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/037887339390022D",
+    "volume": "15"
+  },
+  {
+    "id": "lapham2016",
+    "abstract": "Our purpose was to determine the relative importance of individual- and park-related characteristics in influencing both local park use and specific engagement in active sports, walking and sedentary pursuits. We surveyed 3815 adults living within 0.80 km of one of 24 study parks in four US metropolitan areas. Chi-square statistics and baseline-category logit models examined how perceived safety and park characteristics were related to park visitation and types of park activities, controlling for city, individual and park characteristics. Survey participants who perceived the parks as safe (88%) had 4.6 times the odds (95% CI 3.5–6.0) of reporting having visited the study park. Men and African Americans were more likely, and older individuals and those who self-reported being in fair or poor health less likely to perceive parks as safe. Parks having low incivilities scores and those with four or more different facilities, such as tennis courts, swimming pools, basketball courts, etc., were more likely than parks with fewer facilities to be perceived as safe. While park facilities had a much smaller odds ratio for predicting park visits (1.8), it affected 70% of the population. The implication is, if these associations are causal, modifying park facilities may have a greater population impact than improving perceptions of park safety. Our findings are consistent with studies suggesting that increasing the variety of park facilities and offering more organised activities may encourage physical activity among specific target groups.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lapham",
+        "given": "Sandra C"
+      },
+      {
+        "family": "Cohen",
+        "given": "Deborah A"
+      },
+      {
+        "family": "Han",
+        "given": "Bing"
+      },
+      {
+        "family": "Williamson",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Evenson",
+        "given": "Kelly R"
+      },
+      {
+        "family": "McKenzie",
+        "given": "Thomas L"
+      },
+      {
+        "family": "Hillier",
+        "given": "Amy"
+      },
+      {
+        "family": "Ward",
+        "given": "Phillip"
+      }
+    ],
+    "citation-key": "lapham2016",
+    "container-title": "Urban Studies",
+    "container-title-short": "Urban Studies",
+    "DOI": "10.1177/0042098015592822",
+    "ISSN": "0042-0980, 1360-063X",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "2624-2636",
+    "source": "DOI.org (Crossref)",
+    "title": "How important is perception of safety to park use? A four-city survey",
+    "title-short": "How important is perception of safety to park use?",
+    "type": "article-journal",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0042098015592822",
+    "volume": "53"
+  },
+  {
+    "id": "maltseva2019a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      },
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-key": "maltseva2019a",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-019-03193-x",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1085-1128",
+    "source": "DOI.org (Crossref)",
+    "title": "Social network analysis as a field of invasions: bibliographic approach to study SNA development",
+    "title-short": "Social network analysis as a field of invasions",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-019-03193-x",
+    "volume": "121"
+  },
+  {
+    "id": "maltseva2020b",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      },
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-key": "maltseva2020b",
+    "container-title": "Scientometrics",
+    "container-title-short": "Scientometrics",
+    "DOI": "10.1007/s11192-020-03365-0",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "357-382",
+    "source": "DOI.org (Crossref)",
+    "title": "Towards a systematic description of the field using keywords analysis: main topics in social networks",
+    "title-short": "Towards a systematic description of the field using keywords analysis",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-020-03365-0",
+    "volume": "123"
+  },
+  {
+    "id": "moiseevs.p.2018",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Моисеев С.П."
+      },
+      {
+        "literal": "Мальцева Д.В."
+      }
+    ],
+    "citation-key": "moiseevs.p.2018",
+    "container-title": "Социология: методология, методы, математическое моделирование (Социология:4М)",
+    "issue": "47",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "7-43",
+    "title": "Отбор источников для систематического обзора литературы: сравнение экспертного и алгоритмического подходов",
+    "type": "article-journal",
+    "URL": "https://www.isras.ru/index.php?page_id=2384&id=6497&l=&j=6"
+  },
+  {
+    "id": "zachlod2022",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zachlod",
+        "given": "Cécile"
+      },
+      {
+        "family": "Samuel",
+        "given": "Olga"
+      },
+      {
+        "family": "Ochsner",
+        "given": "Andrea"
+      },
+      {
+        "family": "Werthmüller",
+        "given": "Sarah"
+      }
+    ],
+    "citation-key": "zachlod2022",
+    "container-title": "Journal of Business Research",
+    "container-title-short": "Journal of Business Research",
+    "DOI": "10.1016/j.jbusres.2022.02.016",
+    "ISSN": "01482963",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1064-1076",
+    "source": "DOI.org (Crossref)",
+    "title": "Analytics of social media data – State of characteristics and application",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0148296322001321",
+    "volume": "144"
+  },
+  {
+    "id": "zhang2021",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Fan"
+      },
+      {
+        "family": "Fan",
+        "given": "Zhuangyuan"
+      },
+      {
+        "family": "Kang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Hu",
+        "given": "Yujie"
+      },
+      {
+        "family": "Ratti",
+        "given": "Carlo"
+      }
+    ],
+    "citation-key": "zhang2021",
+    "container-title": "Landscape and Urban Planning",
+    "container-title-short": "Landscape and Urban Planning",
+    "DOI": "10.1016/j.landurbplan.2020.104003",
+    "ISSN": "01692046",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "104003",
+    "source": "DOI.org (Crossref)",
+    "title": "“Perception bias”: Deciphering a mismatch between urban crime and perception of safety",
+    "title-short": "“Perception bias”",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0169204620314870",
+    "volume": "207"
+  },
+  {
+    "id": "kim2022",
+    "type": "article-journal",
+    "abstract": "This article discusses the place of qualitative network analysis in the strategy of mixing methods in the social sciences. We conducted a systematic review of the literature that allowed us to demonstrate examples of the use of qualitative network analysis in empirical research. There are four ways of analyzing qualitative data in network mixed studies: qualitative analysis of qualitative data, quantitative analysis of qualitative data, quantitative and qualitative analysis of qualitative data and quantitative and qualitative analysis of qualitative and quantitative data. Currently, there is a lack of a single definition of the methodology of qualitative network analysis and consensus on its implementation in practice. The main possibilities of qualitative network analysis are discussed in the article. At the level of the research object, qualitative network analysis studies the personal networks of individuals’ relationships, and also make easier an access to hard-to-reach groups of respondents. At the level of the subject of research, qualitative network analysis allows us to study the deep meanings of relationships in the network and the contexts of interaction, to describe and understand networks from the inside and outside, to focus on the activities of actors and their strategies for building a network, as well as to identify the temporality of relationships in the network. The article discusses a position that questions the existence of qualitative network analysis as an independent methodology.",
+    "container-title": "Sociology: methodology, methods, mathematical modeling (Sociology: 4M)",
+    "DOI": "10.19181/4m.2021.53.3",
+    "ISSN": "19948964",
+    "issue": "53",
+    "page": "83-116",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative network analysis in the strategy of mixing methods in the social sciences: a systematic literature review",
+    "title-short": "Qualitative network analysis in the strategy of mixing methods in the social sciences",
+    "URL": "https://www.soc4m.ru/index.php/soc4m/article/view/9353",
+    "volume": "27",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          12,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kim2023",
+    "type": "article-journal",
+    "container-title": "Quality & Quantity",
+    "DOI": "10.1007/s11135-023-01651-6",
+    "ISSN": "0033-5177, 1573-7845",
+    "journalAbbreviation": "Qual Quant",
+    "language": "en",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative social network analysis: studying the field through the bibliographic approach",
+    "title-short": "Qualitative social network analysis",
+    "URL": "https://link.springer.com/10.1007/s11135-023-01651-6",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      },
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          3,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "diaz-bone2008",
+    "type": "article-journal",
+    "abstract": "Social network analysis was formed and established in the 1970s as a way of analyzing systems of social relations. In this review the theoretical-methodological standpoint of social network analysis ('structural analysis') is introduced and the different forms of social network analysis are presented. Structural analysis argues that social actors and social relations are embedded in social networks, meaning that action and perception of actors as well as the performance of social relations are influenced by the network structure. Since the 1990s structural analysis has integrated concepts such as agency, discourse and symbolic orientation and in this way structural analysis has opened itself. Since then there has been increasing use of qualitative methods in network analysis. They are used to include the perspective of the analyzed actors, to explore networks, and to understand network dynamics. In the reviewed book, edited by Betina HOLLSTEIN and Florian STRAUS, the twenty predominantly empirically orientated contributions demonstrate the possibilities of combining quantitative and qualitative methods in network analyses in different research fields. In this review we examine how the contributions succeed in applying and developing the structural analysis perspective, and the self-positioning of 'qualitative network analysis' is evaluated.",
+    "container-title": "Historical Social Research",
+    "DOI": "10.12759/HSR.33.2008.4.311-343",
+    "ISSN": "0172-6404",
+    "language": "de",
+    "license": "Creative Commons Attribution 4.0 International",
+    "note": "publisher: GESIS - Leibniz Institute for the Social Sciences\nversion: 1.0",
+    "page": "311343",
+    "source": "DOI.org (Datacite)",
+    "title": "Does qualitative network analysis exist?Gibt es eine qualitative Netzwerkanalyse?",
+    "title-short": "Does qualitative network analysis exist?",
+    "URL": "http://www.ssoar.info/ssoar/handle/document/19168",
+    "volume": "33",
+    "author": [
+      {
+        "family": "Diaz-Bone",
+        "given": "Rainer"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hollstein2014",
+    "type": "chapter",
+    "container-title": "The SAGE Handbook of Social Network Analysis",
+    "event-place": "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+    "ISBN": "978-1-84787-395-8",
+    "note": "DOI: 10.4135/9781446294413.n27",
+    "page": "404-416",
+    "publisher": "SAGE Publications Ltd",
+    "publisher-place": "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Approaches",
+    "URL": "https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis/n27.xml",
+    "container-author": [
+      {
+        "family": "Scott",
+        "given": "John"
+      },
+      {
+        "family": "Carrington",
+        "given": "Peter"
+      }
+    ],
+    "author": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mische2008",
+    "type": "article-journal",
+    "container-title": "Simposio de Berlín. Marzo.",
+    "title": "Culture, Networks, and Interaction in Social Movement Publics",
+    "volume": "20",
+    "author": [
+      {
+        "family": "Mische",
+        "given": "A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "deave2008",
+    "type": "article-journal",
+    "container-title": "BMC Pregnancy and Childbirth",
+    "DOI": "10.1186/1471-2393-8-30",
+    "ISSN": "1471-2393",
+    "issue": "1",
+    "journalAbbreviation": "BMC Pregnancy Childbirth",
+    "language": "en",
+    "page": "30",
+    "source": "DOI.org (Crossref)",
+    "title": "Transition to parenthood: the needs of parents in pregnancy and early parenthood",
+    "title-short": "Transition to parenthood",
+    "URL": "http://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/1471-2393-8-30",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Deave",
+        "given": "Toity"
+      },
+      {
+        "family": "Johnson",
+        "given": "Debbie"
+      },
+      {
+        "family": "Ingram",
+        "given": "Jenny"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2008",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sommer2021",
+    "type": "article-journal",
+    "abstract": "Abstract\n            In this article we address the challenges and advantages of studying social capital of migrant entrepreneurs, applying a mixed‐method research design involving qualitative semi‐structured interviews and standardized network map data collection. Despite some limitations discussed in the article, the study illustrates that an applied methodological approach has a potential to overcome some of the pitfalls of ‘structural determinism’ by looking both at structural and contextual aspects as well as actors’ active role in accessing and (re)shaping their business‐related networks across different geographic spaces. The article demonstrates that qualitative social network analysis is particularly valuable for emphasizing the role of human agency and temporal changes of social relations both in terms of network composition and network content as well as for exploring the meaning attached to social ties, potential access barriers to certain types of social capital and strategies to overcome these barriers.",
+    "container-title": "Global Networks",
+    "DOI": "10.1111/glob.12302",
+    "ISSN": "1470-2266, 1471-0374",
+    "issue": "3",
+    "journalAbbreviation": "Global Networks",
+    "language": "en",
+    "page": "608-625",
+    "source": "DOI.org (Crossref)",
+    "title": "Beyond structural determinism: advantages and challenges of qualitative social network analysis for studying social capital of migrants",
+    "title-short": "Beyond structural determinism",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1111/glob.12302",
+    "volume": "21",
+    "author": [
+      {
+        "family": "Sommer",
+        "given": "Elena"
+      },
+      {
+        "family": "Gamper",
+        "given": "Markus"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "dominguez2014",
+    "type": "book",
+    "abstract": "This edited volume demonstrates the potential of mixed-methods designs for the research of social networks and the utilization of social networks for other research. Mixing methods applies to the combination and integration of qualitative and quantitative methods. In social network research, mixing methods also applies to the combination of structural and actor-oriented approaches. The volume provides readers with methodological concepts to guide mixed-methods network studies with precise research designs and methods to investigate social networks of various sorts. Each chapter describes the research design used and discusses the strengths of the methods for that particular field and for specific outcomes.",
+    "edition": "1",
+    "ISBN": "978-1-107-02792-3",
+    "note": "DOI: 10.1017/CBO9781139227193",
+    "publisher": "Cambridge University Press",
+    "source": "DOI.org (Crossref)",
+    "title": "Mixed Methods Social Networks Research: Design and Applications",
+    "title-short": "Mixed Methods Social Networks Research",
+    "URL": "https://www.cambridge.org/core/product/identifier/9781139227193/type/book",
+    "editor": [
+      {
+        "family": "Domínguez",
+        "given": "Silvia"
+      },
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          6,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "belsky1986",
+    "type": "article-journal",
+    "container-title": "Medical Aspects of Human Sexualit",
+    "issue": "9",
+    "page": "56-59",
+    "title": "Transition to parenthood",
+    "volume": "20",
+    "author": [
+      {
+        "family": "Belsky",
+        "given": "J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1986"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cowan1991",
+    "type": "article-journal",
+    "container-title": "NJ: Lawrence Erlbaum Associates, Inc",
+    "title": "Individual and Family Life Transitions: A Proposal for a New Definition Hillsdale",
+    "author": [
+      {
+        "family": "Cowan",
+        "given": "P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "falicov1991",
+    "type": "article-journal",
+    "container-title": "Guilford Press",
+    "title": "Family transitions: Continuity and change over the life cycle",
+    "author": [
+      {
+        "family": "Falicov",
+        "given": "C. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "entsieh2016",
+    "type": "article-journal",
+    "container-title": "Midwifery",
+    "DOI": "10.1016/j.midw.2016.04.006",
+    "ISSN": "02666138",
+    "journalAbbreviation": "Midwifery",
+    "language": "en",
+    "page": "1-11",
+    "source": "DOI.org (Crossref)",
+    "title": "First-time parents’ prenatal needs for early parenthood preparation-A systematic review and meta-synthesis of qualitative literature",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0266613816300341",
+    "volume": "39",
+    "author": [
+      {
+        "family": "Entsieh",
+        "given": "Angela Afua"
+      },
+      {
+        "family": "Hallström",
+        "given": "Inger Kristensson"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wilde2009",
+    "type": "article-journal",
+    "container-title": "Ludwig, Gundula/Sauer, Birgit/Wöhl, Stefanie (Eds.): Staat und Geschlecht. Grundlagen und aktuelle Herausforderungen feministischer Staatstheorie. Baden-Baden: Nomos",
+    "page": "31-36",
+    "title": "Gesellschaftsvertrag – Geschlechtervertrag",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schenk1995",
+    "type": "article-journal",
+    "container-title": "Berliner Journal für Soziologie",
+    "issue": "4",
+    "page": "475-488",
+    "title": "Neu-oder Restrukturierung des Geschlechterverhältnisses in Ostdeutschland",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Schenk",
+        "given": "S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1995"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pateman1988",
+    "type": "book",
+    "event-place": "Stanford",
+    "publisher": "Stanford University Press",
+    "publisher-place": "Stanford",
+    "title": "The Sexual Contract",
+    "author": [
+      {
+        "family": "Pateman",
+        "given": "C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lois2016",
+    "type": "article-journal",
+    "container-title": "Demographic Research",
+    "DOI": "10.4054/DemRes.2016.34.23",
+    "ISSN": "1435-9871",
+    "journalAbbreviation": "DemRes",
+    "language": "en",
+    "page": "657-688",
+    "source": "DOI.org (Crossref)",
+    "title": "Types of social networks and the transition to parenthood",
+    "URL": "http://www.demographic-research.org/volumes/vol34/23/",
+    "volume": "34",
+    "author": [
+      {
+        "family": "Lois",
+        "given": "Daniel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hollstein2006",
+    "type": "book",
+    "event-place": "Wiesbaden",
+    "ISBN": "978-3-531-14394-1",
+    "language": "de",
+    "note": "DOI: 10.1007/978-3-531-90074-2",
+    "publisher": "VS Verlag für Sozialwissenschaften",
+    "publisher-place": "Wiesbaden",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Netzwerkanalyse",
+    "URL": "http://link.springer.com/10.1007/978-3-531-90074-2",
+    "editor": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      },
+      {
+        "family": "Straus",
+        "given": "Florian"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "shirmanova2023",
+    "type": "article-journal",
+    "container-title": "Если быть точным",
+    "title": "800 тысяч россиян могли покинуть страну в 2022 году",
+    "URL": "https://tochno.st/materials/rossiyan-mogli-pokinut-stranu-v-2022-godu",
+    "author": [
+      {
+        "family": "Ширманова",
+        "given": "И"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "2023",
+    "type": "article-journal",
+    "container-title": "Социодиггер",
+    "title": "Они уехали. Новая волна российской эмиграции",
+    "URL": "https://sociodigger.ru/releases/release/oni-uekhali-novaja-volna-rossiiskoi-ehmigracii",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "selizarova2023",
+    "type": "article-journal",
+    "container-title": "Forbes",
+    "title": "Куда уехали россияне из-за частичной мобилизации и что планируют делать дальше",
+    "URL": "https://www.forbes.ru/svoi-biznes/478891-kuda-uehali-rossiane-iz-za-casticnoj-mobilizacii-i-cto-planiruut-delat-dal-se",
+    "author": [
+      {
+        "family": "Селизарова",
+        "given": "В."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "antonova2023",
+    "type": "article-journal",
+    "container-title": "Социодиггер",
+    "issue": "3-4",
+    "page": "59-68",
+    "title": "Проблемы на новом месте: что обсуждают российские эмигранты в чатах взаимопомощи?",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Антонова",
+        "given": "К. А."
+      },
+      {
+        "family": "Дубровина",
+        "given": "А. Д."
+      },
+      {
+        "family": "Якимова",
+        "given": "О. А."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "evstratov2022",
+    "type": "article-journal",
+    "container-title": "Архонт",
+    "title": "Релокация россиян в Армению в свете спецоперации РФ на Украине",
+    "URL": "https://cyberleninka.ru/article/n/relokatsiya-rossiyan-v-armeniyu-v-svete-spetsoperatsii-rf-na-ukraine",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Евстратов",
+        "given": "А. Г."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kostenko2023",
+    "type": "article-journal",
+    "container-title": "Re: Russia",
+    "title": "Российская ризома: социальный портрет новой эмиграции",
+    "URL": "https://re-russia.net/expertise/045/",
+    "author": [
+      {
+        "family": "Костенко",
+        "given": "Н."
+      },
+      {
+        "family": "Завадская",
+        "given": "М."
+      },
+      {
+        "family": "Камалов",
+        "given": "Э."
+      },
+      {
+        "family": "Сергеева",
+        "given": "И."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "haussling2010",
+    "type": "article-journal",
+    "abstract": "Using the approach of qualitative social network research, this article focuses on two ‘systems of social inequality’ on the basis of which learning is organized: one is the institutional and organizational framework structuring the encounters between teachers and students, the other is a system of social inequality incorporated at the level of emotions and affections. Both systems seem to be virtually inevitable and, due to the tacit nature of their workings in class interactions, escape attempts at deliberate control. The article demonstrates how the web of social relationships in the early grades acts to reinforce both systems of social inequality and how they mutually affect one another in the class setting. Two first grade classes were studied for this purpose using mixed methods. The findings clearly support these conclusions: in both classes under study, a configuration of relationships consisting of a range of distinct (student) positions has emerged, and all parties involved have a similar perception of this social configuration. These social positions, each of which offer different opportunities for learning, are reflected both in interactions (as evidenced by video analysis) and the students’ stories (as evidenced in interviews). Such stabilization processes determine student careers early on and render the class setting ‘porous’ as a space of learning.",
+    "container-title": "Current Sociology",
+    "DOI": "10.1177/0011392109349286",
+    "ISSN": "0011-3921, 1461-7064",
+    "issue": "1",
+    "journalAbbreviation": "Current Sociology",
+    "language": "en",
+    "page": "119-138",
+    "source": "DOI.org (Crossref)",
+    "title": "Allocation to Social Positions in Class: Interactions and Relationships in First Grade School Classes and Their Consequences",
+    "title-short": "Allocation to Social Positions in Class",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0011392109349286",
+    "volume": "58",
+    "author": [
+      {
+        "family": "Häussling",
+        "given": "Roger"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          1
+        ]
+      ]
+    }
+  },
+  {
     "id": "akbaritabarItalianSociologistsCommunity2020",
     "accessed": {
       "date-parts": [
@@ -18984,5 +20454,680 @@
     "title": "Цель под ключ - PBWM.RU",
     "type": "webpage",
     "URL": "https://pbwm.ru/articles/tsel-pod-klyuch"
+  },
+  {
+    "id": "2021",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "citation-key": "2021",
+    "container-title": "We Are Social",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          27
+        ]
+      ]
+    },
+    "title": "Digital 2021: the latest insights into the ‘state of digital’ - We Are Social UK",
+    "type": "webpage",
+    "URL": "https://wearesocial.com/uk/blog/2021/01/digital-2021-the-latest-insights-into-the-state-of-digital/"
+  },
+  {
+    "id": "aiello2012",
+    "author": [
+      {
+        "family": "Aiello",
+        "given": "Luca Maria"
+      },
+      {
+        "family": "Barrat",
+        "given": "Alain"
+      },
+      {
+        "family": "Schifanella",
+        "given": "Rossano"
+      },
+      {
+        "family": "Cattuto",
+        "given": "Ciro"
+      },
+      {
+        "family": "Markines",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Menczer",
+        "given": "Filippo"
+      }
+    ],
+    "citation-key": "aiello2012",
+    "container-title": "ACM Transactions on the Web (TWEB)",
+    "container-title-short": "ACM Transactions on the Web (TWEB)",
+    "ISSN": "1559-1131",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1-33",
+    "publisher": "ACM New York, NY, USA",
+    "title": "Friendship prediction and homophily in social media",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "id": "chen2011",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Chien Chin"
+      },
+      {
+        "family": "Tseng",
+        "given": "You-De"
+      }
+    ],
+    "citation-key": "chen2011",
+    "container-title": "Decision Support Systems",
+    "container-title-short": "Decision Support Systems",
+    "ISSN": "0167-9236",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "755-768",
+    "publisher": "Elsevier",
+    "title": "Quality evaluation of product reviews using an information quality framework",
+    "type": "article-journal",
+    "volume": "50"
+  },
+  {
+    "id": "chu2008",
+    "author": [
+      {
+        "family": "Chu",
+        "given": "Shu-Chuan"
+      },
+      {
+        "family": "Kamal",
+        "given": "Sara"
+      }
+    ],
+    "citation-key": "chu2008",
+    "container-title": "Journal of interactive Advertising",
+    "container-title-short": "Journal of interactive Advertising",
+    "ISSN": "1525-2019",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "26-37",
+    "publisher": "Taylor & Francis",
+    "title": "The effect of perceived blogger credibility and argument quality on message elaboration and brand attitudes: An exploratory study",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "id": "daugherty2008",
+    "author": [
+      {
+        "family": "Daugherty",
+        "given": "Terry"
+      },
+      {
+        "family": "Eastin",
+        "given": "Matthew S"
+      },
+      {
+        "family": "Bright",
+        "given": "Laura"
+      }
+    ],
+    "citation-key": "daugherty2008",
+    "container-title": "Journal of interactive advertising",
+    "container-title-short": "Journal of interactive advertising",
+    "ISSN": "1525-2019",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "16-25",
+    "publisher": "Taylor & Francis",
+    "title": "Exploring consumer motivations for creating user-generated content",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "id": "ghose2010",
+    "author": [
+      {
+        "family": "Ghose",
+        "given": "Anindya"
+      },
+      {
+        "family": "Ipeirotis",
+        "given": "Panagiotis G"
+      }
+    ],
+    "citation-key": "ghose2010",
+    "container-title": "IEEE transactions on knowledge and data engineering",
+    "container-title-short": "IEEE transactions on knowledge and data engineering",
+    "ISSN": "1041-4347",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "1498-1512",
+    "publisher": "IEEE",
+    "title": "Estimating the helpfulness and economic impact of product reviews: Mining text and reviewer characteristics",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "id": "hambrick2014",
+    "author": [
+      {
+        "family": "Hambrick",
+        "given": "Marion E"
+      },
+      {
+        "family": "Pegoraro",
+        "given": "Ann"
+      }
+    ],
+    "citation-key": "hambrick2014",
+    "container-title": "International Journal of Sport Management and Marketing",
+    "container-title-short": "International Journal of Sport Management and Marketing",
+    "ISSN": "1475-8962",
+    "issue": "3-4",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "120-140",
+    "publisher": "Inderscience Publishers (IEL)",
+    "title": "Social Sochi: Using social network analysis to investigate electronic word-of-mouth transmitted through social media communities",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "id": "he2023",
+    "author": [
+      {
+        "family": "He",
+        "given": "Zhen"
+      },
+      {
+        "family": "Zheng",
+        "given": "Lu"
+      },
+      {
+        "family": "He",
+        "given": "Shuguang"
+      }
+    ],
+    "citation-key": "he2023",
+    "container-title": "Electronic Commerce Research",
+    "container-title-short": "Electronic Commerce Research",
+    "ISSN": "1389-5753",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "2259-2290",
+    "publisher": "Springer",
+    "title": "A novel approach for product competitive analysis based on online reviews",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "id": "hennig-thurau2004",
+    "author": [
+      {
+        "family": "Hennig-Thurau",
+        "given": "Thorsten"
+      },
+      {
+        "family": "Gwinner",
+        "given": "Kevin P"
+      },
+      {
+        "family": "Walsh",
+        "given": "Gianfranco"
+      },
+      {
+        "family": "Gremler",
+        "given": "Dwayne D"
+      }
+    ],
+    "citation-key": "hennig-thurau2004",
+    "container-title": "Journal of interactive marketing",
+    "container-title-short": "Journal of interactive marketing",
+    "ISSN": "1094-9968",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "38-52",
+    "publisher": "Elsevier",
+    "title": "Electronic word-of-mouth via consumer-opinion platforms: what motivates consumers to articulate themselves on the internet?",
+    "type": "article-journal",
+    "volume": "18"
+  },
+  {
+    "id": "isler2023",
+    "author": [
+      {
+        "family": "Isler",
+        "given": "Zulal"
+      },
+      {
+        "family": "Kiygi-Calli",
+        "given": "Meltem"
+      },
+      {
+        "family": "El Oraiby",
+        "given": "Maryam"
+      }
+    ],
+    "citation-key": "isler2023",
+    "container-title": "Electronic Markets",
+    "container-title-short": "Electronic Markets",
+    "ISSN": "1019-6781",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "54",
+    "publisher": "Springer",
+    "title": "Babbling through social media: A cross-country study mapping out social networks using eWOM intentions",
+    "type": "article-journal",
+    "volume": "33"
+  },
+  {
+    "id": "kim2006",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Soo-Min"
+      },
+      {
+        "family": "Pantel",
+        "given": "Patrick"
+      },
+      {
+        "family": "Chklovski",
+        "given": "Timothy"
+      },
+      {
+        "family": "Pennacchiotti",
+        "given": "Marco"
+      }
+    ],
+    "citation-key": "kim2006",
+    "event-title": "Proceedings of the 2006 Conference on empirical methods in natural language processing",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "423-430",
+    "title": "Automatically assessing review helpfulness",
+    "type": "paper-conference"
+  },
+  {
+    "id": "kim2015",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Kibae"
+      },
+      {
+        "family": "Lee",
+        "given": "Wool-Rim"
+      },
+      {
+        "family": "Altmann",
+        "given": "Jörn"
+      }
+    ],
+    "citation-key": "kim2015",
+    "container-title": "Electronic markets",
+    "container-title-short": "Electronic markets",
+    "ISSN": "1019-6781",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "61-72",
+    "publisher": "Springer",
+    "title": "SNA-based innovation trend analysis in software service networks",
+    "type": "article-journal",
+    "volume": "25"
+  },
+  {
+    "id": "paranjape2017",
+    "author": [
+      {
+        "family": "Paranjape",
+        "given": "Ashwin"
+      },
+      {
+        "family": "Benson",
+        "given": "Austin R"
+      },
+      {
+        "family": "Leskovec",
+        "given": "Jure"
+      }
+    ],
+    "citation-key": "paranjape2017",
+    "event-title": "Proceedings of the tenth ACM international conference on web search and data mining",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "601-610",
+    "title": "Motifs in temporal networks",
+    "type": "paper-conference"
+  },
+  {
+    "id": "park2008",
+    "author": [
+      {
+        "family": "Park",
+        "given": "Do-Hyung"
+      },
+      {
+        "family": "Lee",
+        "given": "Jumin"
+      }
+    ],
+    "citation-key": "park2008",
+    "container-title": "Electronic commerce research and applications",
+    "container-title-short": "Electronic commerce research and applications",
+    "ISSN": "1567-4223",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "386-398",
+    "publisher": "Elsevier",
+    "title": "eWOM overload and its effect on consumer behavioral intention depending on consumer involvement",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "id": "rebyazina2022",
+    "author": [
+      {
+        "family": "Ребязина",
+        "given": "В.А."
+      },
+      {
+        "family": "Шарко",
+        "given": "Е.Р."
+      },
+      {
+        "family": "Березка",
+        "given": "С.М."
+      },
+      {
+        "family": "Старков",
+        "given": "А.Г."
+      }
+    ],
+    "citation-key": "rebyazina2022",
+    "collection-number": "Выпуск 3",
+    "collection-title": "Аналитические доклады ВШБ ВШЭ",
+    "DOI": "10.17323/978-5-7598-2611-8",
+    "event-place": "Москва",
+    "ISBN": "978-5-7598-2611-8",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "rus",
+    "number-of-pages": "72",
+    "publisher": "ИД НИУ ВШЭ",
+    "publisher-place": "Москва",
+    "source": "K10plus ISBN",
+    "title": "Развитие электронной коммерции в России: влияние пандемии COVID-19",
+    "title-short": "Razvitie ėlektronnoj kommercii v Rossii",
+    "type": "book"
+  },
+  {
+    "id": "romero2011",
+    "author": [
+      {
+        "family": "Romero",
+        "given": "Daniel M"
+      },
+      {
+        "family": "Meeder",
+        "given": "Brendan"
+      },
+      {
+        "family": "Kleinberg",
+        "given": "Jon"
+      }
+    ],
+    "citation-key": "romero2011",
+    "event-title": "Proceedings of the 20th international conference on World wide web",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "695-704",
+    "title": "Differences in the mechanics of information diffusion across topics: idioms, political hashtags, and complex contagion on twitter",
+    "type": "paper-conference"
+  },
+  {
+    "id": "slaninova2010",
+    "author": [
+      {
+        "family": "Slaninová",
+        "given": "Katerina"
+      },
+      {
+        "family": "Dolák",
+        "given": "Radim"
+      },
+      {
+        "family": "Miškus",
+        "given": "Martin"
+      },
+      {
+        "family": "Martinovič",
+        "given": "Jan"
+      },
+      {
+        "family": "Snášel",
+        "given": "Václav"
+      }
+    ],
+    "citation-key": "slaninova2010",
+    "event-title": "2010 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology",
+    "ISBN": "1-4244-8482-0",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "75-78",
+    "publisher": "IEEE",
+    "title": "User segmentation based on finding communities with similar behavior on the web site",
+    "type": "paper-conference",
+    "volume": "3"
+  },
+  {
+    "id": "wassouf2020",
+    "author": [
+      {
+        "family": "Wassouf",
+        "given": "Wissam Nazeer"
+      },
+      {
+        "family": "Alkhatib",
+        "given": "Ramez"
+      },
+      {
+        "family": "Salloum",
+        "given": "Kamal"
+      },
+      {
+        "family": "Balloul",
+        "given": "Shadi"
+      }
+    ],
+    "citation-key": "wassouf2020",
+    "container-title": "Journal of Big Data",
+    "container-title-short": "Journal of Big Data",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1-24",
+    "publisher": "Springer",
+    "title": "Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "id": "watts2008",
+    "author": [
+      {
+        "family": "Watts",
+        "given": "Stephanie A"
+      },
+      {
+        "family": "Zhang",
+        "given": "Wei"
+      }
+    ],
+    "citation-key": "watts2008",
+    "container-title": "Journal of the association for information systems",
+    "container-title-short": "Journal of the association for information systems",
+    "ISSN": "1536-9323",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "3",
+    "title": "Capitalizing on content: Information adoption in two online communities",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "id": "yang2019",
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Zhilin"
+      },
+      {
+        "family": "Dai",
+        "given": "Zihang"
+      },
+      {
+        "family": "Yang",
+        "given": "Yiming"
+      },
+      {
+        "family": "Carbonell",
+        "given": "Jaime"
+      },
+      {
+        "family": "Salakhutdinov",
+        "given": "Russ R"
+      },
+      {
+        "family": "Le",
+        "given": "Quoc V"
+      }
+    ],
+    "citation-key": "yang2019",
+    "container-title": "Advances in neural information processing systems",
+    "container-title-short": "Advances in neural information processing systems",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Xlnet: Generalized autoregressive pretraining for language understanding",
+    "type": "article-journal",
+    "volume": "32"
   }
 ]
