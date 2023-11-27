@@ -511,7 +511,7 @@
 		}
 	},
 	{
-		"id": "2018",
+		"id": "cote2018",
 		"type": "article-journal",
 		"container-title": "Journal of Leadership, Accountability and Ethics",
 		"DOI": "10.33423/jlae.v15i2.643",
@@ -524,6 +524,12 @@
 		"title-short": "Dark Side Leaders",
 		"URL": "https://articlegateway.com/index.php/JLAE/article/view/643",
 		"volume": "15",
+		"author": [
+			{
+				"family": "Cote",
+				"given": "R."
+			}
+		],
 		"accessed": {
 			"date-parts": [
 				[
@@ -612,53 +618,6 @@
 				[
 					"2013",
 					3
-				]
-			]
-		}
-	},
-	{
-		"id": "schultz2020",
-		"type": "chapter",
-		"container-title": "Encyclopedia of Personality and Individual Differences",
-		"event-place": "Cham",
-		"ISBN": "978-3-319-24610-9",
-		"language": "en",
-		"note": "DOI: 10.1007/978-3-319-24612-3_901",
-		"page": "1977-1979",
-		"publisher": "Springer International Publishing",
-		"publisher-place": "Cham",
-		"source": "DOI.org (Crossref)",
-		"title": "Hogan Personality Inventory",
-		"URL": "http://link.springer.com/10.1007/978-3-319-24612-3_901",
-		"editor": [
-			{
-				"family": "Zeigler-Hill",
-				"given": "Virgil"
-			},
-			{
-				"family": "Shackelford",
-				"given": "Todd K."
-			}
-		],
-		"author": [
-			{
-				"family": "Schultz",
-				"given": "David M."
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					11,
-					25
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2020"
 				]
 			]
 		}
@@ -930,6 +889,33 @@
 			"date-parts": [
 				[
 					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "hogan2007",
+		"type": "book",
+		"edition": "3",
+		"event-place": "Tulsa",
+		"ISBN": "978-0-9840969-5-4",
+		"publisher": "Hogan Assessment Systems",
+		"publisher-place": "Tulsa",
+		"title": "Hogan Personality Inventory Manual",
+		"author": [
+			{
+				"family": "Hogan",
+				"given": "R."
+			},
+			{
+				"family": "Hogan",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
 				]
 			]
 		}
