@@ -11594,6 +11594,756 @@
     "volume": "207"
   },
   {
+    "id": "kim2022",
+    "type": "article-journal",
+    "abstract": "This article discusses the place of qualitative network analysis in the strategy of mixing methods in the social sciences. We conducted a systematic review of the literature that allowed us to demonstrate examples of the use of qualitative network analysis in empirical research. There are four ways of analyzing qualitative data in network mixed studies: qualitative analysis of qualitative data, quantitative analysis of qualitative data, quantitative and qualitative analysis of qualitative data and quantitative and qualitative analysis of qualitative and quantitative data. Currently, there is a lack of a single definition of the methodology of qualitative network analysis and consensus on its implementation in practice. The main possibilities of qualitative network analysis are discussed in the article. At the level of the research object, qualitative network analysis studies the personal networks of individuals’ relationships, and also make easier an access to hard-to-reach groups of respondents. At the level of the subject of research, qualitative network analysis allows us to study the deep meanings of relationships in the network and the contexts of interaction, to describe and understand networks from the inside and outside, to focus on the activities of actors and their strategies for building a network, as well as to identify the temporality of relationships in the network. The article discusses a position that questions the existence of qualitative network analysis as an independent methodology.",
+    "container-title": "Sociology: methodology, methods, mathematical modeling (Sociology: 4M)",
+    "DOI": "10.19181/4m.2021.53.3",
+    "ISSN": "19948964",
+    "issue": "53",
+    "page": "83-116",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative network analysis in the strategy of mixing methods in the social sciences: a systematic literature review",
+    "title-short": "Qualitative network analysis in the strategy of mixing methods in the social sciences",
+    "URL": "https://www.soc4m.ru/index.php/soc4m/article/view/9353",
+    "volume": "27",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          12,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kim2023",
+    "type": "article-journal",
+    "container-title": "Quality & Quantity",
+    "DOI": "10.1007/s11135-023-01651-6",
+    "ISSN": "0033-5177, 1573-7845",
+    "journalAbbreviation": "Qual Quant",
+    "language": "en",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative social network analysis: studying the field through the bibliographic approach",
+    "title-short": "Qualitative social network analysis",
+    "URL": "https://link.springer.com/10.1007/s11135-023-01651-6",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      },
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          3,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "diaz-bone2008",
+    "type": "article-journal",
+    "abstract": "Social network analysis was formed and established in the 1970s as a way of analyzing systems of social relations. In this review the theoretical-methodological standpoint of social network analysis ('structural analysis') is introduced and the different forms of social network analysis are presented. Structural analysis argues that social actors and social relations are embedded in social networks, meaning that action and perception of actors as well as the performance of social relations are influenced by the network structure. Since the 1990s structural analysis has integrated concepts such as agency, discourse and symbolic orientation and in this way structural analysis has opened itself. Since then there has been increasing use of qualitative methods in network analysis. They are used to include the perspective of the analyzed actors, to explore networks, and to understand network dynamics. In the reviewed book, edited by Betina HOLLSTEIN and Florian STRAUS, the twenty predominantly empirically orientated contributions demonstrate the possibilities of combining quantitative and qualitative methods in network analyses in different research fields. In this review we examine how the contributions succeed in applying and developing the structural analysis perspective, and the self-positioning of 'qualitative network analysis' is evaluated.",
+    "container-title": "Historical Social Research",
+    "DOI": "10.12759/HSR.33.2008.4.311-343",
+    "ISSN": "0172-6404",
+    "language": "de",
+    "license": "Creative Commons Attribution 4.0 International",
+    "note": "publisher: GESIS - Leibniz Institute for the Social Sciences\nversion: 1.0",
+    "page": "311343",
+    "source": "DOI.org (Datacite)",
+    "title": "Does qualitative network analysis exist?Gibt es eine qualitative Netzwerkanalyse?",
+    "title-short": "Does qualitative network analysis exist?",
+    "URL": "http://www.ssoar.info/ssoar/handle/document/19168",
+    "volume": "33",
+    "author": [
+      {
+        "family": "Diaz-Bone",
+        "given": "Rainer"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hollstein2014",
+    "type": "chapter",
+    "container-title": "The SAGE Handbook of Social Network Analysis",
+    "event-place": "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+    "ISBN": "978-1-84787-395-8",
+    "note": "DOI: 10.4135/9781446294413.n27",
+    "page": "404-416",
+    "publisher": "SAGE Publications Ltd",
+    "publisher-place": "1 Oliver's Yard, 55 City Road, London EC1Y 1SP United Kingdom",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Approaches",
+    "URL": "https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis/n27.xml",
+    "container-author": [
+      {
+        "family": "Scott",
+        "given": "John"
+      },
+      {
+        "family": "Carrington",
+        "given": "Peter"
+      }
+    ],
+    "author": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mische2008",
+    "type": "article-journal",
+    "container-title": "Simposio de Berlín. Marzo.",
+    "title": "Culture, Networks, and Interaction in Social Movement Publics",
+    "volume": "20",
+    "author": [
+      {
+        "family": "Mische",
+        "given": "A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "deave2008",
+    "type": "article-journal",
+    "container-title": "BMC Pregnancy and Childbirth",
+    "DOI": "10.1186/1471-2393-8-30",
+    "ISSN": "1471-2393",
+    "issue": "1",
+    "journalAbbreviation": "BMC Pregnancy Childbirth",
+    "language": "en",
+    "page": "30",
+    "source": "DOI.org (Crossref)",
+    "title": "Transition to parenthood: the needs of parents in pregnancy and early parenthood",
+    "title-short": "Transition to parenthood",
+    "URL": "http://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/1471-2393-8-30",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Deave",
+        "given": "Toity"
+      },
+      {
+        "family": "Johnson",
+        "given": "Debbie"
+      },
+      {
+        "family": "Ingram",
+        "given": "Jenny"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2008",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sommer2021",
+    "type": "article-journal",
+    "abstract": "Abstract\n            In this article we address the challenges and advantages of studying social capital of migrant entrepreneurs, applying a mixed‐method research design involving qualitative semi‐structured interviews and standardized network map data collection. Despite some limitations discussed in the article, the study illustrates that an applied methodological approach has a potential to overcome some of the pitfalls of ‘structural determinism’ by looking both at structural and contextual aspects as well as actors’ active role in accessing and (re)shaping their business‐related networks across different geographic spaces. The article demonstrates that qualitative social network analysis is particularly valuable for emphasizing the role of human agency and temporal changes of social relations both in terms of network composition and network content as well as for exploring the meaning attached to social ties, potential access barriers to certain types of social capital and strategies to overcome these barriers.",
+    "container-title": "Global Networks",
+    "DOI": "10.1111/glob.12302",
+    "ISSN": "1470-2266, 1471-0374",
+    "issue": "3",
+    "journalAbbreviation": "Global Networks",
+    "language": "en",
+    "page": "608-625",
+    "source": "DOI.org (Crossref)",
+    "title": "Beyond structural determinism: advantages and challenges of qualitative social network analysis for studying social capital of migrants",
+    "title-short": "Beyond structural determinism",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1111/glob.12302",
+    "volume": "21",
+    "author": [
+      {
+        "family": "Sommer",
+        "given": "Elena"
+      },
+      {
+        "family": "Gamper",
+        "given": "Markus"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "dominguez2014",
+    "type": "book",
+    "abstract": "This edited volume demonstrates the potential of mixed-methods designs for the research of social networks and the utilization of social networks for other research. Mixing methods applies to the combination and integration of qualitative and quantitative methods. In social network research, mixing methods also applies to the combination of structural and actor-oriented approaches. The volume provides readers with methodological concepts to guide mixed-methods network studies with precise research designs and methods to investigate social networks of various sorts. Each chapter describes the research design used and discusses the strengths of the methods for that particular field and for specific outcomes.",
+    "edition": "1",
+    "ISBN": "978-1-107-02792-3",
+    "note": "DOI: 10.1017/CBO9781139227193",
+    "publisher": "Cambridge University Press",
+    "source": "DOI.org (Crossref)",
+    "title": "Mixed Methods Social Networks Research: Design and Applications",
+    "title-short": "Mixed Methods Social Networks Research",
+    "URL": "https://www.cambridge.org/core/product/identifier/9781139227193/type/book",
+    "editor": [
+      {
+        "family": "Domínguez",
+        "given": "Silvia"
+      },
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          6,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "belsky1986",
+    "type": "article-journal",
+    "container-title": "Medical Aspects of Human Sexualit",
+    "issue": "9",
+    "page": "56-59",
+    "title": "Transition to parenthood",
+    "volume": "20",
+    "author": [
+      {
+        "family": "Belsky",
+        "given": "J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1986"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "cowan1991",
+    "type": "article-journal",
+    "container-title": "NJ: Lawrence Erlbaum Associates, Inc",
+    "title": "Individual and Family Life Transitions: A Proposal for a New Definition Hillsdale",
+    "author": [
+      {
+        "family": "Cowan",
+        "given": "P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "falicov1991",
+    "type": "article-journal",
+    "container-title": "Guilford Press",
+    "title": "Family transitions: Continuity and change over the life cycle",
+    "author": [
+      {
+        "family": "Falicov",
+        "given": "C. J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "entsieh2016",
+    "type": "article-journal",
+    "container-title": "Midwifery",
+    "DOI": "10.1016/j.midw.2016.04.006",
+    "ISSN": "02666138",
+    "journalAbbreviation": "Midwifery",
+    "language": "en",
+    "page": "1-11",
+    "source": "DOI.org (Crossref)",
+    "title": "First-time parents’ prenatal needs for early parenthood preparation-A systematic review and meta-synthesis of qualitative literature",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0266613816300341",
+    "volume": "39",
+    "author": [
+      {
+        "family": "Entsieh",
+        "given": "Angela Afua"
+      },
+      {
+        "family": "Hallström",
+        "given": "Inger Kristensson"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wilde2009",
+    "type": "article-journal",
+    "container-title": "Ludwig, Gundula/Sauer, Birgit/Wöhl, Stefanie (Eds.): Staat und Geschlecht. Grundlagen und aktuelle Herausforderungen feministischer Staatstheorie. Baden-Baden: Nomos",
+    "page": "31-36",
+    "title": "Gesellschaftsvertrag – Geschlechtervertrag",
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schenk1995",
+    "type": "article-journal",
+    "container-title": "Berliner Journal für Soziologie",
+    "issue": "4",
+    "page": "475-488",
+    "title": "Neu-oder Restrukturierung des Geschlechterverhältnisses in Ostdeutschland",
+    "volume": "5",
+    "author": [
+      {
+        "family": "Schenk",
+        "given": "S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1995"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pateman1988",
+    "type": "book",
+    "event-place": "Stanford",
+    "publisher": "Stanford University Press",
+    "publisher-place": "Stanford",
+    "title": "The Sexual Contract",
+    "author": [
+      {
+        "family": "Pateman",
+        "given": "C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "lois2016",
+    "type": "article-journal",
+    "container-title": "Demographic Research",
+    "DOI": "10.4054/DemRes.2016.34.23",
+    "ISSN": "1435-9871",
+    "journalAbbreviation": "DemRes",
+    "language": "en",
+    "page": "657-688",
+    "source": "DOI.org (Crossref)",
+    "title": "Types of social networks and the transition to parenthood",
+    "URL": "http://www.demographic-research.org/volumes/vol34/23/",
+    "volume": "34",
+    "author": [
+      {
+        "family": "Lois",
+        "given": "Daniel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          4,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hollstein2006",
+    "type": "book",
+    "event-place": "Wiesbaden",
+    "ISBN": "978-3-531-14394-1",
+    "language": "de",
+    "note": "DOI: 10.1007/978-3-531-90074-2",
+    "publisher": "VS Verlag für Sozialwissenschaften",
+    "publisher-place": "Wiesbaden",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Netzwerkanalyse",
+    "URL": "http://link.springer.com/10.1007/978-3-531-90074-2",
+    "editor": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      },
+      {
+        "family": "Straus",
+        "given": "Florian"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "shirmanova2023",
+    "type": "article-journal",
+    "container-title": "Если быть точным",
+    "title": "800 тысяч россиян могли покинуть страну в 2022 году",
+    "URL": "https://tochno.st/materials/rossiyan-mogli-pokinut-stranu-v-2022-godu",
+    "author": [
+      {
+        "family": "Ширманова",
+        "given": "И"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "2023",
+    "type": "article-journal",
+    "container-title": "Социодиггер",
+    "title": "Они уехали. Новая волна российской эмиграции",
+    "URL": "https://sociodigger.ru/releases/release/oni-uekhali-novaja-volna-rossiiskoi-ehmigracii",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "selizarova2023",
+    "type": "article-journal",
+    "container-title": "Forbes",
+    "title": "Куда уехали россияне из-за частичной мобилизации и что планируют делать дальше",
+    "URL": "https://www.forbes.ru/svoi-biznes/478891-kuda-uehali-rossiane-iz-za-casticnoj-mobilizacii-i-cto-planiruut-delat-dal-se",
+    "author": [
+      {
+        "family": "Селизарова",
+        "given": "В."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "antonova2023",
+    "type": "article-journal",
+    "container-title": "Социодиггер",
+    "issue": "3-4",
+    "page": "59-68",
+    "title": "Проблемы на новом месте: что обсуждают российские эмигранты в чатах взаимопомощи?",
+    "volume": "4",
+    "author": [
+      {
+        "family": "Антонова",
+        "given": "К. А."
+      },
+      {
+        "family": "Дубровина",
+        "given": "А. Д."
+      },
+      {
+        "family": "Якимова",
+        "given": "О. А."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "evstratov2022",
+    "type": "article-journal",
+    "container-title": "Архонт",
+    "title": "Релокация россиян в Армению в свете спецоперации РФ на Украине",
+    "URL": "https://cyberleninka.ru/article/n/relokatsiya-rossiyan-v-armeniyu-v-svete-spetsoperatsii-rf-na-ukraine",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Евстратов",
+        "given": "А. Г."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "kostenko2023",
+    "type": "article-journal",
+    "container-title": "Re: Russia",
+    "title": "Российская ризома: социальный портрет новой эмиграции",
+    "URL": "https://re-russia.net/expertise/045/",
+    "author": [
+      {
+        "family": "Костенко",
+        "given": "Н."
+      },
+      {
+        "family": "Завадская",
+        "given": "М."
+      },
+      {
+        "family": "Камалов",
+        "given": "Э."
+      },
+      {
+        "family": "Сергеева",
+        "given": "И."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "haussling2010",
+    "type": "article-journal",
+    "abstract": "Using the approach of qualitative social network research, this article focuses on two ‘systems of social inequality’ on the basis of which learning is organized: one is the institutional and organizational framework structuring the encounters between teachers and students, the other is a system of social inequality incorporated at the level of emotions and affections. Both systems seem to be virtually inevitable and, due to the tacit nature of their workings in class interactions, escape attempts at deliberate control. The article demonstrates how the web of social relationships in the early grades acts to reinforce both systems of social inequality and how they mutually affect one another in the class setting. Two first grade classes were studied for this purpose using mixed methods. The findings clearly support these conclusions: in both classes under study, a configuration of relationships consisting of a range of distinct (student) positions has emerged, and all parties involved have a similar perception of this social configuration. These social positions, each of which offer different opportunities for learning, are reflected both in interactions (as evidenced by video analysis) and the students’ stories (as evidenced in interviews). Such stabilization processes determine student careers early on and render the class setting ‘porous’ as a space of learning.",
+    "container-title": "Current Sociology",
+    "DOI": "10.1177/0011392109349286",
+    "ISSN": "0011-3921, 1461-7064",
+    "issue": "1",
+    "journalAbbreviation": "Current Sociology",
+    "language": "en",
+    "page": "119-138",
+    "source": "DOI.org (Crossref)",
+    "title": "Allocation to Social Positions in Class: Interactions and Relationships in First Grade School Classes and Their Consequences",
+    "title-short": "Allocation to Social Positions in Class",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0011392109349286",
+    "volume": "58",
+    "author": [
+      {
+        "family": "Häussling",
+        "given": "Roger"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          1
+        ]
+      ]
+    }
+  },
+  {
     "id": "akbaritabarItalianSociologistsCommunity2020",
     "accessed": {
       "date-parts": [
@@ -18270,6 +19020,879 @@
     "title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
     "type": "article-journal",
     "volume": "84"
+  },
+  {
+    "id": "coleman1988",
+    "author": [
+      {
+        "family": "Coleman",
+        "given": "James S"
+      }
+    ],
+    "citation-key": "coleman1988",
+    "container-title": "American journal of sociology",
+    "container-title-short": "American journal of sociology",
+    "ISSN": "0002-9602",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "S95-S120",
+    "publisher": "University of Chicago Press",
+    "title": "Social capital in the creation of human capital",
+    "type": "article-journal",
+    "volume": "94"
+  },
+  {
+    "id": "devyatko1998",
+    "author": [
+      {
+        "family": "Девятко",
+        "given": "И.Ф."
+      }
+    ],
+    "citation-key": "devyatko1998",
+    "event-place": "Екатеринбург",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "publisher": "Издательство Уральского университета",
+    "publisher-place": "Екатеринбург",
+    "title": "Методы социологического исследования",
+    "type": "book"
+  },
+  {
+    "id": "diaz-bone2008",
+    "abstract": "Social network analysis was formed and established in the 1970s as a way of analyzing systems of social relations. In this review the theoretical-methodological standpoint of social network analysis (\"structural analysis\") is introduced and the different forms of social network analysis are presented. Structural analysis argues that social actors and social relations are embedded in social networks, meaning that action and perception of actors as well as the performance of social relations are influenced by the network structure. Since the 1990s structural analysis has integrated concepts such as agency, discourse and symbolic orientation and in this way structural analysis has opened itself. Since then there has been increasing use of qualitative methods in network analysis. They are used to include the perspective of the analyzed actors, to explore networks, and to understand network dynamics. In the reviewed book, edited by Betina HOLLSTEIN and Florian STRAUS, the twenty predominantly empirically orientated contributions demonstrate the possibilities of combining quantitative and qualitative methods in network analyses in different research fields. In this review we examine how the contributions succeed in applying and developing the structural analysis perspective, and the self-positioning of \"qualitative network analysis\" is evaluated.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "archive": "JSTOR",
+    "author": [
+      {
+        "family": "Diaz-Bone",
+        "given": "Rainer"
+      }
+    ],
+    "citation-key": "diaz-bone2008",
+    "container-title": "Historical Social Research / Historische Sozialforschung",
+    "editor": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      },
+      {
+        "family": "Straus",
+        "given": "Florian"
+      }
+    ],
+    "ISSN": "01726404",
+    "issue": "4 (126)",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "311-343",
+    "publisher": "GESIS - Leibniz-Institute for the Social Sciences, Center for Historical Social Research",
+    "title": "Gibt es eine qualitative Netzwerkanalyse?",
+    "type": "article-journal",
+    "URL": "http://www.jstor.org/stable/20762325",
+    "volume": "33"
+  },
+  {
+    "id": "elias1978",
+    "author": [
+      {
+        "family": "Elias",
+        "given": "Norbert"
+      }
+    ],
+    "citation-key": "elias1978",
+    "ISBN": "978-0-09-133110-8",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "196",
+    "publisher": "Hutchinson",
+    "source": "Google Books",
+    "title": "What is Sociology?",
+    "type": "book"
+  },
+  {
+    "id": "emirbayer1994",
+    "author": [
+      {
+        "family": "Emirbayer",
+        "given": "Mustafa"
+      },
+      {
+        "family": "Goodwin",
+        "given": "Jeff"
+      }
+    ],
+    "citation-key": "emirbayer1994",
+    "container-title": "American journal of sociology",
+    "container-title-short": "American journal of sociology",
+    "ISSN": "0002-9602",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "1411-1454",
+    "publisher": "University of Chicago Press",
+    "title": "Network analysis, culture, and the problem of agency",
+    "type": "article-journal",
+    "volume": "99"
+  },
+  {
+    "id": "fine1983",
+    "author": [
+      {
+        "family": "Fine",
+        "given": "Gary Alan"
+      },
+      {
+        "family": "Kleinman",
+        "given": "Sherryl"
+      }
+    ],
+    "citation-key": "fine1983",
+    "container-title": "Symbolic interaction",
+    "container-title-short": "Symbolic interaction",
+    "ISSN": "0195-6086",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "97-110",
+    "publisher": "Wiley Online Library",
+    "title": "Network and meaning: An interactionist approach to structure",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "id": "freeman2004a",
+    "abstract": "Ideas about social structure and social networks are very old. People have always believed that biological and social links among individuals are important. But it wasn't until the early 1930s that systematic research that explored the patterning of social ties linking individuals emerged. And it emerged, not once, but several times in several different social science fields and in several places. This book reviews these developments and explores the social processes that wove all these \"schools\" of network analysis together into a single coherent approach.",
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "Linton C."
+      }
+    ],
+    "citation-key": "freeman2004a",
+    "ISBN": "978-1-59457-714-7",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "205",
+    "publisher": "Empirical Press",
+    "source": "Google Books",
+    "title": "The Development of Social Network Analysis: A Study in the Sociology of Science",
+    "title-short": "The Development of Social Network Analysis",
+    "type": "book"
+  },
+  {
+    "id": "freeman2011",
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "Linton C"
+      }
+    ],
+    "citation-key": "freeman2011",
+    "container-title": "The Sage handbook of social network analysis",
+    "edition": "1st",
+    "event-place": "London",
+    "ISBN": "1-84787-395-2",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "26-39",
+    "publisher": "Sage London",
+    "publisher-place": "London",
+    "title": "The development of social network analysis–with an emphasis on recent events",
+    "type": "chapter"
+  },
+  {
+    "id": "fuhse2011",
+    "author": [
+      {
+        "family": "Fuhse",
+        "given": "Jan"
+      },
+      {
+        "family": "Mützel",
+        "given": "Sophie"
+      }
+    ],
+    "citation-key": "fuhse2011",
+    "container-title": "Quality & quantity",
+    "container-title-short": "Quality & quantity",
+    "ISSN": "0033-5177",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1067-1089",
+    "publisher": "Springer",
+    "title": "Tackling connections, structure, and meaning in networks: quantitative and qualitative methods in sociological network research",
+    "type": "article-journal",
+    "volume": "45"
+  },
+  {
+    "id": "fuhse2022",
+    "abstract": "In Social Networks of Meaning and Communication, Jan A. Fuhse offers a coherent theory of social structures as networks of relations interwoven with meaning. Drawing upon and extending the relational sociology of Harrison White and Charles Tilly, Fuhse seeks to establish a theory of social networks. Using a broad range of classic and contemporary social theory, he reconceptualizes social networks as constituted in patterns of expectations that form, reproduce, and change over the course of communicative events. These events, he argues, are the basic building blocks of the social world. They lead to expectations about the behavior of actors and their interaction with others – the meaning structure making for observable regularities of communication in social networks.  Social Networks of Meaning and Communication lays out a relational and constructivist perspective of social networks, highlighting a number of implications for social relationships, groups, and collective actors, as well as ethnic categories and cultural differences, roles and institutions, gender and family relations, and methods of social network analysis. Its framework bridges the gap in social network research between technically sophisticated analyses and complex, elusive theorizing.\n             \n             \n              \n            ,  \n             In Social Networks of Meaning and Communication, Jan A. Fuhse offers a coherent theory of social structures as networks of relations interwoven with meaning. Drawing upon and extending the relational sociology of Harrison White and Charles Tilly, Fuhse seeks to establish a theory of social networks. Using a broad range of classic and contemporary social theory, he reconceptualizes social networks as constituted in patterns of expectations that form, reproduce, and change over the course of communicative events. These events, he argues, are the basic building blocks of the social world. They lead to expectations about the behavior of actors and their interaction with others – the meaning structure making for observable regularities of communication in social networks.  Social Networks of Meaning and Communication lays out a relational and constructivist perspective of social networks, highlighting a number of implications for social relationships, groups, and collective actors, as well as ethnic categories and cultural differences, roles and institutions, gender and family relations, and methods of social network analysis. Its framework bridges the gap in social network research between technically sophisticated analyses and complex, elusive theorizing.",
+    "author": [
+      {
+        "family": "Fuhse",
+        "given": "Jan"
+      },
+      {
+        "family": "Fuhse",
+        "given": "Jan"
+      }
+    ],
+    "citation-key": "fuhse2022",
+    "event-place": "Oxford, New York",
+    "ISBN": "978-0-19-027543-3",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          5
+        ]
+      ]
+    },
+    "number-of-pages": "344",
+    "publisher": "Oxford University Press",
+    "publisher-place": "Oxford, New York",
+    "source": "Oxford University Press",
+    "title": "Social Networks of Meaning and Communication",
+    "type": "book"
+  },
+  {
+    "id": "giddens1984",
+    "abstract": "Anthony Giddens has been in the forefront of developments in social theory for the past decade. In \"The Constitution of Society\" he outlines the distinctive position he has evolved during that period and offers a full statement of a major new perspective in social thought, a synthesis and elaboration of ideas touched on in previous works but described here for the first time in an integrated and comprehensive form. A particular feature is Giddens's concern to connect abstract problems of theory to an interpretation of the nature of empirical method in the social sciences. In presenting his own ideas, Giddens mounts a critical attack on some of the more orthodox sociological views. \"The Constitution of Society\" is an invaluable reference book for all those concerned with the basic issues in contemporary social theory.",
+    "author": [
+      {
+        "family": "Giddens",
+        "given": "Anthony"
+      }
+    ],
+    "citation-key": "giddens1984",
+    "event-place": "Berkeley & Los Angeles",
+    "ISBN": "978-0-520-05292-5",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "448",
+    "publisher": "University of California Press",
+    "publisher-place": "Berkeley & Los Angeles",
+    "source": "Google Books",
+    "title": "The Constitution of Society: Outline of the Theory of Structuration",
+    "title-short": "The Constitution of Society",
+    "type": "book"
+  },
+  {
+    "id": "granovetter1973",
+    "author": [
+      {
+        "family": "Granovetter",
+        "given": "Mark S"
+      }
+    ],
+    "citation-key": "granovetter1973",
+    "container-title": "American journal of sociology",
+    "container-title-short": "American journal of sociology",
+    "ISSN": "0002-9602",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1973
+        ]
+      ]
+    },
+    "page": "1360-1380",
+    "publisher": "University of Chicago Press",
+    "title": "The strength of weak ties",
+    "type": "article-journal",
+    "volume": "78"
+  },
+  {
+    "id": "granovetter2018",
+    "author": [
+      {
+        "family": "Granovetter",
+        "given": "Mark"
+      }
+    ],
+    "citation-key": "granovetter2018",
+    "container-title": "The sociology of economic life",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "22-45",
+    "publisher": "Routledge",
+    "title": "Economic action and social structure: The problem of embeddedness",
+    "type": "chapter"
+  },
+  {
+    "id": "hollstein2006a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "citation-key": "hollstein2006a",
+    "DOI": "10.1007/978-3-531-90074-2",
+    "editor": [
+      {
+        "family": "Hollstein",
+        "given": "Betina"
+      },
+      {
+        "family": "Straus",
+        "given": "Florian"
+      }
+    ],
+    "event-place": "Wiesbaden",
+    "ISBN": "978-3-531-14394-1 978-3-531-90074-2",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "language": "de",
+    "publisher": "VS Verlag für Sozialwissenschaften",
+    "publisher-place": "Wiesbaden",
+    "source": "DOI.org (Crossref)",
+    "title": "Qualitative Netzwerkanalyse",
+    "type": "book",
+    "URL": "http://link.springer.com/10.1007/978-3-531-90074-2"
+  },
+  {
+    "id": "hollstein2011",
+    "author": [
+      {
+        "family": "Hollstein",
+        "given": "B."
+      }
+    ],
+    "citation-key": "hollstein2011",
+    "container-title": "The Sage handbook of social network analysis",
+    "edition": "1st",
+    "event-place": "London",
+    "ISBN": "1-84787-395-2",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "404-416",
+    "publisher": "Sage London",
+    "publisher-place": "London",
+    "title": "Qualitative approach",
+    "type": "chapter"
+  },
+  {
+    "id": "kim2021",
+    "abstract": "Аннотация\n\t\t\t\t\t\n\t\t\t\t\t\tВ этой статье рассматривается качественный сетевой анализ в стратегии смешивания методов в социальных науках. Проведенный систематический обзор литературы позволяет продемонстрировать примеры применения качественного сетевого анализа в эмпирических исследованиях. Выделены четыре способа анализа качественных данных в сетевых смешанных исследованиях: качественный анализ качественных данных, количественный анализ качественных данных, количественный и качественный анализ качественных данных и количественный и качественный анализ качественных и количественных данных. Отмечается отсутствие единого определения методологии качественного сетевого анализа и консенсуса по поводу ее реализации на практике. Выявлены основные возможности качественного сетевого анализа. На уровне объекта исследования качественный сетевой анализ изучает персональные сети отношений индивидов, а также дает возможность доступа к труднодоступным группам респондентов. На уровне предмета исследования качественный сетевой анализ позволяет изучать глубинные смыслы отношений в сети и контексты взаимодействия, описывать и понимать сети изнутри и снаружи, фокусироваться на деятельности акторов и их стратегиях построения сети, а также выявлять темпоральность отношений в сети. Описана позиция, подвергающая сомнению существование качественного сетевого анализа как независимой методологии.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "archive_location": "XJRIYF",
+    "author": [
+      {
+        "family": "Ким",
+        "given": "А.В."
+      }
+    ],
+    "citation-key": "kim2021",
+    "container-title": "Социология: методология, методы, математическое моделирование (Социология:4М)",
+    "DOI": "10.19181/4m.2021.53.3",
+    "ISSN": "1994-8964",
+    "issue": "53",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "ru",
+    "license": "Copyright (c) 2022",
+    "number": "53",
+    "page": "83-116",
+    "source": "www.soc4m.ru",
+    "title": "Качественный сетевой анализ в стратегии смешивания методов в социальных науках: систематический обзор литературы",
+    "title-short": "Качественный сетевой анализ в стратегии смешивания методов в социальных науках",
+    "type": "article-journal",
+    "URL": "https://www.soc4m.ru/index.php/soc4m/article/view/9353"
+  },
+  {
+    "id": "kim2023",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Aryuna"
+      },
+      {
+        "family": "Maltseva",
+        "given": "Daria"
+      }
+    ],
+    "citation-key": "kim2023",
+    "container-title": "Quality & Quantity",
+    "container-title-short": "Quality & Quantity",
+    "ISSN": "0033-5177",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "1-27",
+    "publisher": "Springer",
+    "title": "Qualitative social network analysis: studying the field through the bibliographic approach",
+    "type": "article-journal"
+  },
+  {
+    "id": "latour2007",
+    "abstract": "Reassembling the Social is a fundamental challenge from one of the world's leading social theorists to how we understand society and the 'social'. Bruno Latour's contention is that the word 'social', as used by Social Scientists, has become laden with assumptions to the point where it has become misnomer. When the adjective is applied to a phenomenon, it is used to indicate a stablilized state of affairs, a bundle of ties that in due course may be used to account for another phenomenon. But Latour also finds the word used as if it described a type of material, in a comparable way to an adjective such as 'wooden' or 'steely'. Rather than simply indicating what is already assembled together, it is now used in a way that makes assumptions about the nature of what is assembled. It has become a word that designates two distinct things: a process of assembling; and a type of material, distinct from others. Latour shows why 'the social' cannot be thought of as a kind of material or domain, and disputes attempts to provide a 'social explanations' of other states of affairs. While these attempts have been productive (and probably necessary) in the past, the very success of the social sciences mean that they are largely no longer so. At the present stage it is no longer possible to inspect the precise constituents entering the social domain. Latour returns to the original meaning of 'the social' to redefine the notion, and allow it to trace connections again. It will then be possible to resume the traditional goal of the social sciences, but using more refined tools. Drawing on his extensive work examining the 'assemblages' of nature, Latour finds it necessary to scrutinize thoroughly the exact content of what is assembled under the umbrella of Society. This approach, a 'sociology of associations', has become known as Actor-Network-Theory, and this book is an essential introduction both for those seeking to understand Actor-Network Theory, or the ideas of one of its most influential proponents.",
+    "author": [
+      {
+        "family": "Latour",
+        "given": "Bruno"
+      }
+    ],
+    "citation-key": "latour2007",
+    "ISBN": "978-0-19-162289-2",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          6
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "312",
+    "publisher": "OUP Oxford",
+    "source": "Google Books",
+    "title": "Reassembling the Social: An Introduction to Actor-Network-Theory",
+    "title-short": "Reassembling the Social",
+    "type": "book"
+  },
+  {
+    "id": "luhmann1995",
+    "abstract": "A major challenge confronting contemporary theory is to overcome its fixation on written narratives and the culture of print. In this presentation of a general theory of systems, Germany&#39;s most prominent and controversial social thinker sets out a contribution to sociology that reworks our understanding of meaning and communication.  Luhmann concedes that there is no longer a binding representation of society within society, but refuses to describe this situation as a loss of legitimation or a crisis of representation. Instead, he proposes that we search for new ways of coping with the enforced selectivity that marks any self-description under the conditions of functionally differentiated modern society. For Luhmann, the end of metanarratives does not mean the end of theory, but a challenge to theory, an invitation to open itself to theoretical developments in a number of disciplines that, for quite some time, have been successfully working with cybernetic models that no longer require the fiction of the external observer.  Social Systems provides the foundation for a theory of modern society that would be congruent with this new understanding of the world. One of the most important contributions to social theory of recent decades, it has implications for many disciplines beyond sociology.",
+    "author": [
+      {
+        "family": "Luhmann",
+        "given": "Niklas"
+      }
+    ],
+    "citation-key": "luhmann1995",
+    "event-place": "Stanford, Calif",
+    "ISBN": "978-0-8047-2625-2",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "692",
+    "publisher": "Stanford University Press",
+    "publisher-place": "Stanford, Calif",
+    "source": "Google Books",
+    "title": "Social Systems",
+    "type": "book"
+  },
+  {
+    "id": "malceva2014",
+    "author": [
+      {
+        "family": "Мальцева",
+        "given": "Д.В."
+      }
+    ],
+    "citation-key": "malceva2014",
+    "container-title": "Мониторинг общественного мнения: экономические и социальные перемены",
+    "container-title-short": "Мониторинг общественного мнения: экономические и социальные перемены",
+    "ISSN": "1815-8617",
+    "issue": "4 (122)",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "3-14",
+    "publisher": "Открытое акционерное общество «Всероссийский центр изучения общественного …",
+    "title": "Реляционная социология: новый этап в развитии анализа социальных сетей или самостоятельное направление?",
+    "type": "article-journal"
+  },
+  {
+    "id": "malceva2018",
+    "author": [
+      {
+        "family": "Мальцева",
+        "given": "Дарья"
+      }
+    ],
+    "citation-key": "malceva2018",
+    "container-title": "Социологические исследования",
+    "container-title-short": "Социологические исследования",
+    "ISSN": "0132-1625",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "3-14",
+    "publisher": "Федеральное государственное бюджетное учреждение\" Российская академия наук\"",
+    "title": "Сетевой подход как феномен социологической теории",
+    "type": "article-journal"
+  },
+  {
+    "id": "mead1967",
+    "author": [
+      {
+        "family": "Mead",
+        "given": "George Herbert"
+      }
+    ],
+    "citation-key": "mead1967",
+    "issued": {
+      "date-parts": [
+        [
+          1967
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "401",
+    "publisher": "University of Chicago Press",
+    "source": "Google Books",
+    "title": "Mind, Self, and Society from the Standpoint of a Social Behaviorist",
+    "type": "book"
+  },
+  {
+    "id": "portes1998",
+    "author": [
+      {
+        "family": "Portes",
+        "given": "Alejandro"
+      }
+    ],
+    "citation-key": "portes1998",
+    "container-title": "Annual review of sociology",
+    "container-title-short": "Annual review of sociology",
+    "ISSN": "0360-0572",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "1-24",
+    "publisher": "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA",
+    "title": "Social capital: Its origins and applications in modern sociology",
+    "type": "article-journal",
+    "volume": "24"
+  },
+  {
+    "id": "portes2000",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Portes",
+        "given": "Alejandro"
+      }
+    ],
+    "citation-key": "portes2000",
+    "container-title": "Sociological Forum",
+    "DOI": "10.1023/A:1007537902813",
+    "ISSN": "08848971",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "1-12",
+    "source": "DOI.org (Crossref)",
+    "title": "The Two Meanings of Social Capital",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1023/A:1007537902813",
+    "volume": "15"
+  },
+  {
+    "id": "simmel1908",
+    "author": [
+      {
+        "family": "Simmel",
+        "given": "Georg"
+      }
+    ],
+    "citation-key": "simmel1908",
+    "event-place": "Leipzig",
+    "issued": {
+      "date-parts": [
+        [
+          1908
+        ]
+      ]
+    },
+    "language": "ger",
+    "note": "Open Library ID: OL7010868M",
+    "number-of-pages": "4",
+    "publisher": "Duncker & Humblot",
+    "publisher-place": "Leipzig",
+    "source": "The Open Library",
+    "title": "Soziologie.: Untersuchungen über die Formen der Vergesellschaftung.",
+    "title-short": "Soziologie.",
+    "type": "book"
+  },
+  {
+    "id": "sommer2021",
+    "author": [
+      {
+        "family": "Sommer",
+        "given": "Elena"
+      },
+      {
+        "family": "Gamper",
+        "given": "Markus"
+      }
+    ],
+    "citation-key": "sommer2021",
+    "container-title": "Global Networks",
+    "container-title-short": "Global Networks",
+    "ISSN": "1470-2266",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "608-625",
+    "publisher": "Wiley Online Library",
+    "title": "Beyond structural determinism: Advantages and challenges of qualitative social network analysis for studying social capital of migrants",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "id": "warner1941",
+    "author": [
+      {
+        "family": "Warner",
+        "given": "W Lloyd"
+      }
+    ],
+    "citation-key": "warner1941",
+    "container-title": "American Journal of Sociology",
+    "container-title-short": "American Journal of Sociology",
+    "ISSN": "0002-9602",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1941
+        ]
+      ]
+    },
+    "page": "785-796",
+    "publisher": "University of Chicago Press",
+    "title": "Social anthropology and the modern community",
+    "type": "article-journal",
+    "volume": "46"
+  },
+  {
+    "id": "wasserman1994a",
+    "abstract": "Social network analysis is used widely in the social and behavioral sciences, as well as in economics, marketing, and industrial engineering. The social network perspective focuses on relationships among social entities and is an important addition to standard social and behavioral research, which is primarily concerned with attributes of the social units. Social Network Analysis: Methods and Applications reviews and discusses methods for the analysis of social networks with a focus on applications of these methods to many substantive examples. It is a reference book that can be used by those who want a comprehensive review of network methods, or by researchers who have gathered network data and want to find the most appropriate method by which to analyze it. It is also intended for use as a textbook as it is the first book to provide comprehensive coverage of the methodology and applications of the field.",
+    "author": [
+      {
+        "family": "Wasserman",
+        "given": "Stanley"
+      },
+      {
+        "family": "Faust",
+        "given": "Katherine"
+      }
+    ],
+    "citation-key": "wasserman1994a",
+    "ISBN": "978-0-521-38707-1",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          11,
+          25
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "852",
+    "publisher": "Cambridge University Press",
+    "source": "Google Books",
+    "title": "Social Network Analysis: Methods and Applications",
+    "title-short": "Social Network Analysis",
+    "type": "book"
+  },
+  {
+    "id": "weber1978",
+    "author": [
+      {
+        "family": "Weber",
+        "given": "Max"
+      }
+    ],
+    "call-number": "HM57 .W342 1978",
+    "citation-key": "weber1978",
+    "editor": [
+      {
+        "family": "Roth",
+        "given": "Guenther"
+      },
+      {
+        "family": "Wittich",
+        "given": "Claus"
+      }
+    ],
+    "event-place": "Berkeley",
+    "ISBN": "978-0-520-02824-1 978-0-520-03500-3",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "language": "engger",
+    "number-of-pages": "2",
+    "publisher": "University of California Press",
+    "publisher-place": "Berkeley",
+    "source": "Library of Congress ISBN",
+    "title": "Economy and society: an outline of interpretive sociology",
+    "title-short": "Economy and society",
+    "type": "book"
+  },
+  {
+    "id": "white2008",
+    "abstract": "In this completely revised edition of one of the foundational texts of network sociology, Harrison White refines and enlarges his groundbreaking theory of how social structure and culture emerge from the chaos and uncertainty of social life. Incorporating new contributions from a group of young sociologists and many fascinating and novel case studies, Identity and Control is the only major book of social theory that links social structure with the lived experience of individuals, providing a rich perspective on the kinds of social formations that develop in the process. Going beyond traditional sociological dichotomies such as agency/structure, individual/society, or micro/macro, Identity and Control presents a toolbox of concepts that will be useful to a wide range of social scientists, as well as those working in public policy, management, or associational life and, beyond, to any reader who is interested in understanding the dynamics of social life.",
+    "author": [
+      {
+        "family": "White",
+        "given": "Harrison C."
+      }
+    ],
+    "citation-key": "white2008",
+    "event-place": "Princeton",
+    "ISBN": "978-0-691-13715-5",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "language": "en",
+    "number-of-pages": "451",
+    "publisher": "Princeton University Press",
+    "publisher-place": "Princeton",
+    "source": "Google Books",
+    "title": "Identity and Control: How Social Formations Emerge",
+    "title-short": "Identity and Control",
+    "type": "book"
   },
   {
     "id": "2021",
