@@ -1,0 +1,1240 @@
+[
+	{
+		"id": "koltcov2021",
+		"type": "article-journal",
+		"abstract": "Hierarchical topic modeling is a potentially powerful instrument for determining topical structures of text collections that additionally allows constructing a hierarchy representing the levels of topic abstractness. However, parameter optimization in hierarchical models, which includes ﬁnding an appropriate number of topics at each level of hierarchy, remains a challenging task. In this paper, we propose an approach based on Renyi entropy as a partial solution to the above problem. First, we introduce a Renyi entropy-based metric of quality for hierarchical models. Second, we propose a practical approach to obtaining the “correct” number of topics in hierarchical topic models and show how model hyperparameters should be tuned for that purpose. We test this approach on the datasets with the known number of topics, as determined by the human mark-up, three of these datasets being in the English language and one in Russian. In the numerical experiments, we consider three different hierarchical models: hierarchical latent Dirichlet allocation model (hLDA), hierarchical Pachinko allocation model (hPAM), and hierarchical additive regularization of topic models (hARTM). We demonstrate that the hLDA model possesses a signiﬁcant level of instability and, moreover, the derived numbers of topics are far from the true numbers for the labeled datasets. For the hPAM model, the Renyi entropy approach allows determining only one level of the data structure. For hARTM model, the proposed approach allows us to estimate the number of topics for two levels of hierarchy.",
+		"container-title": "PeerJ Computer Science",
+		"DOI": "10.7717/peerj-cs.608",
+		"ISSN": "2376-5992",
+		"language": "en",
+		"page": "e608",
+		"source": "DOI.org (Crossref)",
+		"title": "Analysis and tuning of hierarchical topic models based on Renyi entropy approach",
+		"URL": "https://peerj.com/articles/cs-608",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Koltcov",
+				"given": "Sergei"
+			},
+			{
+				"family": "Ignatenko",
+				"given": "Vera"
+			},
+			{
+				"family": "Terpilovskii",
+				"given": "Maxim"
+			},
+			{
+				"family": "Rosso",
+				"given": "Paolo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "jipeng2019",
+		"type": "article",
+		"abstract": "Analyzing short texts infers discriminative and coherent latent topics that is a critical and fundamental task since many real-world applications require semantic understanding of short texts. Traditional long text topic modeling algorithms (e.g., PLSA and LDA) based on word co-occurrences cannot solve this problem very well since only very limited word co-occurrence information is available in short texts. Therefore, short text topic modeling has already attracted much attention from the machine learning research community in recent years, which aims at overcoming the problem of sparseness in short texts. In this survey, we conduct a comprehensive review of various short text topic modeling techniques proposed in the literature. We present three categories of methods based on Dirichlet multinomial mixture, global word co-occurrences, and self-aggregation, with example of representative approaches in each category and analysis of their performance on various tasks. We develop the first comprehensive open-source library, called STTM, for use in Java that integrates all surveyed algorithms within a unified interface, benchmark datasets, to facilitate the expansion of new methods in this research field. Finally, we evaluate these state-of-the-art methods on many real-world datasets and compare their performance against one another and versus long text topic modeling algorithm.",
+		"note": "arXiv:1904.07695 [cs]",
+		"number": "arXiv:1904.07695",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Short Text Topic Modeling Techniques, Applications, and Performance: A Survey",
+		"title-short": "Short Text Topic Modeling Techniques, Applications, and Performance",
+		"URL": "http://arxiv.org/abs/1904.07695",
+		"author": [
+			{
+				"family": "Jipeng",
+				"given": "Qiang"
+			},
+			{
+				"family": "Zhenyu",
+				"given": "Qian"
+			},
+			{
+				"family": "Yun",
+				"given": "Li"
+			},
+			{
+				"family": "Yunhao",
+				"given": "Yuan"
+			},
+			{
+				"family": "Xindong",
+				"given": "Wu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "brookes",
+		"type": "webpage",
+		"language": "en",
+		"note": "DOI: 10.1177/1461445618814032",
+		"title": "The utility of topic modelling for discourse studies: A critical evaluation",
+		"title-short": "The utility of topic modelling for discourse studies",
+		"URL": "https://journals.sagepub.com/doi/epub/10.1177/1461445618814032",
+		"author": [
+			{
+				"family": "Brookes",
+				"given": "Gavin"
+			},
+			{
+				"family": "McEnery",
+				"given": "Tony"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "godin2013",
+		"type": "paper-conference",
+		"abstract": "Since the introduction of microblogging services, there has been a continuous growth of short-text social networking on the Internet. With the generation of large amounts of microposts, there is a need for eﬀective categorization and search of the data. Twitter, one of the largest microblogging sites, allows users to make use of hashtags to categorize their posts. However, the majority of tweets do not contain tags, which hinders the quality of the search results. In this paper, we propose a novel method for unsupervised and contentbased hashtag recommendation for tweets. Our approach relies on Latent Dirichlet Allocation (LDA) to model the underlying topic assignment of language classiﬁed tweets. The advantage of our approach is the use of a topic distribution to recommend general hashtags.",
+		"container-title": "Proceedings of the 22nd International Conference on World Wide Web",
+		"DOI": "10.1145/2487788.2488002",
+		"event-place": "Rio de Janeiro Brazil",
+		"event-title": "WWW '13: 22nd International World Wide Web Conference",
+		"ISBN": "978-1-4503-2038-2",
+		"language": "en",
+		"page": "593-596",
+		"publisher": "ACM",
+		"publisher-place": "Rio de Janeiro Brazil",
+		"source": "DOI.org (Crossref)",
+		"title": "Using topic models for Twitter hashtag recommendation",
+		"URL": "https://dl.acm.org/doi/10.1145/2487788.2488002",
+		"author": [
+			{
+				"family": "Godin",
+				"given": "Fréderic"
+			},
+			{
+				"family": "Slavkovikj",
+				"given": "Viktor"
+			},
+			{
+				"family": "De Neve",
+				"given": "Wesley"
+			},
+			{
+				"family": "Schrauwen",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Van De Walle",
+				"given": "Rik"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					5,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "asmussen2019",
+		"type": "article-journal",
+		"abstract": "Manual exploratory literature reviews should be a thing of the past, as technology and development of machine learning methods have matured. The learning curve for using machine learning methods is rapidly declining, enabling new possibilities for all researchers. A framework is presented on how to use topic modelling on a large collection of papers for an exploratory literature review and how that can be used for a full literature review. The aim of the paper is to enable the use of topic modelling for researchers by presenting a step-by-step framework on a case and sharing a code template. The framework consists of three steps; pre-processing, topic modelling, and post-processing, where the topic model Latent Dirichlet Allocation is used. The framework enables huge amounts of papers to be reviewed in a transparent, reliable, faster, and reproducible way.",
+		"container-title": "Journal of Big Data",
+		"DOI": "10.1186/s40537-019-0255-7",
+		"ISSN": "2196-1115",
+		"issue": "1",
+		"journalAbbreviation": "J Big Data",
+		"language": "en",
+		"page": "93",
+		"source": "Springer Link",
+		"title": "Smart literature review: a practical topic modelling approach to exploratory literature review",
+		"title-short": "Smart literature review",
+		"URL": "https://doi.org/10.1186/s40537-019-0255-7",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Asmussen",
+				"given": "Claus Boye"
+			},
+			{
+				"family": "Møller",
+				"given": "Charles"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "lyu2021",
+		"type": "article-journal",
+		"abstract": "Background: Vaccination is a cornerstone of the prevention of communicable infectious diseases; however, vaccines have traditionally met with public fear and hesitancy, and COVID-19 vaccines are no exception. Social media use has been demonstrated to play a role in the low acceptance of vaccines.\nObjective: The aim of this study is to identify the topics and sentiments in the public COVID-19 vaccine–related discussion on social media and discern the salient changes in topics and sentiments over time to better understand the public perceptions, concerns, and emotions that may influence the achievement of herd immunity goals.\nMethods: Tweets were downloaded from a large-scale COVID-19 Twitter chatter data set from March 11, 2020, the day the World Health Organization declared COVID-19 a pandemic, to January 31, 2021. We used R software to clean the tweets and retain tweets that contained the keywords vaccination, vaccinations, vaccine, vaccines, immunization, vaccinate, and vaccinated. The final data set included in the analysis consisted of 1,499,421 unique tweets from 583,499 different users. We used R to perform latent Dirichlet allocation for topic modeling as well as sentiment and emotion analysis using the National Research Council of Canada Emotion Lexicon.\nResults: Topic modeling of tweets related to COVID-19 vaccines yielded 16 topics, which were grouped into 5 overarching themes. Opinions about vaccination (227,840/1,499,421 tweets, 15.2%) was the most tweeted topic and remained a highly discussed topic during the majority of the period of our examination. Vaccine progress around the world became the most discussed topic around August 11, 2020, when Russia approved the world’s first COVID-19 vaccine. With the advancement of vaccine administration, the topic of instruction on getting vaccines gradually became more salient and became the most discussed topic after the first week of January 2021. Weekly mean sentiment scores showed that despite fluctuations, the sentiment was increasingly positive in general. Emotion analysis further showed that trust was the most predominant emotion, followed by anticipation, fear, sadness, etc. The trust emotion reached its peak on November 9, 2020, when Pfizer announced that its vaccine is 90% effective.\nConclusions: Public COVID-19 vaccine–related discussion on Twitter was largely driven by major events about COVID-19 vaccines and mirrored the active news topics in mainstream media. The discussion also demonstrated a global perspective. The increasingly positive sentiment around COVID-19 vaccines and the dominant emotion of trust shown in the social media discussion may imply higher acceptance of COVID-19 vaccines compared with previous vaccines.",
+		"container-title": "Journal of Medical Internet Research",
+		"DOI": "10.2196/24435",
+		"issue": "6",
+		"language": "EN",
+		"note": "Company: Journal of Medical Internet Research\nDistributor: Journal of Medical Internet Research\nInstitution: Journal of Medical Internet Research\nLabel: Journal of Medical Internet Research\npublisher: JMIR Publications Inc., Toronto, Canada",
+		"page": "e24435",
+		"source": "www.jmir.org",
+		"title": "COVID-19 Vaccine–Related Discussion on Twitter: Topic Modeling and Sentiment Analysis",
+		"title-short": "COVID-19 Vaccine–Related Discussion on Twitter",
+		"URL": "https://www.jmir.org/2021/6/e24435",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Lyu",
+				"given": "Joanne Chen"
+			},
+			{
+				"family": "Han",
+				"given": "Eileen Le"
+			},
+			{
+				"family": "Luli",
+				"given": "Garving K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "hoseini2023",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 15th ACM Web Science Conference 2023",
+		"DOI": "10.1145/3578503.3583603",
+		"event-place": "Austin TX USA",
+		"event-title": "WebSci '23: 15th ACM Web Science Conference 2023",
+		"ISBN": "9798400700897",
+		"language": "en",
+		"page": "75-85",
+		"publisher": "ACM",
+		"publisher-place": "Austin TX USA",
+		"source": "DOI.org (Crossref)",
+		"title": "On the Globalization of the QAnon Conspiracy Theory Through Telegram",
+		"URL": "https://dl.acm.org/doi/10.1145/3578503.3583603",
+		"author": [
+			{
+				"family": "Hoseini",
+				"given": "Mohamad"
+			},
+			{
+				"family": "Melo",
+				"given": "Philipe"
+			},
+			{
+				"family": "Benevenuto",
+				"given": "Fabricio"
+			},
+			{
+				"family": "Feldmann",
+				"given": "Anja"
+			},
+			{
+				"family": "Zannettou",
+				"given": "Savvas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "hu2012",
+		"type": "article-journal",
+		"abstract": "Social media channels such as Twitter have emerged as popular platforms for crowds to respond to public events such as speeches, sports and debates. While this promises tremendous opportunities to understand and make sense of the reception of an event from the social media, the promises come entwined with significant technical challenges. In particular, given an event and an associated large scale collection of tweets, we need approaches to effectively align tweets and the parts of the event they refer to. This in turn raises questions about how to segment the event into smaller yet meaningful parts, and how to figure out whether a tweet is a general one about the entire event or specific one aimed at a particular segment of the event. In this work, we present ET-LDA, an effective method for aligning an event and its tweets through joint statistical modeling of topical influences from the events and their associated tweets. The model enables the automatic segmentation of the events and the characterization of tweets into two categories: (1) episodic tweets that respond specifically to the content in the segments of the events, and (2) steady tweets that respond generally about the events. We present an efficient inference method for this model, and a comprehensive evaluation of its effectiveness over existing methods. In particular, through a user study, we demonstrate that users find the topics, the segments, the alignment, and the episodic tweets discovered by ET-LDA to be of higher quality and more interesting as compared to the state-of-the-art, with improvements in the range of 18-41%.",
+		"source": "ResearchGate",
+		"title": "ET-LDA: Joint Topic Modeling For Aligning, Analyzing and Sensemaking of Public Events and Their Twitter Feeds",
+		"title-short": "ET-LDA",
+		"author": [
+			{
+				"family": "Hu",
+				"given": "Yuheng"
+			},
+			{
+				"family": "John",
+				"given": "Ajita"
+			},
+			{
+				"family": "Wang",
+				"given": "Fei"
+			},
+			{
+				"family": "Seligmann",
+				"given": "Dorée"
+			},
+			{
+				"family": "Kambhampati",
+				"given": "Subbarao"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "qian2015",
+		"type": "article-journal",
+		"container-title": "IEEE transactions on multimedia",
+		"issue": "2",
+		"note": "publisher: IEEE",
+		"page": "233–246",
+		"source": "Google Scholar",
+		"title": "Multi-modal event topic model for social event analysis",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/7360932/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Shengsheng"
+			},
+			{
+				"family": "Zhang",
+				"given": "Tianzhu"
+			},
+			{
+				"family": "Xu",
+				"given": "Changsheng"
+			},
+			{
+				"family": "Shao",
+				"given": "Jie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "gong2017",
+		"type": "paper-conference",
+		"abstract": "Major depressive disorder is a common mental disorder that aﬀects almost 7% of the adult U.S. population. e 2017 Audio/Visual Emotion Challenge (AVEC) asks participants to build a model to predict depression levels based on the audio, video, and text of an interview ranging between 7-33 minutes. Since averaging features over the entire interview will lose most temporal information, how to discover, capture, and preserve useful temporal details for such a long interview are signiﬁcant challenges. erefore, we propose a novel topic modeling based approach to perform context-aware analysis of the recording. Our experiments show that the proposed approach outperforms context-unaware methods and the challenge baselines for all metrics.",
+		"container-title": "Proceedings of the 7th Annual Workshop on Audio/Visual Emotion Challenge",
+		"DOI": "10.1145/3133944.3133945",
+		"event-place": "Mountain View California USA",
+		"event-title": "MM '17: ACM Multimedia Conference",
+		"ISBN": "978-1-4503-5502-5",
+		"language": "en",
+		"page": "69-76",
+		"publisher": "ACM",
+		"publisher-place": "Mountain View California USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Topic Modeling Based Multi-modal Depression Detection",
+		"URL": "https://dl.acm.org/doi/10.1145/3133944.3133945",
+		"author": [
+			{
+				"family": "Gong",
+				"given": "Yuan"
+			},
+			{
+				"family": "Poellabauer",
+				"given": "Christian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "hong2010",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the First Workshop on Social Media Analytics",
+		"DOI": "10.1145/1964858.1964870",
+		"event-place": "Washington D.C. District of Columbia",
+		"event-title": "KDD '10: The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+		"ISBN": "978-1-4503-0217-3",
+		"language": "en",
+		"page": "80-88",
+		"publisher": "ACM",
+		"publisher-place": "Washington D.C. District of Columbia",
+		"source": "DOI.org (Crossref)",
+		"title": "Empirical study of topic modeling in Twitter",
+		"URL": "https://dl.acm.org/doi/10.1145/1964858.1964870",
+		"author": [
+			{
+				"family": "Hong",
+				"given": "Liangjie"
+			},
+			{
+				"family": "Davison",
+				"given": "Brian D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					7,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "albalawi2020",
+		"type": "article-journal",
+		"container-title": "Frontiers in artificial intelligence",
+		"note": "publisher: Frontiers Media SA",
+		"page": "42",
+		"source": "Google Scholar",
+		"title": "Using topic modeling methods for short-text data: A comparative analysis",
+		"title-short": "Using topic modeling methods for short-text data",
+		"URL": "https://www.frontiersin.org/articles/10.3389/frai.2020.00042/full",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Albalawi",
+				"given": "Rania"
+			},
+			{
+				"family": "Yeap",
+				"given": "Tet Hin"
+			},
+			{
+				"family": "Benyoucef",
+				"given": "Morad"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "qiang2022",
+		"type": "article-journal",
+		"abstract": "Analyzing short texts infers discriminative and coherent latent topics that is a critical and fundamental task since many real-world applications require semantic understanding of short texts. Traditional long text topic modeling algorithms (e.g., PLSA and LDA) based on word co-occurrences cannot solve this problem very well since only very limited word co-occurrence information is available in short texts. Therefore, short text topic modeling has already attracted much attention from the machine learning research community in recent years, which aims at overcoming the problem of sparseness in short texts. In this survey, we conduct a comprehensive review of various short text topic modeling techniques proposed in the literature. We present three categories of methods based on Dirichlet multinomial mixture, global word co-occurrences, and self-aggregation, with example of representative approaches in each category and analysis of their performance on various tasks. We develop the ﬁrst comprehensive open-source library, called STTM, for use in Java that integrates all surveyed algorithms within a uniﬁed interface, benchmark datasets, to facilitate the expansion of new methods in this research ﬁeld. Finally, we evaluate these state-of-the-art methods on many real-world datasets and compare their performance against one another and versus long text topic modeling algorithm.",
+		"container-title": "IEEE Transactions on Knowledge and Data Engineering",
+		"DOI": "10.1109/TKDE.2020.2992485",
+		"ISSN": "1041-4347, 1558-2191, 2326-3865",
+		"issue": "3",
+		"journalAbbreviation": "IEEE Trans. Knowl. Data Eng.",
+		"language": "en",
+		"page": "1427-1445",
+		"source": "DOI.org (Crossref)",
+		"title": "Short Text Topic Modeling Techniques, Applications, and Performance: A Survey",
+		"title-short": "Short Text Topic Modeling Techniques, Applications, and Performance",
+		"URL": "https://ieeexplore.ieee.org/document/9086136/",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Qiang",
+				"given": "Jipeng"
+			},
+			{
+				"family": "Qian",
+				"given": "Zhenyu"
+			},
+			{
+				"family": "Li",
+				"given": "Yun"
+			},
+			{
+				"family": "Yuan",
+				"given": "Yunhao"
+			},
+			{
+				"family": "Wu",
+				"given": "Xindong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "hofmann2013",
+		"type": "article-journal",
+		"container-title": "arXiv preprint arXiv:1301.6705",
+		"source": "Google Scholar",
+		"title": "Probabilistic latent semantic analysis",
+		"URL": "https://arxiv.org/abs/1301.6705",
+		"author": [
+			{
+				"family": "Hofmann",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "blei2003",
+		"type": "article-journal",
+		"container-title": "Journal of machine Learning research",
+		"issue": "Jan",
+		"page": "993–1022",
+		"source": "Google Scholar",
+		"title": "Latent dirichlet allocation",
+		"URL": "https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf?ref=https://githubhelp.com",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Blei",
+				"given": "David M."
+			},
+			{
+				"family": "Ng",
+				"given": "Andrew Y."
+			},
+			{
+				"family": "Jordan",
+				"given": "Michael I."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "ahuja2015",
+		"type": "article-journal",
+		"container-title": "Available at SSRN 2720333",
+		"source": "Google Scholar",
+		"title": "Topic modeling in large scale social network data",
+		"URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2720333",
+		"author": [
+			{
+				"family": "Ahuja",
+				"given": "Aman"
+			},
+			{
+				"family": "Wei",
+				"given": "Wei"
+			},
+			{
+				"family": "Carley",
+				"given": "Kathleen M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "gerlach2018",
+		"type": "article-journal",
+		"abstract": "A new approach to topic models finds topics through community detection in word-document networks.\n          , \n            One of the main computational and scientific challenges in the modern age is to extract useful information from unstructured texts. Topic models are one popular machine-learning approach that infers the latent topical structure of a collection of documents. Despite their success—particularly of the most widely used variant called latent Dirichlet allocation (LDA)—and numerous applications in sociology, history, and linguistics, topic models are known to suffer from severe conceptual and practical problems, for example, a lack of justification for the Bayesian priors, discrepancies with statistical properties of real texts, and the inability to properly choose the number of topics. We obtain a fresh view of the problem of identifying topical structures by relating it to the problem of finding communities in complex networks. We achieve this by representing text corpora as bipartite networks of documents and words. By adapting existing community-detection methods (using a stochastic block model (SBM) with nonparametric priors), we obtain a more versatile and principled framework for topic modeling (for example, it automatically detects the number of topics and hierarchically clusters both the words and documents). The analysis of artificial and real corpora demonstrates that our SBM approach leads to better topic models than LDA in terms of statistical model selection. Our work shows how to formally relate methods from community detection and topic modeling, opening the possibility of cross-fertilization between these two fields.",
+		"container-title": "Science Advances",
+		"DOI": "10.1126/sciadv.aaq1360",
+		"ISSN": "2375-2548",
+		"issue": "7",
+		"journalAbbreviation": "Sci. Adv.",
+		"language": "en",
+		"page": "eaaq1360",
+		"source": "DOI.org (Crossref)",
+		"title": "A network approach to topic models",
+		"URL": "https://www.science.org/doi/10.1126/sciadv.aaq1360",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Gerlach",
+				"given": "Martin"
+			},
+			{
+				"family": "Peixoto",
+				"given": "Tiago P."
+			},
+			{
+				"family": "Altmann",
+				"given": "Eduardo G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "abdelrazek2022",
+		"type": "article-journal",
+		"abstract": "Topic modeling is used in information retrieval to infer the hidden themes in a collection of documents and thus provides an automatic means to organize, understand and summarize large collections of textual information. Topic models also offer an interpretable representation of documents used in several downstream Natural Language Processing (NLP) tasks. Modeling techniques vary from probabilistic graphical models to the more recent neural models. This paper surveys topic models from four aspects. The first aspect categorizes different topic modeling techniques into four categories: algebraic, fuzzy, probabilistic, and neural. We review the wide variety of available models from each category, highlight differences and similarities between models and model categories using a unified perspective, investigate these models’ characteristics and limitations, and discuss their proper use cases. The second aspect illustrates six criteria for proper evaluation of topic models, from modeling quality to interpretability, stability, efficiency, and beyond. Topic modeling has found applications in various disciplines, owing to its interpretability. We examine these applications along with some popular software tools which provide an implementation of some models. The fourth aspect reviews available datasets and benchmarks. Using two benchmark datasets, we conducted experiments to compare seven topic models along the proposed metrics. The discussion highlights the differences between the models and their relative suitability for various applications. It notes the relationship between evaluation metrics and proposes four key aspects to help decide which model to use for an application. Our discussion also shows that the research trends move towards developing and tuning neural topic models and leveraging the power of pre-trained language models. Finally, it highlights research gaps in developing unified benchmarks and evaluation metrics.",
+		"container-title": "Information Systems",
+		"DOI": "10.1016/j.is.2022.102131",
+		"journalAbbreviation": "Information Systems",
+		"page": "102131",
+		"source": "ResearchGate",
+		"title": "Topic modeling algorithms and applications: A survey",
+		"title-short": "Topic modeling algorithms and applications",
+		"volume": "112",
+		"author": [
+			{
+				"family": "Abdelrazek",
+				"given": "Aly"
+			},
+			{
+				"family": "Eid",
+				"given": "Yomna"
+			},
+			{
+				"family": "Gawish",
+				"given": "Eman"
+			},
+			{
+				"family": "Medhat",
+				"given": "Walaa"
+			},
+			{
+				"family": "Hassan Yousef",
+				"given": "Ahmed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "pennington2014",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)",
+		"page": "1532–1543",
+		"source": "Google Scholar",
+		"title": "Glove: Global vectors for word representation",
+		"title-short": "Glove",
+		"URL": "https://aclanthology.org/D14-1162.pdf",
+		"author": [
+			{
+				"family": "Pennington",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Socher",
+				"given": "Richard"
+			},
+			{
+				"family": "Manning",
+				"given": "Christopher D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "aletras2013",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 10th international conference on computational semantics (IWCS 2013)–Long Papers",
+		"page": "13–22",
+		"source": "Google Scholar",
+		"title": "Evaluating topic coherence using distributional semantics",
+		"URL": "https://aclanthology.org/W13-0102.pdf",
+		"author": [
+			{
+				"family": "Aletras",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Stevenson",
+				"given": "Mark"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "grootendorst2022",
+		"type": "article-journal",
+		"container-title": "arXiv preprint arXiv:2203.05794",
+		"source": "Google Scholar",
+		"title": "BERTopic: Neural topic modeling with a class-based TF-IDF procedure",
+		"title-short": "BERTopic",
+		"URL": "https://arxiv.org/abs/2203.05794",
+		"author": [
+			{
+				"family": "Grootendorst",
+				"given": "Maarten"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "wang2016",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Knowledge and Data Engineering",
+		"issue": "7",
+		"note": "publisher: IEEE",
+		"page": "1919–1933",
+		"source": "Google Scholar",
+		"title": "Using hashtag graph-based topic model to connect semantically-related words without co-occurrence in microblogs",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/7412726/",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Yuan"
+			},
+			{
+				"family": "Liu",
+				"given": "Jie"
+			},
+			{
+				"family": "Huang",
+				"given": "Yalou"
+			},
+			{
+				"family": "Feng",
+				"given": "Xia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "rosen-zvi2012",
+		"type": "article-journal",
+		"container-title": "arXiv preprint arXiv:1207.4169",
+		"source": "Google Scholar",
+		"title": "The author-topic model for authors and documents",
+		"URL": "https://arxiv.org/abs/1207.4169",
+		"author": [
+			{
+				"family": "Rosen-Zvi",
+				"given": "Michal"
+			},
+			{
+				"family": "Griffiths",
+				"given": "Thomas"
+			},
+			{
+				"family": "Steyvers",
+				"given": "Mark"
+			},
+			{
+				"family": "Smyth",
+				"given": "Padhraic"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "phan2008",
+		"type": "paper-conference",
+		"abstract": "This paper presents a general framework for building classiﬁers that deal with short and sparse text & Web segments by making the most of hidden topics discovered from largescale data collections. The main motivation of this work is that many classiﬁcation tasks working with short segments of text & Web, such as search snippets, forum & chat messages, blog & news feeds, product reviews, and book & movie summaries, fail to achieve high accuracy due to the data sparseness. We, therefore, come up with an idea of gaining external knowledge to make the data more related as well as expand the coverage of classiﬁers to handle future data better. The underlying idea of the framework is that for each classiﬁcation task, we collect a large-scale external data collection called “universal dataset”, and then build a classiﬁer on both a (small) set of labeled training data and a rich set of hidden topics discovered from that data collection. The framework is general enough to be applied to diﬀerent data domains and genres ranging from Web search results to medical text. We did a careful evaluation on several hundred megabytes of Wikipedia (30M words) and MEDLINE (18M words) with two tasks: “Web search domain disambiguation” and “disease categorization for medical text”, and achieved signiﬁcant quality enhancement.",
+		"container-title": "Proceedings of the 17th international conference on World Wide Web",
+		"DOI": "10.1145/1367497.1367510",
+		"event-place": "Beijing China",
+		"event-title": "WWW '08: The 17th International World Wide Web Conference",
+		"ISBN": "978-1-60558-085-2",
+		"language": "en",
+		"page": "91-100",
+		"publisher": "ACM",
+		"publisher-place": "Beijing China",
+		"source": "DOI.org (Crossref)",
+		"title": "Learning to classify short and sparse text & web with hidden topics from large-scale data collections",
+		"URL": "https://dl.acm.org/doi/10.1145/1367497.1367510",
+		"author": [
+			{
+				"family": "Phan",
+				"given": "Xuan-Hieu"
+			},
+			{
+				"family": "Nguyen",
+				"given": "Le-Minh"
+			},
+			{
+				"family": "Horiguchi",
+				"given": "Susumu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					4,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "dieng2020",
+		"type": "article-journal",
+		"abstract": "Topic modeling analyzes documents to learn meaningful patterns of words. However, existing topic models fail to learn interpretable topics when working with large and heavy-tailed vocabularies. To this end, we develop the embedded topic model (etm), a generative model of documents that marries traditional topic models with word embeddings. More specifically, the etm models each word with a categorical distribution whose natural parameter is the inner product between the word’s embedding and an embedding of its assigned topic. To fit the etm, we develop an efficient amortized variational inference algorithm. The etm discovers interpretable topics even with large vocabularies that include rare words and stop words. It outperforms existing document models, such as latent Dirichlet allocation, in terms of both topic quality and predictive performance.",
+		"container-title": "Transactions of the Association for Computational Linguistics",
+		"DOI": "10.1162/tacl_a_00325",
+		"ISSN": "2307-387X",
+		"journalAbbreviation": "Transactions of the Association for Computational Linguistics",
+		"page": "439-453",
+		"source": "Silverchair",
+		"title": "Topic Modeling in Embedding Spaces",
+		"URL": "https://doi.org/10.1162/tacl_a_00325",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Dieng",
+				"given": "Adji B."
+			},
+			{
+				"family": "Ruiz",
+				"given": "Francisco J. R."
+			},
+			{
+				"family": "Blei",
+				"given": "David M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "boon-itt2020",
+		"type": "article-journal",
+		"abstract": "Background: COVID-19 is a scientifically and medically novel disease that is not fully understood because it has yet to be consistently and deeply studied. Among the gaps in research on the COVID-19 outbreak, there is a lack of sufficient infoveillance data.\nObjective: The aim of this study was to increase understanding of public awareness of COVID-19 pandemic trends and uncover meaningful themes of concern posted by Twitter users in the English language during the pandemic.\nMethods: Data mining was conducted on Twitter to collect a total of 107,990 tweets related to COVID-19 between December 13 and March 9, 2020. The analyses included frequency of keywords, sentiment analysis, and topic modeling to identify and explore discussion topics over time. A natural language processing approach and the latent Dirichlet allocation algorithm were used to identify the most common tweet topics as well as to categorize clusters and identify themes based on the keyword analysis.\nResults: The results indicate three main aspects of public awareness and concern regarding the COVID-19 pandemic. First, the trend of the spread and symptoms of COVID-19 can be divided into three stages. Second, the results of the sentiment analysis showed that people have a negative outlook toward COVID-19. Third, based on topic modeling, the themes relating to COVID-19 and the outbreak were divided into three categories: the COVID-19 pandemic emergency, how to control COVID-19, and reports on COVID-19.\nConclusions: Sentiment analysis and topic modeling can produce useful information about the trends in the discussion of the COVID-19 pandemic on social media as well as alternative perspectives to investigate the COVID-19 crisis, which has created considerable public awareness. This study shows that Twitter is a good communication channel for understanding both public concern and public awareness about COVID-19. These findings can help health departments communicate information to alleviate specific public concerns about the disease.",
+		"container-title": "JMIR Public Health and Surveillance",
+		"DOI": "10.2196/21978",
+		"issue": "4",
+		"language": "EN",
+		"license": "Unless stated otherwise, all articles are open-access distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work (\"first published in the Journal of Medical Internet Research...\") is properly cited with original URL and bibliographic citation information. The complete bibliographic information, a link to the original publication on http://www.jmir.org/, as well as this copyright and license information must be included.",
+		"note": "Company: JMIR Public Health and Surveillance\nDistributor: JMIR Public Health and Surveillance\nInstitution: JMIR Public Health and Surveillance\nLabel: JMIR Public Health and Surveillance\npublisher: JMIR Publications Inc., Toronto, Canada",
+		"page": "e21978",
+		"source": "publichealth.jmir.org",
+		"title": "Public Perception of the COVID-19 Pandemic on Twitter: Sentiment Analysis and Topic Modeling Study",
+		"title-short": "Public Perception of the COVID-19 Pandemic on Twitter",
+		"URL": "https://publichealth.jmir.org/2020/4/e21978",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Boon-Itt",
+				"given": "Sakun"
+			},
+			{
+				"family": "Skunkan",
+				"given": "Yukolpat"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "phan2008a",
+		"type": "paper-conference",
+		"abstract": "This paper presents a general framework for building classiﬁers that deal with short and sparse text & Web segments by making the most of hidden topics discovered from largescale data collections. The main motivation of this work is that many classiﬁcation tasks working with short segments of text & Web, such as search snippets, forum & chat messages, blog & news feeds, product reviews, and book & movie summaries, fail to achieve high accuracy due to the data sparseness. We, therefore, come up with an idea of gaining external knowledge to make the data more related as well as expand the coverage of classiﬁers to handle future data better. The underlying idea of the framework is that for each classiﬁcation task, we collect a large-scale external data collection called “universal dataset”, and then build a classiﬁer on both a (small) set of labeled training data and a rich set of hidden topics discovered from that data collection. The framework is general enough to be applied to diﬀerent data domains and genres ranging from Web search results to medical text. We did a careful evaluation on several hundred megabytes of Wikipedia (30M words) and MEDLINE (18M words) with two tasks: “Web search domain disambiguation” and “disease categorization for medical text”, and achieved signiﬁcant quality enhancement.",
+		"container-title": "Proceedings of the 17th international conference on World Wide Web",
+		"DOI": "10.1145/1367497.1367510",
+		"event-place": "Beijing China",
+		"event-title": "WWW '08: The 17th International World Wide Web Conference",
+		"ISBN": "978-1-60558-085-2",
+		"language": "en",
+		"page": "91-100",
+		"publisher": "ACM",
+		"publisher-place": "Beijing China",
+		"source": "DOI.org (Crossref)",
+		"title": "Learning to classify short and sparse text & web with hidden topics from large-scale data collections",
+		"URL": "https://dl.acm.org/doi/10.1145/1367497.1367510",
+		"author": [
+			{
+				"family": "Phan",
+				"given": "Xuan-Hieu"
+			},
+			{
+				"family": "Nguyen",
+				"given": "Le-Minh"
+			},
+			{
+				"family": "Horiguchi",
+				"given": "Susumu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					4,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "mcinnes2020",
+		"type": "article",
+		"abstract": "UMAP (Uniform Manifold Approximation and Projection) is a novel manifold learning technique for dimension reduction. UMAP is constructed from a theoretical framework based in Riemannian geometry and algebraic topology. e result is a practical scalable algorithm that is applicable to real world data. e UMAP algorithm is competitive with t-SNE for visualization quality, and arguably preserves more of the global structure with superior run time performance. Furthermore, UMAP has no computational restrictions on embedding dimension, making it viable as a general purpose dimension reduction technique for machine learning.",
+		"language": "en",
+		"note": "arXiv:1802.03426 [cs, stat]",
+		"number": "arXiv:1802.03426",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction",
+		"title-short": "UMAP",
+		"URL": "http://arxiv.org/abs/1802.03426",
+		"author": [
+			{
+				"family": "McInnes",
+				"given": "Leland"
+			},
+			{
+				"family": "Healy",
+				"given": "John"
+			},
+			{
+				"family": "Melville",
+				"given": "James"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					17
+				]
+			]
+		}
+	}
+]
