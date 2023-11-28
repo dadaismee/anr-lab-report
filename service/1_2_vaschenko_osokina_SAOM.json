@@ -1,0 +1,2326 @@
+[
+	{
+		"id": "snijdersStochasticActororientedModels2017",
+		"type": "article-journal",
+		"container-title": "Annual review of statistics and its application",
+		"note": "publisher: Annual Reviews",
+		"page": "343–363",
+		"source": "Google Scholar",
+		"title": "Stochastic actor-oriented models for network dynamics",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "stadtfeldInteractionsActorsTime2017",
+		"type": "article-journal",
+		"container-title": "Sociological Science",
+		"page": "318–352",
+		"source": "Google Scholar",
+		"title": "Interactions, actors, and time: Dynamic network actor models for relational events",
+		"title-short": "Interactions, actors, and time",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Stadtfeld",
+				"given": "Christoph"
+			},
+			{
+				"family": "Block",
+				"given": "Per"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "buttsRelationalEventFramework2008",
+		"type": "article-journal",
+		"container-title": "Sociological Methodology",
+		"issue": "1",
+		"note": "publisher: Wiley Online Library",
+		"page": "155–200",
+		"source": "Google Scholar",
+		"title": "A relational event framework for social action",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Butts",
+				"given": "Carter T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "snijdersStatisticalEvaluationSocial2001",
+		"type": "article-journal",
+		"container-title": "Sociological methodology",
+		"issue": "1",
+		"note": "publisher: Wiley Online Library",
+		"page": "361–395",
+		"source": "Google Scholar",
+		"title": "The statistical evaluation of social network dynamics",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "snijdersStochasticActororientedModels1996",
+		"type": "article-journal",
+		"container-title": "Journal of mathematical sociology",
+		"issue": "1-2",
+		"note": "publisher: Taylor & Francis",
+		"page": "149–172",
+		"source": "Google Scholar",
+		"title": "Stochastic actor-oriented models for network change",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "kalishStochasticActorOrientedModels2020",
+		"type": "article-journal",
+		"abstract": "Stochastic actor-oriented (SAO) models are a family of models for network dynamics that enable researchers to test multiple, often competing explanations for network change and estimate the extent and relative power of various influences on network evolution. SAO models for the co-evolution of network ties and actor behavior, the most comprehensive category of SAO models, examine how networks and actor attributes—their behavior, performance, or attitudes—influence each other over time. While these models have been widely used in the social sciences, and particularly in educational settings, their use in organizational scholarship has been extremely limited. This paper provides a layperson introduction to SAO models for the co-evolution of networks and behavior and the types of research questions they can address. The models and their underpinnings are explained in nonmathematical terms, and theoretical explanations are supported by a concrete, detailed example that includes step-by-step model building and hypothesis testing, alongside an R script.",
+		"container-title": "Organizational Research Methods",
+		"DOI": "10.1177/1094428118825300",
+		"ISSN": "1094-4281",
+		"issue": "3",
+		"language": "en",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "511-534",
+		"source": "SAGE Journals",
+		"title": "Stochastic Actor-Oriented Models for the Co-Evolution of Networks and Behavior: An Introduction and Tutorial",
+		"title-short": "Stochastic Actor-Oriented Models for the Co-Evolution of Networks and Behavior",
+		"URL": "https://doi.org/10.1177/1094428118825300",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Kalish",
+				"given": "Yuval"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "blockFormsDependenceComparing2019",
+		"type": "article-journal",
+		"container-title": "Sociological Methods & Research",
+		"issue": "1",
+		"note": "publisher: Sage Publications Sage CA: Los Angeles, CA",
+		"page": "202–239",
+		"source": "Google Scholar",
+		"title": "Forms of dependence: Comparing SAOMs and ERGMs from basic principles",
+		"title-short": "Forms of dependence",
+		"volume": "48",
+		"author": [
+			{
+				"family": "Block",
+				"given": "Per"
+			},
+			{
+				"family": "Stadtfeld",
+				"given": "Christoph"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "karlinFirstCourseStochastic1975",
+		"type": "article-journal",
+		"container-title": "Cited on",
+		"page": "64",
+		"source": "Google Scholar",
+		"title": "A first course in stochastic processes, New York: Academic",
+		"title-short": "A first course in stochastic processes, New York",
+		"author": [
+			{
+				"family": "Karlin",
+				"given": "S."
+			},
+			{
+				"family": "Taylor",
+				"given": "H. M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "norrisMarkovChains1998",
+		"type": "book",
+		"collection-number": "2",
+		"publisher": "Cambridge university press",
+		"source": "Google Scholar",
+		"title": "Markov chains",
+		"author": [
+			{
+				"family": "Norris",
+				"given": "James R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "hollandLocalStructureSocial1976",
+		"type": "article-journal",
+		"container-title": "Sociological methodology",
+		"note": "publisher: JSTOR",
+		"page": "1–45",
+		"source": "Google Scholar",
+		"title": "Local structure in social networks",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Holland",
+				"given": "Paul W."
+			},
+			{
+				"family": "Leinhardt",
+				"given": "Samuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "snijdersIntroductionStochasticActorbased2010",
+		"type": "article-journal",
+		"container-title": "Social networks",
+		"issue": "1",
+		"note": "publisher: Elsevier",
+		"page": "44–60",
+		"source": "Google Scholar",
+		"title": "Introduction to stochastic actor-based models for network dynamics",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			},
+			{
+				"family": "Van de Bunt",
+				"given": "Gerhard G."
+			},
+			{
+				"family": "Steglich",
+				"given": "Christian EG"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "ceoldoStochasticActorOriented2023",
+		"type": "article-journal",
+		"abstract": "The stochastic actor oriented model (SAOM) is a method for modelling social interactions and social behaviour over time. It can be used to model network effects using both exogenous covariates and endogenous network configurations, but also the co-evolution of behaviour and social interactions. The estimation method mostly used is the Method of Moments (MoM). The model assumption that all individuals have the same evaluation function, however, is one of its limitations. The aim of this paper is to generalize the MoM estimation method for the SAOM to include random effects, so that the heterogeneity of individuals can be modelled more accurately. The linear evaluation function that models the probability of forming or removing a tie from the network, is decomposed in a fixed part, which is the current evaluation function of the SAOM, and a random part, with parameters that are individual-specific and random. The Robbins-Monro algorithm that is commonly used for MoM estimation in the SAOM, is extended to allow the estimation of the variance of the random parameters. We illustrate how for the model with random out-degree we can estimate the parameter of the random components, and how to test its significance. An application is made to Kapferer's Tailor shop dataset. It is shown that including a random out-degree constitutes a serious alternative to including various transitivity effects.",
+		"DOI": "10.48550/ARXIV.2304.07312",
+		"license": "Creative Commons Attribution 4.0 International",
+		"note": "publisher: arXiv\nversion: 1",
+		"source": "DOI.org (Datacite)",
+		"title": "Stochastic Actor Oriented Model with Random Effects",
+		"URL": "https://arxiv.org/abs/2304.07312",
+		"author": [
+			{
+				"family": "Ceoldo",
+				"given": "Giacomo"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom A. B."
+			},
+			{
+				"family": "Wit",
+				"given": "Ernst C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "ripleyManualSIENAVersion2011",
+		"type": "article-journal",
+		"container-title": "University of Oxford",
+		"note": "publisher: Citeseer",
+		"source": "Google Scholar",
+		"title": "Manual for SIENA version 4.0",
+		"author": [
+			{
+				"family": "Ripley",
+				"given": "Ruth M."
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			},
+			{
+				"family": "Boda",
+				"given": "Zsófia"
+			},
+			{
+				"family": "Vörös",
+				"given": "András"
+			},
+			{
+				"family": "Preciado",
+				"given": "Paulina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "snijdersSienaStatisticalModeling2017",
+		"type": "chapter",
+		"container-title": "Encyclopedia of Social Network Analysis and Mining",
+		"event-place": "New York, NY",
+		"ISBN": "978-1-4614-7163-9",
+		"language": "en",
+		"note": "DOI: 10.1007/978-1-4614-7163-9_312-1",
+		"page": "1-9",
+		"publisher": "Springer New York",
+		"publisher-place": "New York, NY",
+		"source": "DOI.org (Crossref)",
+		"title": "Siena: Statistical Modeling of Longitudinal Network Data",
+		"title-short": "Siena",
+		"URL": "http://link.springer.com/10.1007/978-1-4614-7163-9_312-1",
+		"editor": [
+			{
+				"family": "Alhajj",
+				"given": "Reda"
+			},
+			{
+				"family": "Rokne",
+				"given": "Jon"
+			}
+		],
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom A. B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "BerardoSelfOrganizing",
+		"type": "webpage",
+		"title": "Berardo: Self‐organizing policy networks: Risk,... - Академия Google",
+		"URL": "https://scholar.google.com/scholar_lookup?&title=Self-organizing%20policy%20networks%3A%20risk%2C%20partner%20selection%20and%20cooperation%20in%20estuaries&journal=Am%20J%20Polit%20Sci&volume=54&pages=632-649&publication_year=2010&author=Berardo%2CR&author=Scholz%2CJT",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "steglichDynamicNetworksBehavior2010",
+		"type": "article-journal",
+		"container-title": "Sociological methodology",
+		"issue": "1",
+		"note": "publisher: Wiley Online Library",
+		"page": "329–393",
+		"source": "Google Scholar",
+		"title": "Dynamic networks and behavior: Separating selection from influence",
+		"title-short": "Dynamic networks and behavior",
+		"volume": "40",
+		"author": [
+			{
+				"family": "Steglich",
+				"given": "Christian"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			},
+			{
+				"family": "Pearson",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "vandebuntFriendshipNetworksTime1999",
+		"type": "article-journal",
+		"abstract": "We propose a class of actor-oriented statistical models for closed social networks in general, and friendship networks in particular. The models are random utility models developed within a rational choice framework. Based on social psychological and sociological theories about friendship, mathematical functions capturing expected utility of individual actors with respect to friendship are constructed. Expected utility also contains a random (unexplained) component. We assume that, given their restrictions and contact opportunities, individuals evaluate their utility functions and behave such that they maximize the expected amount of utility. The behavior under consideration is the expression of like and dislike (choice of friends). Theoretical mechanisms that are modelled are, e.g., the principle of diminishing returns, the tendency towards reciprocated choices, and the preference for friendship relations with similar others. Constraints imposed on individuals are, e.g., the structure of the existing network, and the distribution of personal characteristics over the respondents. The models are illustrated by means of a data-set collected among university freshmen at 7 points in time during 1994 and 1995.",
+		"container-title": "Computational & Mathematical Organization Theory",
+		"DOI": "10.1023/A:1009683123448",
+		"ISSN": "1572-9346",
+		"issue": "2",
+		"journalAbbreviation": "Computational &amp; Mathematical Organization Theory",
+		"language": "en",
+		"page": "167-192",
+		"source": "Springer Link",
+		"title": "Friendship Networks Through Time: An Actor-Oriented Dynamic Statistical Network Model",
+		"title-short": "Friendship Networks Through Time",
+		"URL": "https://doi.org/10.1023/A:1009683123448",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Van De Bunt",
+				"given": "Gerhard G."
+			},
+			{
+				"family": "Van Duijn",
+				"given": "Marijtje A.J."
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom A.B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "selfhoutEmergingLateAdolescent2010",
+		"type": "article-journal",
+		"container-title": "Journal of Personality",
+		"DOI": "10.1111/j.1467-6494.2010.00625.x",
+		"ISSN": "00223506, 14676494",
+		"issue": "2",
+		"language": "en",
+		"page": "509-538",
+		"source": "DOI.org (Crossref)",
+		"title": "Emerging Late Adolescent Friendship Networks and Big Five Personality Traits: A Social Network Approach",
+		"title-short": "Emerging Late Adolescent Friendship Networks and Big Five Personality Traits",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2010.00625.x",
+		"volume": "78",
+		"author": [
+			{
+				"family": "Selfhout",
+				"given": "Maarten"
+			},
+			{
+				"family": "Burk",
+				"given": "William"
+			},
+			{
+				"family": "Branje",
+				"given": "Susan"
+			},
+			{
+				"family": "Denissen",
+				"given": "Jaap"
+			},
+			{
+				"family": "Van Aken",
+				"given": "Marcel"
+			},
+			{
+				"family": "Meeus",
+				"given": "Wim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "merckenDynamicsAdolescentFriendship2009",
+		"type": "article-journal",
+		"container-title": "Social science & medicine",
+		"issue": "10",
+		"note": "publisher: Elsevier",
+		"page": "1506–1514",
+		"source": "Google Scholar",
+		"title": "Dynamics of adolescent friendship networks and smoking behavior: Social network analyses in six European countries",
+		"title-short": "Dynamics of adolescent friendship networks and smoking behavior",
+		"volume": "69",
+		"author": [
+			{
+				"family": "Mercken",
+				"given": "Liesbeth"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			},
+			{
+				"family": "Steglich",
+				"given": "Christian"
+			},
+			{
+				"family": "Vries",
+				"given": "Hein",
+				"non-dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "delahayeHomophilyContagionExplanations2011",
+		"type": "article-journal",
+		"container-title": "Journal of Adolescent Health",
+		"issue": "4",
+		"note": "publisher: Elsevier",
+		"page": "421–427",
+		"source": "Google Scholar",
+		"title": "Homophily and contagion as explanations for weight similarities among adolescent friends",
+		"volume": "49",
+		"author": [
+			{
+				"family": "De La Haye",
+				"given": "Kayla"
+			},
+			{
+				"family": "Robins",
+				"given": "Garry"
+			},
+			{
+				"family": "Mohr",
+				"given": "Philip"
+			},
+			{
+				"family": "Wilson",
+				"given": "Carlene"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "aronsonPeerInfluencePotential2016",
+		"type": "article-journal",
+		"container-title": "Social Science & Medicine",
+		"DOI": "10.1016/j.socscimed.2016.09.010",
+		"ISSN": "02779536",
+		"journalAbbreviation": "Social Science & Medicine",
+		"language": "en",
+		"page": "111-119",
+		"source": "DOI.org (Crossref)",
+		"title": "Peer influence as a potential magnifier of ADHD diagnosis",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0277953616305093",
+		"volume": "168",
+		"author": [
+			{
+				"family": "Aronson",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "schaeferDynamicModelUS2012",
+		"type": "article-journal",
+		"container-title": "American journal of public health",
+		"issue": "6",
+		"note": "publisher: American Public Health Association",
+		"page": "e12–e18",
+		"source": "Google Scholar",
+		"title": "A dynamic model of US adolescents’ smoking and friendship networks",
+		"volume": "102",
+		"author": [
+			{
+				"family": "Schaefer",
+				"given": "David R."
+			},
+			{
+				"family": "Haas",
+				"given": "Steven A."
+			},
+			{
+				"family": "Bishop",
+				"given": "Nicholas J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "delahayeSmokingDiffusionNetworks2019",
+		"type": "article-journal",
+		"abstract": "This study uses recent data to investigate if smoking initiation diffuses through friendship networks over the high school period and explores if diffusion processes differ across schools. One thousand four hundred and twenty-five racially and ethnically diverse youth from four high schools in Los Angeles were surveyed four times over the high school period from 2010 to 2013. Probit regression models and stochastic actor-based models for network dynamics tested for peer effects on smoking initiation. Friend smoking was found to predict adolescent smoking, and smoking initiation diffused through friendship networks in some but not all of the schools. School differences in smoking rates and the popularity of smokers may be linked to differences in the diffusion of smoking through peer networks. We conclude that there are differences in peer effects on smoking initiation across schools that will be important to account for in network-based smoking interventions.",
+		"container-title": "Journal of Health and Social Behavior",
+		"DOI": "10.1177/0022146519870521",
+		"ISSN": "0022-1465, 2150-6000",
+		"issue": "3",
+		"journalAbbreviation": "J Health Soc Behav",
+		"language": "en",
+		"page": "362-376",
+		"source": "DOI.org (Crossref)",
+		"title": "Smoking Diffusion through Networks of Diverse, Urban American Adolescents over the High School Period",
+		"URL": "http://journals.sagepub.com/doi/10.1177/0022146519870521",
+		"volume": "60",
+		"author": [
+			{
+				"family": "De La Haye",
+				"given": "Kayla"
+			},
+			{
+				"family": "Shin",
+				"given": "Heesung"
+			},
+			{
+				"family": "Vega Yon",
+				"given": "George G."
+			},
+			{
+				"family": "Valente",
+				"given": "Thomas W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "huangInterplayFriendshipNetworks2014",
+		"type": "article-journal",
+		"abstract": "Objectives. We examined the coevolution of adolescent friendships and peer influences with respect to their risk behaviors and social networking site use.\n            Methods. Investigators of the Social Network Study collected longitudinal data during fall 2010 and spring 2011 from 10th-grade students in 5 Southern California high schools (n = 1434). We used meta-analyses of stochastic actor-based models to estimate changes in friendship ties and risk behaviors and the effects of Facebook and MySpace use.\n            Results. Significant shifts in adolescent smoking and drinking occurred despite little change in overall prevalence rates. Students with higher levels of alcohol use were more likely to send and receive friendship nominations and become friends with other drinkers. They were also more likely to increase alcohol use if their friends drank more. Adolescents selected friends with similar Facebook and MySpace use habits. Exposure to friends’ risky online pictures increased smoking behaviors but had no significant effects on alcohol use.\n            Conclusions. Our findings support a greater focus on friendship selection mechanisms in school-based alcohol use interventions. Social media platforms may help identify at-risk adolescent groups and foster positive norms about risk behaviors.",
+		"container-title": "American Journal of Public Health",
+		"DOI": "10.2105/AJPH.2014.302038",
+		"ISSN": "0090-0036, 1541-0048",
+		"issue": "8",
+		"journalAbbreviation": "Am J Public Health",
+		"language": "en",
+		"page": "e51-e59",
+		"source": "DOI.org (Crossref)",
+		"title": "The Interplay of Friendship Networks and Social Networking Sites: Longitudinal Analysis of Selection and Influence Effects on Adolescent Smoking and Alcohol Use",
+		"title-short": "The Interplay of Friendship Networks and Social Networking Sites",
+		"URL": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2014.302038",
+		"volume": "104",
+		"author": [
+			{
+				"family": "Huang",
+				"given": "Grace C."
+			},
+			{
+				"family": "Soto",
+				"given": "Daniel"
+			},
+			{
+				"family": "Fujimoto",
+				"given": "Kayo"
+			},
+			{
+				"family": "Valente",
+				"given": "Thomas W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "kiuruPressureDrinkNot2010",
+		"type": "article-journal",
+		"abstract": "ABSTRACT\n            \n              This paper examined the relative influence of selection and socialization on alcohol and tobacco use in adolescent peer networks and peer groups. The sample included 1419 Finnish secondary education students (690 males and 729 females, mean age 16 years at the outset) from nine schools. Participants identified three school friends and described their alcohol and tobacco use on two occasions one year apart. Actor‐based models simultaneously examined changes in peer network ties and changes in individual behaviors for all participants within each school. Multi‐level analyses examined changes in individual behaviors for adolescents entering new peer groups and adolescents in stable peer groups, both of which were embedded within the school‐based peer networks. Similar results emerged from both analytic methods:\n              Selection\n              and\n              socialization\n              contributed to similarity of alcohol use, but only\n              selection\n              was a factor in tobacco use.",
+		"container-title": "Journal of Adolescence",
+		"DOI": "10.1016/j.adolescence.2010.07.006",
+		"ISSN": "0140-1971, 1095-9254",
+		"issue": "6",
+		"journalAbbreviation": "Journal of Adolescence",
+		"language": "en",
+		"page": "801-812",
+		"source": "DOI.org (Crossref)",
+		"title": "Pressure to drink but not to smoke: Disentangling selection and socialization in adolescent peer networks and peer groups",
+		"title-short": "Pressure to drink but not to smoke",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2010.07.006",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Kiuru",
+				"given": "Noona"
+			},
+			{
+				"family": "Burk",
+				"given": "William J."
+			},
+			{
+				"family": "Laursen",
+				"given": "Brett"
+			},
+			{
+				"family": "Salmela‐Aro",
+				"given": "Katariina"
+			},
+			{
+				"family": "Nurmi",
+				"given": "Jari‐Erik"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "merckenChoosingAdolescentSmokers2013",
+		"type": "article-journal",
+		"abstract": "ABSTRACT\n            The present study examined whether parenting and parental smoking can prevent children from selecting smoking friends during adolescence. 254 Adolescents of one Belgian secondary school participated. Self‐administered questionnaires were distributed among 2nd–4th graders (mean ages = 14.2–16.2 years) during spring 2006. Follow‐up was conducted 12 months later. Data was analyzed conducting longitudinal social network analyses. Results showed adolescents perceiving high parental psychological control had a significant higher tendency to select smoking friends. Perceived behavioral control and perceived parental support did not affect the selection of smoking friends. Furthermore, maternal smoking behavior affected the selection of smoking friends, although no effect of paternal smoking behavior on the selection of smoking friends was found. Adolescent smoking prevention efforts should focus on the influence of parents through their smoking behavior and their psychological control to decrease adolescents' tendency to select smoking friends resulting in fewer opportunities for negative peer influences to occur.",
+		"container-title": "Journal of Adolescence",
+		"DOI": "10.1016/j.adolescence.2012.12.004",
+		"ISSN": "0140-1971, 1095-9254",
+		"issue": "2",
+		"journalAbbreviation": "Journal of Adolescence",
+		"language": "en",
+		"page": "383-392",
+		"source": "DOI.org (Crossref)",
+		"title": "Choosing adolescent smokers as friends: The role of parenting and parental smoking",
+		"title-short": "Choosing adolescent smokers as friends",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2012.12.004",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Mercken",
+				"given": "L."
+			},
+			{
+				"family": "Sleddens",
+				"given": "E.F.C."
+			},
+			{
+				"family": "De Vries",
+				"given": "H."
+			},
+			{
+				"family": "Steglich",
+				"given": "C.E.G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "zalkPeerContagionAdolescent2010",
+		"type": "article-journal",
+		"container-title": "Journal of Clinical Child & Adolescent Psychology",
+		"DOI": "10.1080/15374416.2010.517164",
+		"ISSN": "1537-4416, 1537-4424",
+		"issue": "6",
+		"journalAbbreviation": "Journal of Clinical Child & Adolescent Psychology",
+		"language": "en",
+		"page": "837-848",
+		"source": "DOI.org (Crossref)",
+		"title": "Peer Contagion and Adolescent Depression: The Role of Failure Anticipation",
+		"title-short": "Peer Contagion and Adolescent Depression",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1080/15374416.2010.517164",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Zalk",
+				"given": "Maarten Herman Walter Van"
+			},
+			{
+				"family": "Kerr",
+				"given": "Margaret"
+			},
+			{
+				"family": "Branje",
+				"given": "Susan J. T."
+			},
+			{
+				"family": "Stattin",
+				"given": "Håkan"
+			},
+			{
+				"family": "Meeus",
+				"given": "Wim H. J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "delahayeHowPhysicalActivity2011",
+		"type": "article-journal",
+		"container-title": "Social Science & Medicine",
+		"DOI": "10.1016/j.socscimed.2011.06.023",
+		"ISSN": "02779536",
+		"issue": "5",
+		"journalAbbreviation": "Social Science & Medicine",
+		"language": "en",
+		"page": "719-728",
+		"source": "DOI.org (Crossref)",
+		"title": "How physical activity shapes, and is shaped by, adolescent friendships",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0277953611003790",
+		"volume": "73",
+		"author": [
+			{
+				"family": "De La Haye",
+				"given": "Kayla"
+			},
+			{
+				"family": "Robins",
+				"given": "Garry"
+			},
+			{
+				"family": "Mohr",
+				"given": "Philip"
+			},
+			{
+				"family": "Wilson",
+				"given": "Carlene"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "jugertEffectsEthnicMinority2018",
+		"type": "article-journal",
+		"container-title": "Journal of Research on Adolescence",
+		"DOI": "10.1111/jora.12337",
+		"ISSN": "10508392",
+		"issue": "2",
+		"journalAbbreviation": "J Res Adolesc",
+		"language": "en",
+		"page": "379-395",
+		"source": "DOI.org (Crossref)",
+		"title": "The Effects of Ethnic Minority Adolescents' Ethnic Self-Identification on Friendship Selection",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/jora.12337",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Jugert",
+				"given": "Philipp"
+			},
+			{
+				"family": "Leszczensky",
+				"given": "Lars"
+			},
+			{
+				"family": "Pink",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "mehraCoevolutionFriendshipLeadership2009",
+		"type": "article-journal",
+		"container-title": "Predator's game-changing designs: Research-based tools",
+		"page": "145–162",
+		"source": "Google Scholar",
+		"title": "The coevolution of friendship and leadership networks in small groups",
+		"author": [
+			{
+				"family": "Mehra",
+				"given": "Ajay"
+			},
+			{
+				"family": "Marineau",
+				"given": "Josh"
+			},
+			{
+				"family": "Lopes",
+				"given": "A."
+			},
+			{
+				"family": "Dass",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "kretschmerInGroupBiasOutGroup2022",
+		"type": "article-journal",
+		"abstract": "Abstract\n            Even in diverse schools that provide opportunities for interreligious friendships, Muslim youth disproportionally tend to be friends with Muslims rather than non-Muslims. Echoing broader debates about minorities’ self-segregation versus exclusion by majority group members, a key question is whether religious friendship segregation arises because of Muslims’ in-group bias or because of non-Muslims’ reluctance to befriend them. We suggest that the answer differs for Muslim boys and girls. Building on research on interreligious romantic relations and accounts of the lives of young Muslims and other ethno-religious minorities in Western societies, we propose that religious in-group bias is stronger for Muslim girls than for Muslim boys. Conversely, we expect non-Muslim youth to be more open to befriend Muslim girls than Muslim boys. Applying stochastic actor-oriented models of network dynamics to large-scale longitudinal data of friendship networks in German schools, we find that Muslim girls indeed have a strong in-group bias, whereas non-Muslim youth are not reluctant to be friends with them. Muslim boys, by contrast, have a much weaker in-group bias, but non-Muslim youth are less willing to be friends with them rather than with non-Muslims. A simulation analysis demonstrates that these gendered individual-level processes result in comparable aggregate patterns of friendship segregation among Muslim boys and girls. Religious friendship segregation thus arises because Muslim girls tend to self-segregate and non-Muslim youth are less willing to befriend Muslim boys although the latter are open to interreligious friendships. This gendered friendship-making behavior has implications for the larger question of minority social integration.",
+		"container-title": "Social Forces",
+		"DOI": "10.1093/sf/soab029",
+		"ISSN": "0037-7732, 1534-7605",
+		"issue": "3",
+		"language": "en",
+		"page": "1307-1332",
+		"source": "DOI.org (Crossref)",
+		"title": "In-Group Bias or Out-Group Reluctance? The Interplay of Gender and Religion in Creating Religious Friendship Segregation among Muslim Youth",
+		"title-short": "In-Group Bias or Out-Group Reluctance?",
+		"URL": "https://academic.oup.com/sf/article/100/3/1307/6225741",
+		"volume": "100",
+		"author": [
+			{
+				"family": "Kretschmer",
+				"given": "David"
+			},
+			{
+				"family": "Leszczensky",
+				"given": "Lars"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "dijkstraTestingThreeExplanations2012",
+		"type": "article-journal",
+		"container-title": "Journal of Adolescent Health",
+		"DOI": "10.1016/j.jadohealth.2011.08.010",
+		"ISSN": "1054139X",
+		"issue": "4",
+		"journalAbbreviation": "Journal of Adolescent Health",
+		"language": "en",
+		"page": "371-376",
+		"source": "DOI.org (Crossref)",
+		"title": "Testing Three Explanations of the Emergence of Weapon Carrying in Peer Context: The Roles of Aggression, Victimization, and the Social Network",
+		"title-short": "Testing Three Explanations of the Emergence of Weapon Carrying in Peer Context",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1054139X11002850",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Dijkstra",
+				"given": "Jan Kornelis"
+			},
+			{
+				"family": "Gest",
+				"given": "Scott D."
+			},
+			{
+				"family": "Lindenberg",
+				"given": "Siegwart"
+			},
+			{
+				"family": "Veenstra",
+				"given": "René"
+			},
+			{
+				"family": "Cillessen",
+				"given": "Antonius H.N."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "ferligojScientificCollaborationDynamics2015",
+		"type": "article-journal",
+		"abstract": "This paper examines the collaboration structures and dynamics of the co-authorship network of all Slovenian researchers. Its goal is to identify the key factors driving collaboration and the main differences in collaboration behavior across scientific fields and disciplines. Two approaches to modelling network dynamics are combined in this paper: the small-world model and the mechanism of preferential attachment, also known as the process of cumulative advantage. Stochastic-actor-based modelling of co-authorship network dynamics uses data for the complete longitudinal co-authorship networks for the entire Slovenian scientific community from 1996 to 2010. We confirmed the presence of clustering in all fields and disciplines. Preferential attachment is far more complex than a single global mechanism. There were two clear distinctions regarding collaboration within scientific fields and disciplines. One was that some fields had an internal national saturation inhibiting further collaboration. The second concerned the differential impact of collaboration with scientists from abroad on domestic collaboration. In the natural, technical, medical, and biotechnical sciences, this promotes collaboration within the Slovenian scientific community while in the social sciences and humanities this inhibits internal collaboration.",
+		"container-title": "Scientometrics",
+		"DOI": "10.1007/s11192-015-1585-7",
+		"ISSN": "1588-2861",
+		"issue": "3",
+		"journalAbbreviation": "Scientometrics",
+		"language": "en",
+		"page": "985-1012",
+		"source": "Springer Link",
+		"title": "Scientific collaboration dynamics in a national scientific system",
+		"URL": "https://doi.org/10.1007/s11192-015-1585-7",
+		"volume": "104",
+		"author": [
+			{
+				"family": "Ferligoj",
+				"given": "Anuška"
+			},
+			{
+				"family": "Kronegger",
+				"given": "Luka"
+			},
+			{
+				"family": "Mali",
+				"given": "Franc"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom A. B."
+			},
+			{
+				"family": "Doreian",
+				"given": "Patrick"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "kroneggerCollaborationStructuresSlovenian2012",
+		"type": "article-journal",
+		"container-title": "Scientometrics",
+		"DOI": "10.1007/s11192-011-0493-8",
+		"ISSN": "0138-9130, 1588-2861",
+		"issue": "2",
+		"journalAbbreviation": "Scientometrics",
+		"language": "en",
+		"page": "631-647",
+		"source": "DOI.org (Crossref)",
+		"title": "Collaboration structures in Slovenian scientific communities",
+		"URL": "http://link.springer.com/10.1007/s11192-011-0493-8",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Kronegger",
+				"given": "Luka"
+			},
+			{
+				"family": "Mali",
+				"given": "Franc"
+			},
+			{
+				"family": "Ferligoj",
+				"given": "Anuška"
+			},
+			{
+				"family": "Doreian",
+				"given": "Patrick"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "vermondEvolutionCoevolutionPrimary2022",
+		"type": "article-journal",
+		"abstract": "Academic networks are expected to enhance scientific collaboration and thereby increase research outputs. However, little is known about whether and how the initial steps of getting to know other researchers translates into effective collaborations. In this paper, we investigate the evolution and co-evolution of an academic social network and a collaborative research network (using co-authorship as a proxy measure of the latter), and simultaneously examine the effect of individual researcher characteristics (e.g. gender, seniority or workplace) on their evolving relationships. We used longitudinal data from an international network in primary care cancer research: the CanTest Collaborative (CanTest). Surveys were distributed amongst CanTest researchers to map who knows who (the ‘academic social network’). Co-authorship relations were derived from Scopus (the ‘collaborative network’). Stochastic actor-oriented models were employed to investigate the evolution and co-evolution of both networks. Visualizing the development of the CanTest network revealed that researchers within CanTest get to know each other quickly and also start collaborating over time (evolution of the academic social network and collaborative network respectively). Results point to a stable and solid academic social network that is particularly encouraging towards more junior researchers; yet differing for male and female researchers (the effect of individual researcher characteristics). Moreover, although the academic social network and the research collaborations do not grow at the same pace, the benefit of creating academic social relationships to stimulate effective research collaboration is clearly demonstrated (co-evolution of both networks).",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0272255",
+		"ISSN": "1932-6203",
+		"issue": "7",
+		"journalAbbreviation": "PLoS ONE",
+		"language": "en",
+		"page": "e0272255",
+		"source": "DOI.org (Crossref)",
+		"title": "The evolution and co-evolution of a primary care cancer research network: From academic social connection to research collaboration",
+		"title-short": "The evolution and co-evolution of a primary care cancer research network",
+		"URL": "https://dx.plos.org/10.1371/journal.pone.0272255",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Vermond",
+				"given": "Debbie"
+			},
+			{
+				"family": "De Groot",
+				"given": "Esther"
+			},
+			{
+				"family": "Sills",
+				"given": "Valerie A."
+			},
+			{
+				"family": "Lyratzopoulos",
+				"given": "Georgios"
+			},
+			{
+				"family": "Walter",
+				"given": "Fiona M."
+			},
+			{
+				"family": "De Wit",
+				"given": "Niek J."
+			},
+			{
+				"family": "Rubin",
+				"given": "Greg"
+			}
+		],
+		"editor": [
+			{
+				"family": "Vousden",
+				"given": "George"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "roeslerRoleUniversitiesNetwork2017",
+		"type": "article-journal",
+		"abstract": "This paper contributes to the growing literature on knowledge network evolution. It provides an analysis of the role universities play in a network emerging from the joint participation of organizations in R&D projects subsidized by public authorities. In addition to theorizing universities’ effect on network formation processes, the paper includes an empirical study identifying the main drivers behind the formation of the subsidized network of R&D collaboration in the German biotechnology industry.",
+		"container-title": "Review of Regional Research",
+		"DOI": "10.1007/s10037-017-0118-7",
+		"ISSN": "1613-9836",
+		"issue": "2",
+		"journalAbbreviation": "Rev Reg Res",
+		"language": "en",
+		"page": "135-160",
+		"source": "Springer Link",
+		"title": "The role of universities in a network of subsidized R&D collaboration: The case of the biotechnology-industry in Germany",
+		"title-short": "The role of universities in a network of subsidized R&D collaboration",
+		"URL": "https://doi.org/10.1007/s10037-017-0118-7",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Roesler",
+				"given": "Christoph"
+			},
+			{
+				"family": "Broekel",
+				"given": "Tom"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "chenNetworkDynamicsUniversityindustry2022",
+		"type": "article-journal",
+		"container-title": "Scientometrics",
+		"DOI": "10.1007/s11192-022-04330-9",
+		"ISSN": "0138-9130, 1588-2861",
+		"issue": "11",
+		"journalAbbreviation": "Scientometrics",
+		"language": "en",
+		"page": "6637-6660",
+		"source": "DOI.org (Crossref)",
+		"title": "Network dynamics in university-industry collaboration: a collaboration-knowledge dual-layer network perspective",
+		"title-short": "Network dynamics in university-industry collaboration",
+		"URL": "https://link.springer.com/10.1007/s11192-022-04330-9",
+		"volume": "127",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Hongshu"
+			},
+			{
+				"family": "Song",
+				"given": "Xinna"
+			},
+			{
+				"family": "Jin",
+				"given": "Qianqian"
+			},
+			{
+				"family": "Wang",
+				"given": "Ximeng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "matveevaScientificCollaborationRussian2020",
+		"type": "article-journal",
+		"abstract": "Changes in patterns of collaboration between Russian universities after the commencement of the Russian university excellence initiative (Project 5-100) are studied in this paper. While this project aimed to make leading Russian universities more globally competitive and improve their research productivity, it also happened to increase their cooperation. An analysis of affiliations and the co-authorship networks was conducted to explore scientific collaborations between and within the participating universities. Such analysis facilitates the investigation of the number of collaborations with other organizations, both domestic and international cooperation, and disciplinary differences. By analyzing the co-authorship networks, the position of universities in the academic network and the structure of collaborations among the participants were examined. A sample of 30 Russian universities, including participants in Project 5-100 and a control group of institutions with similar characteristics, was used. After joining the project, the participating universities increased both their cooperation with each other as well as with foreign universities and research institutions of the Russian Academy of Sciences, especially in the high-quality segment. At the same time, the collaboration patterns of non-participating universities did not change significantly. The centrality of Project 5-100 universities in the global academic network has increased, along with their visibility and coupling in the national network. The historical division between university and academic sectors has diminished, while the participating universities have started to play a more important role in knowledge production within the country.",
+		"container-title": "Scientometrics",
+		"DOI": "10.1007/s11192-020-03602-6",
+		"ISSN": "1588-2861",
+		"issue": "3",
+		"journalAbbreviation": "Scientometrics",
+		"language": "en",
+		"page": "2383-2407",
+		"source": "Springer Link",
+		"title": "Scientific collaboration in Russian universities before and after the excellence initiative Project 5-100",
+		"URL": "https://doi.org/10.1007/s11192-020-03602-6",
+		"volume": "124",
+		"author": [
+			{
+				"family": "Matveeva",
+				"given": "Nataliya"
+			},
+			{
+				"family": "Ferligoj",
+				"given": "Anuška"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "destefanoNETWORKEFFECTINDIVIDUAL",
+		"type": "article-journal",
+		"container-title": "Book of Short Papers",
+		"page": "162",
+		"source": "Google Scholar",
+		"title": "NETWORK EFFECT ON INDIVIDUAL SCIENTIFIC PERFORMANCE: A LONGITUDINAL STUDY ON AN ITALIAN SCIENTIFIC COMMUNITY",
+		"title-short": "NETWORK EFFECT ON INDIVIDUAL SCIENTIFIC PERFORMANCE",
+		"author": [
+			{
+				"family": "De Stefano",
+				"given": "Domenico"
+			},
+			{
+				"family": "Giordano",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Zaccarin",
+				"given": "Susanna"
+			}
+		]
+	},
+	{
+		"id": "leeAnalysisCollaborativeNetwork2017",
+		"type": "article-journal",
+		"container-title": "HUSO 2017",
+		"page": "37",
+		"source": "Google Scholar",
+		"title": "An Analysis of the Collaborative Network Mechanism Based on the Dynamic Network",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Hyejin"
+			},
+			{
+				"family": "Lee",
+				"given": "Seok-Hyoung"
+			},
+			{
+				"family": "Kim",
+				"given": "Kwang-Young"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "lungeanuEffectsDiversityNetwork2015",
+		"type": "article-journal",
+		"abstract": "This study examines the influence of different types of diversity, both observable and unobservable, on the creation of innovative ideas. Our framework draws on theory and research on information processing, social categorization, coordination, and homophily to posit the influence of cognitive, gender, and country diversity on innovation. Our longitudinal model is based on a unique data set of 1,354 researchers who helped create the new scientific field of oncofertility, by collaborating on 469 publications over a 4-year period. We capture the differences among researchers along cognitive, country, and gender dimensions, as well as examine how the resulting diversity or homophily influences the formation of collaborative innovation networks. We find that innovation, operationalized as publishing in a new scientific discipline, benefits from both homophily and diversity. Homophily in country of residence and working with prior collaborators help reduce uncertainty in the interactions associated with innovation, while diversity in knowledge enables the recombinant knowledge required for innovation.",
+		"container-title": "American Behavioral Scientist",
+		"DOI": "10.1177/0002764214556804",
+		"ISSN": "0002-7642, 1552-3381",
+		"issue": "5",
+		"journalAbbreviation": "American Behavioral Scientist",
+		"language": "en",
+		"page": "548-564",
+		"source": "DOI.org (Crossref)",
+		"title": "The Effects of Diversity and Network Ties on Innovations: The Emergence of a New Scientific Field",
+		"title-short": "The Effects of Diversity and Network Ties on Innovations",
+		"URL": "http://journals.sagepub.com/doi/10.1177/0002764214556804",
+		"volume": "59",
+		"author": [
+			{
+				"family": "Lungeanu",
+				"given": "Alina"
+			},
+			{
+				"family": "Contractor",
+				"given": "Noshir S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "liangEvolutionGovernmentSponsored2018",
+		"type": "article-journal",
+		"container-title": "Research Policy",
+		"DOI": "10.1016/j.respol.2018.04.012",
+		"ISSN": "00487333",
+		"issue": "7",
+		"journalAbbreviation": "Research Policy",
+		"language": "en",
+		"page": "1295-1308",
+		"source": "DOI.org (Crossref)",
+		"title": "The evolution of government sponsored collaboration network and its impact on innovation: A bibliometric analysis in the Chinese solar PV sector",
+		"title-short": "The evolution of government sponsored collaboration network and its impact on innovation",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733318300933",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Liang",
+				"given": "Xinning"
+			},
+			{
+				"family": "Liu",
+				"given": "Anita M.M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "ingoldDriversCollaborationMitigate2014",
+		"type": "article-journal",
+		"container-title": "Global Environmental Change",
+		"DOI": "10.1016/j.gloenvcha.2013.11.021",
+		"ISSN": "09593780",
+		"journalAbbreviation": "Global Environmental Change",
+		"language": "en",
+		"page": "88-98",
+		"source": "DOI.org (Crossref)",
+		"title": "Drivers of collaboration to mitigate climate change: An illustration of Swiss climate policy over 15 years",
+		"title-short": "Drivers of collaboration to mitigate climate change",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S095937801300229X",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Ingold",
+				"given": "Karin"
+			},
+			{
+				"family": "Fischer",
+				"given": "Manuel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "kinneDependentDiplomacySignaling2014",
+		"type": "article-journal",
+		"container-title": "International Studies Quarterly",
+		"DOI": "10.1111/isqu.12047",
+		"ISSN": "00208833",
+		"issue": "2",
+		"journalAbbreviation": "Int Stud Q",
+		"language": "en",
+		"page": "247-259",
+		"source": "DOI.org (Crossref)",
+		"title": "Dependent Diplomacy: Signaling, Strategy, and Prestige in the Diplomatic Network",
+		"title-short": "Dependent Diplomacy",
+		"URL": "https://academic.oup.com/isq/article-lookup/doi/10.1111/isqu.12047",
+		"volume": "58",
+		"author": [
+			{
+				"family": "Kinne",
+				"given": "Brandon J"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "berardoSelfOrganizingPolicyNetworks2010",
+		"type": "article-journal",
+		"container-title": "American Journal of Political Science",
+		"DOI": "10.1111/j.1540-5907.2010.00451.x",
+		"ISSN": "00925853, 15405907",
+		"issue": "3",
+		"language": "en",
+		"page": "632-649",
+		"source": "DOI.org (Crossref)",
+		"title": "Self-Organizing Policy Networks: Risk, Partner Selection, and Cooperation in Estuaries: SELF-ORGANIZING POLICY NETWORKS",
+		"title-short": "Self-Organizing Policy Networks",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00451.x",
+		"volume": "54",
+		"author": [
+			{
+				"family": "Berardo",
+				"given": "Ramiro"
+			},
+			{
+				"family": "Scholz",
+				"given": "John T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "kinneNetworkDynamicsEvolution2013",
+		"type": "article-journal",
+		"abstract": "Cooperation helps states realize mutual gains, but mistrust and disagreements over institutional design inhibit cooperation. This article develops a network explanation for how states achieve cooperation in the face of persistent coordination and collaboration problems. The analysis focuses on bilateral cooperation agreements, a vast body of treaties spanning multiple issue areas. Bilateral agreements constitute an evolving network of cooperative ties. This network defines the strategic environment in which states bargain over new agreements, endogenously influencing subsequent bilateral endeavors by revealing strategically valuable information about states’ trustworthiness and preferences over institutional design, while also generating externalities that incentivize bilateral partnerships. Inferential network analysis shows that states are more likely to create bilateral agreements if they (1) share agreements with common third parties, (2) accede to more agreements in general, and/or (3) share important exogenous characteristics with current bilateral partners. These network dynamics drive bilateral cooperation in everything from commodities to cultural exchange to fisheries.",
+		"container-title": "American Political Science Review",
+		"DOI": "10.1017/S0003055413000440",
+		"ISSN": "0003-0554, 1537-5943",
+		"issue": "4",
+		"journalAbbreviation": "Am Polit Sci Rev",
+		"language": "en",
+		"page": "766-785",
+		"source": "DOI.org (Crossref)",
+		"title": "Network Dynamics and the Evolution of International Cooperation",
+		"URL": "https://www.cambridge.org/core/product/identifier/S0003055413000440/type/journal_article",
+		"volume": "107",
+		"author": [
+			{
+				"family": "Kinne",
+				"given": "Brandon J"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "thurnerEuropeanUnionTransgovernmental2009",
+		"type": "article-journal",
+		"container-title": "European Journal of Political Research",
+		"DOI": "10.1111/j.1475-6765.2008.00825.x",
+		"ISSN": "03044130, 14756765",
+		"issue": "1",
+		"language": "en",
+		"page": "80-106",
+		"source": "DOI.org (Crossref)",
+		"title": "European Union transgovernmental networks: The emergence of a new political space beyond the nation-state?",
+		"title-short": "European Union transgovernmental networks",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1475-6765.2008.00825.x",
+		"volume": "48",
+		"author": [
+			{
+				"family": "Thurner",
+				"given": "Paul W."
+			},
+			{
+				"family": "Binder",
+				"given": "Martin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "snijdersModelingCoevolutionNetworks2007",
+		"type": "article-journal",
+		"container-title": "Longitudinal models in the behavioral and related sciences",
+		"issue": "4",
+		"page": "41–71",
+		"source": "Google Scholar",
+		"title": "Modeling the co-evolution of networks and behavior",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			},
+			{
+				"family": "Steglich",
+				"given": "Christian"
+			},
+			{
+				"family": "Schweinberger",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "mohrenbergStudyingPolicyDiffusion2017",
+		"type": "chapter",
+		"container-title": "Networked Governance",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-50384-4",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-50386-8_10",
+		"page": "163-188",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Studying Policy Diffusion with Stochastic Actor-Oriented Models",
+		"URL": "http://link.springer.com/10.1007/978-3-319-50386-8_10",
+		"editor": [
+			{
+				"family": "Hollstein",
+				"given": "Betina"
+			},
+			{
+				"family": "Matiaske",
+				"given": "Wenzel"
+			},
+			{
+				"family": "Schnapp",
+				"given": "Kai-Uwe"
+			}
+		],
+		"author": [
+			{
+				"family": "Mohrenberg",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "rhueDigitalAccessPolitical2014",
+		"type": "article-journal",
+		"abstract": "We examine the effects of digital access on the prevalence of democracy and its diffusion via trade, geographical and migration networks across 189 countries between 2000 and 2010. We find that different digital technologies may have varying impacts on freedom while affecting its diffusion via different political networks, and that related changes in civil liberties can be affected by both media freedom and internal political institutions. Our analysis suggests three key mechanisms linking information technology with democratic change and highlights the importance of a country's “susceptibility” to political influence that is triggered by greater digitally induced visibility.",
+		"collection-title": "Special Issue on Political Networks",
+		"container-title": "Social Networks",
+		"DOI": "10.1016/j.socnet.2012.06.007",
+		"ISSN": "0378-8733",
+		"journalAbbreviation": "Social Networks",
+		"page": "40-53",
+		"source": "ScienceDirect",
+		"title": "Digital access, political networks and the diffusion of democracy",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0378873312000524",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Rhue",
+				"given": "Lauren"
+			},
+			{
+				"family": "Sundararajan",
+				"given": "Arun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "redheadCoalitionsConflictLongitudinal2021",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              \n                \n              \n            \n          , \n            Abstract\n            To negotiate conflict and navigate status hierarchy, individuals in many species form coalitions. We describe inter-personal conflicts and assess theories of coalition formation in a small-scale human society. Based on longitudinal and cross-sectional social network analysis of men in two communities of Tsimane forager–horticulturalists, we find evidence of reciprocity in coalitional support, as well as evidence of transitivity: an ally of my ally is likely to become my ally. We find mixed support for coalition formation between individuals who share a common adversary. Coalition formation was also predicted by food- and labour-sharing and especially by kinship. Physically formidable men and men higher in informal status were more likely to provide coalitional support over time; evidence was mixed that they receive more coalitional support. The highest status men are hubs of a dense coalitional support network that indirectly link all men in the community. These findings suggest that male coalition formation is multiply motivated, and in general reveals the political dynamics that structure men's lives in small, relatively egalitarian communities.",
+		"container-title": "Evolutionary Human Sciences",
+		"DOI": "10.1017/ehs.2021.26",
+		"ISSN": "2513-843X",
+		"journalAbbreviation": "Evolut. Hum. Sci.",
+		"language": "en",
+		"page": "e31",
+		"source": "DOI.org (Crossref)",
+		"title": "Coalitions and conflict: A longitudinal analysis of men's politics",
+		"title-short": "Coalitions and conflict",
+		"URL": "https://www.cambridge.org/core/product/identifier/S2513843X21000268/type/journal_article",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Redhead",
+				"given": "Daniel"
+			},
+			{
+				"family": "Von Rueden",
+				"given": "Christopher R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "box-steffensmeierEventHistoryModeling2004",
+		"type": "book",
+		"publisher": "Cambridge University Press",
+		"source": "Google Scholar",
+		"title": "Event history modeling: A guide for social scientists",
+		"title-short": "Event history modeling",
+		"author": [
+			{
+				"family": "Box-Steffensmeier",
+				"given": "Janet M."
+			},
+			{
+				"family": "Jones",
+				"given": "Bradford S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "ceoldoStochasticActorOriented2023a",
+		"type": "article-journal",
+		"container-title": "arXiv preprint arXiv:2304.07312",
+		"source": "Google Scholar",
+		"title": "Stochastic Actor Oriented Model with Random Effects",
+		"author": [
+			{
+				"family": "Ceoldo",
+				"given": "Giacomo"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			},
+			{
+				"family": "Wit",
+				"given": "Ernst C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "steglichStochasticNetworkModeling2022",
+		"type": "article-journal",
+		"container-title": "Handbook of rigorous theoretical and empirical sociology, Research Handbooks in Sociology Series",
+		"page": "73–99",
+		"source": "Google Scholar",
+		"title": "Stochastic network modeling as generative social science",
+		"author": [
+			{
+				"family": "Steglich",
+				"given": "Christian EG"
+			},
+			{
+				"family": "Snijders",
+				"given": "Tom AB"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "dokukaStatisticheskieModeliDlya2015",
+		"type": "article-journal",
+		"abstract": "Research on co-evolution of networks and behavior became possible with the emergence of student performance and behavior dynamic data collection and storage tools, as well as with the development of new social network analysis methods. Dynamic network analysis answers the question, how specific forms of student behavior, like bad habits, develop and propagate. It is also helpful in following how school or university students enter into friendship or antagonism with each other, as well as in assessing the impact social relations have on academic performance. The paper gives a review of the two key methods used for empirical analysis of social network dynamics. Stochastic Actor-Oriented Models (SAOM) represent one of the most elaborated techniques of social network dynamics investigation. This approach regards the present state of a network as dependable on its preceding state uniquely. Network evolution appears to be continuous, not discrete, so that a structural macro change is, in fact, a multitude of micro changes. Instead of dealing with structure of the network and prerequisites for its development, the SAOM model studies the processes underlying any changes recorded. Separable Temporal Exponential Random Graph Models (STERGM) are an alternative approach towards research on social network dynamics. In this case, the social network observed is a materialization of one of possible networks with predetermined characteristics. Any network develops in the result of a stochastic process, and the research should be aimed at discovering what forces this process is driven by. Comparison of an empirically discovered network with networks of similar size reveals structural features of the network and characteristics of actors who influenced the process of its establishment. In this paper, we also give an example of how both models can be used with the same set of data.",
+		"container-title": "Вопросы образования",
+		"ISSN": "1814-9545",
+		"issue": "1",
+		"note": "number: 1\npublisher-place: Россия, Москва\npublisher: Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет «Высшая школа экономики»",
+		"page": "201-213",
+		"source": "cyberleninka.ru",
+		"title": "Статистические модели для анализа динамики социальных сетей в исследованиях образования",
+		"URL": "https://cyberleninka.ru/article/n/statisticheskie-modeli-dlya-analiza-dinamiki-sotsialnyh-setey-v-issledovaniyah-obrazovaniya",
+		"author": [
+			{
+				"family": "Докука",
+				"given": "София Владимировна"
+			},
+			{
+				"family": "Валеева",
+				"given": "Диляра Рашитовна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "dokukaIspolzovanieStohasticheskihAktornoorientirovannyh2021",
+		"type": "article-journal",
+		"abstract": "Human behavior depends on many factors including the social environment. Over the past decades, scholars have actively developed models that evaluate the impact of the environment on the individual. This article describes stochastic actor-oriented modeling (SAOM) which allows to test hypotheses about the structural evolution of social networks, as well as to analyze the co-evolution of networks and behavior in detail. The authors present theoretical and methodological foundations of SAOM; specify requirements for research design and data collection; consider the specification of the model and an example of co-evolution of the network and academic achievement of students; point out limitations of the method, and suggest promising avenues for further research. The article concludes that using SAOM is preferable for small social networks with low rotation, in particular, for organizational units and study groups. The authors argue that the existing studies mainly consider the educational context and social networks of young people that does not allow to draw conclusions about the evolution of social ties in communities of a different type and other age groups. In addition, most of the research is based on data collected in Western democracies which indicates the need to investigate a variety of samples.",
+		"container-title": "Мониторинг общественного мнения: экономические и социальные перемены",
+		"ISSN": "1815-8617",
+		"issue": "2",
+		"note": "number: 2\npublisher-place: Россия, Москва\npublisher: Открытое акционерное общество «Всероссийский центр изучения общественного мнения»",
+		"page": "273-285",
+		"source": "cyberleninka.ru",
+		"title": "Использование стохастических акторно-ориентированных моделей для анализа коэволюции сетей и поведения",
+		"URL": "https://cyberleninka.ru/article/n/ispolzovanie-stohasticheskih-aktorno-orientirovannyh-modeley-dlya-analiza-koevolyutsii-setey-i-povedeniya",
+		"author": [
+			{
+				"family": "Докука",
+				"given": "София Владимировна"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "kimStabilityEvaluationRussian2021",
+		"type": "article-journal",
+		"abstract": "This study deals with the stability evaluation of the online community of Russian sociologists. Based on the data from the Facebook group, which consists of 7 years of communication from 2011 till 2018, we constructed the networks based on commenting and reacting. The participants activity includes four main periods for stability evaluation of the community. The blockmodeling discloses the structural patterns of interactions in the community. The results show the \"core-periphery\" type of the global structure. The core and periphery are structured differently in the networks of comments and reactions. The stability between the positions in the global structure is high and while the structure may vary in some periods, the size of the core and periphery fluctuates. However, the stability within the positions of the global structure is low, according to the modified Rand index (Cugmas, Ferligoj, 2018).",
+		"DOI": "10.48550/ARXIV.2110.08756",
+		"license": "arXiv.org perpetual, non-exclusive license",
+		"note": "publisher: arXiv\nversion: 1",
+		"source": "DOI.org (Datacite)",
+		"title": "Stability evaluation of the Russian sociologists online community: 2011-2018 years",
+		"title-short": "Stability evaluation of the Russian sociologists online community",
+		"URL": "https://arxiv.org/abs/2110.08756",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Aryuna"
+			},
+			{
+				"family": "Maltseva",
+				"given": "Daria"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "RelationalEventFramework",
+		"type": "webpage",
+		"title": "4. A Relational Event Framework for Social Action - Carter T. Butts, 2008",
+		"URL": "https://journals.sagepub.com/doi/10.1111/j.1467-9531.2008.00203.x",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "leifeldStochasticActororientedModel2022",
+		"type": "article-journal",
+		"container-title": "Network Science",
+		"DOI": "10.1017/nws.2022.7",
+		"ISSN": "2050-1242, 2050-1250",
+		"issue": "1",
+		"journalAbbreviation": "Net Sci",
+		"language": "en",
+		"page": "15-19",
+		"source": "DOI.org (Crossref)",
+		"title": "The stochastic actor-oriented model is a theory as much as it is a method and must be subject to theory tests",
+		"URL": "https://www.cambridge.org/core/product/identifier/S2050124222000078/type/journal_article",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Leifeld",
+				"given": "Philip"
+			},
+			{
+				"family": "Cranmer",
+				"given": "Skyler J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "leifeldTheoreticalEmpiricalComparison2019",
+		"type": "article-journal",
+		"container-title": "Network science",
+		"issue": "1",
+		"note": "publisher: Cambridge University Press",
+		"page": "20–51",
+		"source": "Google Scholar",
+		"title": "A theoretical and empirical comparison of the temporal exponential random graph model and the stochastic actor-oriented model",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Leifeld",
+				"given": "Philip"
+			},
+			{
+				"family": "Cranmer",
+				"given": "Skyler J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	}
+]
