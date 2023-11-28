@@ -12759,6 +12759,800 @@
     }
   },
   {
+    "id": "aria2017",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Aria",
+        "given": "Massimo"
+      },
+      {
+        "family": "Cuccurullo",
+        "given": "Corrado"
+      }
+    ],
+    "citation-key": "aria2017",
+    "container-title": "Journal of Informetrics",
+    "DOI": "10.1016/j.joi.2017.08.007",
+    "ISSN": "17511577",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "959-975",
+    "source": "DOI.org (Crossref)",
+    "title": "Bibliometrix : An R-tool for Comprehensive Science Mapping Analysis",
+    "title-short": "bibliometrix",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1751157717300500",
+    "volume": "11"
+  },
+  {
+    "id": "bar-ilan2008",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bar-Ilan",
+        "given": "Judit"
+      }
+    ],
+    "citation-key": "bar-ilan2008",
+    "container-title": "Journal of Informetrics",
+    "DOI": "10.1016/j.joi.2007.11.001",
+    "ISSN": "17511577",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1-52",
+    "source": "DOI.org (Crossref)",
+    "title": "Informetrics at the Beginning of the 21st Century—A Review",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1751157707000740",
+    "volume": "2"
+  },
+  {
+    "id": "batagelj2007",
+    "author": [
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-key": "batagelj2007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "title": "WoS2Pajek. Networks from web of science.",
+    "type": "software",
+    "URL": "http://vladowiki.fmf.uni-lj.si/doku.php?id=pajek:wos2pajek",
+    "version": "1.5"
+  },
+  {
+    "id": "batagelj2014",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "citation-key": "batagelj2014",
+    "edition": "1",
+    "editor": [
+      {
+        "family": "Batagelj",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Doreian",
+        "given": "Patrick"
+      },
+      {
+        "family": "Ferligoj",
+        "given": "Anus̆ka"
+      },
+      {
+        "family": "Kejz̆ar",
+        "given": "Natas̆a"
+      }
+    ],
+    "ISBN": "978-0-470-71452-2 978-1-118-91537-0",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          22
+        ]
+      ]
+    },
+    "language": "en",
+    "publisher": "Wiley",
+    "source": "DOI.org (Crossref)",
+    "title": "Understanding Large Temporal Networks and Spatial Networks",
+    "type": "book",
+    "URL": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118915370"
+  },
+  {
+    "id": "eremenkog.o.2020",
+    "author": [
+      {
+        "literal": "Еременко Г. О."
+      }
+    ],
+    "citation-key": "eremenkog.o.2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Сравнение уровня публикаций российских ученых в базах данных Web of Science, Scopus и RSCI",
+    "type": "webpage",
+    "URL": "https://elibrary.ru/wos_scopus_rsci.asp"
+  },
+  {
+    "id": "gorin2020",
+    "abstract": "Objective:\n              To observe changes in the number, form (print and online), and distribution (by academic disciplines) of Russian journals indexed in the first three years of the Russian Science Citation Index (RSCI).\n            \n            \n              Background:\n              The globalization of science and the need to involve Russia in the international process of knowledge exchange have influenced the main directions of publication activity and interaction with the world scientific community.&nbsp;\n            \n            \n              Methods:\n              Statistical information freely available through the databases of the Scientific Electronic Library of Russia for January 2019 were compared with data from January 2016.&nbsp;\n            \n            \n              Results:\n              In 2016, the number of Russian journals included in the RSCI was 650; by 2019, the number had increased to 771, an increase of 18.6%. The number of journals with printed and online versions increased by 13.3% to reach 266 units. The number of Russian journals indexed in Scopus and the Web of Science databases increased during the period, as did the number of journals with both print and online versions.\n            \n            \n              Conclusions:\n              Journals from the RSCI database tend also to be added to Scopus or WoS databases and do not remain exclusively as part of the local database. Implementing the RSCI project had a positive impact on the full spectrum of Russian academic journals, which are increasingly committed to improving their work to continue to be part of RSCI or Scopus or WoS databases.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gorin",
+        "given": "Sergey V"
+      },
+      {
+        "family": "Koroleva",
+        "given": "Anna M"
+      },
+      {
+        "family": "Gerasimov",
+        "given": "Alexey N"
+      },
+      {
+        "family": "Voronov",
+        "given": "Alexander A"
+      }
+    ],
+    "citation-key": "gorin2020",
+    "container-title": "European Science Editing",
+    "DOI": "10.3897/ese.2020.e51051",
+    "ISSN": "2518-3354, 0258-3127",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          27
+        ]
+      ]
+    },
+    "page": "e51051",
+    "source": "DOI.org (Crossref)",
+    "title": "The Russian Science Citation Index (RSCI): the First Three Years (2016-2018)",
+    "title-short": "The Russian Science Citation Index (RSCI)",
+    "type": "article-journal",
+    "URL": "https://ese.arphahub.com/article/51051/",
+    "volume": "46"
+  },
+  {
+    "id": "harzing2016",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Harzing",
+        "given": "Anne-Wil"
+      },
+      {
+        "family": "Alakangas",
+        "given": "Satu"
+      }
+    ],
+    "citation-key": "harzing2016",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-015-1798-9",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "787-804",
+    "source": "DOI.org (Crossref)",
+    "title": "Google Scholar, Scopus and the Web of Science: a Longitudinal and Cross-Disciplinary Comparison",
+    "title-short": "Google Scholar, Scopus and the Web of Science",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-015-1798-9",
+    "volume": "106"
+  },
+  {
+    "id": "harzing2019",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Harzing",
+        "given": "Anne-Wil"
+      }
+    ],
+    "citation-key": "harzing2019",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-019-03114-y",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "341-349",
+    "source": "DOI.org (Crossref)",
+    "title": "Two New Kids on the Block: How do Crossref and Dimensions Compare with Google Scholar, Microsoft Academic, Scopus and the Web of Science?",
+    "title-short": "Two new kids on the block",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-019-03114-y",
+    "volume": "120"
+  },
+  {
+    "id": "kassian2019",
+    "abstract": "Purpose The purpose of this paper is to evaluate the journals of the Russian Science Citation Index (RSCI) (Web of Science platform) in respect to publication misconduct and predatory practices.Design/methodology/approach The paper employs formal criteria developed by the Disseropedia of Russian Journals (a.k.a. the Journal Project of the Russian Dissernet).Findings A substantial number of the RSCI journals violate publishing ethics and/or are involved in predatory practices (fake peer-review, plagiarism and self-plagiarism, publication of pseudoscientific papers and so on). The general trend is negative: the number of such journals was higher in July 2018 than in 2015 when the RSCI was launched. The authors propose that this situation is due to the non-transparent and partly defective process of journal selection involved; primarily it can be attributed to problems with the RSCI expert pool.Research limitations/implications Many cases of publication misconduct are inevitably overlooked due to natural limitations of the tools.Originality/value The approach and methods were developed by the Disseropedia of Russian Journals and the Dissernet for the specific local Russian situation, where the scientific and editorial community is corrupt and the institution of reputation does not work properly. The authors believe that the experience may also be helpful for scientists and academic officials from other countries.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kassian",
+        "given": "Alexei"
+      },
+      {
+        "family": "Melikhova",
+        "given": "Larisa"
+      }
+    ],
+    "citation-key": "kassian2019",
+    "container-title": "Journal of Documentation",
+    "DOI": "10.1108/JD-02-2019-0033",
+    "ISSN": "0022-0418",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "page": "1162-1168",
+    "source": "Emerald Insight",
+    "title": "Russian Science Citation Index on the WoS platform: a Critical Assessment",
+    "title-short": "Russian Science Citation Index on the WoS platform",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1108/JD-02-2019-0033",
+    "volume": "75"
+  },
+  {
+    "id": "malceva2022",
+    "author": [
+      {
+        "family": "Мальцева",
+        "given": "Дарья Васильевна"
+      },
+      {
+        "family": "Ващенко",
+        "given": "Василиса Андреевна"
+      },
+      {
+        "family": "Капустина",
+        "given": "Лика Владимировна"
+      }
+    ],
+    "citation-key": "malceva2022",
+    "container-title-short": "Социология 4М",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "title": "Методология обработки библиографических данных на русском языке для построения сетей коллаборации",
+    "type": "article-journal"
+  },
+  {
+    "id": "martin-martin2021",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Martín-Martín",
+        "given": "Alberto"
+      },
+      {
+        "family": "Thelwall",
+        "given": "Mike"
+      },
+      {
+        "family": "Orduna-Malea",
+        "given": "Enrique"
+      },
+      {
+        "family": "Delgado López-Cózar",
+        "given": "Emilio"
+      }
+    ],
+    "citation-key": "martin-martin2021",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-020-03690-4",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "871-906",
+    "source": "DOI.org (Crossref)",
+    "title": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ COCI: a multidisciplinary comparison of coverage via citations",
+    "title-short": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ COCI",
+    "type": "article-journal",
+    "URL": "https://link.springer.com/10.1007/s11192-020-03690-4",
+    "volume": "126"
+  },
+  {
+    "id": "mingers2015",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mingers",
+        "given": "John"
+      },
+      {
+        "family": "Leydesdorff",
+        "given": "Loet"
+      }
+    ],
+    "citation-key": "mingers2015",
+    "container-title": "European Journal of Operational Research",
+    "DOI": "10.1016/j.ejor.2015.04.002",
+    "ISSN": "03772217",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1-19",
+    "source": "DOI.org (Crossref)",
+    "title": "A Review of Theory and Practice in Scientometrics",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S037722171500274X",
+    "volume": "246"
+  },
+  {
+    "id": "moed2018a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Moed",
+        "given": "Henk F."
+      },
+      {
+        "family": "Markusova",
+        "given": "Valentina"
+      },
+      {
+        "family": "Akoev",
+        "given": "Mark"
+      }
+    ],
+    "citation-key": "moed2018a",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-018-2769-8",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "1153-1180",
+    "source": "DOI.org (Crossref)",
+    "title": "Trends in Russian Research Output Indexed in Scopus and Web of Science",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-018-2769-8",
+    "volume": "116"
+  },
+  {
+    "id": "rousseau2018a",
+    "author": [
+      {
+        "family": "Rousseau",
+        "given": "R."
+      },
+      {
+        "family": "Egghe",
+        "given": "L."
+      },
+      {
+        "family": "Guns",
+        "given": "Raf"
+      }
+    ],
+    "call-number": "Z669.8 .R68 2018",
+    "citation-key": "rousseau2018a",
+    "event-place": "Cambridge, MA",
+    "ISBN": "978-0-08-102474-4",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "number-of-pages": "385",
+    "publisher": "Chandos Publishing is an imprint of Elsevier",
+    "publisher-place": "Cambridge, MA",
+    "source": "Library of Congress ISBN",
+    "title": "Becoming Metric-Wise: a Bibliometric Guide for Researchers",
+    "title-short": "Becoming metric-wise",
+    "type": "book"
+  },
+  {
+    "id": "ruiz-perez2002",
+    "abstract": "OBJECTIVES: The study sought to investigate how Spanish names are handled by national and international databases and to identify mistakes that can undermine the usefulness of these databases for locating and retrieving works by Spanish authors.\nMETHODS: The authors sampled 172 articles published by authors from the University of Granada Medical School between 1987 and 1996 and analyzed the variations in how each of their names was indexed in Science Citation Index (SCI), MEDLINE, and Indice Medico Español (IME). The number and types of variants that appeared for each author's name were recorded and compared across databases to identify inconsistencies in indexing practices. We analyzed the relationship between variability (number of variants of an author's name) and productivity (number of items the name was associated with as an author), the consequences for retrieval of information, and the most frequent indexing structures used for Spanish names.\nRESULTS: The proportion of authors who appeared under more then one name was 48.1% in SCI, 50.7% in MEDLINE, and 69.0% in IME. Productivity correlated directly with variability: more than 50% of the authors listed on five to ten items appeared under more than one name in any given database, and close to 100% of the authors listed on more than ten items appeared under two or more variants. Productivity correlated inversely with retrievability: as the number of variants for a name increased, the number of items retrieved under each variant decreased. For the most highly productive authors, the number of items retrieved under each variant tended toward one. The most frequent indexing methods varied between databases. In MEDLINE and IME, names were indexed correctly as \"first surname second surname, first name initial middle name initial\" (if present) in 41.7% and 49.5% of the records, respectively. However, in SCI, the most frequent method was \"first surname, first name initial second name initial\" (48.0% of the records) and first surname and second surname run together, first name initial (18.3%).\nCONCLUSIONS: Retrievability on the basis of author's name was poor in all three databases. Each database uses accurate indexing methods, but these methods fail to result in consistency or coherence for specific entries. The likely causes of inconsistency are: (1) use by authors of variants of their names during their publication careers, (2) lack of authority control in all three databases, (3) the use of an inappropriate indexing method for Spanish names in SCI, (4) authors' inconsistent behaviors, and (5) possible editorial interventions by some journals. We offer some suggestions as to how to avert the proliferation of author name variants in the databases.",
+    "author": [
+      {
+        "family": "Ruiz-Pérez",
+        "given": "R."
+      },
+      {
+        "family": "Delgado López-Cózar",
+        "given": "E."
+      },
+      {
+        "family": "Jiménez-Contreras",
+        "given": "E."
+      }
+    ],
+    "citation-key": "ruiz-perez2002",
+    "container-title": "Journal of the Medical Library Association: JMLA",
+    "ISSN": "1536-5050",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          10
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "411-430",
+    "source": "PubMed",
+    "title": "Spanish Personal Name Variations in National and International Biomedical Databases: Implications for Information Retrieval and Bibliometric Studies",
+    "title-short": "Spanish personal name variations in national and international biomedical databases",
+    "type": "article-journal",
+    "volume": "90"
+  },
+  {
+    "id": "safonova2013",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Сафонова",
+        "given": "Мария Андреевна"
+      },
+      {
+        "family": "Винер",
+        "given": "Борис Ефимович"
+      }
+    ],
+    "citation-key": "safonova2013",
+    "container-title-short": "Сетевой анализ социтирований этнологических публикаций в российских периодических изданиях: предварительные результаты",
+    "issue": "36",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "language": "русский",
+    "page": "140 – 176",
+    "publisher": "Федеральное государственное бюджетное учреждение науки Федеральный научно …",
+    "source": "Google Scholar",
+    "title": "Сетевой анализ социтирований этнологических публикаций в российских периодических изданиях: предварительные результаты",
+    "title-short": "Сетевой анализ социтирований этнологических публикаций в российских периодических изданиях",
+    "type": "article-journal",
+    "URL": "https://elibrary.ru/item.asp?id=20299528"
+  },
+  {
+    "id": "singh2021",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Singh",
+        "given": "Vivek Kumar"
+      },
+      {
+        "family": "Singh",
+        "given": "Prashasti"
+      },
+      {
+        "family": "Karmakar",
+        "given": "Mousumi"
+      },
+      {
+        "family": "Leta",
+        "given": "Jacqueline"
+      },
+      {
+        "family": "Mayr",
+        "given": "Philipp"
+      }
+    ],
+    "citation-key": "singh2021",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-021-03948-5",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "5113-5142",
+    "source": "DOI.org (Crossref)",
+    "title": "The journal coverage of Web of Science, Scopus and Dimensions: A comparative analysis",
+    "title-short": "The journal coverage of Web of Science, Scopus and Dimensions",
+    "type": "article-journal",
+    "URL": "https://link.springer.com/10.1007/s11192-021-03948-5",
+    "volume": "126"
+  },
+  {
+    "id": "sokolov2012",
+    "author": [
+      {
+        "family": "Соколов",
+        "given": "М М"
+      },
+      {
+        "family": "Сафонова",
+        "given": "М А"
+      },
+      {
+        "family": "Губа",
+        "given": "К С"
+      },
+      {
+        "family": "Димке",
+        "given": "Д В"
+      }
+    ],
+    "citation-key": "sokolov2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Интеллектуальный ландшафт и социальная структура локального академического сообщества (Случай петербургской социологии)",
+    "type": "document"
+  },
+  {
+    "id": "viner2012",
+    "abstract": "The paper investigates a cognitive structure of contemporary Russian sociology with a help of co-citation analysis of 156 sociological, ethnological, and interdisciplinary journals and 9 collections of papers published in Russia in 2005–2009.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Винер",
+        "given": "Борис Ефимович"
+      },
+      {
+        "family": "Дивисенко",
+        "given": "Константин Сергеевич"
+      }
+    ],
+    "citation-key": "viner2012",
+    "container-title-short": "Журнал социологии и социальной антропологии",
+    "ISSN": "1029-8053",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "144 – 166",
+    "source": "cyberleninka.ru",
+    "title": "Когнитивная структура современной российской социологии по данным журнальных ссылок",
+    "type": "article-journal",
+    "URL": "https://cyberleninka.ru/article/n/kognitivnaya-struktura-sovremennoy-rossiyskoy-sotsiologii-po-dannym-zhurnalnyh-ssylok",
+    "volume": "15"
+  },
+  {
+    "id": "zhu2020a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Junwen"
+      },
+      {
+        "family": "Liu",
+        "given": "Weishu"
+      }
+    ],
+    "citation-key": "zhu2020a",
+    "container-title": "Scientometrics",
+    "DOI": "10.1007/s11192-020-03387-8",
+    "ISSN": "0138-9130, 1588-2861",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "321-335",
+    "source": "DOI.org (Crossref)",
+    "title": "A Tale of Two Databases: the Use of Web of Science and Scopus in Academic Papers",
+    "title-short": "A tale of two databases",
+    "type": "article-journal",
+    "URL": "http://link.springer.com/10.1007/s11192-020-03387-8",
+    "volume": "123"
+  },
+  {
     "id": "fairbrotherDoesInequalityErode2013",
     "author": [
       {
