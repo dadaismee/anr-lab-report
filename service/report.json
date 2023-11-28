@@ -18535,6 +18535,497 @@
     }
   },
   {
+    "id": "arora2019",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Arora",
+        "given": "Anshu Saxena"
+      },
+      {
+        "family": "Sanni",
+        "given": "Saidat Abidemi"
+      }
+    ],
+    "citation-key": "arora2019",
+    "container-title": "Journal of Promotion Management",
+    "container-title-short": "Journal of Promotion Management",
+    "DOI": "10.1080/10496491.2018.1448322",
+    "ISSN": "1049-6491, 1540-7594",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          7
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "476-499",
+    "source": "DOI.org (Crossref)",
+    "title": "Ten Years of ‘Social Media Marketing’ Research in the Journal of Promotion Management: Research Synthesis, Emerging Themes, and New Directions",
+    "title-short": "Ten Years of ‘Social Media Marketing’ Research in the Journal of Promotion Management",
+    "type": "article-journal",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/10496491.2018.1448322",
+    "volume": "25"
+  },
+  {
+    "id": "barger",
+    "abstract": "Marketers are being inundated with social media metrics, but there is little consensus on what one should be measuring, let alone how these measures inform marketing strategy. This article attempts to bring clarity to the situation by adopting an integrated marketing communications perspective. By screening extant metrics for alignment with social media communications objectives, seven key social media metrics are identified. These metrics are then described and their application to social media marketing from an integrated marketing communications perspective is discussed. Finally, limitations of the metrics are considered to arrive at suggestions for future research.",
+    "author": [
+      {
+        "family": "Barger",
+        "given": "Victor"
+      },
+      {
+        "family": "Labrecque",
+        "given": "Lauren"
+      }
+    ],
+    "citation-key": "barger",
+    "language": "en",
+    "source": "Zotero",
+    "title": "An Integrated Marketing Communications Perspective on Social Media Metrics",
+    "type": "article-journal"
+  },
+  {
+    "id": "bland1976",
+    "abstract": "We conducted a controlled, prospective trial to evaluate the effectiveness of rapidly infusing sodium bicarbonate (NaHCO3) and salt-poor albumin into high-risk, premature infants in the first 2 hours of life. Fifty-three infants, randomized into one of four treatment groups, received 8 ml. per kilogram of a solution containing either (A) glucose in water, (B) salt-poor albumin, (C) NaHCO3, or (D) a combination of albumin and NaHCO3. After the initial infusion, the babies received no colloid or alkali solutions until 4 hours of age. We managed them supportively with warmth, appropriate oxygen administration, isotonic fluid infusion, and close monitoring. Among the infants who received alkali, 14 of 26 acquired the respiratory distress syndrome (RDS), 11 died, and four had intracranial hemorrhage. Among babies who received no alkali, RDS occurred in 11 of 27, 5 died, and none had intracranial hemorrhage. These results do not support the common practice of rapidly infusing NaHCO3 into high-risk, premature infants, and they suggest that the early management of such infants needs renewed critical evaluation.",
+    "author": [
+      {
+        "family": "Bland",
+        "given": "R. D."
+      },
+      {
+        "family": "Clarke",
+        "given": "T. L."
+      },
+      {
+        "family": "Harden",
+        "given": "L. B."
+      }
+    ],
+    "citation-key": "bland1976",
+    "container-title": "American Journal of Obstetrics and Gynecology",
+    "container-title-short": "Am J Obstet Gynecol",
+    "DOI": "10.1016/0002-9378(76)90154-x",
+    "ISSN": "0002-9378",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1976,
+          2,
+          1
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "263-267",
+    "PMID": "2013",
+    "source": "PubMed",
+    "title": "Rapid infusion of sodium bicarbonate and albumin into high-risk premature infants soon after birth: a controlled, prospective trial",
+    "title-short": "Rapid infusion of sodium bicarbonate and albumin into high-risk premature infants soon after birth",
+    "type": "article-journal",
+    "volume": "124"
+  },
+  {
+    "id": "fronzetticolladon2018",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fronzetti Colladon",
+        "given": "Andrea"
+      }
+    ],
+    "citation-key": "fronzetticolladon2018",
+    "container-title": "Journal of Business Research",
+    "container-title-short": "Journal of Business Research",
+    "DOI": "10.1016/j.jbusres.2018.03.026",
+    "ISSN": "01482963",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "150-160",
+    "source": "DOI.org (Crossref)",
+    "title": "The Semantic Brand Score",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0148296318301541",
+    "volume": "88"
+  },
+  {
+    "id": "fronzetticolladon2020",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fronzetti Colladon",
+        "given": "Andrea"
+      },
+      {
+        "family": "Grippa",
+        "given": "Francesca"
+      },
+      {
+        "family": "Innarella",
+        "given": "Rosy"
+      }
+    ],
+    "citation-key": "fronzetticolladon2020",
+    "container-title": "Tourism Management Perspectives",
+    "container-title-short": "Tourism Management Perspectives",
+    "DOI": "10.1016/j.tmp.2019.100588",
+    "ISSN": "22119736",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "100588",
+    "source": "DOI.org (Crossref)",
+    "title": "Studying the association of online brand importance with museum visitors: An application of the semantic brand score",
+    "title-short": "Studying the association of online brand importance with museum visitors",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2211973619301205",
+    "volume": "33"
+  },
+  {
+    "id": "fronzetticolladon2020a",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fronzetti Colladon",
+        "given": "Andrea"
+      },
+      {
+        "family": "Grippa",
+        "given": "Francesca"
+      }
+    ],
+    "citation-key": "fronzetticolladon2020a",
+    "container-title": "Digital Transformation of Collaboration",
+    "DOI": "10.1007/978-3-030-48993-9_10",
+    "editor": [
+      {
+        "family": "Przegalinska",
+        "given": "Aleksandra"
+      },
+      {
+        "family": "Grippa",
+        "given": "Francesca"
+      },
+      {
+        "family": "Gloor",
+        "given": "Peter A."
+      }
+    ],
+    "event-place": "Cham",
+    "ISBN": "978-3-030-48992-2 978-3-030-48993-9",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "125-141",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "source": "DOI.org (Crossref)",
+    "title": "Brand Intelligence Analytics",
+    "type": "chapter",
+    "URL": "http://link.springer.com/10.1007/978-3-030-48993-9_10"
+  },
+  {
+    "id": "kohli2015",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kohli",
+        "given": "Chiranjeev"
+      },
+      {
+        "family": "Suri",
+        "given": "Rajneesh"
+      },
+      {
+        "family": "Kapoor",
+        "given": "Anuj"
+      }
+    ],
+    "citation-key": "kohli2015",
+    "container-title": "Business Horizons",
+    "container-title-short": "Business Horizons",
+    "DOI": "10.1016/j.bushor.2014.08.004",
+    "ISSN": "00076813",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          1
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "35-44",
+    "source": "DOI.org (Crossref)",
+    "title": "Will social media kill branding?",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0007681314001244",
+    "volume": "58"
+  },
+  {
+    "id": "mier1975",
+    "abstract": "Five distinct ester hydrolases (EC 3-1) have been characterized in guinea-pig epidermis. These are carboxylic esterase, acid phosphatase, pyrophosphatase, and arylsulphatase A and B. Their properties are consistent with those of lysosomal enzymes.",
+    "author": [
+      {
+        "family": "Mier",
+        "given": "P. D."
+      },
+      {
+        "family": "Hurk",
+        "given": "J. J.",
+        "non-dropping-particle": "van den"
+      }
+    ],
+    "citation-key": "mier1975",
+    "container-title": "The British Journal of Dermatology",
+    "container-title-short": "Br J Dermatol",
+    "DOI": "10.1111/j.1365-2133.1975.tb06512.x",
+    "ISSN": "0007-0963",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1975,
+          10
+        ]
+      ]
+    },
+    "language": "eng",
+    "page": "391-398",
+    "PMID": "31",
+    "source": "PubMed",
+    "title": "Lysosomal hydrolases of the epidermis. 2. Ester hydrolases",
+    "type": "article-journal",
+    "volume": "93"
+  },
+  {
+    "id": "peters2013",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Peters",
+        "given": "Kay"
+      },
+      {
+        "family": "Chen",
+        "given": "Yubo"
+      },
+      {
+        "family": "Kaplan",
+        "given": "Andreas M."
+      },
+      {
+        "family": "Ognibeni",
+        "given": "Björn"
+      },
+      {
+        "family": "Pauwels",
+        "given": "Koen"
+      }
+    ],
+    "citation-key": "peters2013",
+    "container-title": "Journal of Interactive Marketing",
+    "container-title-short": "Journal of Interactive Marketing",
+    "DOI": "10.1016/j.intmar.2013.09.007",
+    "ISSN": "10949968",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "281-298",
+    "source": "DOI.org (Crossref)",
+    "title": "Social Media Metrics — A Framework and Guidelines for Managing Social Media",
+    "type": "article-journal",
+    "URL": "https://journals.sagepub.com/doi/full/10.1016/j.intmar.2013.09.007",
+    "volume": "27"
+  },
+  {
+    "id": "rakshit2022",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Rakshit",
+        "given": "Sandip"
+      },
+      {
+        "family": "Islam",
+        "given": "Nazrul"
+      },
+      {
+        "family": "Mondal",
+        "given": "Sandeep"
+      },
+      {
+        "family": "Paul",
+        "given": "Tripti"
+      }
+    ],
+    "citation-key": "rakshit2022",
+    "container-title": "Journal of Business Research",
+    "container-title-short": "Journal of Business Research",
+    "DOI": "10.1016/j.jbusres.2022.06.006",
+    "ISSN": "01482963",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "73-88",
+    "source": "DOI.org (Crossref)",
+    "title": "An integrated social network marketing metric for business-to-business SMEs",
+    "type": "article-journal",
+    "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0148296322005380",
+    "volume": "150"
+  },
+  {
+    "id": "swaminathan2020",
+    "abstract": "Technological advances have resulted in a hyperconnected world, requiring a reassessment of branding research from the perspectives of firms, consumers, and society. Brands are shifting away from single ownership to shared ownership, as heightened access to information and people is allowing more stakeholders to cocreate brand meanings and experiences alongside traditional brand owners and managers. Moreover, hyperconnectivity has allowed existing brands to expand their geographic reach and societal roles, while new types of branded entities (ideas, people, places, and organizational brands) are further stretching the branding space. To help establish a new branding paradigm that accounts for these changes, the authors address the following questions: (1) What are the roles and functions of brands?, (2) How is brand value (co)created?, and (3) How should brands be managed? Throughout the article, the authors also identify future research issues that require scholarly attention, with the aim of aligning branding theory and practice with the realities of a hyperconnected world.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Swaminathan",
+        "given": "Vanitha"
+      },
+      {
+        "family": "Sorescu",
+        "given": "Alina"
+      },
+      {
+        "family": "Steenkamp",
+        "given": "Jan-Benedict E.M."
+      },
+      {
+        "family": "O’Guinn",
+        "given": "Thomas Clayton Gibson"
+      },
+      {
+        "family": "Schmitt",
+        "given": "Bernd"
+      }
+    ],
+    "citation-key": "swaminathan2020",
+    "container-title": "Journal of Marketing",
+    "container-title-short": "Journal of Marketing",
+    "DOI": "10.1177/0022242919899905",
+    "ISSN": "0022-2429, 1547-7185",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "language": "en",
+    "page": "24-46",
+    "source": "DOI.org (Crossref)",
+    "title": "Branding in a Hyperconnected World: Refocusing Theories and Rethinking Boundaries",
+    "title-short": "Branding in a Hyperconnected World",
+    "type": "article-journal",
+    "URL": "http://journals.sagepub.com/doi/10.1177/0022242919899905",
+    "volume": "84"
+  },
+  {
     "id": "http://zotero.org/users/local/Q7DWuSGG/items/RXWEMMA3",
     "type": "article-journal",
     "abstract": "Gossip, or sharing information about absent others, has been identified as an effective solution to free rider problems in situations with conflicting interests. Yet, the information transmitted via gossip can be biased, because gossipers may send dishonest information about others for personal gains. Such dishonest gossip makes reputation-based cooperation more difficult to evolve. But when are people likely to share honest or dishonest gossip? We build formal models to provide the theoretical foundation for individuals' gossip strategies, taking into account the gossiper's fitness interdependence with the receiver and the target. Our models across four different games suggest a very simple rule: when there is a perfect match (mismatch) between fitness interdependence and the effect of honest gossip, the gossiper should always be honest (dishonest); however, in the case of a partial match, the gossiper should make a choice based on their fitness interdependence with the receiver and the target and the marginal cost/benefit in terms of pay-off differences caused by possible choices of the receiver and the target in the game. Moreover, gossipers can use this simple rule to make optimal decisions even under noise. We discuss empirical examples that support the predictions of our model and potential extensions.\n\nThis article is part of the theme issue ‘The language of cooperation: reputation and honest signalling’.",
