@@ -1,0 +1,325 @@
+[
+	{
+		"id": "EndtoendConstructionNLP",
+		"type": "webpage",
+		"title": "‘End-to-end construction of NLP knowledge graph’ - Академия Google",
+		"URL": "https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=+%E2%80%98End-to-end+construction+of+NLP+knowledge+graph%E2%80%99+&btnG=",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "kpiebaarehGenericGraphBasedMethod2022",
+		"type": "article-journal",
+		"container-title": "Information",
+		"issue": "3",
+		"note": "publisher: MDPI",
+		"page": "118",
+		"source": "Google Scholar",
+		"title": "A Generic Graph-Based Method for Flexible Aspect-Opinion Analysis of Complex Product Customer Feedback",
+		"URL": "https://www.mdpi.com/2078-2489/13/3/118",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Kpiebaareh",
+				"given": "Michael Y."
+			},
+			{
+				"family": "Wu",
+				"given": "Wei-Ping"
+			},
+			{
+				"family": "Agyemang",
+				"given": "Brighter"
+			},
+			{
+				"family": "Haruna",
+				"given": "Charles R."
+			},
+			{
+				"family": "Lawrence",
+				"given": "Tandoh"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "mallickGraphBasedTextSummarization2019",
+		"type": "chapter",
+		"container-title": "Soft Computing in Data Analytics",
+		"event-place": "Singapore",
+		"ISBN": "9789811305139",
+		"note": "collection-title: Advances in Intelligent Systems and Computing\nDOI: 10.1007/978-981-13-0514-6_14",
+		"page": "137-146",
+		"publisher": "Springer Singapore",
+		"publisher-place": "Singapore",
+		"source": "DOI.org (Crossref)",
+		"title": "Graph-Based Text Summarization Using Modified TextRank",
+		"URL": "http://link.springer.com/10.1007/978-981-13-0514-6_14",
+		"volume": "758",
+		"editor": [
+			{
+				"family": "Nayak",
+				"given": "Janmenjoy"
+			},
+			{
+				"family": "Abraham",
+				"given": "Ajith"
+			},
+			{
+				"family": "Krishna",
+				"given": "B. Murali"
+			},
+			{
+				"family": "Chandra Sekhar",
+				"given": "G. T."
+			},
+			{
+				"family": "Das",
+				"given": "Asit Kumar"
+			}
+		],
+		"author": [
+			{
+				"family": "Mallick",
+				"given": "Chirantana"
+			},
+			{
+				"family": "Das",
+				"given": "Ajit Kumar"
+			},
+			{
+				"family": "Dutta",
+				"given": "Madhurima"
+			},
+			{
+				"family": "Das",
+				"given": "Asit Kumar"
+			},
+			{
+				"family": "Sarkar",
+				"given": "Apurba"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "osmanGraphbasedTextRepresentation2020",
+		"type": "article-journal",
+		"container-title": "IEEE Access",
+		"note": "publisher: IEEE",
+		"page": "87562–87583",
+		"source": "Google Scholar",
+		"title": "Graph-based text representation and matching: A review of the state of the art and future challenges",
+		"title-short": "Graph-based text representation and matching",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/9088989/",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Osman",
+				"given": "Ahmed Hamza"
+			},
+			{
+				"family": "Barukub",
+				"given": "Omar Mohammed"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "paranyushkinInfraNodusGeneratingInsight2019",
+		"type": "paper-conference",
+		"container-title": "The World Wide Web Conference",
+		"DOI": "10.1145/3308558.3314123",
+		"event-place": "San Francisco CA USA",
+		"event-title": "WWW '19: The Web Conference",
+		"ISBN": "978-1-4503-6674-8",
+		"language": "en",
+		"page": "3584-3589",
+		"publisher": "ACM",
+		"publisher-place": "San Francisco CA USA",
+		"source": "DOI.org (Crossref)",
+		"title": "InfraNodus: Generating Insight Using Text Network Analysis",
+		"title-short": "InfraNodus",
+		"URL": "https://dl.acm.org/doi/10.1145/3308558.3314123",
+		"author": [
+			{
+				"family": "Paranyushkin",
+				"given": "Dmitry"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "rossiKnowledgeGraphEmbedding2021",
+		"type": "article-journal",
+		"abstract": "Knowledge Graphs (KGs) have found many applications in industrial and in academic settings, which in turn, have motivated considerable research efforts towards large-scale information extraction from a variety of sources. Despite such efforts, it is well known that even the largest KGs suffer from incompleteness; Link Prediction (LP) techniques address this issue by identifying missing facts among entities already in the KG. Among the recent LP techniques, those based on\n              KG embeddings\n              have achieved very promising performance in some benchmarks. Despite the fast-growing literature on the subject, insufficient attention has been paid to the effect of the design choices in those methods. Moreover, the standard practice in this area is to report accuracy by aggregating over a large number of test facts in which some entities are vastly more represented than others; this allows LP methods to exhibit good results by just attending to structural properties that include such entities, while ignoring the remaining majority of the KG. This analysis provides a comprehensive comparison of embedding-based LP methods, extending the dimensions of analysis beyond what is commonly available in the literature. We experimentally compare the effectiveness and efficiency of 18 state-of-the-art methods, consider a rule-based baseline, and report detailed analysis over the most popular benchmarks in the literature.",
+		"container-title": "ACM Transactions on Knowledge Discovery from Data",
+		"DOI": "10.1145/3424672",
+		"ISSN": "1556-4681, 1556-472X",
+		"issue": "2",
+		"journalAbbreviation": "ACM Trans. Knowl. Discov. Data",
+		"language": "en",
+		"page": "1-49",
+		"source": "DOI.org (Crossref)",
+		"title": "Knowledge Graph Embedding for Link Prediction: A Comparative Analysis",
+		"title-short": "Knowledge Graph Embedding for Link Prediction",
+		"URL": "https://dl.acm.org/doi/10.1145/3424672",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Rossi",
+				"given": "Andrea"
+			},
+			{
+				"family": "Barbosa",
+				"given": "Denilson"
+			},
+			{
+				"family": "Firmani",
+				"given": "Donatella"
+			},
+			{
+				"family": "Matinata",
+				"given": "Antonio"
+			},
+			{
+				"family": "Merialdo",
+				"given": "Paolo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "zengDoubleGraphBased2020",
+		"type": "article",
+		"abstract": "Document-level relation extraction aims to extract relations among entities within a document. Different from sentence-level relation extraction, it requires reasoning over multiple sentences across a document. In this paper, we propose Graph Aggregation-and-Inference Network (GAIN) featuring double graphs. GAIN first constructs a heterogeneous mention-level graph (hMG) to model complex interaction among different mentions across the document. It also constructs an entity-level graph (EG), based on which we propose a novel path reasoning mechanism to infer relations between entities. Experiments on the public dataset, DocRED, show GAIN achieves a significant performance improvement (2.85 on F1) over the previous state-of-the-art. Our code is available at https://github.com/DreamInvoker/GAIN .",
+		"note": "arXiv:2009.13752 [cs]",
+		"number": "arXiv:2009.13752",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Double Graph Based Reasoning for Document-level Relation Extraction",
+		"URL": "http://arxiv.org/abs/2009.13752",
+		"author": [
+			{
+				"family": "Zeng",
+				"given": "Shuang"
+			},
+			{
+				"family": "Xu",
+				"given": "Runxin"
+			},
+			{
+				"family": "Chang",
+				"given": "Baobao"
+			},
+			{
+				"family": "Li",
+				"given": "Lei"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					28
+				]
+			]
+		}
+	}
+]
