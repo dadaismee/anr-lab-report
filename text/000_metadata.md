@@ -16,5 +16,6 @@ link-citations: true
 linkReferences: true
 indent: true
 header-includes:
-  - \setlength{\parindent}{20pt}
+  - \setlength{\parindent}{1.25cm}
+figLabels: "Рис."
 ---
