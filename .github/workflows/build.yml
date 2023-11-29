@@ -31,7 +31,7 @@ jobs:
           --toc \
           --toc-depth=2 \
           --filter=pandoc-crossref \
-          --csl=service/apa.csl \
+          --csl=service/gost_numeric.csl \
           --bibliography=service/report.json \
           --metadata-file=text/000_metadata.md \
           --number-sections \
