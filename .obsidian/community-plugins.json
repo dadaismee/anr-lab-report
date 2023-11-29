@@ -1,15 +1,1 @@
-[
-  "templater-obsidian",
-  "obsidian-linter",
-  "obsidian-autocomplete-plugin",
-  "better-word-count",
-  "obsidian-citation-plugin",
-<<<<<<< Updated upstream
-  "obsidian-footnotes",
-  "obsidian-tidy-footnotes",
-  "obsidian-hider",
-  "obsidian-latex-suite"
-=======
-  "obsidian-footnotes"
->>>>>>> Stashed changes
-]
+[]
