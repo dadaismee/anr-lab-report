@@ -3,7 +3,7 @@ title: ПРИКЛАДНОЙ СЕТЕВОЙ АНАЛИЗ ДЛЯ РЕШЕНИЯ С
 subtitle: МЕТОДОЛОГИЧЕСКИЕ РАЗРАБОТКИ И ПРАКТИЧЕСКОЕ ПРИМЕНЕНИЕ
 author: 
 date: \today
-csl: service/apa.csl
+csl: service/gost_n.csl
 toc-title: Содержание
 lof: false 
 lot: false 
@@ -17,5 +17,5 @@ linkReferences: true
 indent: true
 header-includes:
   - \setlength{\parindent}{1.25cm}
-figLabels: "Рис."
+figureTitle: "Рис."
 ---

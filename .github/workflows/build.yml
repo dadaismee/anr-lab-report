@@ -1,9 +1,9 @@
 name: ci 
 on:
-  [workflow_dispatch]
-  # push:
-    # branches:
-      # - "master"
+  # [workflow_dispatch]
+  push:
+    branches:
+      - "master"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,12 +32,13 @@ jobs:
           --toc \
           --toc-depth=2 \
           --filter=pandoc-crossref \
-          --csl=service/gost.csl \
+          --csl=service/gost_n.csl \
           --bibliography=service/report.json \
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
-          --output=report.pdf text/*.md
+          --reference-doc=service/style-sheet-1.docx \
+          --output=report.docx text/*.md
       - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
