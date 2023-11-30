@@ -14137,8 +14137,43 @@
     "volume": "18"
   },
   {
-    "id": "brannon2023",
-    "abstract": "We propose ConGraT(Contrastive Graph-Text pretraining), a general, self-supervised method for jointly learning separate representations of texts and nodes in a parent (or ``supervening'') graph, where each text is associated with one of the nodes. Datasets fitting this paradigm are common, from social media (users and posts), to citation networks over articles, to link graphs over web pages. We expand on prior work by providing a general, self-supervised, joint pretraining method, one which does not depend on particular dataset structure or a specific task. Our method uses two separate encoders for graph nodes and texts, which are trained to align their representations within a common latent space. Training uses a batch-wise contrastive learning objective inspired by prior work on joint text and image encoding. As graphs are more structured objects than images, we also extend the training objective to incorporate information about node similarity and plausible next guesses in matching nodes and texts. Experiments on various datasets reveal that ConGraT outperforms strong baselines on various downstream tasks, including node and text category classification and link prediction. Code and certain datasets are available at https://github.com/wwbrannon/congrat.",
+    "id": "sevgili2022",
+    "type": "article-journal",
+    "abstract": "This survey presents a comprehensive description of recent neural entity linking (EL) systems developed since 2015 as a result of the \"deep learning revolution\" in natural language processing. Its goal is to systemize design features of neural entity linking systems and compare their performance to the remarkable classic methods on common benchmarks. This work distills a generic architecture of a neural EL system and discusses its components, such as candidate generation, mention-context encoding, and entity ranking, summarizing prominent methods for each of them. The vast variety of modifications of this general architecture are grouped by several common themes: joint entity mention detection and disambiguation, models for global linking, domain-independent techniques including zero-shot and distant supervision methods, and cross-lingual approaches. Since many neural models take advantage of entity and mention/context embeddings to represent their meaning, this work also overviews prominent entity embedding techniques. Finally, the survey touches on applications of entity linking, focusing on the recently emerged use-case of enhancing deep pre-trained masked language models based on the Transformer architecture.",
+    "container-title": "Semantic Web",
+    "DOI": "10.3233/SW-222986",
+    "ISSN": "22104968, 15700844",
+    "issue": "3",
+    "journalAbbreviation": "SW",
+    "note": "arXiv:2006.00575 [cs]",
+    "page": "527-570",
+    "source": "arXiv.org",
+    "title": "Neural Entity Linking: A Survey of Models Based on Deep Learning",
+    "title-short": "Neural Entity Linking",
+    "URL": "http://arxiv.org/abs/2006.00575",
+    "volume": "13",
+    "author": [
+      {
+        "family": "Sevgili",
+        "given": "Ozge"
+      },
+      {
+        "family": "Shelmanov",
+        "given": "Artem"
+      },
+      {
+        "family": "Arkhipov",
+        "given": "Mikhail"
+      },
+      {
+        "family": "Panchenko",
+        "given": "Alexander"
+      },
+      {
+        "family": "Biemann",
+        "given": "Chris"
+      }
+    ],
     "accessed": {
       "date-parts": [
         [
@@ -14148,6 +14183,269 @@
         ]
       ]
     },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          4,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "vaswani2023",
+    "type": "article",
+    "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
+    "DOI": "10.48550/arXiv.1706.03762",
+    "note": "arXiv:1706.03762 [cs]",
+    "number": "arXiv:1706.03762",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Attention Is All You Need",
+    "URL": "http://arxiv.org/abs/1706.03762",
+    "author": [
+      {
+        "family": "Vaswani",
+        "given": "Ashish"
+      },
+      {
+        "family": "Shazeer",
+        "given": "Noam"
+      },
+      {
+        "family": "Parmar",
+        "given": "Niki"
+      },
+      {
+        "family": "Uszkoreit",
+        "given": "Jakob"
+      },
+      {
+        "family": "Jones",
+        "given": "Llion"
+      },
+      {
+        "family": "Gomez",
+        "given": "Aidan N."
+      },
+      {
+        "family": "Kaiser",
+        "given": "Lukasz"
+      },
+      {
+        "family": "Polosukhin",
+        "given": "Illia"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          29
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hu2023",
+    "type": "article",
+    "abstract": "Pre-trained Language Models (PLMs) which are trained on large text corpus via self-supervised learning method, have yielded promising performance on various tasks in Natural Language Processing (NLP). However, though PLMs with huge parameters can effectively possess rich knowledge learned from massive training text and benefit downstream tasks at the fine-tuning stage, they still have some limitations such as poor reasoning ability due to the lack of external knowledge. Research has been dedicated to incorporating knowledge into PLMs to tackle these issues. In this paper, we present a comprehensive review of Knowledge Enhanced Pre-trained Language Models (KE-PLMs) to provide a clear insight into this thriving field. We introduce appropriate taxonomies respectively for Natural Language Understanding (NLU) and Natural Language Generation (NLG) to highlight these two main tasks of NLP. For NLU, we divide the types of knowledge into four categories: linguistic knowledge, text knowledge, knowledge graph (KG), and rule knowledge. The KE-PLMs for NLG are categorized into KG-based and retrieval-based methods. Finally, we point out some promising future directions of KE-PLMs.",
+    "DOI": "10.48550/arXiv.2211.05994",
+    "note": "arXiv:2211.05994 [cs]",
+    "number": "arXiv:2211.05994",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "A Survey of Knowledge Enhanced Pre-trained Language Models",
+    "URL": "http://arxiv.org/abs/2211.05994",
+    "author": [
+      {
+        "family": "Hu",
+        "given": "Linmei"
+      },
+      {
+        "family": "Liu",
+        "given": "Zeyi"
+      },
+      {
+        "family": "Zhao",
+        "given": "Ziwang"
+      },
+      {
+        "family": "Hou",
+        "given": "Lei"
+      },
+      {
+        "family": "Nie",
+        "given": "Liqiang"
+      },
+      {
+        "family": "Li",
+        "given": "Juanzi"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          29
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          8,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wang2020",
+    "type": "article",
+    "abstract": "We study the problem of injecting knowledge into large pre-trained models like BERT and RoBERTa. Existing methods typically update the original parameters of pre-trained models when injecting knowledge. However, when multiple kinds of knowledge are injected, the historically injected knowledge would be flushed away. To address this, we propose K-Adapter, a framework that retains the original parameters of the pre-trained model fixed and supports the development of versatile knowledge-infused model. Taking RoBERTa as the backbone model, K-Adapter has a neural adapter for each kind of infused knowledge, like a plug-in connected to RoBERTa. There is no information flow between different adapters, thus multiple adapters can be efficiently trained in a distributed way. As a case study, we inject two kinds of knowledge in this work, including (1) factual knowledge obtained from automatically aligned text-triplets on Wikipedia and Wikidata and (2) linguistic knowledge obtained via dependency parsing. Results on three knowledge-driven tasks, including relation classification, entity typing, and question answering, demonstrate that each adapter improves the performance and the combination of both adapters brings further improvements. Further analysis indicates that K-Adapter captures versatile knowledge than RoBERTa.",
+    "DOI": "10.48550/arXiv.2002.01808",
+    "note": "arXiv:2002.01808 [cs]",
+    "number": "arXiv:2002.01808",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters",
+    "title-short": "K-Adapter",
+    "URL": "http://arxiv.org/abs/2002.01808",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Ruize"
+      },
+      {
+        "family": "Tang",
+        "given": "Duyu"
+      },
+      {
+        "family": "Duan",
+        "given": "Nan"
+      },
+      {
+        "family": "Wei",
+        "given": "Zhongyu"
+      },
+      {
+        "family": "Huang",
+        "given": "Xuanjing"
+      },
+      {
+        "family": "ji",
+        "given": "Jianshu"
+      },
+      {
+        "family": "Cao",
+        "given": "Guihong"
+      },
+      {
+        "family": "Jiang",
+        "given": "Daxin"
+      },
+      {
+        "family": "Zhou",
+        "given": "Ming"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          29
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          12,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "id": "emelin2022",
+    "type": "article",
+    "abstract": "Pre-trained language models (PLM) have advanced the state-of-the-art across NLP applications, but lack domain-specific knowledge that does not naturally occur in pre-training data. Previous studies augmented PLMs with symbolic knowledge for different downstream NLP tasks. However, knowledge bases (KBs) utilized in these studies are usually large-scale and static, in contrast to small, domain-specific, and modifiable knowledge bases that are prominent in real-world task-oriented dialogue (TOD) systems. In this paper, we showcase the advantages of injecting domain-specific knowledge prior to fine-tuning on TOD tasks. To this end, we utilize light-weight adapters that can be easily integrated with PLMs and serve as a repository for facts learned from different KBs. To measure the efficacy of proposed knowledge injection methods, we introduce Knowledge Probing using Response Selection (KPRS) -- a probe designed specifically for TOD models. Experiments on KPRS and the response generation task show improvements of knowledge injection with adapters over strong baselines.",
+    "DOI": "10.48550/arXiv.2212.08120",
+    "note": "arXiv:2212.08120 [cs]",
+    "number": "arXiv:2212.08120",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Injecting Domain Knowledge in Language Models for Task-Oriented Dialogue Systems",
+    "URL": "http://arxiv.org/abs/2212.08120",
+    "author": [
+      {
+        "family": "Emelin",
+        "given": "Denis"
+      },
+      {
+        "family": "Bonadiman",
+        "given": "Daniele"
+      },
+      {
+        "family": "Alqahtani",
+        "given": "Sawsan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yi"
+      },
+      {
+        "family": "Mansour",
+        "given": "Saab"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          29
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          12,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "brannon2023",
+    "type": "article",
+    "abstract": "We propose ConGraT(Contrastive Graph-Text pretraining), a general, self-supervised method for jointly learning separate representations of texts and nodes in a parent (or ``supervening'') graph, where each text is associated with one of the nodes. Datasets fitting this paradigm are common, from social media (users and posts), to citation networks over articles, to link graphs over web pages. We expand on prior work by providing a general, self-supervised, joint pretraining method, one which does not depend on particular dataset structure or a specific task. Our method uses two separate encoders for graph nodes and texts, which are trained to align their representations within a common latent space. Training uses a batch-wise contrastive learning objective inspired by prior work on joint text and image encoding. As graphs are more structured objects than images, we also extend the training objective to incorporate information about node similarity and plausible next guesses in matching nodes and texts. Experiments on various datasets reveal that ConGraT outperforms strong baselines on various downstream tasks, including node and text category classification and link prediction. Code and certain datasets are available at https://github.com/wwbrannon/congrat.",
+    "DOI": "10.48550/arXiv.2305.14321",
+    "note": "arXiv:2305.14321 [cs]",
+    "number": "arXiv:2305.14321",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings",
+    "title-short": "ConGraT",
+    "URL": "http://arxiv.org/abs/2305.14321",
     "author": [
       {
         "family": "Brannon",
@@ -14178,8 +14476,15 @@
         "given": "Deb"
       }
     ],
-    "citation-key": "brannon2023",
-    "DOI": "10.48550/arXiv.2305.14321",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          29
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
@@ -14188,183 +14493,45 @@
           23
         ]
       ]
-    },
-    "number": "arXiv:2305.14321",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings",
-    "title-short": "ConGraT",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2305.14321"
+    }
   },
   {
-    "id": "chen2022",
-    "abstract": "Although pre-trained language models (PLMs) have achieved state-of-the-art performance on various natural language processing (NLP) tasks, they are shown to be lacking in knowledge when dealing with knowledge driven tasks. Despite the many efforts made for injecting knowledge into PLMs, this problem remains open. To address the challenge, we propose \\textbf{DictBERT}, a novel approach that enhances PLMs with dictionary knowledge which is easier to acquire than knowledge graph (KG). During pre-training, we present two novel pre-training tasks to inject dictionary knowledge into PLMs via contrastive learning: \\textit{dictionary entry prediction} and \\textit{entry description discrimination}. In fine-tuning, we use the pre-trained DictBERT as a plugin knowledge base (KB) to retrieve implicit knowledge for identified entries in an input sequence, and infuse the retrieved knowledge into the input to enhance its representation via a novel extra-hop attention mechanism. We evaluate our approach on a variety of knowledge driven and language understanding tasks, including NER, relation extraction, CommonsenseQA, OpenBookQA and GLUE. Experimental results demonstrate that our model can significantly improve typical PLMs: it gains a substantial improvement of 0.5\\%, 2.9\\%, 9.0\\%, 7.1\\% and 3.3\\% on BERT-large respectively, and is also effective on RoBERTa-large.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
+    "id": "velickovic2018",
+    "type": "article",
+    "abstract": "We present graph attention networks (GATs), novel neural network architectures that operate on graph-structured data, leveraging masked self-attentional layers to address the shortcomings of prior methods based on graph convolutions or their approximations. By stacking layers in which nodes are able to attend over their neighborhoods' features, we enable (implicitly) specifying different weights to different nodes in a neighborhood, without requiring any kind of costly matrix operation (such as inversion) or depending on knowing the graph structure upfront. In this way, we address several key challenges of spectral-based graph neural networks simultaneously, and make our model readily applicable to inductive as well as transductive problems. Our GAT models have achieved or matched state-of-the-art results across four established transductive and inductive graph benchmarks: the Cora, Citeseer and Pubmed citation network datasets, as well as a protein-protein interaction dataset (wherein test graphs remain unseen during training).",
+    "DOI": "10.48550/arXiv.1710.10903",
+    "note": "arXiv:1710.10903 [cs, stat]",
+    "number": "arXiv:1710.10903",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Graph Attention Networks",
+    "URL": "http://arxiv.org/abs/1710.10903",
     "author": [
       {
-        "family": "Chen",
-        "given": "Qianglong"
+        "family": "Veličković",
+        "given": "Petar"
       },
       {
-        "family": "Li",
-        "given": "Feng-Lin"
+        "family": "Cucurull",
+        "given": "Guillem"
       },
       {
-        "family": "Xu",
-        "given": "Guohai"
+        "family": "Casanova",
+        "given": "Arantxa"
       },
       {
-        "family": "Yan",
-        "given": "Ming"
+        "family": "Romero",
+        "given": "Adriana"
       },
       {
-        "family": "Zhang",
-        "given": "Ji"
+        "family": "Liò",
+        "given": "Pietro"
       },
       {
-        "family": "Zhang",
-        "given": "Yin"
+        "family": "Bengio",
+        "given": "Yoshua"
       }
     ],
-    "citation-key": "chen2022",
-    "DOI": "10.48550/arXiv.2208.00635",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          8,
-          1
-        ]
-      ]
-    },
-    "number": "arXiv:2208.00635",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "DictBERT: Dictionary Description Knowledge Enhanced Language Model Pre-training via Contrastive Learning",
-    "title-short": "DictBERT",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2208.00635"
-  },
-  {
-    "id": "choudhary2021",
-    "abstract": "Knowledge Graph embedding provides a versatile technique for representing knowledge. These techniques can be used in a variety of applications such as completion of knowledge graph to predict missing information, recommender systems, question answering, query expansion, etc. The information embedded in Knowledge graph though being structured is challenging to consume in a real-world application. Knowledge graph embedding enables the real-world application to consume information to improve performance. Knowledge graph embedding is an active research area. Most of the embedding methods focus on structure-based information. Recent research has extended the boundary to include text-based information and image-based information in entity embedding. Efforts have been made to enhance the representation with context information. This paper introduces growth in the field of KG embedding from simple translation-based models to enrichment-based models. This paper includes the utility of the Knowledge graph in real-world applications.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Choudhary",
-        "given": "Shivani"
-      },
-      {
-        "family": "Luthra",
-        "given": "Tarun"
-      },
-      {
-        "family": "Mittal",
-        "given": "Ashima"
-      },
-      {
-        "family": "Singh",
-        "given": "Rajat"
-      }
-    ],
-    "citation-key": "choudhary2021",
-    "DOI": "10.48550/arXiv.2107.07842",
-    "issued": {
-      "date-parts": [
-        [
-          "2021",
-          7,
-          16
-        ]
-      ]
-    },
-    "number": "arXiv:2107.07842",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "A Survey of Knowledge Graph Embedding and Their Applications",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2107.07842"
-  },
-  {
-    "id": "dong2022",
-    "abstract": "Passage re-ranking is to obtain a permutation over the candidate passage set from retrieval stage. Re-rankers have been boomed by Pre-trained Language Models (PLMs) due to their overwhelming advantages in natural language understanding. However, existing PLM based re-rankers may easily suffer from vocabulary mismatch and lack of domain specific knowledge. To alleviate these problems, explicit knowledge contained in knowledge graph is carefully introduced in our work. Specifically, we employ the existing knowledge graph which is incomplete and noisy, and first apply it in passage re-ranking task. To leverage a reliable knowledge, we propose a novel knowledge graph distillation method and obtain a knowledge meta graph as the bridge between query and passage. To align both kinds of embedding in the latent space, we employ PLM as text encoder and graph neural network over knowledge meta graph as knowledge encoder. Besides, a novel knowledge injector is designed for the dynamic interaction between text and knowledge encoder. Experimental results demonstrate the effectiveness of our method especially in queries requiring in-depth domain knowledge.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Dong",
-        "given": "Qian"
-      },
-      {
-        "family": "Liu",
-        "given": "Yiding"
-      },
-      {
-        "family": "Cheng",
-        "given": "Suqi"
-      },
-      {
-        "family": "Wang",
-        "given": "Shuaiqiang"
-      },
-      {
-        "family": "Cheng",
-        "given": "Zhicong"
-      },
-      {
-        "family": "Niu",
-        "given": "Shuzi"
-      },
-      {
-        "family": "Yin",
-        "given": "Dawei"
-      }
-    ],
-    "citation-key": "dong2022",
-    "DOI": "10.48550/arXiv.2204.11673",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          4,
-          25
-        ]
-      ]
-    },
-    "number": "arXiv:2204.11673",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2204.11673"
-  },
-  {
-    "id": "emelin2022",
-    "abstract": "Pre-trained language models (PLM) have advanced the state-of-the-art across NLP applications, but lack domain-specific knowledge that does not naturally occur in pre-training data. Previous studies augmented PLMs with symbolic knowledge for different downstream NLP tasks. However, knowledge bases (KBs) utilized in these studies are usually large-scale and static, in contrast to small, domain-specific, and modifiable knowledge bases that are prominent in real-world task-oriented dialogue (TOD) systems. In this paper, we showcase the advantages of injecting domain-specific knowledge prior to fine-tuning on TOD tasks. To this end, we utilize light-weight adapters that can be easily integrated with PLMs and serve as a repository for facts learned from different KBs. To measure the efficacy of proposed knowledge injection methods, we introduce Knowledge Probing using Response Selection (KPRS) -- a probe designed specifically for TOD models. Experiments on KPRS and the response generation task show improvements of knowledge injection with adapters over strong baselines.",
     "accessed": {
       "date-parts": [
         [
@@ -14374,349 +14541,27 @@
         ]
       ]
     },
-    "author": [
-      {
-        "family": "Emelin",
-        "given": "Denis"
-      },
-      {
-        "family": "Bonadiman",
-        "given": "Daniele"
-      },
-      {
-        "family": "Alqahtani",
-        "given": "Sawsan"
-      },
-      {
-        "family": "Zhang",
-        "given": "Yi"
-      },
-      {
-        "family": "Mansour",
-        "given": "Saab"
-      }
-    ],
-    "citation-key": "emelin2022",
-    "DOI": "10.48550/arXiv.2212.08120",
     "issued": {
       "date-parts": [
         [
-          "2022",
-          12,
-          15
+          "2018",
+          2,
+          4
         ]
       ]
-    },
-    "number": "arXiv:2212.08120",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "Injecting Domain Knowledge in Language Models for Task-Oriented Dialogue Systems",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2212.08120"
-  },
-  {
-    "id": "fang2023",
-    "abstract": "Representing words as embeddings has been proven to be successful in improving the performance in many natural language processing tasks. Different from the traditional methods that learn the embeddings from large text corpora, ensemble methods have been proposed to leverage the merits of pre-trained word embeddings as well as external semantic sources. In this paper, we propose a knowledge-enriched ensemble method to combine information from both knowledge graphs and pre-trained word embeddings. Specifically, we propose an attention network to retrofit the semantic information in the lexical knowledge graph into the pre-trained word embeddings. In addition, we further extend our method to contextual word embeddings and multi-sense embeddings. Extensive experiments demonstrate that the proposed word embeddings outperform the state-of-the-art models in word analogy, word similarity and several downstream tasks. The proposed word sense embeddings outperform the state-of-the-art models in word similarity and word sense induction tasks.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Fang",
-        "given": "Lanting"
-      },
-      {
-        "family": "Luo",
-        "given": "Yong"
-      },
-      {
-        "family": "Feng",
-        "given": "Kaiyu"
-      },
-      {
-        "family": "Zhao",
-        "given": "Kaiqi"
-      },
-      {
-        "family": "Hu",
-        "given": "Aiqun"
-      }
-    ],
-    "citation-key": "fang2023",
-    "container-title": "IEEE Transactions on Knowledge and Data Engineering",
-    "container-title-short": "IEEE Trans. on Knowl. and Data Eng.",
-    "DOI": "10.1109/TKDE.2022.3159539",
-    "ISSN": "1041-4347",
-    "issue": "6",
-    "issued": {
-      "date-parts": [
-        [
-          "2023",
-          6,
-          1
-        ]
-      ]
-    },
-    "page": "5534–5549",
-    "source": "ACM Digital Library",
-    "title": "A Knowledge-Enriched Ensemble Method for Word Embedding and Multi-Sense Embedding",
-    "type": "article-journal",
-    "URL": "https://doi.org/10.1109/TKDE.2022.3159539",
-    "volume": "35"
-  },
-  {
-    "id": "han2021",
-    "abstract": "Fine-tuned pre-trained language models (PLMs) have achieved awesome performance on almost all NLP tasks. By using additional prompts to fine-tune PLMs, we can further stimulate the rich knowledge distributed in PLMs to better serve downstream tasks. Prompt tuning has achieved promising results on some few-class classification tasks such as sentiment classification and natural language inference. However, manually designing lots of language prompts is cumbersome and fallible. For those auto-generated prompts, it is also expensive and time-consuming to verify their effectiveness in non-few-shot scenarios. Hence, it is still challenging for prompt tuning to address many-class classification tasks. To this end, we propose prompt tuning with rules (PTR) for many-class text classification and apply logic rules to construct prompts with several sub-prompts. In this way, PTR is able to encode prior knowledge of each class into prompt tuning. We conduct experiments on relation classification, a typical and complicated many-class classification task, and the results show that PTR can significantly and consistently outperform existing state-of-the-art baselines. This indicates that PTR is a promising approach to take advantage of both human prior knowledge and PLMs for those complicated classification tasks.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Han",
-        "given": "Xu"
-      },
-      {
-        "family": "Zhao",
-        "given": "Weilin"
-      },
-      {
-        "family": "Ding",
-        "given": "Ning"
-      },
-      {
-        "family": "Liu",
-        "given": "Zhiyuan"
-      },
-      {
-        "family": "Sun",
-        "given": "Maosong"
-      }
-    ],
-    "citation-key": "han2021",
-    "DOI": "10.48550/arXiv.2105.11259",
-    "issued": {
-      "date-parts": [
-        [
-          "2021",
-          9,
-          15
-        ]
-      ]
-    },
-    "number": "arXiv:2105.11259",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "PTR: Prompt Tuning with Rules for Text Classification",
-    "title-short": "PTR",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2105.11259"
-  },
-  {
-    "id": "he2021",
-    "abstract": "Interactions between entities in knowledge graph (KG) provide rich knowledge for language representation learning. However, existing knowledge-enhanced pretrained language models (PLMs) only focus on entity information and ignore the fine-grained relationships between entities. In this work, we propose to incorporate KG (including both entities and relations) into the language learning process to obtain KG-enhanced pretrained Language Model, namely KLMo. Specifically, a novel knowledge aggregator is designed to explicitly model the interaction between entity spans in text and all entities and relations in a contextual KG. An relation prediction objective is utilized to incorporate relation information by distant supervision. An entity linking objective is further utilized to link entity spans in text to entities in KG. In this way, the structured knowledge can be effectively integrated into language representations. Experimental results demonstrate that KLMo achieves great improvements on several knowledge-driven tasks, such as entity typing and relation classification, comparing with the state-of-the-art knowledge-enhanced PLMs.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "He",
-        "given": "Lei"
-      },
-      {
-        "family": "Zheng",
-        "given": "Suncong"
-      },
-      {
-        "family": "Yang",
-        "given": "Tao"
-      },
-      {
-        "family": "Zhang",
-        "given": "Feng"
-      }
-    ],
-    "citation-key": "he2021",
-    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2021",
-    "DOI": "10.18653/v1/2021.findings-emnlp.384",
-    "editor": [
-      {
-        "family": "Moens",
-        "given": "Marie-Francine"
-      },
-      {
-        "family": "Huang",
-        "given": "Xuanjing"
-      },
-      {
-        "family": "Specia",
-        "given": "Lucia"
-      },
-      {
-        "family": "Yih",
-        "given": "Scott Wen-tau"
-      }
-    ],
-    "event-place": "Punta Cana, Dominican Republic",
-    "event-title": "Findings 2021",
-    "issued": {
-      "date-parts": [
-        [
-          "2021",
-          11
-        ]
-      ]
-    },
-    "page": "4536–4542",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Punta Cana, Dominican Republic",
-    "source": "ACLWeb",
-    "title": "KLMo: Knowledge Graph Enhanced Pretrained Language Model with Fine-Grained Relationships",
-    "title-short": "KLMo",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2021.findings-emnlp.384"
-  },
-  {
-    "id": "hu2023",
-    "abstract": "Pre-trained Language Models (PLMs) which are trained on large text corpus via self-supervised learning method, have yielded promising performance on various tasks in Natural Language Processing (NLP). However, though PLMs with huge parameters can effectively possess rich knowledge learned from massive training text and benefit downstream tasks at the fine-tuning stage, they still have some limitations such as poor reasoning ability due to the lack of external knowledge. Research has been dedicated to incorporating knowledge into PLMs to tackle these issues. In this paper, we present a comprehensive review of Knowledge Enhanced Pre-trained Language Models (KE-PLMs) to provide a clear insight into this thriving field. We introduce appropriate taxonomies respectively for Natural Language Understanding (NLU) and Natural Language Generation (NLG) to highlight these two main tasks of NLP. For NLU, we divide the types of knowledge into four categories: linguistic knowledge, text knowledge, knowledge graph (KG), and rule knowledge. The KE-PLMs for NLG are categorized into KG-based and retrieval-based methods. Finally, we point out some promising future directions of KE-PLMs.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          29
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Hu",
-        "given": "Linmei"
-      },
-      {
-        "family": "Liu",
-        "given": "Zeyi"
-      },
-      {
-        "family": "Zhao",
-        "given": "Ziwang"
-      },
-      {
-        "family": "Hou",
-        "given": "Lei"
-      },
-      {
-        "family": "Nie",
-        "given": "Liqiang"
-      },
-      {
-        "family": "Li",
-        "given": "Juanzi"
-      }
-    ],
-    "citation-key": "hu2023",
-    "DOI": "10.48550/arXiv.2211.05994",
-    "issued": {
-      "date-parts": [
-        [
-          "2023",
-          8,
-          30
-        ]
-      ]
-    },
-    "number": "arXiv:2211.05994",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "A Survey of Knowledge Enhanced Pre-trained Language Models",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2211.05994"
-  },
-  {
-    "id": "ji2022",
-    "abstract": "Human knowledge provides a formal understanding of the world. Knowledge graphs that represent structural relations between entities have become an increasingly popular research direction towards cognition and human-level intelligence. In this survey, we provide a comprehensive review of knowledge graph covering overall research topics about 1) knowledge graph representation learning, 2) knowledge acquisition and completion, 3) temporal knowledge graph, and 4) knowledge-aware applications, and summarize recent breakthroughs and perspective directions to facilitate future research. We propose a full-view categorization and new taxonomies on these topics. Knowledge graph embedding is organized from four aspects of representation space, scoring function, encoding models, and auxiliary information. For knowledge acquisition, especially knowledge graph completion, embedding methods, path inference, and logical rule reasoning, are reviewed. We further explore several emerging topics, including meta relational learning, commonsense reasoning, and temporal knowledge graphs. To facilitate future research on knowledge graphs, we also provide a curated collection of datasets and open-source libraries on different tasks. In the end, we have a thorough outlook on several promising research directions.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Ji",
-        "given": "Shaoxiong"
-      },
-      {
-        "family": "Pan",
-        "given": "Shirui"
-      },
-      {
-        "family": "Cambria",
-        "given": "Erik"
-      },
-      {
-        "family": "Marttinen",
-        "given": "Pekka"
-      },
-      {
-        "family": "Yu",
-        "given": "Philip S."
-      }
-    ],
-    "citation-key": "ji2022",
-    "container-title": "IEEE Transactions on Neural Networks and Learning Systems",
-    "container-title-short": "IEEE Trans. Neural Netw. Learning Syst.",
-    "DOI": "10.1109/TNNLS.2021.3070843",
-    "ISSN": "2162-237X, 2162-2388",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          2
-        ]
-      ]
-    },
-    "page": "494-514",
-    "source": "arXiv.org",
-    "title": "A Survey on Knowledge Graphs: Representation, Acquisition and Applications",
-    "title-short": "A Survey on Knowledge Graphs",
-    "type": "article-journal",
-    "URL": "http://arxiv.org/abs/2002.00388",
-    "volume": "33"
+    }
   },
   {
     "id": "karpov2021",
+    "type": "article",
     "abstract": "The ubiquity of the contemporary language understanding tasks gives relevance to the development of generalized, yet highly efficient models that utilize all knowledge, provided by the data source. In this work, we present SocialBERT - the first model that uses knowledge about the author's position in the network during text analysis. We investigate possible models for learning social network information and successfully inject it into the baseline BERT model. The evaluation shows that embedding this information maintains a good generalization, with an increase in the quality of the probabilistic model for the given author up to 7.5%. The proposed model has been trained on the majority of groups for the chosen social network, and still able to work with previously unknown groups. The obtained model, as well as the code of our experiments, is available for download and use in applied tasks.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          29
-        ]
-      ]
-    },
+    "DOI": "10.48550/arXiv.2111.07148",
+    "note": "arXiv:2111.07148 [cs]",
+    "number": "arXiv:2111.07148",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "SocialBERT -- Transformers for Online SocialNetwork Language Modelling",
+    "URL": "http://arxiv.org/abs/2111.07148",
     "author": [
       {
         "family": "Karpov",
@@ -14727,8 +14572,15 @@
         "given": "Nick"
       }
     ],
-    "citation-key": "karpov2021",
-    "DOI": "10.48550/arXiv.2111.07148",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          29
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
@@ -14737,17 +14589,52 @@
           13
         ]
       ]
-    },
-    "number": "arXiv:2111.07148",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "SocialBERT -- Transformers for Online SocialNetwork Language Modelling",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2111.07148"
+    }
   },
   {
-    "id": "khandelwal2019",
-    "abstract": "We introduce $k$NN-LMs, which extend a pre-trained neural language model (LM) by linearly interpolating it with a $k$-nearest neighbors ($k$NN) model. The nearest neighbors are computed according to distance in the pre-trained LM embedding space, and can be drawn from any text collection, including the original LM training data. Applying this transformation to a strong Wikitext-103 LM, with neighbors drawn from the original training set, our $k$NN-LM achieves a new state-of-the-art perplexity of 15.79 -- a 2.9 point improvement with no additional training. We also show that this approach has implications for efficiently scaling up to larger training sets and allows for effective domain adaptation, by simply varying the nearest neighbor datastore, again without further training. Qualitatively, the model is particularly helpful in predicting rare patterns, such as factual knowledge. Together, these results strongly suggest that learning similarity between sequences of text is easier than predicting the next word, and that nearest neighbor search is an effective approach for language modeling in the long tail.",
+    "id": "yu2022",
+    "type": "article-journal",
+    "abstract": "The goal of text-to-text generation is to make machines express like a human in many applications such as conversation, summarization, and translation. It is one of the most important yet challenging tasks in natural language processing (NLP). Various neural encoder-decoder models have been proposed to achieve the goal by learning to map input text to output text. However, the input text alone often provides limited knowledge to generate the desired output, so the performance of text generation is still far from satisfaction in many real-world scenarios. To address this issue, researchers have considered incorporating (i) internal knowledge embedded in the input text and (ii) external knowledge from outside sources such as knowledge base and knowledge graph into the text generation system. This research topic is known as knowledge-enhanced text generation. In this survey, we present a comprehensive review of the research on this topic over the past five years. The main content includes two parts: (i) general methods and architectures for integrating knowledge into text generation; (ii) specific techniques and applications according to different forms of knowledge data. This survey can have broad audiences, researchers and practitioners, in academia and industry.",
+    "container-title": "ACM Computing Surveys",
+    "DOI": "10.1145/3512467",
+    "ISSN": "0360-0300",
+    "issue": "11s",
+    "journalAbbreviation": "ACM Comput. Surv.",
+    "page": "227:1–227:38",
+    "source": "ACM Digital Library",
+    "title": "A Survey of Knowledge-enhanced Text Generation",
+    "URL": "https://doi.org/10.1145/3512467",
+    "volume": "54",
+    "author": [
+      {
+        "family": "Yu",
+        "given": "Wenhao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Chenguang"
+      },
+      {
+        "family": "Li",
+        "given": "Zaitang"
+      },
+      {
+        "family": "Hu",
+        "given": "Zhiting"
+      },
+      {
+        "family": "Wang",
+        "given": "Qingyun"
+      },
+      {
+        "family": "Ji",
+        "given": "Heng"
+      },
+      {
+        "family": "Jiang",
+        "given": "Meng"
+      }
+    ],
     "accessed": {
       "date-parts": [
         [
@@ -14757,58 +14644,30 @@
         ]
       ]
     },
-    "author": [
-      {
-        "family": "Khandelwal",
-        "given": "Urvashi"
-      },
-      {
-        "family": "Levy",
-        "given": "Omer"
-      },
-      {
-        "family": "Jurafsky",
-        "given": "Dan"
-      },
-      {
-        "family": "Zettlemoyer",
-        "given": "Luke"
-      },
-      {
-        "family": "Lewis",
-        "given": "Mike"
-      }
-    ],
-    "citation-key": "khandelwal2019",
-    "event-title": "International Conference on Learning Representations",
     "issued": {
       "date-parts": [
         [
-          "2019",
-          9,
-          25
+          "2022",
+          11,
+          10
         ]
       ]
-    },
-    "language": "en",
-    "source": "openreview.net",
-    "title": "Generalization through Memorization: Nearest Neighbor Language Models",
-    "title-short": "Generalization through Memorization",
-    "type": "paper-conference",
-    "URL": "https://openreview.net/forum?id=HklBjCEKvH"
+    }
   },
   {
     "id": "lauscher2020",
+    "type": "paper-conference",
     "abstract": "Unsupervised pretraining models have been shown to facilitate a wide range of downstream NLP applications. These models, however, retain some of the limitations of traditional static word embeddings. In particular, they encode only the distributional knowledge available in raw text corpora, incorporated through language modeling objectives. In this work, we complement such distributional knowledge with external lexical knowledge, that is, we integrate the discrete knowledge on word-level semantic similarity into pretraining. To this end, we generalize the standard BERT model to a multi-task learning setting where we couple BERT's masked language modeling and next sentence prediction objectives with an auxiliary task of binary word relation classification. Our experiments suggest that our “Lexically Informed” BERT (LIBERT), specialized for the word-level semantic similarity, yields better performance than the lexically blind “vanilla” BERT on several language understanding tasks. Concretely, LIBERT outperforms BERT in 9 out of 10 tasks of the GLUE benchmark and is on a par with BERT in the remaining one. Moreover, we show consistent gains on 3 benchmarks for lexical simplification, a task where knowledge about word-level semantic similarity is paramount, as well as large gains on lexical reasoning probes.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
+    "container-title": "Proceedings of the 28th International Conference on Computational Linguistics",
+    "DOI": "10.18653/v1/2020.coling-main.118",
+    "event-place": "Barcelona, Spain (Online)",
+    "event-title": "COLING 2020",
+    "page": "1371–1383",
+    "publisher": "International Committee on Computational Linguistics",
+    "publisher-place": "Barcelona, Spain (Online)",
+    "source": "ACLWeb",
+    "title": "Specializing Unsupervised Pretraining Models for Word-Level Semantic Similarity",
+    "URL": "https://aclanthology.org/2020.coling-main.118",
     "author": [
       {
         "family": "Lauscher",
@@ -14831,9 +14690,6 @@
         "given": "Goran"
       }
     ],
-    "citation-key": "lauscher2020",
-    "container-title": "Proceedings of the 28th International Conference on Computational Linguistics",
-    "DOI": "10.18653/v1/2020.coling-main.118",
     "editor": [
       {
         "family": "Scott",
@@ -14848,27 +14704,6 @@
         "given": "Chengqing"
       }
     ],
-    "event-place": "Barcelona, Spain (Online)",
-    "event-title": "COLING 2020",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          12
-        ]
-      ]
-    },
-    "page": "1371–1383",
-    "publisher": "International Committee on Computational Linguistics",
-    "publisher-place": "Barcelona, Spain (Online)",
-    "source": "ACLWeb",
-    "title": "Specializing Unsupervised Pretraining Models for Word-Level Semantic Similarity",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2020.coling-main.118"
-  },
-  {
-    "id": "levine2020a",
-    "abstract": "The ability to learn from large unlabeled corpora has allowed neural language models to advance the frontier in natural language understanding. However, existing self-supervision techniques operate at the word form level, which serves as a surrogate for the underlying semantic content. This paper proposes a method to employ weak-supervision directly at the word sense level. Our model, named SenseBERT, is pre-trained to predict not only the masked words but also their WordNet supersenses. Accordingly, we attain a lexical-semantic level language model, without the use of human annotation. SenseBERT achieves significantly improved lexical understanding, as we demonstrate by experimenting on SemEval Word Sense Disambiguation, and by attaining a state of the art result on the `Word in Context' task.",
     "accessed": {
       "date-parts": [
         [
@@ -14878,6 +14713,30 @@
         ]
       ]
     },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "levine2020a",
+    "type": "paper-conference",
+    "abstract": "The ability to learn from large unlabeled corpora has allowed neural language models to advance the frontier in natural language understanding. However, existing self-supervision techniques operate at the word form level, which serves as a surrogate for the underlying semantic content. This paper proposes a method to employ weak-supervision directly at the word sense level. Our model, named SenseBERT, is pre-trained to predict not only the masked words but also their WordNet supersenses. Accordingly, we attain a lexical-semantic level language model, without the use of human annotation. SenseBERT achieves significantly improved lexical understanding, as we demonstrate by experimenting on SemEval Word Sense Disambiguation, and by attaining a state of the art result on the `Word in Context' task.",
+    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "DOI": "10.18653/v1/2020.acl-main.423",
+    "event-place": "Online",
+    "event-title": "ACL 2020",
+    "page": "4656–4667",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Online",
+    "source": "ACLWeb",
+    "title": "SenseBERT: Driving Some Sense into BERT",
+    "title-short": "SenseBERT",
+    "URL": "https://aclanthology.org/2020.acl-main.423",
     "author": [
       {
         "family": "Levine",
@@ -14916,9 +14775,6 @@
         "given": "Yoav"
       }
     ],
-    "citation-key": "levine2020a",
-    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
-    "DOI": "10.18653/v1/2020.acl-main.423",
     "editor": [
       {
         "family": "Jurafsky",
@@ -14937,28 +14793,6 @@
         "given": "Joel"
       }
     ],
-    "event-place": "Online",
-    "event-title": "ACL 2020",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          7
-        ]
-      ]
-    },
-    "page": "4656–4667",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Online",
-    "source": "ACLWeb",
-    "title": "SenseBERT: Driving Some Sense into BERT",
-    "title-short": "SenseBERT",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2020.acl-main.423"
-  },
-  {
-    "id": "li2023",
-    "abstract": "The sparseness and incompleteness of knowledge graphs (KGs) trigger considerable interest in enhancing the representation learning with external corpora. However, the difficulty of aligning entities and relations with external corpora leads to inferior performance improvement. Open knowledge graphs (OKGs) consist of entity-mentions and relation-mentions that are represented by noncanonicalized freeform phrases, which generally do not rely on the specification of ontology schema. The roughness of the nonontological construction method leads to a specific characteristic of OKGs: diversity, where multiple entity-mentions (or relation-mentions) have the same meaning but different expressions. The diversity of OKGs can provide potential textual and structural features for the representation learning of KGs. We speculate that leveraging OKGs to enhance the representation learning of KGs can be more effective than using pure text or pure structure corpora. In this paper, we propose a new <italic>OERL</italic>, <bold>O</bold>pen knowledge graph <bold>E</bold>nhanced <bold>R</bold>epresentation <bold>L</bold>earning of KGs. OERL automatically extracts textual and structural connections between KGs and OKGs, models and transfers refined profitable features to enhance the representation learning of KGs. The strong performance improvement and exhaustive experimental analysis prove the superiority of OERL over state-of-the-art baselines.",
     "accessed": {
       "date-parts": [
         [
@@ -14968,6 +14802,752 @@
         ]
       ]
     },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tian2020",
+    "type": "paper-conference",
+    "abstract": "Recently, sentiment analysis has seen remarkable advance with the help of pre-training approaches. However, sentiment knowledge, such as sentiment words and aspect-sentiment pairs, is ignored in the process of pre-training, despite the fact that they are widely used in traditional sentiment analysis approaches. In this paper, we introduce Sentiment Knowledge Enhanced Pre-training (SKEP) in order to learn a unified sentiment representation for multiple sentiment analysis tasks. With the help of automatically-mined knowledge, SKEP conducts sentiment masking and constructs three sentiment knowledge prediction objectives, so as to embed sentiment information at the word, polarity and aspect level into pre-trained sentiment representation. In particular, the prediction of aspect-sentiment pairs is converted into multi-label classification, aiming to capture the dependency between words in a pair. Experiments on three kinds of sentiment tasks show that SKEP significantly outperforms strong pre-training baseline, and achieves new state-of-the-art results on most of the test datasets. We release our code at https://github.com/baidu/Senta.",
+    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "DOI": "10.18653/v1/2020.acl-main.374",
+    "event-place": "Online",
+    "event-title": "ACL 2020",
+    "page": "4067–4076",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Online",
+    "source": "ACLWeb",
+    "title": "SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis",
+    "title-short": "SKEP",
+    "URL": "https://aclanthology.org/2020.acl-main.374",
+    "author": [
+      {
+        "family": "Tian",
+        "given": "Hao"
+      },
+      {
+        "family": "Gao",
+        "given": "Can"
+      },
+      {
+        "family": "Xiao",
+        "given": "Xinyan"
+      },
+      {
+        "family": "Liu",
+        "given": "Hao"
+      },
+      {
+        "family": "He",
+        "given": "Bolei"
+      },
+      {
+        "family": "Wu",
+        "given": "Hua"
+      },
+      {
+        "family": "Wang",
+        "given": "Haifeng"
+      },
+      {
+        "family": "Wu",
+        "given": "Feng"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Jurafsky",
+        "given": "Dan"
+      },
+      {
+        "family": "Chai",
+        "given": "Joyce"
+      },
+      {
+        "family": "Schluter",
+        "given": "Natalie"
+      },
+      {
+        "family": "Tetreault",
+        "given": "Joel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "chen2022",
+    "type": "article",
+    "abstract": "Although pre-trained language models (PLMs) have achieved state-of-the-art performance on various natural language processing (NLP) tasks, they are shown to be lacking in knowledge when dealing with knowledge driven tasks. Despite the many efforts made for injecting knowledge into PLMs, this problem remains open. To address the challenge, we propose \\textbf{DictBERT}, a novel approach that enhances PLMs with dictionary knowledge which is easier to acquire than knowledge graph (KG). During pre-training, we present two novel pre-training tasks to inject dictionary knowledge into PLMs via contrastive learning: \\textit{dictionary entry prediction} and \\textit{entry description discrimination}. In fine-tuning, we use the pre-trained DictBERT as a plugin knowledge base (KB) to retrieve implicit knowledge for identified entries in an input sequence, and infuse the retrieved knowledge into the input to enhance its representation via a novel extra-hop attention mechanism. We evaluate our approach on a variety of knowledge driven and language understanding tasks, including NER, relation extraction, CommonsenseQA, OpenBookQA and GLUE. Experimental results demonstrate that our model can significantly improve typical PLMs: it gains a substantial improvement of 0.5\\%, 2.9\\%, 9.0\\%, 7.1\\% and 3.3\\% on BERT-large respectively, and is also effective on RoBERTa-large.",
+    "DOI": "10.48550/arXiv.2208.00635",
+    "note": "arXiv:2208.00635 [cs]",
+    "number": "arXiv:2208.00635",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "DictBERT: Dictionary Description Knowledge Enhanced Language Model Pre-training via Contrastive Learning",
+    "title-short": "DictBERT",
+    "URL": "http://arxiv.org/abs/2208.00635",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Qianglong"
+      },
+      {
+        "family": "Li",
+        "given": "Feng-Lin"
+      },
+      {
+        "family": "Xu",
+        "given": "Guohai"
+      },
+      {
+        "family": "Yan",
+        "given": "Ming"
+      },
+      {
+        "family": "Zhang",
+        "given": "Ji"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yin"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          8,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sachan2021",
+    "type": "paper-conference",
+    "abstract": "Much recent work suggests that incorporating syntax information from dependency trees can improve task-specific transformer models. However, the effect of incorporating dependency tree information into pre-trained transformer models (e.g., BERT) remains unclear, especially given recent studies highlighting how these models implicitly encode syntax. In this work, we systematically study the utility of incorporating dependency trees into pre-trained transformers on three representative information extraction tasks: semantic role labeling (SRL), named entity recognition, and relation extraction. We propose and investigate two distinct strategies for incorporating dependency structure: a late fusion approach, which applies a graph neural network on the output of a transformer, and a joint fusion approach, which infuses syntax structure into the transformer attention layers. These strategies are representative of prior work, but we introduce additional model design elements that are necessary for obtaining improved performance. Our empirical analysis demonstrates that these syntax-infused transformers obtain state-of-the-art results on SRL and relation extraction tasks. However, our analysis also reveals a critical shortcoming of these models: we find that their performance gains are highly contingent on the availability of human-annotated dependency parses, which raises important questions regarding the viability of syntax-augmented transformers in real-world applications.",
+    "container-title": "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    "DOI": "10.18653/v1/2021.eacl-main.228",
+    "event-place": "Online",
+    "event-title": "EACL 2021",
+    "page": "2647–2661",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Online",
+    "source": "ACLWeb",
+    "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?",
+    "URL": "https://aclanthology.org/2021.eacl-main.228",
+    "author": [
+      {
+        "family": "Sachan",
+        "given": "Devendra"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuhao"
+      },
+      {
+        "family": "Qi",
+        "given": "Peng"
+      },
+      {
+        "family": "Hamilton",
+        "given": "William L."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Merlo",
+        "given": "Paola"
+      },
+      {
+        "family": "Tiedemann",
+        "given": "Jorg"
+      },
+      {
+        "family": "Tsarfaty",
+        "given": "Reut"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ma2022",
+    "type": "paper-conference",
+    "abstract": "The retriever-reader framework is popular for open-domain question answering (ODQA) due to its ability to use explicit knowledge. Although prior work has sought to increase the knowledge coverage by incorporating structured knowledge beyond text, accessing heterogeneous knowledge sources through a unified interface remains an open question. While data-to-text generation has the potential to serve as a universal interface for data and text, its feasibility for downstream tasks remains largely unknown. In this work, we bridge this gap and use the data-to-text method as a means for encoding structured knowledge for open-domain question answering. Specifically, we propose a verbalizer-retriever-reader framework for ODQA over data and text where verbalized tables from Wikipedia and graphs from Wikidata are used as augmented knowledge sources. We show that our Unified Data and Text QA, UDT-QA, can effectively benefit from the expanded knowledge index, leading to large gains over text-only baselines. Notably, our approach sets the single-model state-of-the-art on Natural Questions. Furthermore, our analyses indicate that verbalized knowledge is preferred for answer reasoning for both adapted and hot-swap settings.",
+    "container-title": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "DOI": "10.18653/v1/2022.acl-long.113",
+    "event-place": "Dublin, Ireland",
+    "event-title": "ACL 2022",
+    "page": "1605–1620",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Dublin, Ireland",
+    "source": "ACLWeb",
+    "title": "Open Domain Question Answering with A Unified Knowledge Interface",
+    "URL": "https://aclanthology.org/2022.acl-long.113",
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Kaixin"
+      },
+      {
+        "family": "Cheng",
+        "given": "Hao"
+      },
+      {
+        "family": "Liu",
+        "given": "Xiaodong"
+      },
+      {
+        "family": "Nyberg",
+        "given": "Eric"
+      },
+      {
+        "family": "Gao",
+        "given": "Jianfeng"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Muresan",
+        "given": "Smaranda"
+      },
+      {
+        "family": "Nakov",
+        "given": "Preslav"
+      },
+      {
+        "family": "Villavicencio",
+        "given": "Aline"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "khandelwal2019",
+    "type": "paper-conference",
+    "abstract": "We introduce $k$NN-LMs, which extend a pre-trained neural language model (LM) by linearly interpolating it with a $k$-nearest neighbors ($k$NN) model. The nearest neighbors are computed according to distance in the pre-trained LM embedding space, and can be drawn from any text collection, including the original LM training data. Applying this transformation to a strong Wikitext-103 LM, with neighbors drawn from the original training set, our $k$NN-LM achieves a new state-of-the-art perplexity of 15.79 -- a 2.9 point improvement with no additional training. We also show that this approach has implications for efficiently scaling up to larger training sets and allows for effective domain adaptation, by simply varying the nearest neighbor datastore, again without further training. Qualitatively, the model is particularly helpful in predicting rare patterns, such as factual knowledge. Together, these results strongly suggest that learning similarity between sequences of text is easier than predicting the next word, and that nearest neighbor search is an effective approach for language modeling in the long tail.",
+    "event-title": "International Conference on Learning Representations",
+    "language": "en",
+    "source": "openreview.net",
+    "title": "Generalization through Memorization: Nearest Neighbor Language Models",
+    "title-short": "Generalization through Memorization",
+    "URL": "https://openreview.net/forum?id=HklBjCEKvH",
+    "author": [
+      {
+        "family": "Khandelwal",
+        "given": "Urvashi"
+      },
+      {
+        "family": "Levy",
+        "given": "Omer"
+      },
+      {
+        "family": "Jurafsky",
+        "given": "Dan"
+      },
+      {
+        "family": "Zettlemoyer",
+        "given": "Luke"
+      },
+      {
+        "family": "Lewis",
+        "given": "Mike"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "toshevska2022",
+    "type": "article-journal",
+    "abstract": "Style is an integral component of a sentence indicated by the choice of words a person makes. Different people have different ways of expressing themselves, however, they adjust their speaking and writing style to a social context, an audience, an interlocutor or the formality of an occasion. Text style transfer is defined as a task of adapting and/or changing the stylistic manner in which a sentence is written, while preserving the meaning of the original sentence. A systematic review of text style transfer methodologies using deep learning is presented in this paper. We point out the technological advances in deep neural networks that have been the driving force behind current successes in the fields of natural language understanding and generation. The review is structured around two key stages in the text style transfer process, namely, representation learning and sentence generation in a new style. The discussion highlights the commonalities and differences between proposed solutions as well as challenges and opportunities that are expected to direct and foster further research in the field.",
+    "container-title": "IEEE Transactions on Artificial Intelligence",
+    "DOI": "10.1109/TAI.2021.3115992",
+    "ISSN": "2691-4581",
+    "issue": "5",
+    "journalAbbreviation": "IEEE Trans. Artif. Intell.",
+    "note": "arXiv:2109.15144 [cs]",
+    "page": "669-684",
+    "source": "arXiv.org",
+    "title": "A Review of Text Style Transfer using Deep Learning",
+    "URL": "http://arxiv.org/abs/2109.15144",
+    "volume": "3",
+    "author": [
+      {
+        "family": "Toshevska",
+        "given": "Martina"
+      },
+      {
+        "family": "Gievska",
+        "given": "Sonja"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "murty2020",
+    "type": "paper-conference",
+    "abstract": "Suppose we want to specify the inductive bias that married couples typically go on honeymoons for the task of extracting pairs of spouses from text. In this paper, we allow model developers to specify these types of inductive biases as natural language explanations. We use BERT fine-tuned on MultiNLI to “interpret” these explanations with respect to the input sentence, producing explanation-guided representations of the input. Across three relation extraction tasks, our method, ExpBERT, matches a BERT baseline but with 3–20x less labeled data and improves on the baseline by 3–10 F1 points with the same amount of labeled data.",
+    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "DOI": "10.18653/v1/2020.acl-main.190",
+    "event-place": "Online",
+    "event-title": "ACL 2020",
+    "page": "2106–2113",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Online",
+    "source": "ACLWeb",
+    "title": "ExpBERT: Representation Engineering with Natural Language Explanations",
+    "title-short": "ExpBERT",
+    "URL": "https://aclanthology.org/2020.acl-main.190",
+    "author": [
+      {
+        "family": "Murty",
+        "given": "Shikhar"
+      },
+      {
+        "family": "Koh",
+        "given": "Pang Wei"
+      },
+      {
+        "family": "Liang",
+        "given": "Percy"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Jurafsky",
+        "given": "Dan"
+      },
+      {
+        "family": "Chai",
+        "given": "Joyce"
+      },
+      {
+        "family": "Schluter",
+        "given": "Natalie"
+      },
+      {
+        "family": "Tetreault",
+        "given": "Joel"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "xu2022",
+    "type": "article",
+    "abstract": "Most of today's AI systems focus on using self-attention mechanisms and transformer architectures on large amounts of diverse data to achieve impressive performance gains. In this paper, we propose to augment the transformer architecture with an external attention mechanism to bring external knowledge and context to bear. By integrating external information into the prediction process, we hope to reduce the need for ever-larger models and increase the democratization of AI systems. We find that the proposed external attention mechanism can significantly improve the performance of existing AI systems, allowing practitioners to easily customize foundation AI models to many diverse downstream applications. In particular, we focus on the task of Commonsense Reasoning, demonstrating that the proposed external attention mechanism can augment existing transformer models and significantly improve the model's reasoning capabilities. The proposed system, Knowledgeable External Attention for commonsense Reasoning (KEAR), reaches human parity on the open CommonsenseQA research benchmark with an accuracy of 89.4\\% in comparison to the human accuracy of 88.9\\%.",
+    "DOI": "10.48550/arXiv.2112.03254",
+    "note": "arXiv:2112.03254 [cs]",
+    "number": "arXiv:2112.03254",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention",
+    "title-short": "Human Parity on CommonsenseQA",
+    "URL": "http://arxiv.org/abs/2112.03254",
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Yichong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Chenguang"
+      },
+      {
+        "family": "Wang",
+        "given": "Shuohang"
+      },
+      {
+        "family": "Sun",
+        "given": "Siqi"
+      },
+      {
+        "family": "Cheng",
+        "given": "Hao"
+      },
+      {
+        "family": "Liu",
+        "given": "Xiaodong"
+      },
+      {
+        "family": "Gao",
+        "given": "Jianfeng"
+      },
+      {
+        "family": "He",
+        "given": "Pengcheng"
+      },
+      {
+        "family": "Zeng",
+        "given": "Michael"
+      },
+      {
+        "family": "Huang",
+        "given": "Xuedong"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          5,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "yao2022",
+    "type": "article",
+    "abstract": "Recent days have witnessed a diverse set of knowledge injection models for pre-trained language models (PTMs); however, most previous studies neglect the PTMs' own ability with quantities of implicit knowledge stored in parameters. A recent study has observed knowledge neurons in the Feed Forward Network (FFN), which are responsible for expressing factual knowledge. In this work, we propose a simple model, Kformer, which takes advantage of the knowledge stored in PTMs and external knowledge via knowledge injection in Transformer FFN layers. Empirically results on two knowledge-intensive tasks, commonsense reasoning (i.e., SocialIQA) and medical question answering (i.e., MedQA-USMLE), demonstrate that Kformer can yield better performance than other knowledge injection technologies such as concatenation or attention-based injection. We think the proposed simple model and empirical findings may be helpful for the community to develop more powerful knowledge injection methods. Code available in https://github.com/zjunlp/Kformer.",
+    "DOI": "10.48550/arXiv.2201.05742",
+    "note": "arXiv:2201.05742 [cs]",
+    "number": "arXiv:2201.05742",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Kformer: Knowledge Injection in Transformer Feed-Forward Layers",
+    "title-short": "Kformer",
+    "URL": "http://arxiv.org/abs/2201.05742",
+    "author": [
+      {
+        "family": "Yao",
+        "given": "Yunzhi"
+      },
+      {
+        "family": "Huang",
+        "given": "Shaohan"
+      },
+      {
+        "family": "Dong",
+        "given": "Li"
+      },
+      {
+        "family": "Wei",
+        "given": "Furu"
+      },
+      {
+        "family": "Chen",
+        "given": "Huajun"
+      },
+      {
+        "family": "Zhang",
+        "given": "Ningyu"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          8,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ji2022",
+    "type": "article-journal",
+    "abstract": "Human knowledge provides a formal understanding of the world. Knowledge graphs that represent structural relations between entities have become an increasingly popular research direction towards cognition and human-level intelligence. In this survey, we provide a comprehensive review of knowledge graph covering overall research topics about 1) knowledge graph representation learning, 2) knowledge acquisition and completion, 3) temporal knowledge graph, and 4) knowledge-aware applications, and summarize recent breakthroughs and perspective directions to facilitate future research. We propose a full-view categorization and new taxonomies on these topics. Knowledge graph embedding is organized from four aspects of representation space, scoring function, encoding models, and auxiliary information. For knowledge acquisition, especially knowledge graph completion, embedding methods, path inference, and logical rule reasoning, are reviewed. We further explore several emerging topics, including meta relational learning, commonsense reasoning, and temporal knowledge graphs. To facilitate future research on knowledge graphs, we also provide a curated collection of datasets and open-source libraries on different tasks. In the end, we have a thorough outlook on several promising research directions.",
+    "container-title": "IEEE Transactions on Neural Networks and Learning Systems",
+    "DOI": "10.1109/TNNLS.2021.3070843",
+    "ISSN": "2162-237X, 2162-2388",
+    "issue": "2",
+    "journalAbbreviation": "IEEE Trans. Neural Netw. Learning Syst.",
+    "note": "arXiv:2002.00388 [cs]",
+    "page": "494-514",
+    "source": "arXiv.org",
+    "title": "A Survey on Knowledge Graphs: Representation, Acquisition and Applications",
+    "title-short": "A Survey on Knowledge Graphs",
+    "URL": "http://arxiv.org/abs/2002.00388",
+    "volume": "33",
+    "author": [
+      {
+        "family": "Ji",
+        "given": "Shaoxiong"
+      },
+      {
+        "family": "Pan",
+        "given": "Shirui"
+      },
+      {
+        "family": "Cambria",
+        "given": "Erik"
+      },
+      {
+        "family": "Marttinen",
+        "given": "Pekka"
+      },
+      {
+        "family": "Yu",
+        "given": "Philip S."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "choudhary2021",
+    "type": "article",
+    "abstract": "Knowledge Graph embedding provides a versatile technique for representing knowledge. These techniques can be used in a variety of applications such as completion of knowledge graph to predict missing information, recommender systems, question answering, query expansion, etc. The information embedded in Knowledge graph though being structured is challenging to consume in a real-world application. Knowledge graph embedding enables the real-world application to consume information to improve performance. Knowledge graph embedding is an active research area. Most of the embedding methods focus on structure-based information. Recent research has extended the boundary to include text-based information and image-based information in entity embedding. Efforts have been made to enhance the representation with context information. This paper introduces growth in the field of KG embedding from simple translation-based models to enrichment-based models. This paper includes the utility of the Knowledge graph in real-world applications.",
+    "DOI": "10.48550/arXiv.2107.07842",
+    "note": "arXiv:2107.07842 [cs]",
+    "number": "arXiv:2107.07842",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "A Survey of Knowledge Graph Embedding and Their Applications",
+    "URL": "http://arxiv.org/abs/2107.07842",
+    "author": [
+      {
+        "family": "Choudhary",
+        "given": "Shivani"
+      },
+      {
+        "family": "Luthra",
+        "given": "Tarun"
+      },
+      {
+        "family": "Mittal",
+        "given": "Ashima"
+      },
+      {
+        "family": "Singh",
+        "given": "Rajat"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          7,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fang2023",
+    "type": "article-journal",
+    "abstract": "Representing words as embeddings has been proven to be successful in improving the performance in many natural language processing tasks. Different from the traditional methods that learn the embeddings from large text corpora, ensemble methods have been proposed to leverage the merits of pre-trained word embeddings as well as external semantic sources. In this paper, we propose a knowledge-enriched ensemble method to combine information from both knowledge graphs and pre-trained word embeddings. Specifically, we propose an attention network to retrofit the semantic information in the lexical knowledge graph into the pre-trained word embeddings. In addition, we further extend our method to contextual word embeddings and multi-sense embeddings. Extensive experiments demonstrate that the proposed word embeddings outperform the state-of-the-art models in word analogy, word similarity and several downstream tasks. The proposed word sense embeddings outperform the state-of-the-art models in word similarity and word sense induction tasks.",
+    "container-title": "IEEE Transactions on Knowledge and Data Engineering",
+    "DOI": "10.1109/TKDE.2022.3159539",
+    "ISSN": "1041-4347",
+    "issue": "6",
+    "journalAbbreviation": "IEEE Trans. on Knowl. and Data Eng.",
+    "page": "5534–5549",
+    "source": "ACM Digital Library",
+    "title": "A Knowledge-Enriched Ensemble Method for Word Embedding and Multi-Sense Embedding",
+    "URL": "https://doi.org/10.1109/TKDE.2022.3159539",
+    "volume": "35",
+    "author": [
+      {
+        "family": "Fang",
+        "given": "Lanting"
+      },
+      {
+        "family": "Luo",
+        "given": "Yong"
+      },
+      {
+        "family": "Feng",
+        "given": "Kaiyu"
+      },
+      {
+        "family": "Zhao",
+        "given": "Kaiqi"
+      },
+      {
+        "family": "Hu",
+        "given": "Aiqun"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "li2023",
+    "type": "article-journal",
+    "abstract": "The sparseness and incompleteness of knowledge graphs (KGs) trigger considerable interest in enhancing the representation learning with external corpora. However, the difficulty of aligning entities and relations with external corpora leads to inferior performance improvement. Open knowledge graphs (OKGs) consist of entity-mentions and relation-mentions that are represented by noncanonicalized freeform phrases, which generally do not rely on the specification of ontology schema. The roughness of the nonontological construction method leads to a specific characteristic of OKGs: diversity, where multiple entity-mentions (or relation-mentions) have the same meaning but different expressions. The diversity of OKGs can provide potential textual and structural features for the representation learning of KGs. We speculate that leveraging OKGs to enhance the representation learning of KGs can be more effective than using pure text or pure structure corpora. In this paper, we propose a new <italic>OERL</italic>, <bold>O</bold>pen knowledge graph <bold>E</bold>nhanced <bold>R</bold>epresentation <bold>L</bold>earning of KGs. OERL automatically extracts textual and structural connections between KGs and OKGs, models and transfers refined profitable features to enhance the representation learning of KGs. The strong performance improvement and exhaustive experimental analysis prove the superiority of OERL over state-of-the-art baselines.",
+    "container-title": "IEEE Transactions on Knowledge and Data Engineering",
+    "DOI": "10.1109/TKDE.2022.3218850",
+    "ISSN": "1041-4347",
+    "issue": "9",
+    "journalAbbreviation": "IEEE Trans. on Knowl. and Data Eng.",
+    "page": "8880–8892",
+    "source": "ACM Digital Library",
+    "title": "OERL: Enhanced Representation Learning via Open Knowledge Graphs",
+    "title-short": "OERL",
+    "URL": "https://doi.org/10.1109/TKDE.2022.3218850",
+    "volume": "35",
     "author": [
       {
         "family": "Li",
@@ -14994,12 +15574,15 @@
         "given": "Ge"
       }
     ],
-    "citation-key": "li2023",
-    "container-title": "IEEE Transactions on Knowledge and Data Engineering",
-    "container-title-short": "IEEE Trans. on Knowl. and Data Eng.",
-    "DOI": "10.1109/TKDE.2022.3218850",
-    "ISSN": "1041-4347",
-    "issue": "9",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
@@ -15008,223 +15591,23 @@
           1
         ]
       ]
-    },
-    "page": "8880–8892",
-    "source": "ACM Digital Library",
-    "title": "OERL: Enhanced Representation Learning via Open Knowledge Graphs",
-    "title-short": "OERL",
-    "type": "article-journal",
-    "URL": "https://doi.org/10.1109/TKDE.2022.3218850",
-    "volume": "35"
-  },
-  {
-    "id": "liu2019",
-    "abstract": "Pre-trained language representation models, such as BERT, capture a general language representation from large-scale corpora, but lack domain-specific knowledge. When reading a domain text, experts make inferences with relevant knowledge. For machines to achieve this capability, we propose a knowledge-enabled language representation model (K-BERT) with knowledge graphs (KGs), in which triples are injected into the sentences as domain knowledge. However, too much knowledge incorporation may divert the sentence from its correct meaning, which is called knowledge noise (KN) issue. To overcome KN, K-BERT introduces soft-position and visible matrix to limit the impact of knowledge. K-BERT can easily inject domain knowledge into the models by equipped with a KG without pre-training by-self because it is capable of loading model parameters from the pre-trained BERT. Our investigation reveals promising results in twelve NLP tasks. Especially in domain-specific tasks (including finance, law, and medicine), K-BERT significantly outperforms BERT, which demonstrates that K-BERT is an excellent choice for solving the knowledge-driven problems that require experts.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Liu",
-        "given": "Weijie"
-      },
-      {
-        "family": "Zhou",
-        "given": "Peng"
-      },
-      {
-        "family": "Zhao",
-        "given": "Zhe"
-      },
-      {
-        "family": "Wang",
-        "given": "Zhiruo"
-      },
-      {
-        "family": "Ju",
-        "given": "Qi"
-      },
-      {
-        "family": "Deng",
-        "given": "Haotang"
-      },
-      {
-        "family": "Wang",
-        "given": "Ping"
-      }
-    ],
-    "citation-key": "liu2019",
-    "DOI": "10.48550/arXiv.1909.07606",
-    "issued": {
-      "date-parts": [
-        [
-          "2019",
-          9,
-          17
-        ]
-      ]
-    },
-    "number": "arXiv:1909.07606",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "K-BERT: Enabling Language Representation with Knowledge Graph",
-    "title-short": "K-BERT",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/1909.07606"
-  },
-  {
-    "id": "ma2022",
-    "abstract": "The retriever-reader framework is popular for open-domain question answering (ODQA) due to its ability to use explicit knowledge. Although prior work has sought to increase the knowledge coverage by incorporating structured knowledge beyond text, accessing heterogeneous knowledge sources through a unified interface remains an open question. While data-to-text generation has the potential to serve as a universal interface for data and text, its feasibility for downstream tasks remains largely unknown. In this work, we bridge this gap and use the data-to-text method as a means for encoding structured knowledge for open-domain question answering. Specifically, we propose a verbalizer-retriever-reader framework for ODQA over data and text where verbalized tables from Wikipedia and graphs from Wikidata are used as augmented knowledge sources. We show that our Unified Data and Text QA, UDT-QA, can effectively benefit from the expanded knowledge index, leading to large gains over text-only baselines. Notably, our approach sets the single-model state-of-the-art on Natural Questions. Furthermore, our analyses indicate that verbalized knowledge is preferred for answer reasoning for both adapted and hot-swap settings.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Ma",
-        "given": "Kaixin"
-      },
-      {
-        "family": "Cheng",
-        "given": "Hao"
-      },
-      {
-        "family": "Liu",
-        "given": "Xiaodong"
-      },
-      {
-        "family": "Nyberg",
-        "given": "Eric"
-      },
-      {
-        "family": "Gao",
-        "given": "Jianfeng"
-      }
-    ],
-    "citation-key": "ma2022",
-    "container-title": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "DOI": "10.18653/v1/2022.acl-long.113",
-    "editor": [
-      {
-        "family": "Muresan",
-        "given": "Smaranda"
-      },
-      {
-        "family": "Nakov",
-        "given": "Preslav"
-      },
-      {
-        "family": "Villavicencio",
-        "given": "Aline"
-      }
-    ],
-    "event-place": "Dublin, Ireland",
-    "event-title": "ACL 2022",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          5
-        ]
-      ]
-    },
-    "page": "1605–1620",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Dublin, Ireland",
-    "source": "ACLWeb",
-    "title": "Open Domain Question Answering with A Unified Knowledge Interface",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2022.acl-long.113"
-  },
-  {
-    "id": "murty2020",
-    "abstract": "Suppose we want to specify the inductive bias that married couples typically go on honeymoons for the task of extracting pairs of spouses from text. In this paper, we allow model developers to specify these types of inductive biases as natural language explanations. We use BERT fine-tuned on MultiNLI to “interpret” these explanations with respect to the input sentence, producing explanation-guided representations of the input. Across three relation extraction tasks, our method, ExpBERT, matches a BERT baseline but with 3–20x less labeled data and improves on the baseline by 3–10 F1 points with the same amount of labeled data.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Murty",
-        "given": "Shikhar"
-      },
-      {
-        "family": "Koh",
-        "given": "Pang Wei"
-      },
-      {
-        "family": "Liang",
-        "given": "Percy"
-      }
-    ],
-    "citation-key": "murty2020",
-    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
-    "DOI": "10.18653/v1/2020.acl-main.190",
-    "editor": [
-      {
-        "family": "Jurafsky",
-        "given": "Dan"
-      },
-      {
-        "family": "Chai",
-        "given": "Joyce"
-      },
-      {
-        "family": "Schluter",
-        "given": "Natalie"
-      },
-      {
-        "family": "Tetreault",
-        "given": "Joel"
-      }
-    ],
-    "event-place": "Online",
-    "event-title": "ACL 2020",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          7
-        ]
-      ]
-    },
-    "page": "2106–2113",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Online",
-    "source": "ACLWeb",
-    "title": "ExpBERT: Representation Engineering with Natural Language Explanations",
-    "title-short": "ExpBERT",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2020.acl-main.190"
+    }
   },
   {
     "id": "qin2021",
+    "type": "paper-conference",
     "abstract": "Pre-trained Language Models (PLMs) have shown superior performance on various downstream Natural Language Processing (NLP) tasks. However, conventional pre-training objectives do not explicitly model relational facts in text, which are crucial for textual understanding. To address this issue, we propose a novel contrastive learning framework ERICA to obtain a deep understanding of the entities and their relations in text. Specifically, we define two novel pre-training tasks to better understand entities and relations: (1) the entity discrimination task to distinguish which tail entity can be inferred by the given head entity and relation; (2) the relation discrimination task to distinguish whether two relations are close or not semantically, which involves complex relational reasoning. Experimental results demonstrate that ERICA can improve typical PLMs (BERT and RoBERTa) on several language understanding tasks, including relation extraction, entity typing and question answering, especially under low-resource settings.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
+    "container-title": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    "DOI": "10.18653/v1/2021.acl-long.260",
+    "event-place": "Online",
+    "event-title": "ACL-IJCNLP 2021",
+    "page": "3350–3363",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Online",
+    "source": "ACLWeb",
+    "title": "ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning",
+    "title-short": "ERICA",
+    "URL": "https://aclanthology.org/2021.acl-long.260",
     "author": [
       {
         "family": "Qin",
@@ -15263,9 +15646,6 @@
         "given": "Jie"
       }
     ],
-    "citation-key": "qin2021",
-    "container-title": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
-    "DOI": "10.18653/v1/2021.acl-long.260",
     "editor": [
       {
         "family": "Zong",
@@ -15284,8 +15664,15 @@
         "given": "Roberto"
       }
     ],
-    "event-place": "Online",
-    "event-title": "ACL-IJCNLP 2021",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
@@ -15293,84 +15680,50 @@
           8
         ]
       ]
-    },
-    "page": "3350–3363",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Online",
-    "source": "ACLWeb",
-    "title": "ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning",
-    "title-short": "ERICA",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2021.acl-long.260"
+    }
   },
   {
-    "id": "sachan2021",
-    "abstract": "Much recent work suggests that incorporating syntax information from dependency trees can improve task-specific transformer models. However, the effect of incorporating dependency tree information into pre-trained transformer models (e.g., BERT) remains unclear, especially given recent studies highlighting how these models implicitly encode syntax. In this work, we systematically study the utility of incorporating dependency trees into pre-trained transformers on three representative information extraction tasks: semantic role labeling (SRL), named entity recognition, and relation extraction. We propose and investigate two distinct strategies for incorporating dependency structure: a late fusion approach, which applies a graph neural network on the output of a transformer, and a joint fusion approach, which infuses syntax structure into the transformer attention layers. These strategies are representative of prior work, but we introduce additional model design elements that are necessary for obtaining improved performance. Our empirical analysis demonstrates that these syntax-infused transformers obtain state-of-the-art results on SRL and relation extraction tasks. However, our analysis also reveals a critical shortcoming of these models: we find that their performance gains are highly contingent on the availability of human-annotated dependency parses, which raises important questions regarding the viability of syntax-augmented transformers in real-world applications.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
+    "id": "wang2020b",
+    "type": "article",
+    "abstract": "Pre-trained language representation models (PLMs) cannot well capture factual knowledge from text. In contrast, knowledge embedding (KE) methods can effectively represent the relational facts in knowledge graphs (KGs) with informative entity embeddings, but conventional KE models cannot take full advantage of the abundant textual information. In this paper, we propose a unified model for Knowledge Embedding and Pre-trained LanguagE Representation (KEPLER), which can not only better integrate factual knowledge into PLMs but also produce effective text-enhanced KE with the strong PLMs. In KEPLER, we encode textual entity descriptions with a PLM as their embeddings, and then jointly optimize the KE and language modeling objectives. Experimental results show that KEPLER achieves state-of-the-art performances on various NLP tasks, and also works remarkably well as an inductive KE model on KG link prediction. Furthermore, for pre-training and evaluating KEPLER, we construct Wikidata5M, a large-scale KG dataset with aligned entity descriptions, and benchmark state-of-the-art KE methods on it. It shall serve as a new KE benchmark and facilitate the research on large KG, inductive KE, and KG with text. The source code can be obtained from https://github.com/THU-KEG/KEPLER.",
+    "DOI": "10.48550/arXiv.1911.06136",
+    "note": "arXiv:1911.06136 [cs]",
+    "number": "arXiv:1911.06136",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation",
+    "title-short": "KEPLER",
+    "URL": "http://arxiv.org/abs/1911.06136",
     "author": [
       {
-        "family": "Sachan",
-        "given": "Devendra"
+        "family": "Wang",
+        "given": "Xiaozhi"
+      },
+      {
+        "family": "Gao",
+        "given": "Tianyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Zhaocheng"
       },
       {
         "family": "Zhang",
-        "given": "Yuhao"
+        "given": "Zhengyan"
       },
       {
-        "family": "Qi",
-        "given": "Peng"
+        "family": "Liu",
+        "given": "Zhiyuan"
       },
       {
-        "family": "Hamilton",
-        "given": "William L."
+        "family": "Li",
+        "given": "Juanzi"
+      },
+      {
+        "family": "Tang",
+        "given": "Jian"
       }
     ],
-    "citation-key": "sachan2021",
-    "container-title": "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
-    "DOI": "10.18653/v1/2021.eacl-main.228",
-    "editor": [
-      {
-        "family": "Merlo",
-        "given": "Paola"
-      },
-      {
-        "family": "Tiedemann",
-        "given": "Jorg"
-      },
-      {
-        "family": "Tsarfaty",
-        "given": "Reut"
-      }
-    ],
-    "event-place": "Online",
-    "event-title": "EACL 2021",
-    "issued": {
-      "date-parts": [
-        [
-          "2021",
-          4
-        ]
-      ]
-    },
-    "page": "2647–2661",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Online",
-    "source": "ACLWeb",
-    "title": "Do Syntax Trees Help Pre-trained Transformers Extract Information?",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2021.eacl-main.228"
-  },
-  {
-    "id": "saeed2021",
-    "abstract": "While pre-trained language models (PLMs) are the go-to solution to tackle many natural language processing problems, they are still very limited in their ability to capture and to use common-sense knowledge. In fact, even if information is available in the form of approximate (soft) logical rules, it is not clear how to transfer it to a PLM in order to improve its performance for deductive reasoning tasks. Here, we aim to bridge this gap by teaching PLMs how to reason with soft Horn rules. We introduce a classification task where, given facts and soft rules, the PLM should return a prediction with a probability for a given hypothesis. We release the first dataset for this task, and we propose a revised loss function that enables the PLM to learn how to predict precise probabilities for the task. Our evaluation results show that the resulting fine-tuned models achieve very high performance, even on logical rules that were unseen at training. Moreover, we demonstrate that logical notions expressed by the rules are transferred to the fine-tuned model, yielding state-of-the-art results on external datasets.",
     "accessed": {
       "date-parts": [
         [
@@ -15380,169 +15733,58 @@
         ]
       ]
     },
-    "author": [
-      {
-        "family": "Saeed",
-        "given": "Mohammed"
-      },
-      {
-        "family": "Ahmadi",
-        "given": "Naser"
-      },
-      {
-        "family": "Nakov",
-        "given": "Preslav"
-      },
-      {
-        "family": "Papotti",
-        "given": "Paolo"
-      }
-    ],
-    "citation-key": "saeed2021",
-    "container-title": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
-    "DOI": "10.18653/v1/2021.emnlp-main.110",
-    "editor": [
-      {
-        "family": "Moens",
-        "given": "Marie-Francine"
-      },
-      {
-        "family": "Huang",
-        "given": "Xuanjing"
-      },
-      {
-        "family": "Specia",
-        "given": "Lucia"
-      },
-      {
-        "family": "Yih",
-        "given": "Scott Wen-tau"
-      }
-    ],
-    "event-place": "Online and Punta Cana, Dominican Republic",
-    "event-title": "EMNLP 2021",
-    "issued": {
-      "date-parts": [
-        [
-          "2021",
-          11
-        ]
-      ]
-    },
-    "page": "1460–1476",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Online and Punta Cana, Dominican Republic",
-    "source": "ACLWeb",
-    "title": "RuleBERT: Teaching Soft Rules to Pre-Trained Language Models",
-    "title-short": "RuleBERT",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2021.emnlp-main.110"
-  },
-  {
-    "id": "sevgili2022",
-    "abstract": "This survey presents a comprehensive description of recent neural entity linking (EL) systems developed since 2015 as a result of the \"deep learning revolution\" in natural language processing. Its goal is to systemize design features of neural entity linking systems and compare their performance to the remarkable classic methods on common benchmarks. This work distills a generic architecture of a neural EL system and discusses its components, such as candidate generation, mention-context encoding, and entity ranking, summarizing prominent methods for each of them. The vast variety of modifications of this general architecture are grouped by several common themes: joint entity mention detection and disambiguation, models for global linking, domain-independent techniques including zero-shot and distant supervision methods, and cross-lingual approaches. Since many neural models take advantage of entity and mention/context embeddings to represent their meaning, this work also overviews prominent entity embedding techniques. Finally, the survey touches on applications of entity linking, focusing on the recently emerged use-case of enhancing deep pre-trained masked language models based on the Transformer architecture.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          29
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Sevgili",
-        "given": "Ozge"
-      },
-      {
-        "family": "Shelmanov",
-        "given": "Artem"
-      },
-      {
-        "family": "Arkhipov",
-        "given": "Mikhail"
-      },
-      {
-        "family": "Panchenko",
-        "given": "Alexander"
-      },
-      {
-        "family": "Biemann",
-        "given": "Chris"
-      }
-    ],
-    "citation-key": "sevgili2022",
-    "container-title": "Semantic Web",
-    "container-title-short": "SW",
-    "DOI": "10.3233/SW-222986",
-    "ISSN": "22104968, 15700844",
-    "issue": "3",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          4,
-          6
-        ]
-      ]
-    },
-    "page": "527-570",
-    "source": "arXiv.org",
-    "title": "Neural Entity Linking: A Survey of Models Based on Deep Learning",
-    "title-short": "Neural Entity Linking",
-    "type": "article-journal",
-    "URL": "http://arxiv.org/abs/2006.00575",
-    "volume": "13"
-  },
-  {
-    "id": "srinivas2020",
-    "abstract": "We present CURL: Contrastive Unsupervised Representations for Reinforcement Learning. CURL extracts high-level features from raw pixels using contrastive learning and performs off-policy control on top of the extracted features. CURL outperforms prior pixel-based methods, both model-based and model-free, on complex tasks in the DeepMind Control Suite and Atari Games showing 1.9x and 1.2x performance gains at the 100K environment and interaction steps benchmarks respectively. On the DeepMind Control Suite, CURL is the first image-based algorithm to nearly match the sample-efficiency of methods that use state-based features. Our code is open-sourced and available at https://github.com/MishaLaskin/curl.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Srinivas",
-        "given": "Aravind"
-      },
-      {
-        "family": "Laskin",
-        "given": "Michael"
-      },
-      {
-        "family": "Abbeel",
-        "given": "Pieter"
-      }
-    ],
-    "citation-key": "srinivas2020",
-    "DOI": "10.48550/arXiv.2004.04136",
     "issued": {
       "date-parts": [
         [
           "2020",
-          9,
-          21
+          11,
+          23
         ]
       ]
-    },
-    "number": "arXiv:2004.04136",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "CURL: Contrastive Unsupervised Representations for Reinforcement Learning",
-    "title-short": "CURL",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2004.04136"
+    }
   },
   {
-    "id": "sun2020",
-    "abstract": "With the emerging branch of incorporating factual knowledge into pre-trained language models such as BERT, most existing models consider shallow, static, and separately pre-trained entity embeddings, which limits the performance gains of these models. Few works explore the potential of deep contextualized knowledge representation when injecting knowledge. In this paper, we propose the Contextualized Language and Knowledge Embedding (CoLAKE), which jointly learns contextualized representation for both language and knowledge with the extended MLM objective. Instead of injecting only entity embeddings, CoLAKE extracts the knowledge context of an entity from large-scale knowledge bases. To handle the heterogeneity of knowledge context and language context, we integrate them in a unified data structure, word-knowledge graph (WK graph). CoLAKE is pre-trained on large-scale WK graphs with the modified Transformer encoder. We conduct experiments on knowledge-driven tasks, knowledge probing tasks, and language understanding tasks. Experimental results show that CoLAKE outperforms previous counterparts on most of the tasks. Besides, CoLAKE achieves surprisingly high performance on our synthetic task called word-knowledge graph completion, which shows the superiority of simultaneously contextualizing language and knowledge representation.",
+    "id": "zhang2022",
+    "type": "article",
+    "abstract": "Knowledge-Enhanced Pre-trained Language Models (KEPLMs) are pre-trained models with relation triples injecting from knowledge graphs to improve language understanding abilities. To guarantee effective knowledge injection, previous studies integrate models with knowledge encoders for representing knowledge retrieved from knowledge graphs. The operations for knowledge retrieval and encoding bring significant computational burdens, restricting the usage of such models in real-world applications that require high inference speed. In this paper, we propose a novel KEPLM named DKPLM that Decomposes Knowledge injection process of the Pre-trained Language Models in pre-training, fine-tuning and inference stages, which facilitates the applications of KEPLMs in real-world scenarios. Specifically, we first detect knowledge-aware long-tail entities as the target for knowledge injection, enhancing the KEPLMs' semantic understanding abilities and avoiding injecting redundant information. The embeddings of long-tail entities are replaced by \"pseudo token representations\" formed by relevant knowledge triples. We further design the relational knowledge decoding task for pre-training to force the models to truly understand the injected knowledge by relation triple reconstruction. Experiments show that our model outperforms other KEPLMs significantly over zero-shot knowledge probing tasks and multiple knowledge-aware language understanding tasks. We further show that DKPLM has a higher inference speed than other competing models due to the decomposing mechanism.",
+    "DOI": "10.48550/arXiv.2112.01047",
+    "note": "arXiv:2112.01047 [cs]",
+    "number": "arXiv:2112.01047",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "DKPLM: Decomposable Knowledge-enhanced Pre-trained Language Model for Natural Language Understanding",
+    "title-short": "DKPLM",
+    "URL": "http://arxiv.org/abs/2112.01047",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Taolin"
+      },
+      {
+        "family": "Wang",
+        "given": "Chengyu"
+      },
+      {
+        "family": "Hu",
+        "given": "Nan"
+      },
+      {
+        "family": "Qiu",
+        "given": "Minghui"
+      },
+      {
+        "family": "Tang",
+        "given": "Chengguang"
+      },
+      {
+        "family": "He",
+        "given": "Xiaofeng"
+      },
+      {
+        "family": "Huang",
+        "given": "Jun"
+      }
+    ],
     "accessed": {
       "date-parts": [
         [
@@ -15552,6 +15794,168 @@
         ]
       ]
     },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          10,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wang2022",
+    "type": "paper-conference",
+    "abstract": "Knowledge-enhanced Pre-trained Language Model (PLM) has recently received significant attention, which aims to incorporate factual knowledge into PLMs. However, most existing methods modify the internal structures of fixed types of PLMs by stacking complicated modules, and introduce redundant and irrelevant factual knowledge from knowledge bases (KBs). In this paper, to address these problems, we introduce a seminal knowledge prompting paradigm and further propose a knowledge-prompting-based PLM framework KP-PLM. This framework can be flexibly combined with existing mainstream PLMs. Specifically, we first construct a knowledge sub-graph from KBs for each context. Then we design multiple continuous prompts rules and transform the knowledge sub-graph into natural language prompts. To further leverage the factual knowledge from these prompts, we propose two novel knowledge-aware self-supervised tasks including prompt relevance inspection and masked prompt modeling. Extensive experiments on multiple natural language understanding (NLU) tasks show the superiority of KP-PLM over other state-of-the-art methods in both full-resource and low-resource settings. Our source codes will be released upon the acceptance of the paper.",
+    "container-title": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    "DOI": "10.18653/v1/2022.emnlp-main.207",
+    "event-place": "Abu Dhabi, United Arab Emirates",
+    "event-title": "EMNLP 2022",
+    "page": "3164–3177",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Abu Dhabi, United Arab Emirates",
+    "source": "ACLWeb",
+    "title": "Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding",
+    "URL": "https://aclanthology.org/2022.emnlp-main.207",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Jianing"
+      },
+      {
+        "family": "Huang",
+        "given": "Wenkang"
+      },
+      {
+        "family": "Qiu",
+        "given": "Minghui"
+      },
+      {
+        "family": "Shi",
+        "given": "Qiuhui"
+      },
+      {
+        "family": "Wang",
+        "given": "Hongbin"
+      },
+      {
+        "family": "Li",
+        "given": "Xiang"
+      },
+      {
+        "family": "Gao",
+        "given": "Ming"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Goldberg",
+        "given": "Yoav"
+      },
+      {
+        "family": "Kozareva",
+        "given": "Zornitsa"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yue"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "liu2019",
+    "type": "article",
+    "abstract": "Pre-trained language representation models, such as BERT, capture a general language representation from large-scale corpora, but lack domain-specific knowledge. When reading a domain text, experts make inferences with relevant knowledge. For machines to achieve this capability, we propose a knowledge-enabled language representation model (K-BERT) with knowledge graphs (KGs), in which triples are injected into the sentences as domain knowledge. However, too much knowledge incorporation may divert the sentence from its correct meaning, which is called knowledge noise (KN) issue. To overcome KN, K-BERT introduces soft-position and visible matrix to limit the impact of knowledge. K-BERT can easily inject domain knowledge into the models by equipped with a KG without pre-training by-self because it is capable of loading model parameters from the pre-trained BERT. Our investigation reveals promising results in twelve NLP tasks. Especially in domain-specific tasks (including finance, law, and medicine), K-BERT significantly outperforms BERT, which demonstrates that K-BERT is an excellent choice for solving the knowledge-driven problems that require experts.",
+    "DOI": "10.48550/arXiv.1909.07606",
+    "note": "arXiv:1909.07606 [cs]",
+    "number": "arXiv:1909.07606",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "K-BERT: Enabling Language Representation with Knowledge Graph",
+    "title-short": "K-BERT",
+    "URL": "http://arxiv.org/abs/1909.07606",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Weijie"
+      },
+      {
+        "family": "Zhou",
+        "given": "Peng"
+      },
+      {
+        "family": "Zhao",
+        "given": "Zhe"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhiruo"
+      },
+      {
+        "family": "Ju",
+        "given": "Qi"
+      },
+      {
+        "family": "Deng",
+        "given": "Haotang"
+      },
+      {
+        "family": "Wang",
+        "given": "Ping"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sun2020",
+    "type": "paper-conference",
+    "abstract": "With the emerging branch of incorporating factual knowledge into pre-trained language models such as BERT, most existing models consider shallow, static, and separately pre-trained entity embeddings, which limits the performance gains of these models. Few works explore the potential of deep contextualized knowledge representation when injecting knowledge. In this paper, we propose the Contextualized Language and Knowledge Embedding (CoLAKE), which jointly learns contextualized representation for both language and knowledge with the extended MLM objective. Instead of injecting only entity embeddings, CoLAKE extracts the knowledge context of an entity from large-scale knowledge bases. To handle the heterogeneity of knowledge context and language context, we integrate them in a unified data structure, word-knowledge graph (WK graph). CoLAKE is pre-trained on large-scale WK graphs with the modified Transformer encoder. We conduct experiments on knowledge-driven tasks, knowledge probing tasks, and language understanding tasks. Experimental results show that CoLAKE outperforms previous counterparts on most of the tasks. Besides, CoLAKE achieves surprisingly high performance on our synthetic task called word-knowledge graph completion, which shows the superiority of simultaneously contextualizing language and knowledge representation.",
+    "container-title": "Proceedings of the 28th International Conference on Computational Linguistics",
+    "DOI": "10.18653/v1/2020.coling-main.327",
+    "event-place": "Barcelona, Spain (Online)",
+    "event-title": "COLING 2020",
+    "page": "3660–3670",
+    "publisher": "International Committee on Computational Linguistics",
+    "publisher-place": "Barcelona, Spain (Online)",
+    "source": "ACLWeb",
+    "title": "CoLAKE: Contextualized Language and Knowledge Embedding",
+    "title-short": "CoLAKE",
+    "URL": "https://aclanthology.org/2020.coling-main.327",
     "author": [
       {
         "family": "Sun",
@@ -15582,9 +15986,6 @@
         "given": "Zheng"
       }
     ],
-    "citation-key": "sun2020",
-    "container-title": "Proceedings of the 28th International Conference on Computational Linguistics",
-    "DOI": "10.18653/v1/2020.coling-main.327",
     "editor": [
       {
         "family": "Scott",
@@ -15599,28 +16000,6 @@
         "given": "Chengqing"
       }
     ],
-    "event-place": "Barcelona, Spain (Online)",
-    "event-title": "COLING 2020",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          12
-        ]
-      ]
-    },
-    "page": "3660–3670",
-    "publisher": "International Committee on Computational Linguistics",
-    "publisher-place": "Barcelona, Spain (Online)",
-    "source": "ACLWeb",
-    "title": "CoLAKE: Contextualized Language and Knowledge Embedding",
-    "title-short": "CoLAKE",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2020.coling-main.327"
-  },
-  {
-    "id": "sun2022",
-    "abstract": "Existing KG-augmented models for commonsense question answering primarily focus on designing elaborate Graph Neural Networks (GNNs) to model knowledge graphs (KGs). However, they ignore (i) the effectively fusing and reasoning over question context representations and the KG representations, and (ii) automatically selecting relevant nodes from the noisy KGs during reasoning. In this paper, we propose a novel model, JointLK, which solves the above limitations through the joint reasoning of LM and GNN and the dynamic KGs pruning mechanism. Specifically, JointLK performs joint reasoning between LM and GNN through a novel dense bidirectional attention module, in which each question token attends on KG nodes and each KG node attends on question tokens, and the two modal representations fuse and update mutually by multi-step interactions. Then, the dynamic pruning module uses the attention weights generated by joint reasoning to prune irrelevant KG nodes recursively. We evaluate JointLK on the CommonsenseQA and OpenBookQA datasets, and demonstrate its improvements to the existing LM and LM+KG models, as well as its capability to perform interpretable reasoning.",
     "accessed": {
       "date-parts": [
         [
@@ -15630,6 +16009,156 @@
         ]
       ]
     },
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "he2021",
+    "type": "paper-conference",
+    "abstract": "Interactions between entities in knowledge graph (KG) provide rich knowledge for language representation learning. However, existing knowledge-enhanced pretrained language models (PLMs) only focus on entity information and ignore the fine-grained relationships between entities. In this work, we propose to incorporate KG (including both entities and relations) into the language learning process to obtain KG-enhanced pretrained Language Model, namely KLMo. Specifically, a novel knowledge aggregator is designed to explicitly model the interaction between entity spans in text and all entities and relations in a contextual KG. An relation prediction objective is utilized to incorporate relation information by distant supervision. An entity linking objective is further utilized to link entity spans in text to entities in KG. In this way, the structured knowledge can be effectively integrated into language representations. Experimental results demonstrate that KLMo achieves great improvements on several knowledge-driven tasks, such as entity typing and relation classification, comparing with the state-of-the-art knowledge-enhanced PLMs.",
+    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    "DOI": "10.18653/v1/2021.findings-emnlp.384",
+    "event-place": "Punta Cana, Dominican Republic",
+    "event-title": "Findings 2021",
+    "page": "4536–4542",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Punta Cana, Dominican Republic",
+    "source": "ACLWeb",
+    "title": "KLMo: Knowledge Graph Enhanced Pretrained Language Model with Fine-Grained Relationships",
+    "title-short": "KLMo",
+    "URL": "https://aclanthology.org/2021.findings-emnlp.384",
+    "author": [
+      {
+        "family": "He",
+        "given": "Lei"
+      },
+      {
+        "family": "Zheng",
+        "given": "Suncong"
+      },
+      {
+        "family": "Yang",
+        "given": "Tao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Feng"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Moens",
+        "given": "Marie-Francine"
+      },
+      {
+        "family": "Huang",
+        "given": "Xuanjing"
+      },
+      {
+        "family": "Specia",
+        "given": "Lucia"
+      },
+      {
+        "family": "Yih",
+        "given": "Scott Wen-tau"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "dong2022",
+    "type": "article",
+    "abstract": "Passage re-ranking is to obtain a permutation over the candidate passage set from retrieval stage. Re-rankers have been boomed by Pre-trained Language Models (PLMs) due to their overwhelming advantages in natural language understanding. However, existing PLM based re-rankers may easily suffer from vocabulary mismatch and lack of domain specific knowledge. To alleviate these problems, explicit knowledge contained in knowledge graph is carefully introduced in our work. Specifically, we employ the existing knowledge graph which is incomplete and noisy, and first apply it in passage re-ranking task. To leverage a reliable knowledge, we propose a novel knowledge graph distillation method and obtain a knowledge meta graph as the bridge between query and passage. To align both kinds of embedding in the latent space, we employ PLM as text encoder and graph neural network over knowledge meta graph as knowledge encoder. Besides, a novel knowledge injector is designed for the dynamic interaction between text and knowledge encoder. Experimental results demonstrate the effectiveness of our method especially in queries requiring in-depth domain knowledge.",
+    "DOI": "10.48550/arXiv.2204.11673",
+    "note": "arXiv:2204.11673 [cs]",
+    "number": "arXiv:2204.11673",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "Incorporating Explicit Knowledge in Pre-trained Language Models for Passage Re-ranking",
+    "URL": "http://arxiv.org/abs/2204.11673",
+    "author": [
+      {
+        "family": "Dong",
+        "given": "Qian"
+      },
+      {
+        "family": "Liu",
+        "given": "Yiding"
+      },
+      {
+        "family": "Cheng",
+        "given": "Suqi"
+      },
+      {
+        "family": "Wang",
+        "given": "Shuaiqiang"
+      },
+      {
+        "family": "Cheng",
+        "given": "Zhicong"
+      },
+      {
+        "family": "Niu",
+        "given": "Shuzi"
+      },
+      {
+        "family": "Yin",
+        "given": "Dawei"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2022",
+          4,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "sun2022",
+    "type": "article",
+    "abstract": "Existing KG-augmented models for commonsense question answering primarily focus on designing elaborate Graph Neural Networks (GNNs) to model knowledge graphs (KGs). However, they ignore (i) the effectively fusing and reasoning over question context representations and the KG representations, and (ii) automatically selecting relevant nodes from the noisy KGs during reasoning. In this paper, we propose a novel model, JointLK, which solves the above limitations through the joint reasoning of LM and GNN and the dynamic KGs pruning mechanism. Specifically, JointLK performs joint reasoning between LM and GNN through a novel dense bidirectional attention module, in which each question token attends on KG nodes and each KG node attends on question tokens, and the two modal representations fuse and update mutually by multi-step interactions. Then, the dynamic pruning module uses the attention weights generated by joint reasoning to prune irrelevant KG nodes recursively. We evaluate JointLK on the CommonsenseQA and OpenBookQA datasets, and demonstrate its improvements to the existing LM and LM+KG models, as well as its capability to perform interpretable reasoning.",
+    "DOI": "10.48550/arXiv.2112.02732",
+    "note": "arXiv:2112.02732 [cs]",
+    "number": "arXiv:2112.02732",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering",
+    "title-short": "JointLK",
+    "URL": "http://arxiv.org/abs/2112.02732",
     "author": [
       {
         "family": "Sun",
@@ -15648,8 +16177,15 @@
         "given": "Yu"
       }
     ],
-    "citation-key": "sun2022",
-    "DOI": "10.48550/arXiv.2112.02732",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
@@ -15658,18 +16194,50 @@
           2
         ]
       ]
-    },
-    "number": "arXiv:2112.02732",
+    }
+  },
+  {
+    "id": "zhang2022a",
+    "type": "article",
+    "abstract": "Answering complex questions about textual narratives requires reasoning over both stated context and the world knowledge that underlies it. However, pretrained language models (LM), the foundation of most modern QA systems, do not robustly represent latent relationships between concepts, which is necessary for reasoning. While knowledge graphs (KG) are often used to augment LMs with structured representations of world knowledge, it remains an open question how to effectively fuse and reason over the KG representations and the language context, which provides situational constraints and nuances. In this work, we propose GreaseLM, a new model that fuses encoded representations from pretrained LMs and graph neural networks over multiple layers of modality interaction operations. Information from both modalities propagates to the other, allowing language context representations to be grounded by structured world knowledge, and allowing linguistic nuances (e.g., negation, hedging) in the context to inform the graph representations of knowledge. Our results on three benchmarks in the commonsense reasoning (i.e., CommonsenseQA, OpenbookQA) and medical question answering (i.e., MedQA-USMLE) domains demonstrate that GreaseLM can more reliably answer questions that require reasoning over both situational constraints and structured knowledge, even outperforming models 8x larger.",
+    "DOI": "10.48550/arXiv.2201.08860",
+    "note": "arXiv:2201.08860 [cs]",
+    "number": "arXiv:2201.08860",
     "publisher": "arXiv",
     "source": "arXiv.org",
-    "title": "JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering",
-    "title-short": "JointLK",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2112.02732"
-  },
-  {
-    "id": "tian2020",
-    "abstract": "Recently, sentiment analysis has seen remarkable advance with the help of pre-training approaches. However, sentiment knowledge, such as sentiment words and aspect-sentiment pairs, is ignored in the process of pre-training, despite the fact that they are widely used in traditional sentiment analysis approaches. In this paper, we introduce Sentiment Knowledge Enhanced Pre-training (SKEP) in order to learn a unified sentiment representation for multiple sentiment analysis tasks. With the help of automatically-mined knowledge, SKEP conducts sentiment masking and constructs three sentiment knowledge prediction objectives, so as to embed sentiment information at the word, polarity and aspect level into pre-trained sentiment representation. In particular, the prediction of aspect-sentiment pairs is converted into multi-label classification, aiming to capture the dependency between words in a pair. Experiments on three kinds of sentiment tasks show that SKEP significantly outperforms strong pre-training baseline, and achieves new state-of-the-art results on most of the test datasets. We release our code at https://github.com/baidu/Senta.",
+    "title": "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering",
+    "title-short": "GreaseLM",
+    "URL": "http://arxiv.org/abs/2201.08860",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Xikun"
+      },
+      {
+        "family": "Bosselut",
+        "given": "Antoine"
+      },
+      {
+        "family": "Yasunaga",
+        "given": "Michihiro"
+      },
+      {
+        "family": "Ren",
+        "given": "Hongyu"
+      },
+      {
+        "family": "Liang",
+        "given": "Percy"
+      },
+      {
+        "family": "Manning",
+        "given": "Christopher D."
+      },
+      {
+        "family": "Leskovec",
+        "given": "Jure"
+      }
+    ],
     "accessed": {
       "date-parts": [
         [
@@ -15679,255 +16247,29 @@
         ]
       ]
     },
-    "author": [
-      {
-        "family": "Tian",
-        "given": "Hao"
-      },
-      {
-        "family": "Gao",
-        "given": "Can"
-      },
-      {
-        "family": "Xiao",
-        "given": "Xinyan"
-      },
-      {
-        "family": "Liu",
-        "given": "Hao"
-      },
-      {
-        "family": "He",
-        "given": "Bolei"
-      },
-      {
-        "family": "Wu",
-        "given": "Hua"
-      },
-      {
-        "family": "Wang",
-        "given": "Haifeng"
-      },
-      {
-        "family": "Wu",
-        "given": "Feng"
-      }
-    ],
-    "citation-key": "tian2020",
-    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
-    "DOI": "10.18653/v1/2020.acl-main.374",
-    "editor": [
-      {
-        "family": "Jurafsky",
-        "given": "Dan"
-      },
-      {
-        "family": "Chai",
-        "given": "Joyce"
-      },
-      {
-        "family": "Schluter",
-        "given": "Natalie"
-      },
-      {
-        "family": "Tetreault",
-        "given": "Joel"
-      }
-    ],
-    "event-place": "Online",
-    "event-title": "ACL 2020",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          7
-        ]
-      ]
-    },
-    "page": "4067–4076",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Online",
-    "source": "ACLWeb",
-    "title": "SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis",
-    "title-short": "SKEP",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2020.acl-main.374"
-  },
-  {
-    "id": "toshevska2022",
-    "abstract": "Style is an integral component of a sentence indicated by the choice of words a person makes. Different people have different ways of expressing themselves, however, they adjust their speaking and writing style to a social context, an audience, an interlocutor or the formality of an occasion. Text style transfer is defined as a task of adapting and/or changing the stylistic manner in which a sentence is written, while preserving the meaning of the original sentence. A systematic review of text style transfer methodologies using deep learning is presented in this paper. We point out the technological advances in deep neural networks that have been the driving force behind current successes in the fields of natural language understanding and generation. The review is structured around two key stages in the text style transfer process, namely, representation learning and sentence generation in a new style. The discussion highlights the commonalities and differences between proposed solutions as well as challenges and opportunities that are expected to direct and foster further research in the field.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Toshevska",
-        "given": "Martina"
-      },
-      {
-        "family": "Gievska",
-        "given": "Sonja"
-      }
-    ],
-    "citation-key": "toshevska2022",
-    "container-title": "IEEE Transactions on Artificial Intelligence",
-    "container-title-short": "IEEE Trans. Artif. Intell.",
-    "DOI": "10.1109/TAI.2021.3115992",
-    "ISSN": "2691-4581",
-    "issue": "5",
     "issued": {
       "date-parts": [
         [
           "2022",
-          10
+          1,
+          21
         ]
       ]
-    },
-    "page": "669-684",
-    "source": "arXiv.org",
-    "title": "A Review of Text Style Transfer using Deep Learning",
-    "type": "article-journal",
-    "URL": "http://arxiv.org/abs/2109.15144",
-    "volume": "3"
-  },
-  {
-    "id": "vaswani2023",
-    "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          29
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Vaswani",
-        "given": "Ashish"
-      },
-      {
-        "family": "Shazeer",
-        "given": "Noam"
-      },
-      {
-        "family": "Parmar",
-        "given": "Niki"
-      },
-      {
-        "family": "Uszkoreit",
-        "given": "Jakob"
-      },
-      {
-        "family": "Jones",
-        "given": "Llion"
-      },
-      {
-        "family": "Gomez",
-        "given": "Aidan N."
-      },
-      {
-        "family": "Kaiser",
-        "given": "Lukasz"
-      },
-      {
-        "family": "Polosukhin",
-        "given": "Illia"
-      }
-    ],
-    "citation-key": "vaswani2023",
-    "DOI": "10.48550/arXiv.1706.03762",
-    "issued": {
-      "date-parts": [
-        [
-          "2023",
-          8,
-          1
-        ]
-      ]
-    },
-    "number": "arXiv:1706.03762",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "Attention Is All You Need",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/1706.03762"
-  },
-  {
-    "id": "velickovic2018",
-    "abstract": "We present graph attention networks (GATs), novel neural network architectures that operate on graph-structured data, leveraging masked self-attentional layers to address the shortcomings of prior methods based on graph convolutions or their approximations. By stacking layers in which nodes are able to attend over their neighborhoods' features, we enable (implicitly) specifying different weights to different nodes in a neighborhood, without requiring any kind of costly matrix operation (such as inversion) or depending on knowing the graph structure upfront. In this way, we address several key challenges of spectral-based graph neural networks simultaneously, and make our model readily applicable to inductive as well as transductive problems. Our GAT models have achieved or matched state-of-the-art results across four established transductive and inductive graph benchmarks: the Cora, Citeseer and Pubmed citation network datasets, as well as a protein-protein interaction dataset (wherein test graphs remain unseen during training).",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          29
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Veličković",
-        "given": "Petar"
-      },
-      {
-        "family": "Cucurull",
-        "given": "Guillem"
-      },
-      {
-        "family": "Casanova",
-        "given": "Arantxa"
-      },
-      {
-        "family": "Romero",
-        "given": "Adriana"
-      },
-      {
-        "family": "Liò",
-        "given": "Pietro"
-      },
-      {
-        "family": "Bengio",
-        "given": "Yoshua"
-      }
-    ],
-    "citation-key": "velickovic2018",
-    "DOI": "10.48550/arXiv.1710.10903",
-    "issued": {
-      "date-parts": [
-        [
-          "2018",
-          2,
-          4
-        ]
-      ]
-    },
-    "number": "arXiv:1710.10903",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "Graph Attention Networks",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/1710.10903"
+    }
   },
   {
     "id": "vonrueden2021",
+    "type": "article-journal",
     "abstract": "Despite its great success, machine learning can have its limits when dealing with insufficient training data. A potential solution is the additional integration of prior knowledge into the training process which leads to the notion of informed machine learning. In this paper, we present a structured overview of various approaches in this field. We provide a definition and propose a concept for informed machine learning which illustrates its building blocks and distinguishes it from conventional machine learning. We introduce a taxonomy that serves as a classification framework for informed machine learning approaches. It considers the source of knowledge, its representation, and its integration into the machine learning pipeline. Based on this taxonomy, we survey related research and describe how different knowledge representations such as algebraic equations, logic rules, or simulation results can be used in learning systems. This evaluation of numerous papers on the basis of our taxonomy uncovers key methods in the field of informed machine learning.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
+    "container-title": "IEEE Transactions on Knowledge and Data Engineering",
+    "DOI": "10.1109/TKDE.2021.3079836",
+    "ISSN": "1041-4347, 1558-2191, 2326-3865",
+    "journalAbbreviation": "IEEE Trans. Knowl. Data Eng.",
+    "note": "arXiv:1903.12394 [cs, stat]",
+    "page": "1-1",
+    "source": "arXiv.org",
+    "title": "Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems",
+    "URL": "http://arxiv.org/abs/1903.12394",
     "author": [
       {
         "family": "Rueden",
@@ -15987,96 +16329,74 @@
         "given": "Jannis"
       }
     ],
-    "citation-key": "vonrueden2021",
-    "container-title": "IEEE Transactions on Knowledge and Data Engineering",
-    "container-title-short": "IEEE Trans. Knowl. Data Eng.",
-    "DOI": "10.1109/TKDE.2021.3079836",
-    "ISSN": "1041-4347, 1558-2191, 2326-3865",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
           "2021"
         ]
       ]
-    },
-    "page": "1-1",
-    "source": "arXiv.org",
-    "title": "Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems",
-    "type": "article-journal",
-    "URL": "http://arxiv.org/abs/1903.12394"
+    }
   },
   {
-    "id": "wang2020",
-    "abstract": "We study the problem of injecting knowledge into large pre-trained models like BERT and RoBERTa. Existing methods typically update the original parameters of pre-trained models when injecting knowledge. However, when multiple kinds of knowledge are injected, the historically injected knowledge would be flushed away. To address this, we propose K-Adapter, a framework that retains the original parameters of the pre-trained model fixed and supports the development of versatile knowledge-infused model. Taking RoBERTa as the backbone model, K-Adapter has a neural adapter for each kind of infused knowledge, like a plug-in connected to RoBERTa. There is no information flow between different adapters, thus multiple adapters can be efficiently trained in a distributed way. As a case study, we inject two kinds of knowledge in this work, including (1) factual knowledge obtained from automatically aligned text-triplets on Wikipedia and Wikidata and (2) linguistic knowledge obtained via dependency parsing. Results on three knowledge-driven tasks, including relation classification, entity typing, and question answering, demonstrate that each adapter improves the performance and the combination of both adapters brings further improvements. Further analysis indicates that K-Adapter captures versatile knowledge than RoBERTa.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          29
-        ]
-      ]
-    },
+    "id": "saeed2021",
+    "type": "paper-conference",
+    "abstract": "While pre-trained language models (PLMs) are the go-to solution to tackle many natural language processing problems, they are still very limited in their ability to capture and to use common-sense knowledge. In fact, even if information is available in the form of approximate (soft) logical rules, it is not clear how to transfer it to a PLM in order to improve its performance for deductive reasoning tasks. Here, we aim to bridge this gap by teaching PLMs how to reason with soft Horn rules. We introduce a classification task where, given facts and soft rules, the PLM should return a prediction with a probability for a given hypothesis. We release the first dataset for this task, and we propose a revised loss function that enables the PLM to learn how to predict precise probabilities for the task. Our evaluation results show that the resulting fine-tuned models achieve very high performance, even on logical rules that were unseen at training. Moreover, we demonstrate that logical notions expressed by the rules are transferred to the fine-tuned model, yielding state-of-the-art results on external datasets.",
+    "container-title": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    "DOI": "10.18653/v1/2021.emnlp-main.110",
+    "event-place": "Online and Punta Cana, Dominican Republic",
+    "event-title": "EMNLP 2021",
+    "page": "1460–1476",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Online and Punta Cana, Dominican Republic",
+    "source": "ACLWeb",
+    "title": "RuleBERT: Teaching Soft Rules to Pre-Trained Language Models",
+    "title-short": "RuleBERT",
+    "URL": "https://aclanthology.org/2021.emnlp-main.110",
     "author": [
       {
-        "family": "Wang",
-        "given": "Ruize"
+        "family": "Saeed",
+        "given": "Mohammed"
       },
       {
-        "family": "Tang",
-        "given": "Duyu"
+        "family": "Ahmadi",
+        "given": "Naser"
       },
       {
-        "family": "Duan",
-        "given": "Nan"
+        "family": "Nakov",
+        "given": "Preslav"
       },
       {
-        "family": "Wei",
-        "given": "Zhongyu"
+        "family": "Papotti",
+        "given": "Paolo"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Moens",
+        "given": "Marie-Francine"
       },
       {
         "family": "Huang",
         "given": "Xuanjing"
       },
       {
-        "family": "ji",
-        "given": "Jianshu"
+        "family": "Specia",
+        "given": "Lucia"
       },
       {
-        "family": "Cao",
-        "given": "Guihong"
-      },
-      {
-        "family": "Jiang",
-        "given": "Daxin"
-      },
-      {
-        "family": "Zhou",
-        "given": "Ming"
+        "family": "Yih",
+        "given": "Scott Wen-tau"
       }
     ],
-    "citation-key": "wang2020",
-    "DOI": "10.48550/arXiv.2002.01808",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          12,
-          28
-        ]
-      ]
-    },
-    "number": "arXiv:2002.01808",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters",
-    "title-short": "K-Adapter",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2002.01808"
-  },
-  {
-    "id": "wang2020b",
-    "abstract": "Pre-trained language representation models (PLMs) cannot well capture factual knowledge from text. In contrast, knowledge embedding (KE) methods can effectively represent the relational facts in knowledge graphs (KGs) with informative entity embeddings, but conventional KE models cannot take full advantage of the abundant textual information. In this paper, we propose a unified model for Knowledge Embedding and Pre-trained LanguagE Representation (KEPLER), which can not only better integrate factual knowledge into PLMs but also produce effective text-enhanced KE with the strong PLMs. In KEPLER, we encode textual entity descriptions with a PLM as their embeddings, and then jointly optimize the KE and language modeling objectives. Experimental results show that KEPLER achieves state-of-the-art performances on various NLP tasks, and also works remarkably well as an inductive KE model on KG link prediction. Furthermore, for pre-training and evaluating KEPLER, we construct Wikidata5M, a large-scale KG dataset with aligned entity descriptions, and benchmark state-of-the-art KE methods on it. It shall serve as a new KE benchmark and facilitate the research on large KG, inductive KE, and KG with text. The source code can be obtained from https://github.com/THU-KEG/KEPLER.",
     "accessed": {
       "date-parts": [
         [
@@ -16086,447 +16406,112 @@
         ]
       ]
     },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "han2021",
+    "type": "article",
+    "abstract": "Fine-tuned pre-trained language models (PLMs) have achieved awesome performance on almost all NLP tasks. By using additional prompts to fine-tune PLMs, we can further stimulate the rich knowledge distributed in PLMs to better serve downstream tasks. Prompt tuning has achieved promising results on some few-class classification tasks such as sentiment classification and natural language inference. However, manually designing lots of language prompts is cumbersome and fallible. For those auto-generated prompts, it is also expensive and time-consuming to verify their effectiveness in non-few-shot scenarios. Hence, it is still challenging for prompt tuning to address many-class classification tasks. To this end, we propose prompt tuning with rules (PTR) for many-class text classification and apply logic rules to construct prompts with several sub-prompts. In this way, PTR is able to encode prior knowledge of each class into prompt tuning. We conduct experiments on relation classification, a typical and complicated many-class classification task, and the results show that PTR can significantly and consistently outperform existing state-of-the-art baselines. This indicates that PTR is a promising approach to take advantage of both human prior knowledge and PLMs for those complicated classification tasks.",
+    "DOI": "10.48550/arXiv.2105.11259",
+    "note": "arXiv:2105.11259 [cs]",
+    "number": "arXiv:2105.11259",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "PTR: Prompt Tuning with Rules for Text Classification",
+    "title-short": "PTR",
+    "URL": "http://arxiv.org/abs/2105.11259",
     "author": [
       {
-        "family": "Wang",
-        "given": "Xiaozhi"
+        "family": "Han",
+        "given": "Xu"
       },
       {
-        "family": "Gao",
-        "given": "Tianyu"
+        "family": "Zhao",
+        "given": "Weilin"
       },
       {
-        "family": "Zhu",
-        "given": "Zhaocheng"
-      },
-      {
-        "family": "Zhang",
-        "given": "Zhengyan"
+        "family": "Ding",
+        "given": "Ning"
       },
       {
         "family": "Liu",
         "given": "Zhiyuan"
       },
       {
-        "family": "Li",
-        "given": "Juanzi"
-      },
-      {
-        "family": "Tang",
-        "given": "Jian"
+        "family": "Sun",
+        "given": "Maosong"
       }
     ],
-    "citation-key": "wang2020b",
-    "DOI": "10.48550/arXiv.1911.06136",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2021",
+          9,
+          15
+        ]
+      ]
+    }
+  },
+  {
+    "id": "srinivas2020",
+    "type": "article",
+    "abstract": "We present CURL: Contrastive Unsupervised Representations for Reinforcement Learning. CURL extracts high-level features from raw pixels using contrastive learning and performs off-policy control on top of the extracted features. CURL outperforms prior pixel-based methods, both model-based and model-free, on complex tasks in the DeepMind Control Suite and Atari Games showing 1.9x and 1.2x performance gains at the 100K environment and interaction steps benchmarks respectively. On the DeepMind Control Suite, CURL is the first image-based algorithm to nearly match the sample-efficiency of methods that use state-based features. Our code is open-sourced and available at https://github.com/MishaLaskin/curl.",
+    "DOI": "10.48550/arXiv.2004.04136",
+    "note": "arXiv:2004.04136 [cs, stat]",
+    "number": "arXiv:2004.04136",
+    "publisher": "arXiv",
+    "source": "arXiv.org",
+    "title": "CURL: Contrastive Unsupervised Representations for Reinforcement Learning",
+    "title-short": "CURL",
+    "URL": "http://arxiv.org/abs/2004.04136",
+    "author": [
+      {
+        "family": "Srinivas",
+        "given": "Aravind"
+      },
+      {
+        "family": "Laskin",
+        "given": "Michael"
+      },
+      {
+        "family": "Abbeel",
+        "given": "Pieter"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          11,
+          30
+        ]
+      ]
+    },
     "issued": {
       "date-parts": [
         [
           "2020",
-          11,
-          23
-        ]
-      ]
-    },
-    "number": "arXiv:1911.06136",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation",
-    "title-short": "KEPLER",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/1911.06136"
-  },
-  {
-    "id": "wang2022",
-    "abstract": "Knowledge-enhanced Pre-trained Language Model (PLM) has recently received significant attention, which aims to incorporate factual knowledge into PLMs. However, most existing methods modify the internal structures of fixed types of PLMs by stacking complicated modules, and introduce redundant and irrelevant factual knowledge from knowledge bases (KBs). In this paper, to address these problems, we introduce a seminal knowledge prompting paradigm and further propose a knowledge-prompting-based PLM framework KP-PLM. This framework can be flexibly combined with existing mainstream PLMs. Specifically, we first construct a knowledge sub-graph from KBs for each context. Then we design multiple continuous prompts rules and transform the knowledge sub-graph into natural language prompts. To further leverage the factual knowledge from these prompts, we propose two novel knowledge-aware self-supervised tasks including prompt relevance inspection and masked prompt modeling. Extensive experiments on multiple natural language understanding (NLU) tasks show the superiority of KP-PLM over other state-of-the-art methods in both full-resource and low-resource settings. Our source codes will be released upon the acceptance of the paper.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Wang",
-        "given": "Jianing"
-      },
-      {
-        "family": "Huang",
-        "given": "Wenkang"
-      },
-      {
-        "family": "Qiu",
-        "given": "Minghui"
-      },
-      {
-        "family": "Shi",
-        "given": "Qiuhui"
-      },
-      {
-        "family": "Wang",
-        "given": "Hongbin"
-      },
-      {
-        "family": "Li",
-        "given": "Xiang"
-      },
-      {
-        "family": "Gao",
-        "given": "Ming"
-      }
-    ],
-    "citation-key": "wang2022",
-    "container-title": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
-    "DOI": "10.18653/v1/2022.emnlp-main.207",
-    "editor": [
-      {
-        "family": "Goldberg",
-        "given": "Yoav"
-      },
-      {
-        "family": "Kozareva",
-        "given": "Zornitsa"
-      },
-      {
-        "family": "Zhang",
-        "given": "Yue"
-      }
-    ],
-    "event-place": "Abu Dhabi, United Arab Emirates",
-    "event-title": "EMNLP 2022",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          12
-        ]
-      ]
-    },
-    "page": "3164–3177",
-    "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Abu Dhabi, United Arab Emirates",
-    "source": "ACLWeb",
-    "title": "Knowledge Prompting in Pre-trained Language Model for Natural Language Understanding",
-    "type": "paper-conference",
-    "URL": "https://aclanthology.org/2022.emnlp-main.207"
-  },
-  {
-    "id": "xu2022",
-    "abstract": "Most of today's AI systems focus on using self-attention mechanisms and transformer architectures on large amounts of diverse data to achieve impressive performance gains. In this paper, we propose to augment the transformer architecture with an external attention mechanism to bring external knowledge and context to bear. By integrating external information into the prediction process, we hope to reduce the need for ever-larger models and increase the democratization of AI systems. We find that the proposed external attention mechanism can significantly improve the performance of existing AI systems, allowing practitioners to easily customize foundation AI models to many diverse downstream applications. In particular, we focus on the task of Commonsense Reasoning, demonstrating that the proposed external attention mechanism can augment existing transformer models and significantly improve the model's reasoning capabilities. The proposed system, Knowledgeable External Attention for commonsense Reasoning (KEAR), reaches human parity on the open CommonsenseQA research benchmark with an accuracy of 89.4\\% in comparison to the human accuracy of 88.9\\%.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Xu",
-        "given": "Yichong"
-      },
-      {
-        "family": "Zhu",
-        "given": "Chenguang"
-      },
-      {
-        "family": "Wang",
-        "given": "Shuohang"
-      },
-      {
-        "family": "Sun",
-        "given": "Siqi"
-      },
-      {
-        "family": "Cheng",
-        "given": "Hao"
-      },
-      {
-        "family": "Liu",
-        "given": "Xiaodong"
-      },
-      {
-        "family": "Gao",
-        "given": "Jianfeng"
-      },
-      {
-        "family": "He",
-        "given": "Pengcheng"
-      },
-      {
-        "family": "Zeng",
-        "given": "Michael"
-      },
-      {
-        "family": "Huang",
-        "given": "Xuedong"
-      }
-    ],
-    "citation-key": "xu2022",
-    "DOI": "10.48550/arXiv.2112.03254",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          5,
-          4
-        ]
-      ]
-    },
-    "number": "arXiv:2112.03254",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention",
-    "title-short": "Human Parity on CommonsenseQA",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2112.03254"
-  },
-  {
-    "id": "yao2022",
-    "abstract": "Recent days have witnessed a diverse set of knowledge injection models for pre-trained language models (PTMs); however, most previous studies neglect the PTMs' own ability with quantities of implicit knowledge stored in parameters. A recent study has observed knowledge neurons in the Feed Forward Network (FFN), which are responsible for expressing factual knowledge. In this work, we propose a simple model, Kformer, which takes advantage of the knowledge stored in PTMs and external knowledge via knowledge injection in Transformer FFN layers. Empirically results on two knowledge-intensive tasks, commonsense reasoning (i.e., SocialIQA) and medical question answering (i.e., MedQA-USMLE), demonstrate that Kformer can yield better performance than other knowledge injection technologies such as concatenation or attention-based injection. We think the proposed simple model and empirical findings may be helpful for the community to develop more powerful knowledge injection methods. Code available in https://github.com/zjunlp/Kformer.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Yao",
-        "given": "Yunzhi"
-      },
-      {
-        "family": "Huang",
-        "given": "Shaohan"
-      },
-      {
-        "family": "Dong",
-        "given": "Li"
-      },
-      {
-        "family": "Wei",
-        "given": "Furu"
-      },
-      {
-        "family": "Chen",
-        "given": "Huajun"
-      },
-      {
-        "family": "Zhang",
-        "given": "Ningyu"
-      }
-    ],
-    "citation-key": "yao2022",
-    "DOI": "10.48550/arXiv.2201.05742",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          8,
-          10
-        ]
-      ]
-    },
-    "number": "arXiv:2201.05742",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "Kformer: Knowledge Injection in Transformer Feed-Forward Layers",
-    "title-short": "Kformer",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2201.05742"
-  },
-  {
-    "id": "yu2022",
-    "abstract": "The goal of text-to-text generation is to make machines express like a human in many applications such as conversation, summarization, and translation. It is one of the most important yet challenging tasks in natural language processing (NLP). Various neural encoder-decoder models have been proposed to achieve the goal by learning to map input text to output text. However, the input text alone often provides limited knowledge to generate the desired output, so the performance of text generation is still far from satisfaction in many real-world scenarios. To address this issue, researchers have considered incorporating (i) internal knowledge embedded in the input text and (ii) external knowledge from outside sources such as knowledge base and knowledge graph into the text generation system. This research topic is known as knowledge-enhanced text generation. In this survey, we present a comprehensive review of the research on this topic over the past five years. The main content includes two parts: (i) general methods and architectures for integrating knowledge into text generation; (ii) specific techniques and applications according to different forms of knowledge data. This survey can have broad audiences, researchers and practitioners, in academia and industry.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Yu",
-        "given": "Wenhao"
-      },
-      {
-        "family": "Zhu",
-        "given": "Chenguang"
-      },
-      {
-        "family": "Li",
-        "given": "Zaitang"
-      },
-      {
-        "family": "Hu",
-        "given": "Zhiting"
-      },
-      {
-        "family": "Wang",
-        "given": "Qingyun"
-      },
-      {
-        "family": "Ji",
-        "given": "Heng"
-      },
-      {
-        "family": "Jiang",
-        "given": "Meng"
-      }
-    ],
-    "citation-key": "yu2022",
-    "container-title": "ACM Computing Surveys",
-    "container-title-short": "ACM Comput. Surv.",
-    "DOI": "10.1145/3512467",
-    "ISSN": "0360-0300",
-    "issue": "11s",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          11,
-          10
-        ]
-      ]
-    },
-    "page": "227:1–227:38",
-    "source": "ACM Digital Library",
-    "title": "A Survey of Knowledge-enhanced Text Generation",
-    "type": "article-journal",
-    "URL": "https://doi.org/10.1145/3512467",
-    "volume": "54"
-  },
-  {
-    "id": "zhang2022",
-    "abstract": "Knowledge-Enhanced Pre-trained Language Models (KEPLMs) are pre-trained models with relation triples injecting from knowledge graphs to improve language understanding abilities. To guarantee effective knowledge injection, previous studies integrate models with knowledge encoders for representing knowledge retrieved from knowledge graphs. The operations for knowledge retrieval and encoding bring significant computational burdens, restricting the usage of such models in real-world applications that require high inference speed. In this paper, we propose a novel KEPLM named DKPLM that Decomposes Knowledge injection process of the Pre-trained Language Models in pre-training, fine-tuning and inference stages, which facilitates the applications of KEPLMs in real-world scenarios. Specifically, we first detect knowledge-aware long-tail entities as the target for knowledge injection, enhancing the KEPLMs' semantic understanding abilities and avoiding injecting redundant information. The embeddings of long-tail entities are replaced by \"pseudo token representations\" formed by relevant knowledge triples. We further design the relational knowledge decoding task for pre-training to force the models to truly understand the injected knowledge by relation triple reconstruction. Experiments show that our model outperforms other KEPLMs significantly over zero-shot knowledge probing tasks and multiple knowledge-aware language understanding tasks. We further show that DKPLM has a higher inference speed than other competing models due to the decomposing mechanism.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Zhang",
-        "given": "Taolin"
-      },
-      {
-        "family": "Wang",
-        "given": "Chengyu"
-      },
-      {
-        "family": "Hu",
-        "given": "Nan"
-      },
-      {
-        "family": "Qiu",
-        "given": "Minghui"
-      },
-      {
-        "family": "Tang",
-        "given": "Chengguang"
-      },
-      {
-        "family": "He",
-        "given": "Xiaofeng"
-      },
-      {
-        "family": "Huang",
-        "given": "Jun"
-      }
-    ],
-    "citation-key": "zhang2022",
-    "DOI": "10.48550/arXiv.2112.01047",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          10,
-          15
-        ]
-      ]
-    },
-    "number": "arXiv:2112.01047",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "DKPLM: Decomposable Knowledge-enhanced Pre-trained Language Model for Natural Language Understanding",
-    "title-short": "DKPLM",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2112.01047"
-  },
-  {
-    "id": "zhang2022a",
-    "abstract": "Answering complex questions about textual narratives requires reasoning over both stated context and the world knowledge that underlies it. However, pretrained language models (LM), the foundation of most modern QA systems, do not robustly represent latent relationships between concepts, which is necessary for reasoning. While knowledge graphs (KG) are often used to augment LMs with structured representations of world knowledge, it remains an open question how to effectively fuse and reason over the KG representations and the language context, which provides situational constraints and nuances. In this work, we propose GreaseLM, a new model that fuses encoded representations from pretrained LMs and graph neural networks over multiple layers of modality interaction operations. Information from both modalities propagates to the other, allowing language context representations to be grounded by structured world knowledge, and allowing linguistic nuances (e.g., negation, hedging) in the context to inform the graph representations of knowledge. Our results on three benchmarks in the commonsense reasoning (i.e., CommonsenseQA, OpenbookQA) and medical question answering (i.e., MedQA-USMLE) domains demonstrate that GreaseLM can more reliably answer questions that require reasoning over both situational constraints and structured knowledge, even outperforming models 8x larger.",
-    "accessed": {
-      "date-parts": [
-        [
-          "2023",
-          11,
-          30
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Zhang",
-        "given": "Xikun"
-      },
-      {
-        "family": "Bosselut",
-        "given": "Antoine"
-      },
-      {
-        "family": "Yasunaga",
-        "given": "Michihiro"
-      },
-      {
-        "family": "Ren",
-        "given": "Hongyu"
-      },
-      {
-        "family": "Liang",
-        "given": "Percy"
-      },
-      {
-        "family": "Manning",
-        "given": "Christopher D."
-      },
-      {
-        "family": "Leskovec",
-        "given": "Jure"
-      }
-    ],
-    "citation-key": "zhang2022a",
-    "DOI": "10.48550/arXiv.2201.08860",
-    "issued": {
-      "date-parts": [
-        [
-          "2022",
-          1,
+          9,
           21
         ]
       ]
-    },
-    "number": "arXiv:2201.08860",
-    "publisher": "arXiv",
-    "source": "arXiv.org",
-    "title": "GreaseLM: Graph REASoning Enhanced Language Models for Question Answering",
-    "title-short": "GreaseLM",
-    "type": "article",
-    "URL": "http://arxiv.org/abs/2201.08860"
+    }
   },
   {
     "id": "anastasi1986",
