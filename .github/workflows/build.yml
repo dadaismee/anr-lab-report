@@ -32,7 +32,7 @@ jobs:
           --toc \
           --toc-depth=2 \
           --filter=pandoc-crossref \
-          --csl=service/gost.csl \
+          --csl=service/gost_n.csl \
           --bibliography=service/report.json \
           --metadata-file=text/000_metadata.md \
           --number-sections \
