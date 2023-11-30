@@ -37,7 +37,8 @@ jobs:
           --metadata-file=text/000_metadata.md \
           --number-sections \
           --citeproc \
-          --output=report.pdf text/*.md
+          --reference-doc=service/style-sheet.docx
+          --output=report.docx text/*.md
       - run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
