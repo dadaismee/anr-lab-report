@@ -25,7 +25,7 @@ jobs:
 
           # Delete bibilography entry duplicates 
           
-          csl_file="/report.json"
+          csl_file="report.json"
           if [ ! -f "$csl_file" ]; then
               echo "Error: CSL JSON file not found."
               exit 1
