@@ -22,16 +22,6 @@ jobs:
         run: | 
           cd service
           jq -s 'add' *.json > report.json
-
-          # Delete bibliography entry duplicates 
-          csl_file="report.json"
-          cp "$csl_file" "$csl_file.bak"
-          unique_entries=$(jq -cs 'unique' "$csl_file")
-          if [ "$(jq -s 'length' <<< "$unique_entries")" -eq "$(jq -s 'length' < "$csl_file")" ]; then
-              echo "No duplicates found. Exiting."
-              exit 0
-          fi
-          echo "$unique_entries" > "$csl_file"
       
       - name: Compile
         run: |
