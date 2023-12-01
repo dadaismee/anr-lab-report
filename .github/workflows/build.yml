@@ -22,6 +22,21 @@ jobs:
         run: | 
           cd service
           jq -s 'add' *.json > report.json
+
+          # Delete bibilography entry duplicates 
+          
+          csl_file="/report.json"
+          if [ ! -f "$csl_file" ]; then
+              echo "Error: CSL JSON file not found."
+              exit 1
+          fi
+          unique_entries=$(jq -s 'unique_by(.id)' "$csl_file")
+          if [ "$(jq -s 'length' <<< "$unique_entries")" -eq "$(jq -s 'length' < "$csl_file")" ]; then
+              echo "No duplicates found. Exiting."
+              exit 0
+          fi
+          cp "$csl_file" "$csl_file.bak"
+          echo "$unique_entries" > "$csl_file"
       
       - name: Compile
         run: |
