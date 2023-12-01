@@ -23,12 +23,14 @@ jobs:
           cd service
           jq -s 'add' *.json > report.json
 
-          # Delete bibilography entry duplicates 
-          
+          tr -cd '\11\12\15\40-\176' < report.json > sanitized_report.json
+          mv sanitized_report.json report.json
+
+          # Delete bibliography entry duplicates 
           csl_file="report.json"
           cp "$csl_file" "$csl_file.bak"
           unique_entries=$(jq -cs 'unique' "$csl_file")
-          if [ "$(echo "$unique_entries" | jq -s 'length')" -eq "$(jq -s 'length' < "$csl_file")" ]; then
+          if [ "$(jq -s 'length' <<< "$unique_entries")" -eq "$(jq -s 'length' < "$csl_file")" ]; then
               echo "No duplicates found. Exiting."
               exit 0
           fi
